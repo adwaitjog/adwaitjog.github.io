@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-"""jemdoc version 0.7.1, 2011-06-14."""
+"""jemdoc version 0.7.3, 2012-11-27."""
 
-# Copyright (C) 2007-2011 Jacob Mattingley (jacobm@stanford.edu).
+# Copyright (C) 2007-2012 Jacob Mattingley (jacobm@stanford.edu).
 #
 # This file is part of jemdoc.
 #
@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Best Viewed in Google Chrome (version 24 or above), Last Updated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
@@ -335,12 +335,27 @@ def insertmenuitems(f, mname, current, prefix):
 
       # replace spaces with nbsps.
       # do do this, even though css would make it work - ie ignores.
-      menuitem = re.sub(r'(?<!\\n) +', '~', r.group(1))
+      # only replace spaces that aren't in {{ blocks.
+      in_quote = False
+      menuitem = ""
+      for group in re.split(r'({{|}})', r.group(1)):
+        if in_quote:
+          if group == '}}':
+            in_quote = False
+            next
+          else:
+            menuitem += group
+        else:
+          if group == '{{':
+            in_quote = True
+            next
+          else:
+            menuitem += br(re.sub(r'(?<!\\n) +', '~', group), f)
 
-      if r.group(2) == current: 
-        hb(f.outf, f.conf['currentmenuitem'], link, br(menuitem, f))
+      if link[-len(current):] == current:
+        hb(f.outf, f.conf['currentmenuitem'], link, menuitem)
       else:
-        hb(f.outf, f.conf['menuitem'], link, br(menuitem, f))
+        hb(f.outf, f.conf['menuitem'], link, menuitem)
 
     else: # menu category.
       hb(f.outf, f.conf['menucategory'], br(l, f))
@@ -1327,16 +1342,18 @@ def procfile(f):
         break
 
       s = nl(f)
-      # Quickly pull out the equation here.
-      while True:
-        l = nl(f, codemode=True)
-        if not l:
-          break
-        s += l
-        if l.strip() == '\)':
-          break
+      # Quickly pull out the equation here:
+      # Check we don't already have the terminating character in a whole-line
+      # equation without linebreaks, eg \( Ax=b \):
+      if not s.strip().endswith('\)'):
+        while True:
+          l = nl(f, codemode=True)
+          if not l:
+            break
+          s += l
+          if l.strip() == '\)':
+            break
       out(f.outf, br(s.strip(), f))
-
 
     # look for lists.
     elif p == '-':
