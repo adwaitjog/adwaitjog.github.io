@@ -1,0 +1,4 @@
+
+git add --all
+git remote add origin https://github.com/adwaitjog/adwaitjog.github.io.git
+git push -u origin master

@@ -1,0 +1,162 @@
+= Welcome to Adwait Jog's Homepage
+
+== 
+~~~
+{}{img_left}{adwait-new.JPG}{}{195}{225}{}
+Adwait Jog \n
+Ph.D. Candidate \n
+111 N IST Building, [http://www.cse.psu.edu Department of Computer Science and Engineering] \n
+[http://www.psu.edu Penn State University, University Park], PA, 16802 \n 
+
+{{<img src="email_icon.jpg"/ ALIGN=TOP>}} /adwait@cse.psu.edu/ \n
+\n 
+*\<span style=\"color: red\"\>(New!)\<\/span\>* Paper accepted in [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ GPGPU 2014], co-located with [http://www.cs.utah.edu/asplos14/index.html ASPLOS 2014] \n 
+*\<span style=\"color: red\"\>(New!)\<\/span\>* Papers accepted in [http://isca2013.eew.technion.ac.il/ ISCA 2013], [http://asplos13.rice.edu/ ASPLOS 2013], and [http://www.pactconf.org/ PACT 2013] \n
+*\<span style=\"color: white\"\>(New!)\<\/span\>* [phdfootprint.html ...More News]\n
+~~~
+
+#~~~
+#*\<span style=\"color: red\"\>(New!)\<\/span\>* NVIDIA Graduate Fellowship Finalist, 2013 [http://www.cse.psu.edu/news/2013/20130509-1 (Penn State CSE News)]\n
+#- *\<span style=\"color: red\"\>(New!)\<\/span\>* Paper accepted in [http://www.pactconf.org/ PACT 2013] 
+#- [phdfootprint.html ...More News]
+#~~~
+
+== About Me
+I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I work 
+with my advisor [http://www.cse.psu.edu/people/das Chita Das].
+I also collaborate with [http://www.cse.psu.edu/~kandemir Mahmut Kandemir], [http://www.cse.psu.edu/~vijay Vijaykrishnan Narayanan], 
+and [http://www.cse.psu.edu/~yuanxie Yuan Xie] at Penn State, 
+[http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravishankar Iyer] 
+at Intel Labs, and [http://www.ece.cmu.edu/~omutlu Onur Mutlu] at CMU. 
+I was associated as an intern with NVIDIA Research in the summer of 2013, 
+Intel Labs in the summer of 2012, and Intel Corp. in the summer of 2011. 
+Before joining Penn State in Fall 2009, I completed my undergraduate studies from 
+[http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
+
+== Research
+My research interests lie broadly in the area of computer architecture. Primarily,
+I work in the area of Graphics Processing Units (GPUs). I am also interested in 
+CPU+GPU heterogeneous architectures, emerging memory technologies, and their 
+applicability in future computing systems. /Latest/ material related to my 
+research is available on this webpage. Also, here is my 
+[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile].
+
+/Proposed Thesis:/ \n
+/Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
+Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel Labs)] \n
+
+== Publications 
+*\<span style=\"color: forestgreen\"\>(GPGPU@ASPLOS 2014)\<\/span\>* 
+\[[docs/app-aware-memory-GPGPU7-2014.pdf PDF]]
+\[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]]
+\[[docs/app-aware-memory-GPGPU7-2014-bib.bib BibTeX]]  
+\[[http://dl.acm.org/citation.cfm?doid=2576779.2576780 ACM DOI]] \n 
+*Adwait Jog*, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita Das, \n
+[docs/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
+In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
+Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
+
+*\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>*
+\[[docs/NMNL-PACT-2013.pdf PDF]]
+\[[docs/NMNL-PACT-2013-Slides.pptx Talk (PPTX)]]
+\[[docs/NMNL-PACT-2013-bib.bib BibTeX]] \n 
+*\<span style=\"color: red\"\>Best Paper Nomination:\<\/span\>* /One of the four papers nominated for the Best Paper Award./\n
+Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
+[docs/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
+In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
+
+*\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* 
+\[[docs/OSP-ISCA-2013.pdf PDF]]
+\[[docs/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]]
+\[[docs/OSP-ISCA-2013-bib.bib BibTeX]] \n 
+*Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n 
+[docs/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
+In the Proceedings of 40th International Symposium on Computer Architecture (ISCA), Tel Aviv, Israel, June 2013 \n 
+
+*\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
+\[[docs/OWL-ASPLOS-2013.pdf PDF]]  
+\[[docs/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
+\[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] 
+\[[docs/OWL-ASPLOS-2013-bib.bib BibTeX]] \n 
+*Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
+[docs/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
+In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
+
+*\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* 
+\[[http://dl.acm.org/authorize?6778674 PDF]]
+\[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]]
+\[[docs/Revive-DAC-Poster-2012.pdf Poster]]
+\[[docs/Revive-DAC-2012-bib.bib BibTeX]]\n
+*Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
+[http://dl.acm.org/authorize?6778674 /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
+In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA, June 2012 \n
+
+== Talks and Poster Sessions
+[http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
+\[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]] \n
+/Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/
+
+[http://isca2013.eew.technion.ac.il/ (ISCA 2013)], Tel Aviv, Israel 
+\[[docs/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]] \n
+/Orchestrated Scheduling and Prefetching for GPGPUs/ 
+
+[http://asplos13.rice.edu/ (ASPLOS 2013)], Houston, TX 
+\[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
+/OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/
+
+([http://www.dac.com/dac+2012.aspx DAC 2012], San Francisco, CA) and ([http://nexyscenter.org/index.html IUCRC NEXYS Workshop], Pittsburgh, PA) 
+\[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]] 
+\[[docs/Revive-DAC-Poster-2012.pdf Poster]] \n
+/Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/
+
+== Teaching
+Co-Instructor, Computer Organization and Design (Spring 2014, CMPEN 331) \n
+Teaching Assistant, Introduction to Computer Architecture (Spring 2010, CMPEN 431) \n
+Teaching Assistant, [http://www.cse.psu.edu/~kyusun/class/cse471/09f/syllabus.html Logic Design of Digital Systems] (Fall 2009, CMPEN 471)
+
+== Software and Downloads
+*Mars on GPGPU-Sim*\n
+[http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some
+applications that can take advantage of CUDA enabled GPU. More details can be viewed [http://www.cse.ust.hk/catalac/papers/mars_pact08.pdf here]. 
+I decided to run these applications on [http://www.gpgpu-sim.org/ GPGPU-Sim], a publicly available GPU Simulator.
+The tarball to help you get started can be found [software/Mars_GPGPUSim.tar.gz here]. Some of these applications
+are used to evaluate the proposed schemes in our ASPLOS-2013 paper. If you find this tarball useful, please cite our
+ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.bib BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
+
+== Technical Reports
+Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
+[http://www.cse.psu.edu/research/publications/tech-reports/2012/CSE_Tech_Report-12_006.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n 
+TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
+
+*Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
+[http://www.cse.psu.edu/research/publications/tech-reports/2011/CSE-11-010.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
+TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
+
+== Service and Memberships
+/Independent Reviewer/:
+- *2014* (TC, CAL)
+- *2013* (HPCA, DAC, TECS, TODAES) 
+- *2012* (MICRO, CAL) 
+ 
+/On-Behalf Reviewer/:
+- *2014* (ASPLOS, ISCA, HPCA, DATE, DAC, PACT)
+- *2013* (ISCA, PACT, ICCAD, ICCD) 
+- *2012* (ISCA, HPCA, DAC, TACO)
+
+/Student Member of ACM, IEEE, ACM SIGARCH/
+
+#== Misc
+#Although my native place is in western part of India ([http://en.wikipedia.org/wiki/Maharashtra Maharashtra]), 
+#I am born and brought up in central part of India ([http://en.wikipedia.org/wiki/Madhya_Pradesh Madhya Pradesh]). 
+#I have also spent significant number of years in eastern part of India ([http://en.wikipedia.org/wiki/Odisha Odisha]). \n
+#I love communicating in different languages and because of my stay in various states, 
+#I know Marathi (native language), Hindi (national language), English (working language), 
+#Oriya (official language of Odisha), and also German (passed Grundstufe-I). Currently, 
+#I am learning other languages from my labmates (Tamil from [http://www.cse.psu.edu/~nzc5047/ Nachi], 
+#Turkish from [https://sites.google.com/site/okayiran/home Onur Kayiran], 
+#and Persian from [http://www.cse.psu.edu/people/mis5413/ Mahshid]). 
+
+== Links
+[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Entry] \n
+[http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html DBLP Entry] \n
+[http://docs.notur.no/uit/stallo_documentation/faq/how-can-i-kill-all-my-jobs PBS Useful Tricks] \n
