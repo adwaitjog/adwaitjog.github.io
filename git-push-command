@@ -1,4 +1,5 @@
 
+jemdoc -c mysite.conf index.jemdoc
 git add --all
 git commit -m "new website"
 git remote add origin https://github.com/adwaitjog/adwaitjog.github.io.git
