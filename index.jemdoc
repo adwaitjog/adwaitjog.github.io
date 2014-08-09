@@ -8,7 +8,7 @@ Ph.D. Candidate \n
 111 N IST Building, [http://www.cse.psu.edu Department of Computer Science and Engineering] \n
 [http://www.psu.edu Penn State University, University Park], PA, 16802 \n 
 
-{{<img src="email_icon.jpg"/ ALIGN=TOP>}} /adwait@cse.psu.edu/ \n
+{{<img src="email_icon.jpg"/ ALIGN=TOP>}} /adwait@cse.psu.edu/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
 \n 
 *\<span style=\"color: red\"\>(New!)\<\/span\>* Graduate Research Assistant Award, [https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News] \n 
 *\<span style=\"color: red\"\>(New!)\<\/span\>* Paper accepted in [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ GPGPU 2014], co-located with [http://www.cs.utah.edu/asplos14/index.html ASPLOS 2014] \n 
@@ -38,9 +38,8 @@ Before joining Penn State in Fall 2009, I completed my undergraduate studies fro
 My research interests lie broadly in the area of computer architecture. Primarily,
 I work in the area of Graphics Processing Units (GPUs). I am also interested in 
 CPU+GPU heterogeneous architectures, emerging memory technologies, and their 
-applicability in future computing systems. /Latest/ material related to my 
-research is available on this webpage. Also, here is my 
-[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile].
+applicability in future computing systems. /Local/ copies of my publications 
+and other material related to my research is available on this webpage. 
 
 /Proposed Thesis:/ \n
 /Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
