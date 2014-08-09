@@ -47,7 +47,9 @@ research is available on this webpage. Also, here is my
 Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel Labs)] \n
 
 == Publications 
-*\<span style=\"color: forestgreen\"\>(PACT 2014, to appear)\<\/span\>* \n
+*\<span style=\"color: forestgreen\"\>(PACT 2014, to appear)\<\/span\>* 
+\[[docs/TradeCM-PACT-2014.pdf PDF]] 
+\[[docs/TradeCM-PACT-2014-bib.txt BibTeX]] \n 
 Wei Ding, Mahmut Kandemir, Diana Guttman, *Adwait Jog*, Chita Das, Praveen Yedlapalli, \n
 /Trading Cache Hit Rate for Memory Performance/, \n
 In the Proceedings of 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edmonton, Alberta, Canada, August 2014 \n

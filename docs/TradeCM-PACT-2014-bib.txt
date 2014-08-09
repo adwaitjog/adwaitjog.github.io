@@ -1,0 +1,7 @@
+
+@inproceedings{tradecm-pact14,
+  author    = {Wei Ding, Mahmut Kandemir, Diana Guttman, Adwait Jog, Chita Das, Praveen Yedlapalli},
+  title     = {{Trading Cache Hit Rate for Memory Performance}},
+  booktitle = {PACT},
+  year      = {2014},
+}
