@@ -8,8 +8,9 @@ Ph.D. Candidate \n
 111 N IST Building, [http://www.cse.psu.edu Department of Computer Science and Engineering] \n
 [http://www.psu.edu Penn State University, University Park], PA, 16802 \n 
 
-{{<img src="email_icon.jpg"/ ALIGN=TOP>}} /adwait@cse.psu.edu/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
+{{<img src="email_icon.jpg"/ ALIGN=TOP>}} /adwait@cse.psu.edu/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile], [https://www.linkedin.com/in/adwaitjog LinkedIn Profile] \n
 \n 
+*\<span style=\"color: red\"\>(New!)\<\/span\>* Paper accepted in [http://www.microarch.org/micro47/ MICRO-2014] \n 
 *\<span style=\"color: red\"\>(New!)\<\/span\>* Graduate Research Assistant Award, [https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News] \n 
 *\<span style=\"color: red\"\>(New!)\<\/span\>* Paper accepted in [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ GPGPU 2014], co-located with [http://www.cs.utah.edu/asplos14/index.html ASPLOS 2014] \n 
 *\<span style=\"color: red\"\>(New!)\<\/span\>* Papers accepted in [http://isca2013.eew.technion.ac.il/ ISCA 2013], [http://asplos13.rice.edu/ ASPLOS 2013], and [http://www.pactconf.org/ PACT 2013] \n
@@ -46,6 +47,12 @@ and other material related to my research is available on this webpage.
 Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel Labs)] \n
 
 == Publications 
+*\<span style=\"color: forestgreen\"\>(MICRO 2014, to appear)\<\/span\>* 
+\n
+Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das \n 
+/Managing Concurrency in Heterogeneous Architectures/, \n
+In the Proceedings of 47th International Symposium on Micro Architecture (MICRO), Cambridge, UK, December 2014 \n
+
 *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* 
 \[[docs/TradeCM-PACT-2014.pdf PDF]] 
 \[[docs/TradeCM-PACT-2014-bib.txt BibTeX]] \n 
@@ -117,6 +124,7 @@ In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA
 /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/
 
 == Teaching
+Co-Instructor, Computer Organization and Design (Fall 2014, CMPEN 331) \n
 Co-Instructor, Computer Organization and Design (Spring 2014, CMPEN 331) \n
 Teaching Assistant, Introduction to Computer Architecture (Spring 2010, CMPEN 431) \n
 Teaching Assistant, [http://www.cse.psu.edu/~kyusun/class/cse471/09f/syllabus.html Logic Design of Digital Systems] (Fall 2009, CMPEN 471)
@@ -128,7 +136,7 @@ applications that can take advantage of CUDA enabled GPU. More details can be vi
 I decided to run these applications on [http://www.gpgpu-sim.org/ GPGPU-Sim], a publicly available GPU Simulator.
 The tarball to help you get started can be found [software/Mars_GPGPUSim.tar.gz here]. Some of these applications
 are used to evaluate the proposed schemes in our ASPLOS-2013 paper. If you find this tarball useful, please cite our
-ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.bib BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
+ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.txt BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
 
 == Technical Reports
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
@@ -157,7 +165,8 @@ TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 /Student Member of ACM, IEEE, ACM SIGARCH/
 
 == Links
-[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar] \n
+[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
+[https://www.linkedin.com/in/adwaitjog LinkedIn Profile] \n
 [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html DBLP Entry] \n
 [http://docs.notur.no/uit/stallo_documentation/faq/how-can-i-kill-all-my-jobs PBS Useful Tricks] \n
 [http://nachi.quora.com/How-to-delete-a-range-subset-of-PBS-jobs-from-queue More PBS Tricks] (Credits: [http://www.cse.psu.edu/~oik5019 Onur] and [http://www.cse.psu.edu/~nzc5047 Nachi]) \n
