@@ -29,6 +29,16 @@
       </div>
     </div><!-- /.container -->
 ~~~
+~~~
+{}{raw}
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+          </div>
+        </div><!-- /.blog-sidebar -->
+~~~
+
 == 
 ~~~
 {}{img_left}{adwait-new.JPG}{}{195}{225}{}
@@ -200,12 +210,3 @@ TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 [http://docs.notur.no/uit/stallo_documentation/faq/how-can-i-kill-all-my-jobs PBS Useful Tricks] \n
 [http://nachi.quora.com/How-to-delete-a-range-subset-of-PBS-jobs-from-queue More PBS Tricks] (Credits: [http://www.cse.psu.edu/~oik5019 Onur] and [http://www.cse.psu.edu/~nzc5047 Nachi]) \n
 
-~~~
-{}{raw}
-        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-          <div class="sidebar-module sidebar-module-inset">
-            <h4>About</h4>
-            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-          </div>
-        </div><!-- /.blog-sidebar -->
-~~~
