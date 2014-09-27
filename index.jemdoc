@@ -1,6 +1,6 @@
 #jemdoc: nodefaultcss, fwtitle, menu{MENU}{index.html}, addcss{bootstrap/css/bootstrap.css}
 # jemdoc: nodefaultcss, addcss{bootstrap/css/bootstrap.css}
-= Welcome to Adwait Jog's Homepage
+#= Welcome to Adwait Jog's Homepage
 
 ~~~
 {}{raw}
@@ -18,7 +18,7 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="">Welcome</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
