@@ -106,6 +106,7 @@ h6, .h6 {
 /* Sidebar modules for boxing content */
 .sidebar-module {
    padding: 15px;
+   float: right
    text-align: right;
    width: 300px;
 }
