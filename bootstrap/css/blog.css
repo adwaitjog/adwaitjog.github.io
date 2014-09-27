@@ -105,8 +105,10 @@ h6, .h6 {
 
 /* Sidebar modules for boxing content */
 .sidebar-module {
-  padding: 15px;
-  margin: 0;
+   padding: 15px;
+   position: absolute;
+   right: 0px;
+   width: 300px;
 }
 .sidebar-module-inset {
   padding: 15px;
