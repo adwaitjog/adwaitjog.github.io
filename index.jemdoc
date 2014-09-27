@@ -51,8 +51,7 @@ Ph.D. Candidate \n
 - [phdfootprint.html ...More News]
 ~~~
 
-{{<a id="About"></a>}} 
-== About Me
+{{<a name="About"></a>}} == About Me
 I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I work 
 with my advisor [http://www.cse.psu.edu/people/das Chita Das].
 I also collaborate with [http://www.cse.psu.edu/~kandemir Mahmut Kandemir], [http://www.cse.psu.edu/~vijay Vijaykrishnan Narayanan], 
