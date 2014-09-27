@@ -33,7 +33,7 @@
 = Welcome to Adwait's Homepage 
 
 ~~~
-{}{img_left}{adwait-new.JPG}{Adwait Jog}{150}{150}{}
+{}{img_left}{adwait-new.JPG}{Adwait Jog}{195}{225}{}
 Adwait Jog \n
 Ph.D. Candidate \n
 111 N IST Building, [http://www.cse.psu.edu Department of Computer Science and Engineering] \n
@@ -44,7 +44,7 @@ Ph.D. Candidate \n
 
 ~~~
 *NEWS*\n
-Paper accepted in [http://www.microarch.org/micro47/ MICRO-2014] \n
+*\<span style=\"color: black\"\>(-)\<\/span\>* Paper accepted in [http://www.microarch.org/micro47/ MICRO-2014] \n
 Graduate Research Assistant Award, [https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News] \n
 Paper accepted in [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ GPGPU 2014], co-located with [http://www.cs.utah.edu/asplos14/index.html ASPLOS 2014] \n
 Papers accepted in [http://isca2013.eew.technion.ac.il/ ISCA 2013], [http://asplos13.rice.edu/ ASPLOS 2013], and [http://www.pactconf.org/ PACT 2013] \n
