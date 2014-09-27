@@ -1,4 +1,4 @@
-# jemdoc: nodefaultcss, menu{MENU}{index.html}, addcss{bootstrap/css/bootstrap.css}
+# jemdoc: nodefaultcss, fwtitle, menu{MENU}{index.html}, addcss{bootstrap/css/bootstrap.css}
 = Welcome to Adwait Jog's Homepage
 
 == 
