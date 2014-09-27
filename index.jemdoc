@@ -1,6 +1,5 @@
 #jemdoc: nodefaultcss, fwtitle, menu{MENU}{index.html}, addcss{bootstrap/css/bootstrap.css}
 # jemdoc: nodefaultcss, addcss{bootstrap/css/bootstrap.css}
-#= Welcome to Adwait Jog's Homepage
 
 ~~~
 {}{raw}
@@ -25,6 +24,8 @@
       </div>
     </div>
 ~~~
+
+= Welcome to Adwait Jog's Homepage
 
 == 
 ~~~
