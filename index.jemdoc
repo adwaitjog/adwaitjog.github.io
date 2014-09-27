@@ -1,3 +1,4 @@
+# jemdoc: addcss{CSSSHEET}
 
 = Welcome to Adwait Jog's Homepage
 
@@ -26,8 +27,6 @@ Ph.D. Candidate \n
 
 ~~~
 {}{raw}
-    <!-- Bootstrap theme -->
-    <link href="../../dist/css/bootstrap-theme.min.css" rel="stylesheet">
 <span class="label label-default">Default</span>
 ~~~
 
