@@ -12,10 +12,14 @@ html {
 }
 body {
   /* margin: 0; */
-  margin-bottom:0;
-  margin-left:auto;
-  margin-right:auto;
-  width:825px;
+	background-color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	margin-bottom:0;
+	color:#333;
+	margin-left:auto;
+	margin-right:auto;
+	width:825px;
 }
 
 article,
