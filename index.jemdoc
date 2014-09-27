@@ -19,8 +19,10 @@
             <li class="active"><a href="#Research">Research</a></li>
             <li class="active"><a href="#Publications">Publications</a></li>
             <li class="active"><a href="#Talks">Talks</a></li>
+            <li class="active"><a href="#Teaching">Teaching</a></li>
             <li class="active"><a href="#Software">Software</a></li>
-            <li class="active"><a href="#Misc">Misc</a></li>
+            <li class="active"><a href="#Service">Service</a></li>
+            <li class="active"><a href="#Misc">Misc.</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -44,10 +46,10 @@ Ph.D. Candidate \n
 
 ~~~
 *News*\n
-- *Paper accepted in [http://www.microarch.org/micro47/ MICRO-2014]* \n
-- Graduate Research Assistant Award, [https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News] \n
-- Paper accepted in [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ GPGPU 2014], co-located with [http://www.cs.utah.edu/asplos14/index.html ASPLOS 2014] \n
-- Papers accepted in [http://isca2013.eew.technion.ac.il/ ISCA 2013], [http://asplos13.rice.edu/ ASPLOS 2013], and [http://www.pactconf.org/ PACT 2013] \n
+- Paper accepted in [http://www.microarch.org/micro47/ MICRO-2014] 
+- Graduate Research Assistant Award, [https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News] 
+- Paper accepted in [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ GPGPU 2014], co-located with [http://www.cs.utah.edu/asplos14/index.html ASPLOS 2014]
+- Papers accepted in [http://isca2013.eew.technion.ac.il/ ISCA 2013], [http://asplos13.rice.edu/ ASPLOS 2013], and [http://www.pactconf.org/ PACT 2013] 
 - [phdfootprint.html ...More News]
 ~~~
 
