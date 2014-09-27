@@ -10,6 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+
 body {
   /* margin: 0; 
 	background-color:#FFFFFF;
@@ -23,8 +24,8 @@ body {
 }
 
 .starter-template {
-  padding: 20px 5px;
-  text-align: center;
+  padding: 25px 5px;
+  text-align: left;
 }
 
 article,
@@ -910,7 +911,7 @@ html {
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 19px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
