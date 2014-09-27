@@ -23,6 +23,11 @@ Ph.D. Candidate \n
 #- [phdfootprint.html ...More News]
 #~~~
 
+~~~
+{}{raw}
+(TEST) Any text here will be copied straight to the output file without processing.
+~~~
+
 == About Me
 I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I work 
 with my advisor [http://www.cse.psu.edu/people/das Chita Das].
