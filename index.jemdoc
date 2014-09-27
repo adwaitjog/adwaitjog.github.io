@@ -11,13 +11,16 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#About">About</a>
+          <a class="navbar-brand" href="#">Welcome</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#"></a></li>
-            <li><a href="#"></a></li>
+            <li class="active"><a href="#About">About</a></li>
+            <li><a href="#Research">Research</a></li>
+            <li><a href="#Publications">Publications</a></li>
+            <li><a href="#Talks">Talks</a></li>
+            <li><a href="#Software">Software</a></li>
+            <li><a href="#Misc">Misc</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -61,6 +64,7 @@ Intel Labs in the summer of 2012, and Intel Corp. in the summer of 2011.
 Before joining Penn State in Fall 2009, I completed my undergraduate studies from 
 [http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
 
+{{<a name="Research"></a>}} 
 == Research
 My research interests lie broadly in the area of computer architecture. Primarily,
 I work in the area of Graphics Processing Units (GPUs). I am also interested in 
@@ -72,6 +76,7 @@ and other material related to my research is available on this webpage.
 /Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
 Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel Labs)] \n
 
+{{<a name="Publications"></a>}} 
 == Publications 
 *\<span style=\"color: forestgreen\"\>(MICRO 2014, to appear)\<\/span\>* 
 \n
@@ -131,6 +136,7 @@ In the Proceedings of 18th International Conference on Architectural Support for
 [http://dl.acm.org/authorize?6778674 /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
 In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA, June 2012 \n
 
+{{<a name="Talks"></a>}} 
 == Talks and Poster Sessions
 [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
 \[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]] \n
@@ -155,6 +161,7 @@ Co-Instructor, Computer Organization and Design (Spring 2014, CMPEN 331) \n
 Teaching Assistant, Introduction to Computer Architecture (Spring 2010, CMPEN 431) \n
 Teaching Assistant, [http://www.cse.psu.edu/~kyusun/class/cse471/09f/syllabus.html Logic Design of Digital Systems] (Fall 2009, CMPEN 471)
 
+{{<a name="Software"></a>}} 
 == Software and Downloads
 *Mars on GPGPU-Sim*\n
 [http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some
@@ -190,6 +197,7 @@ TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 
 /Student Member of ACM, IEEE, ACM SIGARCH/
 
+{{<a name="Misc"></a>}} 
 == Links
 [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
 [https://www.linkedin.com/in/adwaitjog LinkedIn Profile] \n
