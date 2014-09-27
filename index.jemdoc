@@ -1,5 +1,5 @@
 #jemdoc: nodefaultcss, fwtitle, menu{MENU}{index.html}, addcss{bootstrap/css/bootstrap.css}, addcss{bootstrap/css/blog.css}
-# jemdoc: nodefaultcss, addcss{bootstrap/css/blog.css}, addcss{bootstrap/css/bootstrap.css}
+# jemdoc: nodefaultcss, addcss{bootstrap/css/jemdoc.css}, addcss{bootstrap/css/bootstrap.css}
 
 ~~~
 {}{raw}
