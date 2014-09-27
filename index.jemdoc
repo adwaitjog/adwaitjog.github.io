@@ -1,5 +1,4 @@
 # jemdoc: addcss{bootstrap/css/bootstrap.css}
-= Welcome to Adwait's Homepage 
 
 ~~~
 {}{raw}
@@ -23,8 +22,15 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
+
+
+
+
+
+
 ~~~
 
+= Welcome to Adwait's Homepage 
 == 
 ~~~
 {}{img_left}{adwait-new.JPG}{}{195}{225}{}
