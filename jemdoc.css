@@ -268,7 +268,9 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+        background-color: #f5f5f5;
+        border-radius: 4px;
+	/*background: #ffffee;*/
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
