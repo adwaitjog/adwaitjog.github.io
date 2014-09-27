@@ -1,4 +1,4 @@
-# jemdoc: addcss{bootstrap/css/bootstrap.min.css}{bootstrap/css/bootstrap-theme.min.css}
+# jemdoc: nodefaultcss, addcss{bootstrap/css/bootstrap.min.css}{bootstrap/css/bootstrap-theme.min.css}
 = Welcome to Adwait Jog's Homepage
 
 == 
