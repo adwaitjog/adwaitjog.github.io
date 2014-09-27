@@ -59,7 +59,7 @@
 - [phdfootprint.html ...More News]
 ~~~
 
-{{<a name="About"></a>}} 
+{{<a name="About" style="position:absolute;left:0px;top:0px"></a>}} 
 == About Me
 I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I work 
 with my advisor [http://www.cse.psu.edu/people/das Chita Das].
