@@ -6,7 +6,7 @@
       <div class="container">
           <ul class="nav navbar-nav">
             <li class="active"><a href="index.html">Home</a></li>
-            <li class="active"><a href="index.html#Research">Research</a></li>
+            <li class="active"><a href="index.html#About">About</a></li>
             <li class="active"><a href="index.html#Publications">Publications</a></li>
             <li class="active"><a href="index.html#Talks">Talks</a></li>
             <li class="active"><a href="index.html#Teaching">Teaching</a></li>
