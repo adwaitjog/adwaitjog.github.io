@@ -59,7 +59,7 @@
 - [phdfootprint.html ...More News]
 ~~~
 
-{{<a id="About";style="position:absolute;left:0px;top:0px"></a>}} 
+{{<a id="About" style="position:absolute;left:0px;top:0px"></a>}} 
 == About Me
 I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I work 
 with my advisor [http://www.cse.psu.edu/people/das Chita Das].
@@ -72,7 +72,7 @@ Intel Labs in the summer of 2012, and Intel Corp. in the summer of 2011.
 Before joining Penn State in Fall 2009, I completed my undergraduate studies from 
 [http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
 
-{{<a id="Research";style="position:absolute;left:0px;top:0px"></a>}} 
+{{<a id="Research" style="position:absolute;left:0px;top:0px"></a>}} 
 == Research
 My research interests lie broadly in the area of computer architecture. Primarily,
 I work in the area of Graphics Processing Units (GPUs). I am also interested in 
@@ -84,7 +84,7 @@ and other material related to my research is available on this webpage.
 /Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
 Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel Labs)] \n
 
-{{<a name="Publications;style="position:absolute;left:0px;top:0px"></a>}} 
+{{<a name="Publications style="position:absolute;left:0px;top:0px"></a>}} 
 == Publications 
 *\<span style=\"color: forestgreen\"\>(MICRO 2014, to appear)\<\/span\>* 
 \n
