@@ -72,7 +72,7 @@ Intel Labs in the summer of 2012, and Intel Corp. in the summer of 2011.
 Before joining Penn State in Fall 2009, I completed my undergraduate studies from 
 [http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
 
-{{<a name="Research"></a>}} 
+{{<a name="Research" style="position:absolute;left:0px;top:0px"></a>}} 
 == Research
 My research interests lie broadly in the area of computer architecture. Primarily,
 I work in the area of Graphics Processing Units (GPUs). I am also interested in 
@@ -84,7 +84,7 @@ and other material related to my research is available on this webpage.
 /Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
 Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel Labs)] \n
 
-{{<a name="Publications"></a>}} 
+{{<a name="Publications style="position:absolute;left:0px;top:0px"></a>}} 
 == Publications 
 *\<span style=\"color: forestgreen\"\>(MICRO 2014, to appear)\<\/span\>* 
 \n
@@ -144,7 +144,7 @@ In the Proceedings of 18th International Conference on Architectural Support for
 [http://dl.acm.org/authorize?6778674 /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
 In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA, June 2012 \n
 
-{{<a name="Talks"></a>}} 
+{{<a name="Talks style="position:absolute;left:0px;top:0px"></a>}} 
 == Talks and Poster Sessions
 [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
 \[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]] \n
@@ -163,14 +163,14 @@ In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA
 \[[docs/Revive-DAC-Poster-2012.pdf Poster]] \n
 /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/
 
-{{<a name="Teaching"></a>}} 
+{{<a name="Teaching style="position:absolute;left:0px;top:0px"></a>}} 
 == Teaching
 Co-Instructor, Computer Organization and Design (Fall 2014, CMPEN 331) \n
 Co-Instructor, Computer Organization and Design (Spring 2014, CMPEN 331) \n
 Teaching Assistant, Introduction to Computer Architecture (Spring 2010, CMPEN 431) \n
 Teaching Assistant, [http://www.cse.psu.edu/~kyusun/class/cse471/09f/syllabus.html Logic Design of Digital Systems] (Fall 2009, CMPEN 471)
 
-{{<a name="Software"></a>}} 
+{{<a name="Software style="position:absolute;left:0px;top:0px"></a>}} 
 == Software and Downloads
 *Mars on GPGPU-Sim*\n
 [http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some
@@ -180,7 +180,7 @@ The tarball to help you get started can be found [software/Mars_GPGPUSim.tar.gz 
 are used to evaluate the proposed schemes in our ASPLOS-2013 paper. If you find this tarball useful, please cite our
 ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.txt BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
 
-{{<a name="TR"></a>}} 
+{{<a name="TR style="position:absolute;left:0px;top:0px"></a>}} 
 == Technical Reports
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
 [http://www.cse.psu.edu/research/publications/tech-reports/2012/CSE_Tech_Report-12_006.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n 
@@ -190,7 +190,7 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 [http://www.cse.psu.edu/research/publications/tech-reports/2011/CSE-11-010.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
 TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 
-{{<a name="Service"></a>}} 
+{{<a name="Service style="position:absolute;left:0px;top:0px""></a>}} 
 == Service and Memberships
 - Reviewer, Computer Architecture Letters (CAL), 2014, 2012
 - Reviewer, Transcations on Computers (TC), 2013
@@ -209,7 +209,7 @@ TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 /Student Member of ACM, IEEE, ACM SIGARCH/
 
 == Links
-{{<a name="Misc"></a>}} 
+{{<a name="Misc style="position:absolute;left:0px;top:0px"></a>}} 
 [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
 [https://www.linkedin.com/in/adwaitjog LinkedIn Profile] \n
 [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html DBLP Entry] \n
