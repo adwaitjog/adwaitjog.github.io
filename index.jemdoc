@@ -60,10 +60,11 @@ I am fortunate to have had the opportunity to collaborate with [http://scholar.g
 
 {{<a name="Publications"></a>}} 
 == Publications 
-*\<span style=\"color: forestgreen\"\>(MICRO 2014, to appear)\<\/span\>* 
-\n
-Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das \n 
-/Managing GPU Concurrency in Heterogeneous Architectures/, \n
+*\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
+\[[docs/CPUGPU-MICRO-2014.pdf PDF]] 
+\[[docs/CPUGPU-MICRO-2014-bib.txt BibTeX]] \n 
+Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das, \n 
+[docs/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
 In the Proceedings of 47th International Symposium on Micro Architecture (MICRO), Cambridge, UK, December 2014 \n
 
 *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* 

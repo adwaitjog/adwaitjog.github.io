@@ -1,0 +1,6 @@
+@inproceedings{cpugpu-micro,
+  author    = {Onur Kayiran and Nachiappan Chidambaram Nachiappan and Adwait Jog and Rachata Ausavarungnirun and Mahmut T. Kandemir and Gabriel H. Loh and Onur Mutlu and Chita R. Das},
+  title     = {{Managing GPU Concurrency in Heterogeneous Architectures}},
+  booktitle = {MICRO},
+  year      = {2014},
+}
