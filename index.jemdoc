@@ -55,7 +55,7 @@ Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http:/
 I am fortunate to have had the opportunity to collaborate with [http://scholar.google.com/citations?view_op=list_colleagues&hl=en&user=9RgqL8gAAAAJ these] researchers.
 
 {{<a name="Publications"></a>}} 
-== Publications +{{<h4>Top</h4>}}+    
+== Publications+{{<h4>Top</h4>}}+    
 *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
 \[[docs/CPUGPU-MICRO-2014.pdf PDF]] 
 \[[docs/CPUGPU-MICRO-2014-bib.txt BibTeX]] \n 
