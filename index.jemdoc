@@ -48,11 +48,11 @@
 
 I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I 
 work with my advisors [http://www.cse.psu.edu/people/das Chita Das] and [http://www.cse.psu.edu/~kandemir Mahmut Kandemir]. My research interests lie in the broad areas of computer architecture and systems. Primarily, I am interested
-in designing performance and energy efficient GPU-based platforms that are making headway in almost every kind 
+in designing performance and energy-efficient GPU-based platforms that are making headway in almost every kind 
 of computing system ranging from warehouse-scale to wearable computers. I am also interested in rethinking the 
 hardware/software interface for GPU-based heterogeneous computing systems and leveraging emerging memory technologies to design memory and storage systems for them. 
-In recognition of my work, I have received the Best Graduate Research Assistant award in 2013 at Penn State ([https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News]) and was selected among the top 25 finalists for an NVIDIA Ph.D. Fellowship in 2013 ([http://www.cse.psu.edu/news/2013/20130509-1 CSE Department News]). My research work is also published in the best venues: ASPLOS, ISCA, MICRO, PACT, DAC. In the past, I was associated as an intern with NVIDIA Research in the summer of 2013, Intel Labs in the summer of 2012, and Intel Corp. in the 
-summer of 2011. Before joining Penn State in Fall 2009 with College of Engineering Fellowship, I completed my undergraduate studies from [http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
+In recognition of my work, I have received the Best Graduate Research Assistant award in 2013 at Penn State ([https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News]) and was selected as one of 25 finalists for an NVIDIA Ph.D. Fellowship in 2013 ([http://www.cse.psu.edu/news/2013/20130509-1 CSE Department News]). My research work is also published in the best venues: ASPLOS, ISCA, MICRO, PACT, DAC. In the past, I worked as an intern with NVIDIA Research in the summer of 2013, Intel Labs in the summer of 2012, and Intel Corp. in the 
+summer of 2011. Before joining Penn State in Fall 2009 with College of Engineering Fellowship, I completed my undergraduate studies at [http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
 
 /*Proposed Ph.D. Thesis (Expected Graduation: Spring 2015)*/ \n
 /Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
