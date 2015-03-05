@@ -66,8 +66,8 @@ I am fortunate to have had the opportunity to collaborate with [http://scholar.g
 == Publications
 *\<span style=\"color: forestgreen\"\>(ISCA 2015, to appear)\<\/span\>* \n 
 Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, 
-Mahmut Kandemir, Todd Mowry, \n
-{\it A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression}, \n
+Mahmut Kandemir, Todd Mowry, 
+[docs/gpu_compression.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
 
 *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
