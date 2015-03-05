@@ -30,8 +30,9 @@
 
 ~~~
 == News
- - *\<span style=\"color: red\"\>I am on the job market.\<\/span\>* 
-- I am serving as Proceedings Chair for [http://www.ancsconf.org/ ANCS 2015]. Submit your best work!
+- *\<span style=\"color: red\"\>I am on the job market.\<\/span\>* 
+- Paper Accepted in ISCA 2015
+- I am serving as Proceedings/Submission Chair for [http://www.ancsconf.org/ ANCS 2015]. 
 - [phdfootprint.html ...More News]
 ~~~
 
@@ -63,6 +64,12 @@ I am fortunate to have had the opportunity to collaborate with [http://scholar.g
 
 {{<a name="Publications"></a>}} 
 == Publications
+*\<span style=\"color: forestgreen\"\>(ISCA 2015, to appear)\<\/span\>* \n 
+Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, 
+Mahmut Kandemir, Todd Mowry, \n
+{\it A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression}, \n
+In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
+
 *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
 \[[docs/CPUGPU-MICRO-2014.pdf PDF]] 
 \[[docs/CPUGPU-MICRO-2014-bib.txt BibTeX]] \n 
