@@ -17,12 +17,15 @@
 ~~~
 
 == Publications
+
+=== 2015
 *\<span style=\"color: forestgreen\"\>(ISCA 2015, to appear)\<\/span\>* \n 
 Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, 
 Mahmut Kandemir, Todd Mowry, 
 [coming.html /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
 
+=== 2014
 *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
 \[[docs/CPUGPU-MICRO-2014.pdf PDF]] 
 \[[docs/CPUGPU-MICRO-2014-bib.txt BibTeX]] \n 
