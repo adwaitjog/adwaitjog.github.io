@@ -1,0 +1,37 @@
+# jemdoc: addcss{bootstrap/css/bootstrap.css}
+
+~~~
+{}{raw}
+    <div class="navbar navbar-inverse" role="navigation">
+      <div class="container">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li class="active"><a href="pubs.html">Publications</a></li>
+            <li class="active"><a href="talks.html">Talks</a></li>
+            <li class="active"><a href="software.html">Software</a></li>
+            <li class="active"><a href="teaching.html">Teaching</a></li>
+            <li class="active"><a href="service.html">Service</a></li>
+          </ul>
+      </div>
+    </div>
+~~~
+
+
+{{<a name="Talks"></a>}} 
+== Talks and Poster Sessions
+[http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
+\[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]] \n
+/Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/
+
+[http://isca2013.eew.technion.ac.il/ (ISCA 2013)], Tel Aviv, Israel 
+\[[docs/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]] \n
+/Orchestrated Scheduling and Prefetching for GPGPUs/ 
+
+[http://asplos13.rice.edu/ (ASPLOS 2013)], Houston, TX 
+\[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
+/OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/
+
+([http://www.dac.com/dac+2012.aspx DAC 2012], San Francisco, CA) and ([http://nexyscenter.org/index.html IUCRC NEXYS Workshop], Pittsburgh, PA) 
+\[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]] 
+\[[docs/Revive-DAC-Poster-2012.pdf Poster]] \n
+/Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/ 

@@ -7,11 +7,10 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="index.html">Home</a></li>
             <li class="active"><a href="pubs.html">Publications</a></li>
-            <li class="active"><a href="index.html#Talks">Talks</a></li>
-            <li class="active"><a href="index.html#Teaching">Teaching</a></li>
-            <li class="active"><a href="index.html#Software">Software</a></li>
-            <li class="active"><a href="index.html#Service">Service</a></li>
-            <li class="active"><a href="phdfootprint.html">News</a></li>
+            <li class="active"><a href="talks.html">Talks</a></li>
+            <li class="active"><a href="software.html">Software</a></li>
+            <li class="active"><a href="teaching.html">Teaching</a></li>
+            <li class="active"><a href="service.html">Service</a></li>
           </ul>
       </div>
     </div>
@@ -35,14 +34,14 @@
 ~~~
 
 {{<a name="About"></a>}} 
+
 == About
 
 I am a member of [http://www.cse.psu.edu/hpcl High Performance Computing Lab] at Penn State, where I 
 work with my advisors [http://www.cse.psu.edu/people/das Chita Das] and [http://www.cse.psu.edu/~kandemir Mahmut Kandemir]. My research interests lie in the broad areas of computer architecture and systems. Primarily, I am interested
 in designing performance and energy-efficient GPU-based platforms that are making headway in almost every kind 
 of computing system ranging from warehouse-scale to wearable computers. I am also interested in rethinking the 
-hardware/software interface for GPU-based heterogeneous computing systems and leveraging emerging memory technologies to design memory and storage systems for them. 
-In recognition of my work, I have received the Best Graduate Research Assistant award in 2013 at Penn State ([https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News]) and was selected as one of 25 finalists for an NVIDIA Ph.D. Fellowship in 2013 ([http://www.cse.psu.edu/news/2013/20130509-1 CSE Department News]). My research work is also published in the best venues: ASPLOS, ISCA, MICRO, PACT, DAC. In the past, I worked as an intern with NVIDIA Research in the summer of 2013, Intel Labs in the summer of 2012, and Intel Corp. in the 
+hardware/software interface for GPU-based heterogeneous computing systems and leveraging emerging memory technologies to design memory and storage systems for them. In recognition of my work, I have received the Best Graduate Research Assistant award in 2013 at Penn State ([https://www.cse.psu.edu/news/2014/20140422-1 CSE Department News]) and was selected as one of 25 finalists for an NVIDIA Ph.D. Fellowship in 2013 ([http://www.cse.psu.edu/news/2013/20130509-1 CSE Department News]). In the past, I worked as an intern with NVIDIA Research in the summer of 2013, Intel Labs in the summer of 2012, and Intel Corp. in the 
 summer of 2011. Before joining Penn State in Fall 2009 with College of Engineering Fellowship, I completed my undergraduate studies at [http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela NIT Rourkela, India]. \n
 
 /*Proposed Ph.D. Thesis (Expected Graduation: Summer 2015)*/ \n
@@ -56,67 +55,5 @@ I am fortunate to have had the opportunity to collaborate with [http://scholar.g
 
 [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile], [https://www.linkedin.com/in/adwaitjog LinkedIn Profile]
 
-{{<a name="Talks"></a>}} 
-== Talks and Poster Sessions
-[http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
-\[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]] \n
-/Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/
 
-[http://isca2013.eew.technion.ac.il/ (ISCA 2013)], Tel Aviv, Israel 
-\[[docs/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]] \n
-/Orchestrated Scheduling and Prefetching for GPGPUs/ 
-
-[http://asplos13.rice.edu/ (ASPLOS 2013)], Houston, TX 
-\[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
-/OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/
-
-([http://www.dac.com/dac+2012.aspx DAC 2012], San Francisco, CA) and ([http://nexyscenter.org/index.html IUCRC NEXYS Workshop], Pittsburgh, PA) 
-\[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]] 
-\[[docs/Revive-DAC-Poster-2012.pdf Poster]] \n
-/Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/ 
-
-{{<a name="Teaching"></a>}} 
-== Teaching
-Co-Instructor, Computer Organization and Design (Fall 2014, CMPEN 331) \n
-Co-Instructor, Computer Organization and Design (Spring 2014, CMPEN 331) \n
-Teaching Assistant, Introduction to Computer Architecture (Spring 2010, CMPEN 431) \n
-Teaching Assistant, [http://www.cse.psu.edu/~kyusun/class/cse471/09f/syllabus.html Logic Design of Digital Systems] (Fall 2009, CMPEN 471)
-
-{{<a name="Software"></a>}} 
-== Software and Downloads
-*Mars on GPGPU-Sim*\n
-[http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some
-applications that can take advantage of CUDA enabled GPU. More details can be viewed [http://www.cse.ust.hk/catalac/papers/mars_pact08.pdf here]. 
-I decided to run these applications on [http://www.gpgpu-sim.org/ GPGPU-Sim], a publicly available GPU Simulator.
-The tarball to help you get started can be found [software/Mars_GPGPUSim.tar.gz here]. Some of these applications
-are used to evaluate the proposed schemes in our ASPLOS-2013 paper. If you find this tarball useful, please cite our
-ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.txt BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
-
-
-{{<a name="Service"></a>}} 
-== Service and Memberships
-- Proceedings Chair, [http://www.ancsconf.org/ ANCS 2015]
-- Reviewer, IEEE Computer Architecture Letters (CAL), 2014, 2012
-- Reviewer, IEEE Transcations on Computers (TC), 2013
-- Reviewer, ACM Transactions on Embedded Computing (TECS), 2013
-- Reviewer, ACM Transactions on Design Automation of Electronic Systems (TODAES), 2013
-- Expert Reviewer, DAC 2013
-- External Review Committee, HPCA 2013
-- External Review Committee, ICCD 2014, 2013
-- External Review Committee, MICRO 2012
-
-/On-Behalf Reviewer/:
-- *2014* (ASPLOS, ISCA, HPCA, MICRO, DATE, DAC, PACT, SBAC-PAD)
-- *2013* (ISCA, PACT, ICCAD) 
-- *2012* (ISCA, HPCA, DAC, TACO)
-
-/Student Member of ACM, IEEE, ACM SIGARCH/
-
-{{<a name="Misc"></a>}} 
-== Links
-[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
-[https://www.linkedin.com/in/adwaitjog LinkedIn Profile] \n
-[http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html DBLP Entry] \n
-[http://docs.notur.no/uit/stallo_documentation/faq/how-can-i-kill-all-my-jobs PBS Useful Tricks] \n
-[http://nachi.quora.com/How-to-delete-a-range-subset-of-PBS-jobs-from-queue More PBS Tricks] (Credits: [http://www.cse.psu.edu/~oik5019 Onur] and [http://www.cse.psu.edu/~nzc5047 Nachi]) \n
 
