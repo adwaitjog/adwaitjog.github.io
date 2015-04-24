@@ -1,0 +1,75 @@
+
+== Publications
+*\<span style=\"color: forestgreen\"\>(ISCA 2015, to appear)\<\/span\>* \n 
+Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, 
+Mahmut Kandemir, Todd Mowry, 
+[coming.html /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression/], \n
+In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
+
+*\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
+\[[docs/CPUGPU-MICRO-2014.pdf PDF]] 
+\[[docs/CPUGPU-MICRO-2014-bib.txt BibTeX]] \n 
+Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das, \n 
+[docs/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
+In the Proceedings of 47th International Symposium on Micro Architecture (MICRO), Cambridge, UK, December 2014 \n
+
+*\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* 
+\[[docs/TradeCM-PACT-2014.pdf PDF]] 
+\[[docs/TradeCM-PACT-2014-bib.txt BibTeX]] \n 
+Wei Ding, Mahmut Kandemir, Diana Guttman, *Adwait Jog*, Chita Das, Praveen Yedlapalli, \n
+[docs/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/], \n
+In the Proceedings of 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edmonton, Alberta, Canada, August 2014 \n
+
+*\<span style=\"color: forestgreen\"\>(GPGPU@ASPLOS 2014)\<\/span\>* 
+\[[docs/app-aware-memory-GPGPU7-2014.pdf PDF]]
+\[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]]
+\[[docs/app-aware-memory-GPGPU7-2014-bib.txt BibTeX]]  
+\[[http://dl.acm.org/citation.cfm?doid=2576779.2576780 ACM DOI]] \n 
+*Adwait Jog*, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita Das, \n
+[docs/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
+In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
+Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
+
+*\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>*
+\[[docs/NMNL-PACT-2013.pdf PDF]]
+\[[docs/NMNL-PACT-2013-Slides.pptx Talk (PPTX)]]
+\[[docs/NMNL-PACT-2013-bib.txt BibTeX]] \n 
+*\<span style=\"color: red\"\>Best Paper Nomination:\<\/span\>* /One of the four papers nominated for the Best Paper Award./\n
+Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
+[docs/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
+In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
+
+*\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* 
+\[[docs/OSP-ISCA-2013.pdf PDF]]
+\[[docs/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]]
+\[[docs/OSP-ISCA-2013-bib.txt BibTeX]] \n 
+*Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n 
+[docs/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
+In the Proceedings of 40th International Symposium on Computer Architecture (ISCA), Tel Aviv, Israel, June 2013 \n 
+
+*\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
+\[[docs/OWL-ASPLOS-2013.pdf PDF]]  
+\[[docs/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
+\[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] 
+\[[docs/OWL-ASPLOS-2013-bib.txt BibTeX]] \n 
+*Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
+[docs/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
+In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
+
+*\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* 
+\[[docs/Revive-DAC-2012.pdf PDF]]
+\[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]]
+\[[docs/Revive-DAC-Poster-2012.pdf Poster]]
+\[[docs/Revive-DAC-2012-bib.txt BibTeX]]\n
+*Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
+[docs/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
+In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA, June 2012 \n
+
+== Technical Reports
+Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
+[http://www.cse.psu.edu/research/publications/tech-reports/2012/CSE_Tech_Report-12_006.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n 
+TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
+
+*Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
+[http://www.cse.psu.edu/research/publications/tech-reports/2011/CSE-11-010.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
+TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
