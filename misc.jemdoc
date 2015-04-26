@@ -17,17 +17,6 @@
     </div>
 ~~~
 
-{{<a name="Software"></a>}} 
-== Software and Downloads
-*Mars on GPGPU-Sim*\n
-[http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some
-applications that can take advantage of CUDA enabled GPU. More details can be viewed [http://www.cse.ust.hk/catalac/papers/mars_pact08.pdf here]. 
-I decided to run these applications on [http://www.gpgpu-sim.org/ GPGPU-Sim], a publicly available GPU Simulator.
-The tarball to help you get started can be found [software/Mars_GPGPUSim.tar.gz here]. Some of these applications
-are used to evaluate the proposed schemes in our ASPLOS-2013 paper. If you find this tarball useful, please cite our
-ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.txt BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
-
-
 {{<a name="Misc"></a>}} 
 == Links
 [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
