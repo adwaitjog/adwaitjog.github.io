@@ -27,11 +27,3 @@ The tarball to help you get started can be found [software/Mars_GPGPUSim.tar.gz 
 are used to evaluate the proposed schemes in our ASPLOS-2013 paper. If you find this tarball useful, please cite our
 ASPLOS-2013 paper ([docs/OWL-ASPLOS-2013-bib.txt BibTeX]) and [http://www.cse.ust.hk/gpuqp/Mars.html Mars]. \n
 
-
-{{<a name="Misc"></a>}} 
-== Links
-[http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
-[https://www.linkedin.com/in/adwaitjog LinkedIn Profile] \n
-[http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html DBLP Entry] \n
-[http://docs.notur.no/uit/stallo_documentation/faq/how-can-i-kill-all-my-jobs PBS Useful Tricks] \n
-[http://nachi.quora.com/How-to-delete-a-range-subset-of-PBS-jobs-from-queue More PBS Tricks] (Credits: [http://www.cse.psu.edu/~oik5019 Onur] and [http://www.cse.psu.edu/~nzc5047 Nachi]) \n
