@@ -21,7 +21,7 @@
 
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)]
 
-=== 2015
+=== 
 *\<span style=\"color: forestgreen\"\>(Ph.D. Thesis, to appear)\<\/span\>* \n 
 /Design and Analysis of Thread and Memory Scheduling Techniques for Throughput Processors./\n
 Committee Members: [http://www.cse.psu.edu/~das Chita Das (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel)] \n
@@ -32,7 +32,7 @@ Mahmut Kandemir, Todd Mowry,
 [coming.html /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
 
-=== 2014
+=== 
 *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
 \[[docs/CPUGPU-MICRO-2014.pdf PDF]] 
 \[[docs/CPUGPU-MICRO-2014.pptx Talk (PPTX)]]
@@ -60,7 +60,7 @@ In the Proceedings of 23rd International Conference on Parallel Architectures an
 In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
 Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
 
-=== 2013
+=== 
 *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>*
 \[[docs/NMNL-PACT-2013.pdf PDF]]
 \[[docs/NMNL-PACT-2013-Slides.pptx Talk (PPTX)]]
@@ -87,7 +87,7 @@ In the Proceedings of 40th International Symposium on Computer Architecture (ISC
 [docs/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
 
-=== 2012
+=== 
 *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* 
 \[[docs/Revive-DAC-2012.pdf PDF]]
 \[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]]
@@ -102,7 +102,7 @@ Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
 [http://www.cse.psu.edu/research/publications/tech-reports/2012/CSE_Tech_Report-12_006.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n 
 TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 
-=== 2011
+=== 
 *\<span style=\"color: forestgreen\"\>(Tech Report 2011)\<\/span\>* \n
 *Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
 [http://www.cse.psu.edu/research/publications/tech-reports/2011/CSE-11-010.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
