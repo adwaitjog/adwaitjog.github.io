@@ -22,12 +22,12 @@
 == Talks and Poster Sessions
 
 /The Future of Parallel Computing with GPUs/ [docs/job_talk.txt Abstract] \n
-The College of William and Mary \n
-University of Utah \n
-Temple University \n
-UC Riverside \n
-Intel Labs \n
-AMD Research \n
+    The College of William and Mary \n
+    University of Utah \n
+    Temple University \n
+    UC Riverside \n
+    Intel Labs \n
+    AMD Research \n
 
 /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/ \n
 [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
