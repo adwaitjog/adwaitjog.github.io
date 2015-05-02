@@ -21,21 +21,23 @@
 {{<a name="Talks"></a>}} 
 == Talks and Poster Sessions
 
-/Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/
+/The Future of Parallel Computing with GPUs/
+
+/Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/ \n
 [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU7/ (GPGPU@ASPLOS 2014)], Salt Lake City, UT 
 \[[docs/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]] \n
 
 
-/Orchestrated Scheduling and Prefetching for GPGPUs/ 
+/Orchestrated Scheduling and Prefetching for GPGPUs/ \n
 [http://isca2013.eew.technion.ac.il/ (ISCA 2013)], Tel Aviv, Israel 
 \[[docs/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]] \n
 
-/OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/
+/OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/ \n
 [http://asplos13.rice.edu/ (ASPLOS 2013)], Houston, TX 
 \[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
 
 
-/Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/ 
+/Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/  \n
 ([http://www.dac.com/dac+2012.aspx DAC 2012], San Francisco, CA) and ([http://nexyscenter.org/index.html IUCRC NEXYS Workshop], Pittsburgh, PA) 
 \[[docs/Revive-DAC-2012-Slides.pptx Talk (PPTX)]] 
 \[[docs/Revive-DAC-Poster-2012.pdf Poster]] \n
