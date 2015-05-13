@@ -22,10 +22,11 @@
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)]
 
 === 
-*\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* \n 
-Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, 
-Mahmut Kandemir, Todd Mowry, 
-[coming.html /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression/], \n
+*\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* 
+\[[docs/CABA-ISCA-2015.pdf PDF]] \n
+Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, 
+Mahmut Kandemir, Todd Mowry, Onur Mutlu
+[docs/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
 
 *\<span style=\"color: forestgreen\"\>(Ph.D. Thesis, to appear)\<\/span\>* \n 
