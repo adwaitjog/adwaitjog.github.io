@@ -1,0 +1,20 @@
+# jemdoc: addcss{bootstrap/css/bootstrap.css}
+
+== 1st GPU Work Scheduling Championship (GPU-WSC)
+
+== Recent News
+- Website is up
+
+== Introduction
+
+The workshop on computer architecture competitions is a forum for holding contests to evaluate computer architecture research topics. This workshop is organized around a competition for warp/wavefront scheduling algorithms for Graphics Processing Units (GPUs). The 1st Warp/Wavefront Scheduling Championship invites contestants to submit their warp scheduling design details along with the source code to participate in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, memory bandwidth utilization, hardware complexity etc.) on a common evaluation framework provided by the organizing committee. This championship will leverage the existing open-source GPU evaluation platform -- GPGPU-Sim (v3.x) (http://www.gpgpu-sim.org/). The contestants will be allowed to change only a part of the code base and specific details on it will be given through the championship website.
+
+== The Championship Process: 
+
+There are two following phases in the entire championship process:
+
+- Phase 1: Write-up Submission 
+Interested participants are invited to submit a write-up describing their wavefront/warp scheduler design. This write-up must clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed wavefront/warp scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed wavefront/warp scheduler on multiple metrics (e.g., IPC, miss-rate, bandwidth utilization etc.) on a set of GPGPU applications provided by the organizers. Authors should also compare their wavefront/warp scheduler against standard wavefront/warp schedulers (e.g., round-robin and greedy-then-oldest) on these different metrics. The comparison results should be clearly described in the paper with the help of clearly visible graphs. The Program Committee chaired by the organizers will review the submitted write-ups. The submission will be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler on different metrics. 
+
+- Phase 2: Final Write-up and Source-Code Submission 
+The authors of the accepted write-ups will be required to submit their final write-ups along with the source code and output result files. The specific details on the code submission/formatting will be given through the championship website. The submitted source codes will be tested by the organizers on a variety of GPGPU applications. The organizers plan to include some applications in the testing set that may not be known apriori to the contestants. The final ranking of the warp schedulers will be based on a variety of metrics such as performance (IPC), hardware overheads, and miss-rates. The exact ranking formula will be publicly declared ahead of time. The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). Authors of all the accepted write-ups will also be invited to present their papers at the workshop. All source code, final write-ups, and ranking results will be made publicly available through the website. 
