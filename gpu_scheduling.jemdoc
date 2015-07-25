@@ -47,11 +47,11 @@ The organizers may include some applications in the testing set that may not be 
 The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). Authors of all the accepted write-ups will also be invited to present their papers at the workshop. 
 All source code, final write-ups, and ranking results will be made publicly available through this website. 
 
-== Evaluation Platform:
+== Evaluation Platform
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
 - Set of applications: 
 
-== Important Dates: 
+== Important Dates
 - Write-up Submission /(Phase 1)/: Oct 5, 2015. Please send your write up to *all* organizers. 
 - Notification of Acceptance for /Phase 1/: Nov 2, 2015
 - Final Write-up and Code Submission /(Phase 2)/: Nov 16, 2015. 
