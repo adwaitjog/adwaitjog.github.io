@@ -46,7 +46,7 @@ The authors of the accepted write-ups will be required to submit their final wri
 source code, output result files (dump the simulator output to a file), and a /diff/ of your code with 
 the unmodified GPGPU-Sim version 3.2.2. In this phase, authors have an option to *incrementally*
 revise their scheduler design code to become more competitive. We expect these changes to be only
-related to some optimizations with regard to their scheduler design. A complete change in scheduler
+related to some optimizations with regard to their scheduler design. A complete change in the scheduler
 design is not acceptable.
 
 Please note that you are required to 
