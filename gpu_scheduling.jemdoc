@@ -4,15 +4,15 @@
 
 The workshop on computer architecture competitions is a forum for holding contests to evaluate computer architecture 
 research topics. This workshop is organized around a competition for work scheduling algorithms for Graphics Processing Units (GPUs). 
-This 1st GPU Work Scheduling Championship invites contestants to submit their GPU scheduler to participate 
+This 1st GPU Work Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
 in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
 memory bandwidth utilization, hardware complexity etc.) on a common evaluation framework provided by the organizing committee. 
 
-This championship covers the following */core-centric/* scheduling topics:
+This championship covers the following */GPU-core-centric/* work scheduling topics:
 - Warp or Wavefront Scheduling
 - Thread-block or CTA Scheduling
-- Any combination of above
-- Please email the organizers if your scheduler may fit into */core-centric/* scheduler category, but not listed above.
+- Any combination of the above
+- Please email the organizers if your scheduler may fit into */GPU-core-centric/* work scheduler category, but not listed above.
 
 == Recent News
 - Website is up
@@ -30,7 +30,10 @@ utilization, against standard GTX480 GPU configuration. The comparison results
 should be described in the paper with the help of clearly visible graphs. Please refer to the evaluation 
 platform details regarding the simulation platform and applications. 
 
-The Program Committee chaired by the organizers will review the submitted write-ups. The submission will be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her previously published design or make incremental enhancements to a previously proposed design. 
+The Program Committee chaired by the organizers will review the submitted write-ups. The submission will 
+be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler 
+on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her 
+previously published design or make incremental enhancements to a previously proposed design. 
 
 For the phase 1, code submission is *not* required. 
 
@@ -75,7 +78,6 @@ Please use the [http://www.acm.org/publications/article-templates/proceedings-te
 Write-up length should not exceed *8* pages. Email your final write-up to all organizers. Code submission is required at this stage.
 We will provide the details here on how to submit the code. 
 
-
 == Important Dates
 - Write-up Submission /*(Phase 1)*/: Oct 5, 2015. 
 - Notification of Acceptance for /*Phase 1*/: Nov 2, 2015
@@ -97,10 +99,11 @@ We will provide the details here on how to submit the code.
 
 == Questions?
 - Please contact the organizers. 
-- If you run into any issue related to [http://www.gpgpu-sim.org/ GPGPU-Sim], please post it 
+- If you run into any issues related to [http://www.gpgpu-sim.org/ GPGPU-Sim], please post it 
 in the Google group [http://groups.google.com/group/gpgpu-sim/ here]. Before posting, 
 please search in the group posts to see if your question has already been answered. 
-For quicker responses, you may wish to keep the organizers on /cc/.
+For quicker responses, you may wish to keep the organizers on /cc/ and starting your
+post with the tag GPU-WSC:, followed by your subject. 
 
 == Frequently Asked Questions
 - Will be updated based on runtime questions. Stay tuned.
