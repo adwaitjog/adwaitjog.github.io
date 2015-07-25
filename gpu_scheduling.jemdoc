@@ -23,7 +23,8 @@ This championship covers the following */GPU-core-centric/* work scheduling topi
 
 There are two following phases in the entire championship process:
 
-*Phase 1: Write-up Submission* \n
+*\<span style=\"color: forestgreen\"\>(Phase 1: Write-up Submission)\<\/span\>* \n
+
 Interested participants are invited to submit a write-up describing their GPU work scheduler design. This write-up must 
 clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
 scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed scheduler 
@@ -41,7 +42,8 @@ For the phase 1, code submission is *not* required.
 
 \n
 
-*Phase 2: Final Write-up and Code Submission* \n
+*\<span style=\"color: forestgreen\"\>(Phase 1: Final Write-up and Code Submission)\<\/span\>* \n
+
 The authors of the accepted write-ups will be required to submit their final write-ups along with the 
 source code, output result files (dump the simulator output to a file), and a /diff/ of your code with 
 the unmodified GPGPU-Sim version 3.2.2. In this phase, authors have an option to *incrementally*
