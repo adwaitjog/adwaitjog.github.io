@@ -7,13 +7,14 @@ GPU Work Scheduling Championship invites contestants to submit their scheduling 
 
 This championship covers the following */core-centric/* scheduling topics:
 - Warp/Wavefront Scheduling
-- Thread-Block or CTA Scheduling
-- Please e-mail the organizers if your scheduler may fit into */core-centric/* scheduler category, but not listed above.
+- Thread-block/CTA Scheduling
+- Any combination of warp/wavefront and thread-block/cta scheduling
+- Please email the organizers if your scheduler may fit into */core-centric/* scheduler category, but not listed above.
 
 == Recent News
 - Website is up
 
-== The Championship Process: 
+== The Championship Process
 
 There are two following phases in the entire championship process:
 
@@ -49,7 +50,6 @@ All source code, final write-ups, and ranking results will be made publicly avai
 == Evaluation Platform:
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
 - Set of applications: 
-
 
 == Important Dates: 
 - Write-up Submission /(Phase 1)/: Oct 5, 2015. Please send your write up to *all* organizers. 
