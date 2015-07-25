@@ -26,17 +26,22 @@ regarding the simulation platform and applications.
 
 The Program Committee chaired by the organizers will review the submitted write-ups. The submission will be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her previously published design or make incremental enhancements to a previously proposed design. 
 
-For the phase 1, code submission is not required. 
+For the phase 1, code submission is *not* required. 
+
+\n
+\n
 
 *Phase 2: Final Write-up and Source-Code Submission* \n
-The authors of the accepted write-ups will be required to submit their final write-ups along with the source code and output result files.
-Please bundle the source code and send to the organizers. 
+The authors of the accepted write-ups will be required to submit their final write-ups along with the 
+source code, output result files, and a /diff/ of your code the original GPGPU-Sim version 3.2.2. 
+Please bundle the required files and send it to the organizers. Please note that you are required to 
+use GPGPU-Sim version 3.2.2. If we cannot compile you code as is, we cannot evaluate your scheduler. 
 
 The submitted source codes will be tested by the organizers on a variety of GPGPU applications. 
-The organizers may include some applications in the testing set that may not be known apriori to the contestants. The final ranking of the schedulers will be based on performance (IPC). We can separately rank the schedulers considering other metrics such as hardware overheads, and miss-rates. 
+The organizers may include some applications in the testing set that may not be known apriori to the contestants. The final ranking of the schedulers will be based on performance (IPC). We may separately rank the schedulers considering other metrics such as hardware overheads, and miss-rates. More details to follow later. 
 
 The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). Authors of all the accepted write-ups will also be invited to present their papers at the workshop. 
-All source code, final write-ups, and ranking results will be made publicly available through the website. 
+All source code, final write-ups, and ranking results will be made publicly available through this website. 
 
 == Evaluation Platform:
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
