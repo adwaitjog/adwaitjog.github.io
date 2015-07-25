@@ -49,7 +49,8 @@ All source code, final write-ups, and ranking results will be made publicly avai
 
 == Evaluation Platform
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
-- Baseline GTX-480 GPU configuration is [https://github.com/gpgpu-sim/gpgpu-sim_distribution/tree/master/configs/GTX480 here]
+- GPGPU-Sim Manual is [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual here].
+- Baseline GTX480 GPU configuration is [https://github.com/gpgpu-sim/gpgpu-sim_distribution/tree/master/configs/GTX480 here].
 - Set of applications: 
 
 == Important Dates
@@ -72,4 +73,5 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - TBD
 
 == Acknowledgments
+- Developers of [http://www.gpgpu-sim.org/ GPGPU-Sim]
 - Organizers of [http://www.cs.utah.edu/~rajeev/jwac12/ Memory Scheduling Championship]
