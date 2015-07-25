@@ -69,7 +69,7 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
 - GPGPU-Sim Manual is [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual here].
 - Baseline GTX480 GPU configuration is [https://github.com/gpgpu-sim/gpgpu-sim_distribution/tree/master/configs/GTX480 here].
-- Set of applications: TBD
+- Test applications: TBD
 
 == Submission
 - *Phase-1: Write-up Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all organizers. Code submission is */not/* required at this stage.
