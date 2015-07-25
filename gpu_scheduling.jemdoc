@@ -32,10 +32,10 @@ For the phase 1, code submission is not required.
 The authors of the accepted write-ups will be required to submit their final write-ups along with the source code and output result files.
 Please bundle the source code and send to the organizers. 
 
-The submitted source codes will be tested by the organizers on a variety of GPGPU applications. 
+\t The submitted source codes will be tested by the organizers on a variety of GPGPU applications. 
 The organizers may include some applications in the testing set that may not be known apriori to the contestants. The final ranking of the schedulers will be based on performance (IPC). We can separately rank the schedulers considering other metrics such as hardware overheads, and miss-rates. 
 
-The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). Authors of all the accepted write-ups will also be invited to present their papers at the workshop. 
+\t The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). Authors of all the accepted write-ups will also be invited to present their papers at the workshop. 
 All source code, final write-ups, and ranking results will be made publicly available through the website. 
 
 == Evaluation Platform:
