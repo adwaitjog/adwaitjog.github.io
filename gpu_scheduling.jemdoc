@@ -6,9 +6,9 @@ The workshop on computer architecture competitions is a forum for holding contes
 GPU Work Scheduling Championship invites contestants to submit their scheduling design details along with the source code to participate in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, memory bandwidth utilization, hardware complexity etc.) on a common evaluation framework provided by the organizing committee. 
 
 This championship covers the following */core-centric/* scheduling topics:
-- Warp/Wavefront Scheduling
-- Thread-block/CTA Scheduling
-- Any combination of warp/wavefront and thread-block/cta scheduling
+- Warp or Wavefront Scheduling
+- Thread-block or CTA Scheduling
+- Any combination of above
 - Please email the organizers if your scheduler may fit into */core-centric/* scheduler category, but not listed above.
 
 == Recent News
