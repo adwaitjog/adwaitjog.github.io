@@ -31,8 +31,7 @@ The Program Committee chaired by the organizers will review the submitted write-
 
 For the phase 1, code submission is *not* required. 
 
-Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX/Word ACM templates]. 
-Write-up length should not exceed *6* pages. 
+
 
 \n
 \n
@@ -49,14 +48,24 @@ The organizers may include some applications in the testing set that may not be 
 The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). Authors of all the accepted write-ups will also be invited to present their papers at the workshop. 
 All source code, final write-ups, and ranking results will be made publicly available through this website. 
 
-== Evaluation Platform
+== Simulation Infrastructure
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
 - GPGPU-Sim Manual is [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual here].
 - Baseline GTX480 GPU configuration is [https://github.com/gpgpu-sim/gpgpu-sim_distribution/tree/master/configs/GTX480 here].
 - Set of applications: TBD
 
+== Submission
+- Phase-1: Write-up Submission
+Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX/Word ACM templates]. 
+Write-up length should not exceed *6* pages. Email your write-up to all organizers. Code submission is *not* required at this stage.
+
+- Phase-2: Final Write-up and Code Submission
+Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX/Word ACM templates]. 
+Write-up length should not exceed *6* pages. Email your write-up to all organizers. Code submission is required at this stage.
+
+
 == Important Dates
-- Write-up Submission /(Phase 1)/: Oct 5, 2015. Please email your write up to *all* organizers. 
+- Write-up Submission /(Phase 1)/: Oct 5, 2015. 
 - Notification of Acceptance for /Phase 1/: Nov 2, 2015
 - Final Write-up and Code Submission /(Phase 2)/: Nov 16, 2015. 
 - Championship Dates: Dec 5 or Dec 6, 2015 
