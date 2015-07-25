@@ -35,17 +35,23 @@ For the phase 1, code submission is *not* required.
 
 *Phase 2: Final Write-up and Code Submission* \n
 The authors of the accepted write-ups will be required to submit their final write-ups along with the 
-source code, output result files (dump the simulator output to a file), and a /diff/ of your code with the 
-unmodified GPGPU-Sim version 3.2.2. 
-Please bundle the required files and send it to the organizers. Please note that you are required to 
+source code, output result files (dump the simulator output to a file), and a /diff/ of your code with 
+the unmodified GPGPU-Sim version 3.2.2. In this phase, authors have an option to *incrementally*
+revise their scheduler design code to become more competitive. We expect these changes to be only
+related to some optimizations with regard to their scheduler design. A complete change in scheduler
+design is not acceptable.
+
+Please note that you are required to 
 use GPGPU-Sim version 3.2.2. If we cannot compile you code as is, we cannot evaluate your scheduler. 
 If you use a different version of GPGPU-Sim, we cannot fairly compare your scheduler with schedulers
 developed by other contestants. So, it is very important to use the same exact version (i.e., 3.2.2).
 
 *Evaluation of Schedulers:*
 The submitted source codes will be tested by the organizers on a variety of GPGPU applications. 
-The organizers may include some applications in the testing set that may not be known apriori to the contestants. The final ranking of the schedulers will be based on performance (IPC). We may separately rank the schedulers considering other metrics such as hardware overheads, miss-rates, and
-bandwidth utilization. More details to follow later. 
+The organizers may include some applications in the testing set that may not be known apriori to the 
+contestants. The final ranking of the schedulers will be based on performance (IPC). We may 
+separately rank the schedulers considering other metrics such as hardware overheads, miss-rates, 
+and bandwidth utilization. 
 
 *Incentives:*
 The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). 
@@ -63,7 +69,8 @@ All source code, final write-ups, and ranking results will be made publicly avai
 
 - *Phase-2: Final Write-up and Code Submission*:
 Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. 
-Write-up length should not exceed *6* pages. Email your final write-up to all organizers. Code submission is required at this stage.
+Write-up length should not exceed *8* pages. Email your final write-up to all organizers. Code submission is required at this stage.
+We will provide the details here on how to submit the code. 
 
 
 == Important Dates
