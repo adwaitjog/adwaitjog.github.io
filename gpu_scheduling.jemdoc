@@ -74,13 +74,13 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - Test applications: TBD
 
 == Submission
-- *Phase-1: Write-up Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all organizers by the Phase-1 deadline (see Important
+- *Phase-1: Write-up Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
 Dates below). Code submission is */not/* required at this stage.
 
 - *Phase-2: Final Write-up and Code Submission*:
 Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. 
-Write-up length should not exceed *8* pages. Email your final write-up and code to all organizers by the Phase-2 deadline (see Important
-Dates below). Code submission is mandatory at this stage. We will provide more details here on how to submit the code. 
+Write-up length should not exceed *8* pages. Email your final write-up to all the organizers by the Phase-2 deadline (see Important
+Dates below). In addition, code submission is *mandatory* at this stage. We will provide more details here on how to submit the code. 
 
 == Important Dates
 - Write-up Submission /*(Phase 1)*/: Oct 5, 2015. 
@@ -105,9 +105,9 @@ Dates below). Code submission is mandatory at this stage. We will provide more d
 - We will add your questions here. Stay tuned.
 
 == Questions?
-- Please contact the organizers with regard to any question regarding the championship. 
+- Please contact the organizers with regard to any questions regarding the championship. 
 - If you run into any issues related to [http://www.gpgpu-sim.org/ GPGPU-Sim], please post it 
-in the Google group [http://groups.google.com/group/gpgpu-sim/ here]. Before posting, 
+on the Google group [http://groups.google.com/group/gpgpu-sim/ here]. Before posting, 
 please search in the group posts to see if your question has already been answered. 
 For quicker responses, you may wish to keep the organizers on /cc/ with the subject
 prefixed by the tag "GPU-WSC:". For example, "GPU-WSC:<your-subject-here>"
