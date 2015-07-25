@@ -104,8 +104,8 @@ Dates below). Code submission is mandatory at this stage. We will provide more d
 - If you run into any issues related to [http://www.gpgpu-sim.org/ GPGPU-Sim], please post it 
 in the Google group [http://groups.google.com/group/gpgpu-sim/ here]. Before posting, 
 please search in the group posts to see if your question has already been answered. 
-For quicker responses, you may wish to keep the organizers on /cc/ and starting your
-post with the tag GPU-WSC:, followed by your subject. 
+For quicker responses, you may wish to keep the organizers on /cc/ with the subject
+prefixed by the tag "GPU-WSC:". For example, "GPU-WSC:<your-subject-here>"
 
 == Frequently Asked Questions
 - Will be updated based on runtime questions. Stay tuned.
