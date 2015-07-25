@@ -42,7 +42,7 @@ For the phase 1, code submission is *not* required.
 
 \n
 
-*\<span style=\"color: forestgreen\"\>(Phase 1: Final Write-up and Code Submission)\<\/span\>* \n
+*\<span style=\"color: forestgreen\"\>(Phase 2: Final Write-up and Code Submission)\<\/span\>* \n
 
 The authors of the accepted write-ups will be required to submit their final write-ups along with the 
 source code, output result files (dump the simulator output to a file), and a /diff/ of your code with 
