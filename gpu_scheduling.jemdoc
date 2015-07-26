@@ -1,18 +1,18 @@
 # jemdoc: addcss{bootstrap/css/bootstrap.css}
 
-== 1st GPU Work Scheduling Championship (GPU-WSC), to be held in conjunction with [http://www.microarch.org/micro48/ MICRO 2015, Waikiki, Hawaii]
+== 1st GPU Scheduling Championship (GPU-WSC), to be held in conjunction with [http://www.microarch.org/micro48/ MICRO 2015, Waikiki, Hawaii]
 
 The workshop on computer architecture competitions is a forum for holding contests to evaluate computer architecture 
-research topics. This workshop is organized around a competition for work scheduling algorithms for Graphics Processing Units (GPUs). 
-This 1st GPU Work Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
+research topics. This workshop is organized around a competition for scheduling algorithms for Graphics Processing Units (GPUs). 
+This 1st GPU Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
 in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
 memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework provided by the organizing committee. 
 
-This championship covers the following */GPU-core-centric/* work scheduling topics:
+This championship covers the following */GPU-core-centric/* scheduling topics:
 - Warp or Wavefront Scheduling
 - Thread-block or CTA Scheduling
 - Any combination of the above
-- Please email the organizers if you feel that your scheduler fits into the */GPU-core-centric/* work scheduler category, but not listed above.
+- Please email the organizers if you feel that your scheduler fits into the */GPU-core-centric/* scheduler category, but not listed above.
 
 # *\<span style=\"color: red\"\>Please keep checking this website for the latest information regarding the championship\<\/span\>* \n
 
@@ -24,7 +24,7 @@ This championship covers the following */GPU-core-centric/* work scheduling topi
 There are two following phases in the entire championship process:
 
 *\<span style=\"color: forestgreen\"\>Phase 1: Write-up Submission\<\/span\>* \n
-Interested participants are invited to submit a write-up describing their GPU work scheduler design. This write-up must 
+Interested participants are invited to submit a write-up describing their GPU scheduler design. This write-up must 
 clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
 scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed scheduler 
 on four metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 4) DRAM bandwidth 
