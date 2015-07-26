@@ -29,8 +29,8 @@ clearly demonstrate the idea, motivation, design trade-offs, and estimate the ha
 scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed scheduler 
 on four metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 4) DRAM bandwidth 
 utilization, in comparison to the standard GTX480 GPU configuration. The comparison results 
-should be described in the paper with the help of clearly visible graphs. Please refer to the evaluation 
-platform details regarding the simulation platform and applications. 
+should be described in the paper with the help of clearly visible graphs. Please refer to the 
+Simulation Infrastructure section for details regarding the simulation platform and applications. 
 
 The Program Committee chaired by the organizers will review the submitted write-ups. The submission will 
 be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler 
