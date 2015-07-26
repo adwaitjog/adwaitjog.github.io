@@ -37,7 +37,8 @@ be evaluated based on the novelty, presentation of the results, and effectivenes
 on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her 
 previously published design or make incremental enhancements to a previously proposed design. 
 
-For the phase 1, code submission is *not* required. 
+For the phase 1, code submission is *not* required. However, it is required that authors
+use GPGPU-Sim version 3.2.2 to implement their scheduler design. 
 
 \n
 
