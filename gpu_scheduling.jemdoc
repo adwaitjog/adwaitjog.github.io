@@ -18,12 +18,12 @@ memory bandwidth utilization, hardware overheads etc.) on a common evaluation fr
 There are two following phases in the entire championship process:
 
 *\<span style=\"color: forestgreen\"\>Phase 1: Write-up Submission\<\/span\>* \n
-Interested participants are invited to submit a write-up describing their GPU scheduler design. This write-up must 
+Interested participants are invited to submit a write-up describing their GPU Warp/Wavefront scheduler design. This write-up must 
 clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
 scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed 
 scheduler on four metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, 
-and 4) DRAM bandwidth utilization, in comparison to the Greedy-then-Oldest (GTO) Warp Scheduler. The comparison results 
-should be described in the paper with the help of clearly visible graphs. Please refer to the 
+and 4) DRAM bandwidth utilization, in comparison to the Greedy-then-Oldest (GTO) GPU Warp/Wavefront Scheduler. The 
+comparison results should be described in the paper with the help of clearly visible graphs. Please refer to the 
 Simulation Infrastructure section for details regarding the simulation platform and applications. 
 
 Note that, the primary metric to rank schedulers is performance (IPC). In case performance of two 
