@@ -1,18 +1,12 @@
 # jemdoc: addcss{bootstrap/css/bootstrap.css}
 
-== 1st GPU Scheduling Championship (GPU-WSC), to be held in conjunction with [http://www.microarch.org/micro48/ MICRO 2015, Waikiki, Hawaii]
+== 1st GPU Warp/Wavefront Scheduling Championship (GPU-WSC), to be held in conjunction with [http://www.microarch.org/micro48/ MICRO 2015, Waikiki, Hawaii]
 
 The workshop on computer architecture competitions is a forum for holding contests to evaluate computer architecture 
 research topics. This workshop is organized around a competition for scheduling algorithms for Graphics Processing Units (GPUs). 
 This 1st GPU Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
 in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
 memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework provided by the organizing committee. 
-
-This championship covers the following */GPU-core-centric/* scheduling topics:
-- Warp or Wavefront Scheduling
-- Thread-block or CTA Scheduling
-- Any combination of the above
-- Please email the organizers if you feel that your scheduler fits into the */GPU-core-centric/* scheduler category, but not listed above.
 
 # *\<span style=\"color: red\"\>Please keep checking this website for the latest information regarding the championship\<\/span\>* \n
 
@@ -26,11 +20,15 @@ There are two following phases in the entire championship process:
 *\<span style=\"color: forestgreen\"\>Phase 1: Write-up Submission\<\/span\>* \n
 Interested participants are invited to submit a write-up describing their GPU scheduler design. This write-up must 
 clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
-scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed scheduler 
-on four metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 4) DRAM bandwidth 
-utilization, in comparison to the standard GTX480 GPU configuration. The comparison results 
+scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed 
+scheduler on four metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, 
+and 4) DRAM bandwidth utilization, in comparison to the Greedy-then-Oldest (GTO) Warp Scheduler. The comparison results 
 should be described in the paper with the help of clearly visible graphs. Please refer to the 
 Simulation Infrastructure section for details regarding the simulation platform and applications. 
+
+Note that, the primary metric to rank schedulers is performance (IPC). In case performance of two 
+schedulers are fairly close, we will use secondary metrics such as miss-rates, bandwidth utilization, 
+and hardware overheads, to break the ties. 
 
 The Program Committee chaired by the organizers will review the submitted write-ups. The submission will 
 be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler 
@@ -59,9 +57,7 @@ developed by other contestants. So, it is *important* to use the same exact vers
 The submitted source codes will be tested by the organizers on the applications recommended by us (see
 Simulation Infrastructure section below).
 The organizers may include some applications in the testing set that may not be known apriori to the 
-contestants. The final ranking of the schedulers will be based on performance (IPC). We will also 
-separately rank the schedulers considering other metrics such as hardware overheads, miss-rates, 
-bandwidth utilization, and quality of the final write-up.  
+contestants. The final ranking of the schedulers will be based on performance (IPC). 
 
 *Incentives:*
 The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). 
@@ -72,6 +68,9 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], open-source GPU evaluation platform. Please use the latest version (Version 3.2.2).
 - GPGPU-Sim Manual is [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual here].
 - Baseline GTX480 GPU configuration is [https://github.com/gpgpu-sim/gpgpu-sim_distribution/tree/master/configs/GTX480 here].
+- Greedy-then-Oldest (GTO) Warp Scheduler is a part of the GTX480 configuration and is already implemented in GPGPU-Sim. 
+- The metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 
+4) DRAM bandwidth utilization are already implemented in GPGPU-Sim. See GPGPU-Sim Manual for more details. 
 - Test applications: TBD
 
 == Submission
