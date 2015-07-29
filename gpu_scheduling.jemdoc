@@ -71,7 +71,7 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - Greedy-then-Oldest (GTO) Warp Scheduler is a part of the GTX480 configuration and is already implemented in GPGPU-Sim. 
 - The metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 
 4) DRAM bandwidth utilization are already implemented in GPGPU-Sim. See [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual GPGPU-Sim Manual] for more details. 
-- Test applications: TBD
+- Test applications: TBD. Please use CUDA 4.0 to compile the applications. 
 
 == Submission
 - *Phase-1: Write-up Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
