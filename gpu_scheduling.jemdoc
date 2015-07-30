@@ -52,10 +52,7 @@ revise their scheduler design code to become more competitive. We expect these c
 related to some optimizations with regard to their scheduler design. A complete change in the scheduler
 design is not acceptable.
 
-Please note that you are required to 
-use GPGPU-Sim version 3.2.2. If we cannot compile you code as is, we cannot evaluate your scheduler. 
-If you use a different version of GPGPU-Sim, we cannot fairly compare your scheduler with the schedulers
-developed by other contestants. So, it is *important* to use the same exact version (i.e., 3.2.2).
+Please note that you are again required to use the same GPGPU-Sim version 3.2.2. 
 
 *Evaluation of Schedulers:*
 The submitted source codes will be tested by the organizers on the applications recommended by us (see
@@ -79,12 +76,12 @@ All source code, final write-ups, and ranking results will be made publicly avai
 
 == Submission 
 - *Phase-1: Write-up and Code Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
-Dates below). In addition, code submission is *mandatory*. We will provide more details here on how to submit the code. 
+Dates below). Also, code submission is *mandatory*. We will provide more details here on how to submit the code. 
 
 - *Phase-2: Final Write-up and Code Submission*:
 Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. 
 Write-up length should not exceed *8* pages. Email your final write-up to all the organizers by the Phase-2 deadline (see Important
-Dates below). We will provide more details here on how to submit the final code.
+Dates below). We will provide more details here on how to submit the /final/ code.
 
 == Important Dates
 - Write-up and Code Submission /*(Phase 1)*/: Oct 5, 2015
