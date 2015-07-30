@@ -37,6 +37,11 @@ previously published design or make incremental enhancements to a previously pro
 
 Note that code submission is *required* in order to participate. Please refer to Submission section for more details. 
 
+Please note that you are required to 
+use GPGPU-Sim version 3.2.2. If we cannot compile you code as is, we cannot evaluate your scheduler. 
+If you use a different version of GPGPU-Sim, we cannot fairly compare your scheduler with the schedulers
+developed by other contestants. So, it is *important* to use the same exact version (i.e., 3.2.2).
+
 \n
 
 *\<span style=\"color: forestgreen\"\>Phase 2: Final Write-up and Code Submission\<\/span\>* \n
