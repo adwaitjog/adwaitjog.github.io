@@ -35,8 +35,7 @@ be evaluated based on the novelty, presentation of the results, and effectivenes
 on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her 
 previously published design or make incremental enhancements to a previously proposed design. 
 
-For the phase 1, code submission is *not* required. However, it is required that authors
-use GPGPU-Sim version 3.2.2 to implement their scheduler design. 
+Note that code submission is required in order to participate. Please refer to Submission section for more details. 
 
 \n
 
@@ -56,7 +55,7 @@ developed by other contestants. So, it is *important* to use the same exact vers
 *Evaluation of Schedulers:*
 The submitted source codes will be tested by the organizers on the applications recommended by us (see
 Simulation Infrastructure section below).
-The organizers may include some applications in the testing set that may not be known apriori to the 
+The organizers also plan to include some applications in the testing set that may not be known apriori to the 
 contestants. The final ranking of the schedulers will be based on performance (IPC). 
 
 *Incentives:*
@@ -73,17 +72,17 @@ All source code, final write-ups, and ranking results will be made publicly avai
 4) DRAM bandwidth utilization are already implemented in GPGPU-Sim. See [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual GPGPU-Sim Manual] for more details. 
 - Test applications: TBD. Please use CUDA 4.0 to compile the applications. 
 
-== Submission
-- *Phase-1: Write-up Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
-Dates below). Code submission is */not/* required at this stage.
+== Submission 
+- *Phase-1: Write-up and Code Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
+Dates below). In addition, code submission is *mandatory*. We will provide more details here on how to submit the code. 
 
 - *Phase-2: Final Write-up and Code Submission*:
 Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. 
 Write-up length should not exceed *8* pages. Email your final write-up to all the organizers by the Phase-2 deadline (see Important
-Dates below). In addition, code submission is *mandatory* at this stage. We will provide more details here on how to submit the code. 
+Dates below). We will provide more details here on how to submit the final code.
 
 == Important Dates
-- Write-up Submission /*(Phase 1)*/: Oct 5, 2015
+- Write-up and Code Submission /*(Phase 1)*/: Oct 5, 2015
 - Notification of Acceptance for /*Phase 1*/: Nov 2, 2015
 - Final Write-up and Code Submission /*(Phase 2)*/: Nov 16, 2015. 
 - Championship Dates: Dec 5 or Dec 6, 2015 
