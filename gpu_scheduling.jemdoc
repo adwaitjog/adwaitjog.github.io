@@ -117,5 +117,6 @@ For quicker responses, you may wish to keep the organizers on /cc/ with the subj
 prefixed by the tag "GPU-WSC:". For example, "GPU-WSC:<your-subject-here>"
 
 == Acknowledgments
+- Aamer Jaleel, MICRO 2015 Workshop Chair
 - Developers of [http://www.gpgpu-sim.org/ GPGPU-Sim]
 - Organizers of [http://www.cs.utah.edu/~rajeev/jwac12/ Memory Scheduling Championship]
