@@ -17,7 +17,7 @@ memory bandwidth utilization, hardware overheads etc.) on a common evaluation fr
 
 There are two following phases in the entire championship process:
 
-*\<span style=\"color: forestgreen\"\>Phase 1\<\/span\>* \n
+*\<span style=\"color: red\"\>Phase 1\<\/span\>* \n
 *1) Write-up Submission:* 
 Interested participants are invited to submit a write-up describing their GPU Warp scheduler design. This write-up 
 must clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
@@ -49,7 +49,7 @@ developed by other contestants. So, it is *important* to use the same exact vers
 
 \n
 
-*\<span style=\"color: forestgreen\"\>Phase 2\<\/span\>* \n
+*\<span style=\"color: red\"\>Phase 2\<\/span\>* \n
 The authors of the accepted write-ups will be required to submit their final write-ups along with the 
 updated files. In this phase, authors have an option to *incrementally*
 revise their scheduler design to become more competitive. We expect these changes to be only
