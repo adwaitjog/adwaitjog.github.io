@@ -54,17 +54,15 @@ The authors of the accepted write-ups will be required to submit their final wri
 updated files. In this phase, authors have an option to *incrementally*
 revise their scheduler design to become more competitive. We expect these changes to be only
 related to some optimizations with regard to their scheduler design. A complete change in the scheduler
-design is not acceptable.
+design is not acceptable. Please note that you are again required to use the same GPGPU-Sim version 3.2.2. 
 
-Please note that you are again required to use the same GPGPU-Sim version 3.2.2. 
-
-*Evaluation of Schedulers:*
+*\<span style=\"color: red\"\>Evaluation of Schedulers\<\/span\>* \n
 The submitted source codes will be tested by the organizers on the applications recommended by us (see
 Simulation Infrastructure section below).
 The organizers also plan to include some applications in the testing set that may not be known apriori to the 
 contestants. The final ranking of the schedulers will be based on performance (IPC). 
 
-*Incentives:*
+*\<span style=\"color: red\"\>Incentives\<\/span\>* \n
 The winner(s) will receive a trophy commemorating his/her triumph (OR some other prize to be determined later). 
 Authors of all the accepted write-ups will also be invited to present their papers at the workshop. 
 All source code, final write-ups, and ranking results will be made publicly available through this website. 
