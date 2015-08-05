@@ -55,7 +55,7 @@ design is not acceptable. Please note that you are again required to use the sam
 == Evaluation and Incentives
 
 *\<span style=\"color: red\"\>Evaluation of Schedulers\<\/span\>* \n
-The submitted source codes will be tested by the organizers on the applications recommended by us (see
+The submitted files will be tested by the organizers on the applications recommended by us (see
 Simulation Infrastructure section below).
 The organizers also plan to include some applications in the testing set that may not be known apriori to the 
 contestants. The final ranking of the schedulers will be based on performance (IPC).  In case performance of two 
