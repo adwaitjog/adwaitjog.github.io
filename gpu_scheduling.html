@@ -16,6 +16,7 @@ research topics. This workshop is organized around a competition for scheduling 
 This 1st GPU Warp/Wavefront Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
 in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
 memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework provided by the organizing committee. </p>
+<p><b><span style="color: red">This website contains the latest information regarding the championship</span></b> <br /></p>
 <h2>Recent News</h2>
 <ul>
 <li><p>Website is up</p>
@@ -23,14 +24,15 @@ memory bandwidth utilization, hardware overheads etc.) on a common evaluation fr
 </ul>
 <h2>The Championship Process</h2>
 <p>There are two following phases in the entire championship process:</p>
-<p><b><span style="color: forestgreen">Phase 1: Write-up Submission</span></b> <br />
-Interested participants are invited to submit a write-up describing their GPU Warp scheduler design. This write-up must 
-clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
+<p><b><span style="color: forestgreen">Phase 1</span></b> <br />
+<b>1) Write-up Submission:</b> 
+Interested participants are invited to submit a write-up describing their GPU Warp scheduler design. This write-up 
+must clearly demonstrate the idea, motivation, design trade-offs, and estimate the hardware overheads of their proposed 
 scheduler. In addition, write-up should provide details on the evaluation methodology and impact of their proposed 
 scheduler on four metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, 
 and 4) DRAM bandwidth utilization, in comparison to the Greedy-then-Oldest (GTO) GPU Warp Scheduler. The 
-comparison results should be described in the paper with the help of clearly visible graphs. Please refer to the 
-Simulation Infrastructure section for details regarding the simulation platform and applications. </p>
+comparison results should be described in the paper with the help of clearly visible graphs. Please refer 
+to the Simulation Infrastructure section for details regarding the simulation platform and applications. </p>
 <p>Note that, the primary metric to rank schedulers is performance (IPC). In case performance of two 
 schedulers are fairly close, we will use secondary metrics such as miss-rates, bandwidth utilization, 
 and hardware overheads for breaking the ties. </p>
@@ -38,17 +40,19 @@ and hardware overheads for breaking the ties. </p>
 be evaluated based on the novelty, presentation of the results, and effectiveness of the proposed scheduler 
 on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her 
 previously published design or make incremental enhancements to a previously proposed design. </p>
-<p>Note that code submission is <b>required</b> in order to participate. Please refer to Submission section for more details. </p>
+<p><b>2) File Submission:</b> 
+The authors are required to submit 
+source code, configuration files, output result files (dump the simulator output to a file), and a <i>diff</i> 
+of your code with the unmodified GPGPU-Sim version 3.2.2. </p>
 <p>Please note that you are required to 
 use GPGPU-Sim version 3.2.2. If we cannot compile you code as is, we cannot evaluate your scheduler. 
 If you use a different version of GPGPU-Sim, we cannot fairly compare your scheduler with the schedulers
 developed by other contestants. So, it is <b>important</b> to use the same exact version (i.e., 3.2.2).</p>
 <p><br /></p>
-<p><b><span style="color: forestgreen">Phase 2: Final Write-up and Code Submission</span></b> <br />
+<p><b><span style="color: forestgreen">Phase 2</span></b> <br />
 The authors of the accepted write-ups will be required to submit their final write-ups along with the 
-source code, configuration files, output result files (dump the simulator output to a file), and a <i>diff</i> 
-of your code with the unmodified GPGPU-Sim version 3.2.2. In this phase, authors have an option to <b>incrementally</b>
-revise their scheduler design code to become more competitive. We expect these changes to be only
+updated files. In this phase, authors have an option to <b>incrementally</b>
+revise their scheduler design to become more competitive. We expect these changes to be only
 related to some optimizations with regard to their scheduler design. A complete change in the scheduler
 design is not acceptable.</p>
 <p>Please note that you are again required to use the same GPGPU-Sim version 3.2.2. </p>
@@ -79,24 +83,24 @@ All source code, final write-ups, and ranking results will be made publicly avai
 </ul>
 <h2>Submission </h2>
 <ul>
-<li><p><b>Phase-1: Write-up and Code Submission</b>: Please use the <a href="http://www.acm.org/publications/article-templates/proceedings-template.html/">standard LaTeX or Word ACM templates</a>. Write-up length should not exceed <b>6</b> pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
-Dates below). Also, code submission is <b>mandatory</b>. We will provide more details here on how to submit the code. </p>
+<li><p><b>Phase-1 Submission</b>: Please use the <a href="http://www.acm.org/publications/article-templates/proceedings-template.html/">standard LaTeX or Word ACM templates</a>. Write-up length should not exceed <b>6</b> pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
+Dates below). Also, submission of files is <b>mandatory</b>. We will provide more details here on how those files. </p>
 </li>
 </ul>
 <ul>
-<li><p><b>Phase-2: Final Write-up and Code Submission</b>:
+<li><p><b>Phase-2 Submission</b>:
 Please use the <a href="http://www.acm.org/publications/article-templates/proceedings-template.html/">standard LaTeX or Word ACM templates</a>. 
 Write-up length should not exceed <b>8</b> pages. Email your final write-up to all the organizers by the Phase-2 deadline (see Important
-Dates below). We will provide more details here on how to submit the <i>final</i> code.</p>
+Dates below). We will provide more details here on how to submit the <i>final</i> updated files.</p>
 </li>
 </ul>
 <h2>Important Dates</h2>
 <ul>
-<li><p>Write-up and Code Submission <i><b>(Phase 1)</b></i>: Oct 5, 2015</p>
+<li><p>Phase-1 Submission: Oct 5, 2015</p>
 </li>
 <li><p>Notification of Acceptance for <i><b>Phase 1</b></i>: Nov 2, 2015</p>
 </li>
-<li><p>Final Write-up and Code Submission <i><b>(Phase 2)</b></i>: Nov 16, 2015. </p>
+<li><p>Phase-2 Submission: Nov 16, 2015. </p>
 </li>
 <li><p>Championship Dates: Dec 5 or Dec 6, 2015 </p>
 </li>
@@ -146,12 +150,12 @@ prefixed by the tag &ldquo;GPU-WSC:&rdquo;. For example, &ldquo;GPU-WSC:&lt;your
 </li>
 <li><p>Developers of <a href="http://www.gpgpu-sim.org/">GPGPU-Sim</a></p>
 </li>
-<li><p>Organizers of <a href="http://www.cs.utah.edu/~rajeev/jwac12/">Memory Scheduling Championship</a></p>
+<li><p>Organizers of Previous Championships </p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Last Updated 2015-07-31 19:42:04 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Last Updated 2015-08-05 10:25:12 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </div>
