@@ -8,10 +8,8 @@ This 1st GPU Warp/Wavefront Scheduling Championship (GPU-WSC) invites contestant
 in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
 memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework provided by the organizing committee. 
 
-*\<span style=\"color: blue\"\>This website contains the latest information regarding the championship.\<\/span\>* \n
-
 == Recent News
-- Website is up
+- *\<span style=\"color: blue\"\>This website contains the latest information regarding the championship.\<\/span\>* \n
 
 == The Championship Process
 
@@ -84,7 +82,7 @@ Dates below). Also, submission of files is *mandatory*. We will provide more det
 
 - *Phase-2 Submission*:
 Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. 
-Write-up length should not exceed *8* pages. Email your final write-up to all the organizers by the Phase-2 deadline (see Important
+Final Write-up length should not exceed *8* pages. Email your final write-up to all the organizers by the Phase-2 deadline (see Important
 Dates below). We will provide more details here on how to submit the /final/ updated files.
 
 == Important Dates
