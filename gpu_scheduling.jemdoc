@@ -6,7 +6,7 @@ The workshop on computer architecture competitions is a forum for holding contes
 research topics. This workshop is organized around a competition for scheduling algorithms for Graphics Processing Units (GPUs). 
 This 1st GPU Warp/Wavefront Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
 in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
-memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework provided by the organizing committee. 
+memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework. 
 
 == Recent News
 - *\<span style=\"color: blue\"\>This website contains the latest information regarding the championship.\<\/span\>* \n
