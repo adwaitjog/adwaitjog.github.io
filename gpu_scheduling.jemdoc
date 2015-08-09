@@ -48,7 +48,7 @@ If you use a different version of GPGPU-Sim, we cannot fairly compare your sched
 developed by other contestants. So, it is *important* to use the same exact version (i.e., 3.2.2).
 
 *\<span style=\"color: red\"\>Phase 2\<\/span\>* \n
-The authors of the accepted write-ups will be required to submit their final write-ups along with the 
+The authors of the accepted write-ups (from phase 1) will be required to submit their final write-ups along with the 
 updated files. In this phase, authors have an option to *incrementally*
 revise their scheduler design to become more competitive. We expect these changes to be only
 related to some optimizations with regard to their scheduler design. A complete change in the scheduler
