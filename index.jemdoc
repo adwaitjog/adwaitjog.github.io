@@ -27,11 +27,17 @@
 ==== ~~~[http://www.wm.edu/as/computerscience/ Department of Computer Science] 
 ==== ~~~126 McGlothlin-Street Hall
 ==== ~~~Williamsburg, VA 23187 
-==== ~~~{{<img src="email_icon.jpg"/ ALIGN=TOP>}}  /*adwait@cs.wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] 
-==== ~~~*\<span style=\"color: blue\"\>Looking for highly motivated students.\<\/span\>* \n
+==== ~~~{{<img src="email_icon.jpg"/ ALIGN=TOP>}}  /*adwait@cs.wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
 ~~~
 \n
 \n
+
+== Recent News
+- *\<span style=\"color: red\"\>NEW: Looking for highly motivated students.\<\/span\>* \n
+- I am one of the organizers of the [http://adwaitjog.github.io/gpu_scheduling.html 1st Warp Scheduling Championship] to be held in 
+conjunction with [http://www.microarch.org/micro48/ MICRO 2015, Waikiki, Hawaii]. Consider submitting your best scheduler!
+- Paper Accepted in [http://www.memsys.io/ MEMSYS 2015] 
+- Paper Accepted in ISCA 2015 
 
 I am starting a new computer architecture research group at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. Our goal 
 is to design future computing systems more energy-efficient, reliable, secure, capable, and useful.
@@ -42,12 +48,6 @@ security, and theory.
 
 Feel free to contact me if you are interested to know more or discuss the possibilities of joining my group. Also, feel free 
 to browse through my [http://adwaitjog.github.io/pubs.html publication list] and let me know if anything interests you.
-
-== Recent News
-- I am one of the organizers of the [http://adwaitjog.github.io/gpu_scheduling.html 1st Warp Scheduling Championship] to be held in 
-conjunction with [http://www.microarch.org/micro48/ MICRO 2015, Waikiki, Hawaii]. Consider submitting your best scheduler!
-- Paper Accepted in [http://www.memsys.io/ MEMSYS 2015] 
-- Paper Accepted in ISCA 2015 
 
 
 # 195, 225
