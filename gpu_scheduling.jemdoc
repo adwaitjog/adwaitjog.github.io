@@ -113,7 +113,9 @@ techniques (e.g., cache replacement, bypassing etc.) for getting better improvem
 
 
 == Questions?
-- Please contact the organizers with regard to any questions regarding the championship. 
+- Please contact the organizers with regard to any questions regarding the championship. Please
+email us with the subject prefixed by the tag "GPU-WSC:". For example, "GPU-WSC:<your-subject-here>"
+
 - If you run into any issues related to [http://www.gpgpu-sim.org/ GPGPU-Sim], please post it 
 on the Google group [http://groups.google.com/group/gpgpu-sim/ here]. Before posting, 
 please search in the group posts to see if your question has already been answered. 
