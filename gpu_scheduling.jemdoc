@@ -107,7 +107,7 @@ Dates below). We will provide more details here on how to submit the /final/ upd
 - Moin Qureshi (Georgia Tech)
 
 == Frequently Asked Questions
-- *Q1.* In addition to changing the baseline warp scheduling strategy, can I modify other management 
+*Q1.* In addition to changing the baseline warp scheduling strategy, can I modify other management 
 techniques (e.g., cache replacement, bypassing etc.) for getting better improvements?
 - Yes, you may. However, you will need approval from us. Please email the organizers about your situation.
 
