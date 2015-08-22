@@ -41,22 +41,23 @@ groups, but not more than 2 students are allowed to be in a group. \n
 - Phase 4 -- Final Project Report -- Finals Week
 
 == Semester Schedule
-~~~
-{}{raw}
-<table style="width:100%">
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
+<table data-toggle="table" data-url="data1.json" data-cache="false" data-height="299">
+    <thead>
+        <tr>
+            <th data-field="id">Item ID</th>
+            <th data-field="name">Item Name</th>
+            <th data-field="price">Item Price</th>
+        </tr>
+    </thead>
 </table>
-~~~
 
+
+~~~
+{}{table}{schedule}
+Lec. | Date | Agenda | Notes ||
+1 | 27 Aug | Introductions || Homework-0 out ||
+2 | 29 Aug |  || Homework-1 due |
+~~~
 
 == Student Accessibility Services 
 It is the policy of The College of William and Mary to accommodate 
