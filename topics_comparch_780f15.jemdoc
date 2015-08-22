@@ -42,12 +42,20 @@ groups, but not more than 2 students are allowed to be in a group. \n
 
 == Semester Schedule
 ~~~
-{}{table}{schedule}
-Lec. | Date | Agenda | Notes ||
-1 | 27 Aug | Introductions || Homework-0 out ||
-2 | 29 Aug |  || Homework-1 due |
+{}{raw}
+<table style="width:100%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
 ~~~
-
 
 
 == Student Accessibility Services 
