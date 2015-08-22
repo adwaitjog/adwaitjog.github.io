@@ -47,39 +47,18 @@ groups, but not more than 2 students are allowed to be in a group. \n
 <TABLE cellspacing=5 cellpadding=5 border=2>
 
 <tr><th>Date</th>
-  <th>Topic</th>
-  <th>Reading (Tucker &amp;Noonan)</th>
-  <th>HW out</th>
-  <th>HW in</th>
-  <th>Project Out</th>
-  <th>Project In</th>
+  <th>Agenda</th>
+  <th>Notes</th>
   </tr>
 
-<tr align=CENTER ><td valign=top>Jan 22&nbsp;</td>
-  <td valign=top><a href="slides/lecture1.pdf">Introduction</a></td>
-  <td valign=top>1</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
+<tr align=CENTER ><td valign=top>Aug 27&nbsp;</td>
+  <td valign=top>Introduction</a></td>
+  <td valign=top>HW 0 Out</td>
   </tr>
 
-
-<tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 27&nbsp;</td>
-  <td valign=top><a href="slides/lecture2.pdf">Grammars</a></td>
-  <td valign=top>2.1-2.2</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top><a href="projects/derive">derive </a>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
-  </tr> 
-<tr align=CENTER ><td valign=top>Jan 29&nbsp;</td>
-  <td valign=top><a href="slides/lecture3.pdf">Grammars & Syntax</a>&nbsp;</td>
-  <td valign=top>2.3-2.5</td>
-  <td valign=top><a href="hw/grammar">Grammar </a>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
-  <td valign=top>&nbsp;</td>
+<tr align=CENTER ><td valign=top>Aug 29&nbsp;</td>
+  <td valign=top>Introduction</a></td>
+  <td valign=top>HW 1 Due</td>
   </tr>
 
 </TABLE>
