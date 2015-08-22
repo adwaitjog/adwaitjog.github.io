@@ -2,11 +2,42 @@
 
 == Topics in Computer Architecture, Fall 2015 (CS 780 02)
 
+== General Information
+Time and Location: Tuesday/Thursday 3:30PM-4:50PM, Tucker Hall 222
+Instructor: [http://adwaitjog.github.io/ Adwait Jog]
+Office hours: By appointment, McGl 111
+Email: adwait@cs.wm.edu
 
+== Prerequisites
+Students are expected to have a good understanding of the basic
+computer organization and design. Please talk to me if you do not
+satisfy this requirement. 
 
+== Course Description
+This is a seminar-type graduate course, where
+we will discuss research papers on many
+different topics (e.g., cache/memory systems, scheduling, resource
+management, micro-architecture, emerging technologies/architectures)
+in the broad areas of computer architecture and systems.
+Students are expected to read a variety of
+papers, critique them, and present them in the front of the class. In
+addition, students are expected to complete a semester-long project.
 
+== Grade Distribution
+- In-Class Presentations: 30%
+- Paper critique: 20%
+- Semester Long Project: 50%
 
+==  Semester Long Project
+Students are expected to perform a semester-long research
+project. All projects need to be approved by me. Students can work in
+groups, but not more than 2 students are allowed to be in a group. 
+Project Timeline \n
 
+- Phase 1 -- Project Determination -- Mid Sept
+- Phase 2 -- Project Goals and Expectations -- Mid Oct
+- Phase 3 -- Motivation Results  -- Mid Nov
+- Phase 4 -- Final Project Report -- Finals Week
 
 == Student Accessibility Services 
 It is the policy of The College of William and Mary to accommodate 
