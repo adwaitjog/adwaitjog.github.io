@@ -42,16 +42,22 @@ groups, but not more than 2 students are allowed to be in a group. \n
 
 == Semester Schedule
 ~~~
-{}{raw}
-<table data-toggle="table" data-url="data1.json" data-cache="false" data-height="299">
-    <thead>
-        <tr>
-            <th data-field="id">Item ID</th>
-            <th data-field="name">Item Name</th>
-            <th data-field="price">Item Price</th>
-        </tr>
-    </thead>
-</table>
+{}{table}{lecture table}
+|				| Tuesday								| Thursday									| Friday ||
+September	| Week 1	| no class 								| Ch. 1.1,5-6 [files/lecture1_2.pdf slides] [files/lecture1.one lecture]	||
+| Week 2			| Ch. 1.2-4 [files/lecture2_2.pdf slides] [files/lecture2.one lecture]	| Ch. 2.1-3 [files/lecture3_2.pdf slides] [files/lecture3.one lecture]		||
+| Week 3			| Ch. 2.3-5 [files/lecture3_2.pdf slides] [files/lecture4.one lecture]	| class rescheduled								||
+October		| Week 4	| Ch. 3	[files/lecture5_2.pdf slides] [files/lecture5.one lecture]	| Ch. 3	[files/lecture6_2.pdf slides] ([files/lecture6.one .one]) ([files/demo6.zip matlab])| Ch. 4 [files/lecture7_2.pdf slides] [files/lecture7.one lecture]||
+| Week 5 			| Ch. 4	[files/lecture8_2.pdf slides] [files/lecture8.one lecture]	| Ch. 5	[files/lecture9_2.pdf slides] [files/lecture9.one lecture]		||
+| Week 6 			| Ch. 6	[files/lecture10.pdf notes]					| Ch. 7	[files/lecture11.pdf notes] ([files/lecture11.one .one])		||
+| Week 7 			| Review [files/lecture12.pdf notes]					| Midterm									||
+November	| Week 8 	| Fall Break								| Fall Break									||
+| Week 9 			| Speech ([files/demo12.zip matlab]) / Ch. 9	([files/lecture13.pdf .pdf] [files/lecture13.one .one])								| Ch. 9	([files/lecture14.pdf .pdf] [files/lecture14.one .one])									||
+| Week 10 			| Ch. 9	([files/lecture15.pdf .pdf] [files/lecture15.one .one])								| Ch. 9	([files/lecture16.pdf .pdf])									||
+| Week 11 			| Ch. 9-10	([files/lecture17.pdf .pdf])							| Thanksgiving									||
+December 	| Week 12 	| Ch. 10	([files/lecture18.pdf .pdf])								| Ch. 10-11	([files/lecture19.pdf .pdf])									||
+| Week 13 			| Ch. 11 	([files/lecture20.pdf .pdf])									| Ch. 11 	([files/lecture21.pdf .pdf])										||
+| Week 14 			| Ch. 11 / Wavelet Transform 	([files/lecture22.pdf .pdf])									| Wavelet / Linear Algebra - DFT 	([files/lecture23.pdf .pdf])
 ~~~
 
 == Student Accessibility Services 
