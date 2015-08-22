@@ -1,3 +1,5 @@
+# jemdoc: addcss{bootstrap/css/bootstrap.css}
+
 == Topics in Computer Architecture, Fall 2015 (CS 780 02)
 
 == General Information
