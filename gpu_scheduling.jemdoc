@@ -76,7 +76,8 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - Greedy-then-Oldest (GTO) Warp Scheduler is a part of the GTX480 configuration and is already implemented in GPGPU-Sim. 
 - The metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 
 4) DRAM bandwidth utilization are already implemented in GPGPU-Sim. See [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual GPGPU-Sim Manual] for more details. 
-- Test applications: TBD. Please use CUDA 4.0 to compile the applications. 
+- Test applications: BFS, BlackScholes, Fast Walsh Transform, Neural Network, MUMerGPU, Lapalace transform, B+tree (Rodinia), 
+Backpropogation (Rodinia), Hotspot (Rodinia). We will release the benchmark code soon for your convenience. Please use CUDA 4.0 to compile the applications. 
 
 == Submission 
 - *Phase-1 Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
@@ -99,7 +100,12 @@ Dates below). We will provide more details here on how to submit the /final/ upd
 - [https://www.ece.ubc.ca/~tgrogers/ Tim Rogers], Purdue (Email: timrogers@gmail.com)
 
 == Program Committee 
-- TBD
+- Evgeny Bolotin (NVIDIA)
+- Nilanjan Goswami (Apple)
+- Zvika Guz (Samsung)
+- Xipeng Shen (NCSU)
+- Carole Jean Wu (Arizona State)
+- More members to join..
 
 == JWAC Steering Committee 
 - Alaa R. Alameldeen (Intel)
@@ -121,6 +127,12 @@ on the Google group [http://groups.google.com/group/gpgpu-sim/ here]. Before pos
 please search in the group posts to see if your question has already been answered. 
 For quicker responses, you may wish to keep the organizers on /cc/ with the subject
 prefixed by the tag "GPU-WSC:". For example, "GPU-WSC:<your-subject-here>"
+
+
+#TRA
+
+
+
 
 == Acknowledgments
 - Aamer Jaleel, MICRO 2015 Workshop Chair
