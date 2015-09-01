@@ -3,15 +3,15 @@
 == General Information
 - Time and Location: Tuesday/Thursday 3:30PM-4:50PM, Tucker Hall 222
 - Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
-- Office hours: Tues/Thu 2--3:30pm or by appointment, McGl 111
+- Office hours: Tues/Thu 10:30AM-noon or by appointment, McGl 111
 - Email: adwait@cs.wm.edu \n
 - Deadlines: Sep 4 (add/drop deadline) and Oct 23 (withdraw deadline)
 - *\<span style=\"color: blue\"\> Please keep checking this website for the latest information regarding the course. \<\/span\>* \n
 
 == Prerequisites
 Students are expected to have a good understanding of the basic
-computer organization and design. Please talk to the instructor if you do not
-satisfy this requirement. 
+computer organization and design. Please talk to the instructor if 
+you do not satisfy this requirement. 
 
 == Course Description
 This is a seminar-type graduate course, where
@@ -34,7 +34,7 @@ addition, students are expected to complete a semester-long research project.
 - Semester-long Research Project Report Submissions need to be emailed to the instructor. 
 - Final Grade submission via Banner.
 
-== In-Class Presentations, Paper Critiques, and Homeworks
+== In-Class Presentations 
 Each student will present three to four papers throughout the semester. When you 
 present a paper, be prepared to answer a variety of questions asked by the instructor 
 or other fellow students. The goal is to make class lively. If you plan to audit the 
@@ -42,6 +42,11 @@ course, you are required to present at least two papers. A list of papers will b
 to students. They can choose from that list or come up with their own suggestions. Suggestions
 would need approval from the instructor. 
 
+Duration of each Class is 80 min. I expect students to first present necessary background (~ 15 min)
+and then paper details (~ 25 min). The remaining (~ 40 min) will be reserved for discussions driven 
+by the fellow students and instructor. In short, we brainstrom one paper (and associated issues) per class.
+
+== Paper Critiques and Homeworks
 All students are required to submit a detailed critique for each paper we discuss 
 in the class. To learn the background material related to each new topic, 
 some homeworks will also be given. /No collaboration is allowed on critiques and homeworks./
@@ -54,7 +59,7 @@ in a single group. Please contact the instructor early to brainstrom
 potential project topics. \n
 \n
 *Project Timeline* \n
-- Phase 1 -- Project Determination /(Deadline: Mid Sept)/
+- Phase 1 -- Project Determination /(Deadline: Sept. 22)/
 - Phase 2 -- Project Goals, Expectations, and Infrastructure Setup /(Deadline: Mid Oct)/
 - Phase 3 -- Motivation Results  /(Deadline: Mid Nov)/
 - Phase 4 -- Final Project Report /(Deadline: Finals Week)/
