@@ -102,11 +102,11 @@ potential project topics. \n
   <td valign=top>HW 0 Due, HW1 Out</td>
   </tr>
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 3&nbsp;</td>
-  <td valign=top>Overview: Accelerators. </a></td>
+  <td valign=top>Overview: Simulators, Accelerators (contd.). </a></td>
   <td valign=top>Sep 4 is add/drop deadline</td>
   </tr>
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 8&nbsp;</td>
-  <td valign=top> </a></td>
+  <td valign=top>Overview: Accelerators (contd.), Approx Computing </a></td>
   <td valign=top>&nbsp;</td>
   </tr>
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 10&nbsp;</td>
@@ -127,7 +127,19 @@ potential project topics. \n
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 24&nbsp;</td>
   <td valign=top>&nbsp;</td>
+  <td valign=top>&nbsp;</td>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 29&nbsp;</td>
+  <td valign=top>&nbsp;</td>
   <td valign=top>In-class Presentations Start</td>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 1&nbsp;</td>
+  <td valign=top>&nbsp;</td>
+  <td valign=top>&nbsp;</td>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 6&nbsp;</td>
+  <td valign=top>&nbsp;</td>
+  <td valign=top>Skype Class, Instructor on Travel</td>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 8&nbsp;</td>
+  <td valign=top>&nbsp;</td>
+  <td valign=top>Class Canceled, Instructor on Travel</td>
   </tr>
 </TABLE>
 
@@ -138,7 +150,7 @@ potential project topics. \n
 - Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
 \n
 \n
-*Popular Simulators* \n
+*Useful Simulators* \n
 - [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
