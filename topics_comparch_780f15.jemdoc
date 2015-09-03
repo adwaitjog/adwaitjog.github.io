@@ -136,6 +136,8 @@ potential project topics. \n
 
 == Reading List and Other Resources
 - Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
+\n
+\n
 *Popular Simulators* \n
 - [http://gem5.org/Main_Page GEM5, A Full System CPU Simulator]
 - [http://www.gpgpu-sim.org/ GPGPU-Sim, A GPU Simulator]. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch, GPU Power Model]
