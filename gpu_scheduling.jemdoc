@@ -81,7 +81,7 @@ Backpropogation (Rodinia), Hotspot (Rodinia). We will release the benchmark code
 
 == Submission 
 - *Phase-1 Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
-Dates below). Also, submission of files is *mandatory*. We will provide more details here on how those files. 
+Dates below). Also, submission of files is *mandatory*. We will provide more details here on how to submit those files. 
 
 - *Phase-2 Submission*:
 Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. 
@@ -100,12 +100,12 @@ Dates below). We will provide more details here on how to submit the /final/ upd
 - [https://www.ece.ubc.ca/~tgrogers/ Tim Rogers], Purdue (Email: timrogers@gmail.com)
 
 == Program Committee 
-- Evgeny Bolotin (NVIDIA)
+- Evgeny Bolotin (NVIDIA Research)
 - Nilanjan Goswami (Apple)
 - Zvika Guz (Samsung)
+- Mike O'Connor (NVIDIA Research)
 - Xipeng Shen (NCSU)
 - Carole Jean Wu (Arizona State)
-- More members to join..
 
 == JWAC Steering Committee 
 - Alaa R. Alameldeen (Intel)
@@ -130,8 +130,6 @@ prefixed by the tag "GPU-WSC:". For example, "GPU-WSC:<your-subject-here>"
 
 
 #TRA
-
-
 
 
 == Acknowledgments
