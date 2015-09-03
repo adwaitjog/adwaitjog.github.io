@@ -101,12 +101,10 @@ potential project topics. \n
   Near Data Computing. </a></td>
   <td valign=top>HW 0 Due, HW1 Out</td>
   </tr>
-
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 3&nbsp;</td>
   <td valign=top>Overview: Accelerators. </a></td>
   <td valign=top>Sep 4 is add/drop deadline</td>
   </tr>
-
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 8&nbsp;</td>
   <td valign=top> </a></td>
   <td valign=top>&nbsp;</td>
@@ -136,9 +134,15 @@ potential project topics. \n
 </center>
 ~~~
 
-== References
-- Reading List List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here]. 
-- Links to papers and other resources will be added here
+== Reading List and Other Resources
+- Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here]. 
+*Popular Simulators* \n
+- GEM5
+- GPGPU-Sim
+- Sniper
+
+
+-- 
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
