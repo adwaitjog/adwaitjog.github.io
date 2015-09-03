@@ -137,9 +137,11 @@ potential project topics. \n
 == Reading List and Other Resources
 - Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here]. 
 *Popular Simulators* \n
-- GEM5
-- GPGPU-Sim
-- Sniper
+- [http://gem5.org/Main_Page GEM5, A Full System CPU Simulator]
+- [http://www.gpgpu-sim.org/ GPGPU-Sim, A GPU Simulator]. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch, GPU Power Model]
+- [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper, A Parallel/Fast CPU Simulator]
+- [https://code.google.com/p/cpugpusim/ A Trace/Execution Drive CPU-GPU Heterogeneous Architecture Simulator]
+- [https://github.com/adwaitjog/mafia, A GPU Simulator capable of running Multiple Apps (Based on GPGPU-Sim), coming soon]
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
