@@ -94,11 +94,13 @@ to brainstorm potential project ideas. \n
 
 *Only for In-Class Presentations:*  Ideally, the instructor wants every​ ​student to choose a 
 different topic for in-class presentations. To achieve this, the instructor asks for 
-three topic preferences (in order) from every student. Deadline to give preferences is *Sept 22*\n
+three topic preferences (in order) from every student. Deadline to give preferences (via email) is *Sept 22*\n
 
 *Only for Project:* Students are free to choose any project topic area(s). Their project can also
 cross different topics. Again, please contact the instructor early to brainstorm potential project ideas.
-Deadline to determine project topic area is also *Sept 22*\n
+Deadline to determine project topic area is also *Sept 22* Please send an email to the instructor by the deadline containing:
+1) Project Name (think of this your paper/report title), 2) Problem Statement, 3) Expected Infrastructure Paltform Required, 
+4) Possible Outcomes and Deliverables. \n
 
 == Reading List and Other Resources
 - Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
@@ -109,7 +111,6 @@ Deadline to determine project topic area is also *Sept 22*\n
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
 - [https://code.google.com/p/cpugpusim/ CPU-GPU Simulator], A Trace/Execution Drive CPU-GPU Heterogeneous Architecture Simulator
-
 
 == Semester Schedule
 
