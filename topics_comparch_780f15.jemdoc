@@ -24,8 +24,8 @@ papers, critique them, and present them in the front of the class. In
 addition, students are expected to complete a semester-long research project.
 
 == Grade Distribution
-- In-Class Presentations: 30%
 - Paper critiques and homeworks: 20%
+- In-Class Presentations: 30%
 - Semester-long Research Project: 50%
 
 == Submissions
@@ -33,20 +33,6 @@ addition, students are expected to complete a semester-long research project.
 - In-Class Presentations will be uploaded on Blackboard.
 - Semester-long Research Project Report Submissions need to be emailed to the instructor. 
 - Final Grade submission via Banner.
-
-== In-Class Presentations 
-Each student will present a maximum of three papers throughout the semester. 
-If you plan to audit the course, you are required to present at least two papers.
-When you 
-present a paper, be prepared to answer a variety of questions asked by the instructor 
-or other fellow students. The goal is to make class lively. A list of papers will be provided
-to students. They can choose from that list or come up with their own suggestions. Suggestions
-would need approval from the instructor. 
-
-Duration of each class is 80 min. I expect students to first present necessary background (\~15 min)
-and then paper details (\~25 min). The remaining (\~40 min) will be reserved for discussions driven 
-by the fellow students and the instructor. In short, we brainstorm one paper (including associated issues) 
-per class.
 
 == Paper Critiques and Homeworks
 All students are required to submit a detailed critique for each paper we discuss 
@@ -64,18 +50,50 @@ some homeworks will also be given.
 
 /No collaboration is allowed on critiques and homeworks./
 
+== In-Class Presentations 
+Each student will present a maximum of three papers throughout the semester. 
+If you plan to audit the course, you are required to present at least two papers.
+When you 
+present a paper, be prepared to answer a variety of questions asked by the instructor 
+or other fellow students. The goal is to make class lively. A list of papers will be provided
+to students. They can choose from that list or come up with their own suggestions. Suggestions
+would need approval from the instructor. 
+
+Duration of each class is 80 min. I expect students to first present necessary background (\~15 min)
+and then paper details (\~25 min). The remaining (\~40 min) will be reserved for discussions driven 
+by the fellow students and the instructor. In short, we brainstorm one paper (including associated issues) 
+per class.
+
 ==  Semester-Long Research Project
 Students are expected to perform a semester-long research
 project. All projects need to be approved by the instructor. Students can 
 work in groups if they wish, but not more than *2* students are allowed to be 
-in a single group. Please contact the instructor early to brainstorm 
-potential project topics. \n
+in a single group.  If two people choose to work on the same project, I 
+the instructor will a list of individual contributions made by each of you two, 
+when you submit your final report. Please contact the instructor early 
+to brainstorm potential project topics. \n
 \n
 *Project Timeline* \n
 - Phase 1 -- Project Determination /(Deadline: Sept. 22)/
 - Phase 2 -- Project Goals, Expectations, and Infrastructure Setup /(Deadline: Mid Oct)/
 - Phase 3 -- Motivation Results  /(Deadline: Mid Nov)/
 - Phase 4 -- Final Project Report /(Deadline: Finals Week)/
+
+== In-Class and Project Topics 
+- Core Design
+- Memory Systems 
+- Near-Data Computing
+- Accelerators 
+- Approximate Computing
+- Emerging Memory/Storage Technologies
+- Mobile Architectures
+- Data Center Architectures
+- Emerging Architectures: Quantum and DNA Architectures
+- Hardware Security
+- Reliability and Dependable Systems
+
+*For In-Class Presentations* \n
+*For Projects* \n
 
 == Semester Schedule
 
@@ -142,7 +160,7 @@ potential project topics. \n
   <td valign=top>Instructor on Travel</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 8&nbsp;</td>
-  <td valign=top>Class Canceled</td>
+  <td valign=top>Class Cancelled</td>
   <td valign=top>Instructor on Travel</td>
   </tr>
 </TABLE>
