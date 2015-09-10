@@ -109,6 +109,7 @@ Deadline to determine project topic area is also *Sept 22* \n
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
 - [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Drive CPU-GPU Heterogeneous Architecture Simulator
+- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Semester Schedule
 
@@ -143,11 +144,11 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>&nbsp;</td>
   </tr>
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 10&nbsp;</td>
-  <td valign=top>&nbsp;</td>
+  <td valign=top>Overview: Approx Computing </a></td>
   <td valign=top>&nbsp;</td>
   </tr>
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 15&nbsp;</td>
-  <td valign=top>&nbsp;</td>
+  <td valign=top>Overview: Emerging Memory Technology </a></td>
   <td valign=top>HW1 Due</td>
   </tr>
 <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 17&nbsp;</td>
