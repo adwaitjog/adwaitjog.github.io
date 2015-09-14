@@ -77,7 +77,9 @@ All source code, final write-ups, and ranking results will be made publicly avai
 - The metrics: 1) IPC, 2) L1 miss-rates (all three caches: data, texture, constant), 3) L2 miss-rates, and 
 4) DRAM bandwidth utilization are already implemented in GPGPU-Sim. See [http://gpgpu-sim.org/manual/index.php/GPGPU-Sim_3.x_Manual GPGPU-Sim Manual] for more details. 
 - Test applications: BFS, BlackScholes, Fast Walsh Transform, Neural Network, MUMerGPU, Lapalace transform, B+tree (Rodinia), 
-Backpropogation (Rodinia), Hotspot (Rodinia). We will release the benchmark code soon for your convenience. Please use CUDA 4.0 to compile the applications. 
+Backpropogation (Rodinia), Hotspot (Rodinia). Please use CUDA 4.0 to compile the applications. 
+We will release the benchmark code VERY soon.
+
 
 == Submission 
 - *Phase-1 Submission*: Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the Phase-1 deadline (see Important
@@ -98,6 +100,7 @@ Dates below). We will provide more details here on how to submit the /final/ upd
 - [http://adwaitjog.github.io/ Adwait Jog], College of William and Mary (Email: adwait@cs.wm.edu)
 - [http://www.cse.psu.edu/~oik5019/ Onur Kayiran], AMD Research (Email: onur.kayiran@amd.com)
 - [https://www.ece.ubc.ca/~tgrogers/ Tim Rogers], Purdue (Email: timrogers@gmail.com)
+- [http://ashutoshpattnaik.github.io/ Ashutosh Pattnaik] (Submission Chair), Penn State (Email: ashutosh@cse.psu.edu)
 
 == Program Committee 
 - Evgeny Bolotin (NVIDIA Research)
