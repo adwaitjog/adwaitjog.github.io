@@ -108,7 +108,8 @@ Deadline to determine project topic area is also *Sept 22* \n
 - [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
-- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Drive CPU-GPU Heterogeneous Architecture Simulator
+- [https://github.com/s5z/zsim Z-sim], Another Fast CPU Simulator
+- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Semester Schedule
@@ -160,15 +161,15 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>Project Determination and In-Class Presentation Topic Selection Deadline</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 24&nbsp;</td>
-  <td valign=top>Presenter: </td>
+  <td valign=top>Presenter: James Bieron, Paper: [P1] </td>
   <td valign=top>In-class Presentations Start</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 29&nbsp;</td>
-  <td valign=top>Presenter: </td>
+  <td valign=top>Presenter: Shengye Wan, Paper: [P2]</td>
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 1&nbsp;</td>
-  <td valign=top>Presenter: </td>
+  <td valign=top>Presenter: Qingsen Wang, Paper: [P3], Paper: [P2]</td>
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 6&nbsp;</td>
@@ -183,6 +184,11 @@ Deadline to determine project topic area is also *Sept 22* \n
 
 </center>
 ~~~
+
+== Readings
+- [P1]: MorphCore: An Energy-Efficient Microarchitecture for High Performance ILP and High Throughput TLP, MICRO 2012
+- [P2]: Memory Performance Attacks, USENIX Security 2007
+- [P3]: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
