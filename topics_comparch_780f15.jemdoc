@@ -169,7 +169,7 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 1&nbsp;</td>
-  <td valign=top>Presenter: Qingsen Wang, Paper: [P3], Paper: [P2]</td>
+  <td valign=top>Presenter: Qingsen Wang, Paper: [P3]</td>
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 6&nbsp;</td>
@@ -186,9 +186,9 @@ Deadline to determine project topic area is also *Sept 22* \n
 ~~~
 
 == Readings
-- [P1]: MorphCore: An Energy-Efficient Microarchitecture for High Performance ILP and High Throughput TLP, MICRO 2012
-- [P2]: Memory Performance Attacks, USENIX Security 2007
-- [P3]: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
+- *P1*: MorphCore: An Energy-Efficient Microarchitecture for High Performance ILP and High Throughput TLP, MICRO 2012
+- *P2*: Memory Performance Attacks, USENIX Security 2007
+- *P3*: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
