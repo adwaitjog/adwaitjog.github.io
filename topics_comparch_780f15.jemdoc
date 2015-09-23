@@ -37,7 +37,7 @@ addition, students are expected to complete a semester-long research project.
 == Paper Critiques and Homeworks
 All students are required to submit a detailed critique for each paper we discuss 
 in the class. However, the student who presents the paper in-class is not required
-to submit the critque for that particular paper. *Deadline for critique submission
+to submit the critique for that particular paper. *Deadline for critique submission
 is one week from when the paper is discussed completely in the class.* 
 
 *Submission Format:* Each critique should not exceed one-page and must consists of four 
@@ -101,7 +101,7 @@ cross different topics. Again, please contact the instructor early to brainstorm
 Deadline to determine project topic area is also *Sept 22* \n
 
 == Reading List and Other Resources
-- Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
+- Complete Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
 \n
 \n
 *Useful Simulators* \n
@@ -186,7 +186,7 @@ Deadline to determine project topic area is also *Sept 22* \n
 ~~~
 
 == Readings
-- *P1*: MorphCore: An Energy-Efficient Microarchitecture for High Performance ILP and High Throughput TLP, MICRO 2012
+- *P1*: MorphCore: An Energy-Efficient Micro-architecture for High Performance ILP and High Throughput TLP, MICRO 2012
 - *P2*: Memory Performance Attacks, USENIX Security 2007
 - *P3*: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
 
