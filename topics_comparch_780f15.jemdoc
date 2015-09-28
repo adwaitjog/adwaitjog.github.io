@@ -111,7 +111,7 @@ Deadline to determine project topic area is also *Sept 22* \n
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
 - [https://github.com/s5z/zsim zsim], Another Fast CPU Simulator
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
-- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (GPU model is AMD-style)
+- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
 - [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
