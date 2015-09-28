@@ -104,11 +104,14 @@ Deadline to determine project topic area is also *Sept 22* \n
 - Complete Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
 \n
 \n
-*Useful Simulators* \n
+*Useful Simulators/Tools* \n
 - [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
-- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator. Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [http://marss86.org/~marss86/index.php/Home MARSSx86], A Full System CPU Simulator
+- [http://www.hpl.hp.com/research/mcpat/ McPAT], A power, area, and timing modeling framework
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
 - [https://github.com/s5z/zsim zsim], Another Fast CPU Simulator
+- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (GPU model is AMD-style)
 - [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
