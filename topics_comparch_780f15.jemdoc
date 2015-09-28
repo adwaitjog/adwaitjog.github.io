@@ -173,7 +173,7 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 6&nbsp;</td>
-  <td valign=top>Presenter:  </td>
+  <td valign=top>Presenter: Rongdong Chai, Paper: [P4]</td>
   <td valign=top>Instructor on Travel</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 8&nbsp;</td>
@@ -186,7 +186,7 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 15&nbsp;</td>
-  <td valign=top>Presenter:  </td>
+  <td valign=top>Presenter: Haonan Wang, Paper: [P5]</td>
   <td valign=top>&nbsp;</td>
   </tr>
 </TABLE>
@@ -198,6 +198,8 @@ Deadline to determine project topic area is also *Sept 22* \n
 - *P1*: MorphCore: An Energy-Efficient Micro-architecture for High Performance ILP and High Throughput TLP, MICRO 2012
 - *P2*: Memory Performance Attacks, USENIX Security 2007
 - *P3*: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
+- *P4*: Scheduling Heterogeneous Multi-Cores through Performance Impact Estimation (PIE), ISCA 2012
+- *P5*: A Locality-Aware Memory Hierarchy for Energy-Efficient GPU Architectures, MICRO 2013
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
