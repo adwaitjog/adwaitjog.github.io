@@ -192,6 +192,10 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>Presenter: Haonan Wang, Paper: [P5]</td>
   <td valign=top>&nbsp;</td>
   </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 15&nbsp;</td>
+  <td valign=top>Presenter: Lihua Ren, Paper: [P6]</td>
+  <td valign=top>&nbsp;</td>
+  </tr>
 </TABLE>
 
 </center>
@@ -203,6 +207,7 @@ Deadline to determine project topic area is also *Sept 22* \n
 - *P3*: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
 - *P4*: Scheduling Heterogeneous Multi-Cores through Performance Impact Estimation (PIE), ISCA 2012
 - *P5*: A Locality-Aware Memory Hierarchy for Energy-Efficient GPU Architectures, MICRO 2013
+- *P6*: Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters, ASPLOS 2013
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
