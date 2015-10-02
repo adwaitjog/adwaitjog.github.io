@@ -196,6 +196,10 @@ Deadline to determine project topic area is also *Sept 22* \n
   <td valign=top>Presenter: Lihua Ren, Paper: [P6]</td>
   <td valign=top>&nbsp;</td>
   </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 22&nbsp;</td>
+  <td valign=top>Presenter: Fan Luo, Paper: [P7]</td>
+  <td valign=top>&nbsp;</td>
+  </tr>
 </TABLE>
 
 </center>
@@ -208,6 +212,7 @@ Deadline to determine project topic area is also *Sept 22* \n
 - *P4*: Scheduling Heterogeneous Multi-Cores through Performance Impact Estimation (PIE), ISCA 2012
 - *P5*: A Locality-Aware Memory Hierarchy for Energy-Efficient GPU Architectures, MICRO 2013
 - *P6*: Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters, ASPLOS 2013
+- *P7*: WebCore: Architectural Support for Mobile Web Browsing, ISCA 2014
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
