@@ -1,0 +1,7 @@
+@inproceedings{anatomy-mulapp,
+  author    = {Adwait Jog and Onur Kayiran and Tuba Kesten and Ashutosh Pattnaik and Evgeny Bolotin and
+   Nilardish Chatterjee and Steve Keckler and Mahmut T. Kandemir and Chita R. Das},
+  title     = {{Anatomy of GPU Memory System for Multi-Application Execution}},
+  booktitle = {MEMSYS},
+  year      = {2015},
+}

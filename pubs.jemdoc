@@ -23,7 +23,9 @@
 
 === 
 *\<span style=\"color: forestgreen\"\>(MEMSYS 2015)\<\/span\>* 
-\[[docs/Anatomy-Memsys-2015.pdf PDF]] \n
+\[[docs/Anatomy-Memsys-2015.pdf PDF]] 
+\[[docs/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
+\[[docs/Anatomy-Memsys-2015-bib.txt BibTeX]] \n 
 *Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
 [docs/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
@@ -34,7 +36,10 @@ Evgeny Bolotin, Zvika Guz, *Adwait Jog*, Stephen W. Keckler, Mike Parker, \n
 United States Patent Application US20150163324 A1 \n
 
 *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* 
-\[[docs/CABA-ISCA-2015.pdf PDF]] \n
+\[[docs/CABA-ISCA-2015.pdf PDF]] 
+\[[docs/CABA-ISCA-2015.pptx Talk (PPTX)]]
+\[[docs/CABA-ISCA-2015-trailer.pptx Lightning]] 
+\[[docs/CABA-ISCA-2015-bib.txt BibTeX]] \n 
 Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, 
 Mahmut Kandemir, Todd Mowry, Onur Mutlu, \n
 [docs/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
