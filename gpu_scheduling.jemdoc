@@ -33,7 +33,7 @@ schedulers are fairly close, we will use secondary metrics such as miss-rates, b
 and hardware overheads for breaking the ties. 
 
 The Program Committee chaired by the organizers will review the submitted write-ups. The submission will 
-be evaluated based on novelty, presentation of the results, and effectiveness of the proposed scheduler 
+be evaluated based on the presentation of the results and effectiveness of the proposed scheduler 
 on different metrics. Novelty is not a strict requirement, for example, a contestant may submit his/her 
 previously published design or make incremental enhancements to a previously proposed design. 
 
