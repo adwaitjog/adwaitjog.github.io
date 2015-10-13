@@ -27,13 +27,15 @@
 \[[docs/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
 \[[docs/Anatomy-Memsys-2015-bib.txt BibTeX]]
 \[[https://github.com/adwaitjog/mafia Code (Beta Version)]] \n 
-*Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
+*Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
+Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
 [docs/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
 
 *\<span style=\"color: forestgreen\"\>(US Patent App)\<\/span\>* \n
 Evgeny Bolotin, Zvika Guz, *Adwait Jog*, Stephen W. Keckler, Mike Parker, \n
-[http://www.freepatentsonline.com/y2015/0163324.html /Approach to Adpative Allocation of Shared Resources in Computer Systems/], \n
+[http://www.freepatentsonline.com/y2015/0163324.html /Approach to Adpative Allocation of 
+Shared Resources in Computer Systems/], \n
 United States Patent Application US20150163324 A1 \n
 
 *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* 
