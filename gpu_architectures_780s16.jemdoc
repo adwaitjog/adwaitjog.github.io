@@ -1,0 +1,137 @@
+== Topics in Computer Architecture, Fall 2015 (CS 780 02)
+
+== General Information
+- Time and Location: Tuesday/Thursday 3:30PM-4:50PM, Washington Hall 310
+- Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
+- Office hours: Tues/Thu 10:30AM-noon or by appointment, McGl 111
+- Email: adwait@cs.wm.edu \n
+- Deadlines: Jan XX (add/drop deadline) and Mar XX (withdraw deadline)
+- *\<span style=\"color: blue\"\> Please keep checking this website for the latest information regarding the course. \<\/span\>* \n
+
+== Prerequisites
+Students are expected to have a good understanding of the basic
+computer organization and design. Please talk to the instructor 
+if you do not satisfy this requirement. 
+
+== Course Description
+This course provides an in-depth understanding of the architectural and micro-architectural details 
+of a general purpose graphics processing unit (GPU). It also provides an in-depth coverage of 
+important research issues associated with GPU computing by covering a range of latest papers 
+that have appeared in leading international journals and conferences. Students are expected 
+to read a variety of papers, critique them, and present them in the front of the class. 
+In addition, students are expected to complete a semester-long research project. 
+
+== Grade Distribution
+- Semester-long Research Project: 50%
+- Coding-based Assignments: 20%
+- Paper critiques: 15%
+- In-Class Presentations: 15%
+
+== Submissions
+- Critique and Homework Submissions via Email.
+- In-Class Presentations will be uploaded on the Box folder (shared with students).
+- Semester-long Research Project Report Submissions need to be emailed to the instructor. 
+- Final Grade submission via Banner.
+
+== Paper Critiques 
+All students are required to submit a detailed critique for each paper we discuss 
+in the class. However, the student who presents the paper in-class is not required
+to submit the critique for that particular paper. *Deadline for critique submission
+is one week from when the paper is discussed completely in the class. Please submit
+them in the PDF format.* 
+
+*Submission Format:* Each critique should not exceed one-page and must consists of four 
+sections: 1) paper summary (2-3 lines), 2) strengths (2-3 lines), 3) weaknesses (2-3 lines), 
+and 4) detailed comments (rest of the page). More details are already discussed in class 
+and associated slides are submitted to the box folder (shared with students).
+
+/No collaboration is allowed on critiques./
+
+== In-Class Presentations 
+Each student will present a maximum of two papers throughout the semester. 
+If you plan to audit the course, you are required to present at least two papers. When you 
+present a paper, be prepared to answer a variety of questions asked by the instructor 
+or other fellow students. The goal is to make class lively. A list of papers will be provided
+to students. They can choose from that list or come up with their own suggestions. Suggestions
+would need approval from the instructor. 
+
+*In-Class Paper Presentations:* I expect students to first present necessary 
+background (\~15 minutes) and then paper details (\~25 minutes). The remaining
+time will be for discussion driven by the fellow students and the instructor.\n
+
+==  Semester-Long Research Project
+Students are expected to perform a semester-long research
+project. All projects need to be approved by the instructor. Students can 
+work in groups if they wish, but not more than *2* students are allowed to be 
+in a single group.  If two people choose to work on the same project, 
+the instructor will need a list of individual contributions made by each of you two, 
+when you submit your final report. Please contact the instructor early 
+to brainstorm potential project ideas. \n
+\n
+*Project Timeline* \n
+- *Phase 1 -- Project Determination: /(Deadline:)/*; Please send an email to the instructor by 
+the deadline containing: 1) Project Name (think of this as your paper/report title), 2) Problem Statement, 
+3) Expected Infrastructure Platform Required, 4) Possible Outcomes and Deliverables. \n
+- *Phase 2 -- Determination of (more) concrete project goals and Infrastructure Setup /(Deadline: )/*;
+Please meet the instructor during office hours to discuss the status of your project.
+- *Phase 3 -- Motivation Results  /(Deadline: )/*; Please meet the instructor during office hours 
+to discuss the status of your project.
+- *Phase 4 -- Final Project Report /(Deadline: Finals Week)/*; Please email your final project report 
+in PDF format. Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ 
+standard LaTeX or Word ACM templates]. The PDF should have these sections: 1) Problem Statement, 2)
+Introduction, 3) Background and Related Work, 4) Motivation Results, 5) Implementation Details, 6) 
+Infrastructure Details, 7) Final Results, and 8) Conclusions.
+
+== Areas for In-class Presentations and Projects
+- GPU Architectures
+
+== Reading List and Other Resources
+- Complete Reading List can be found here: \n
+\n
+\n
+*Useful Simulators/Tools* \n
+- [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
+- [http://marss86.org/~marss86/index.php/Home MARSSx86], A Full System CPU Simulator
+- [http://www.hpl.hp.com/research/mcpat/ McPAT], A power, area, and timing modeling framework
+- [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
+- [https://github.com/s5z/zsim zsim], Another Fast CPU Simulator
+- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
+- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
+
+== Semester Schedule
+
+~~~
+{}{raw}
+<center>
+
+<TABLE cellspacing=5 cellpadding=5 border=2>
+  <tr><th>Date</th>
+  <th>Agenda</th>
+  <th>Notes</th>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 20&nbsp;</td>
+  <td valign=top> Administrativia and Introductions </a></td>
+  <td valign=top>HW 0 Out</td>
+  </tr>
+</TABLE>
+
+</center>
+~~~
+
+== Readings
+
+== Academic Accommodations
+It is the policy of The College of William and Mary to accommodate 
+students with disabilities and qualifying diagnosed conditions in 
+accordance with federal and state laws. Any student who feels s/he may 
+need an accommodation based on the impact of a learning, psychiatric, 
+physical, or chronic health diagnosis should contact Student 
+Accessibility Services staff at 757-221-2509 or at sas@wm.edu to 
+determine if accommodations are warranted and to obtain an 
+official letter of accommodation. For more information, please 
+click [http://www.wm.edu/sas here].
+
+
+
