@@ -89,6 +89,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - GPU Core Design
 - GPU Warp Scheduler Design
 - GPU Thread block Scheduler Design
+- GPU Cache Design
 - GPU Memory System Design (incl. emerging memory technology design)
 - GPU Processing-in-Memory
 - GPU Interconnect Design
