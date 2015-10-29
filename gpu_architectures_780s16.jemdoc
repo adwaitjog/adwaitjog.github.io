@@ -93,6 +93,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - GPU Memory System Design (incl. emerging memory technology design)
 - GPU Processing-in-Memory
 - GPU Interconnect Design
+- GPU Reliability
 - Multi-context GPU Architecture
 - Mobile GPU Architecture
 - Approximate GPU Architecture
