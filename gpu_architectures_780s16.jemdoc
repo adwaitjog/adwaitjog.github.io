@@ -22,16 +22,19 @@ to read a variety of papers, critique them, and present them in the front of the
 In addition, students are expected to complete a semester-long research project. 
 
 == Grade Distribution
-- Semester-long Research Project: 50%
-- Coding-based Assignments: 20%
+- Simulation-based Assignments: 20%
 - Paper critiques: 15%
 - In-Class Presentations: 15%
+- Semester-long Research Project: 50%
 
 == Submissions
-- Critique and Homework Submissions via Email.
-- In-Class Presentations will be uploaded on the Box folder (shared with students).
-- Semester-long Research Project Report Submissions need to be emailed to the instructor. 
-- Final Grade submission via Banner.
+- Critique and Report Submissions via Box.
+- In-Class Presentations will be uploaded in the Box folder (shared with students).
+- Semester-long research project report submissions need to be emailed to the instructor. 
+- Final grade submission via Banner.
+
+== Simulation-based Assignments
+Assignments will be given based on the GPGPU-Sim simulator. More details to follow soon.
 
 == Paper Critiques 
 All students are required to submit a detailed critique for each paper we discuss 
@@ -86,7 +89,8 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - GPU Core Design
 - GPU Warp Scheduler Design
 - GPU Thread block Scheduler Design
-- GPU Memory System
+- GPU Memory System Design (incl. emerging memory technology design)
+- GPU Processing-in-Memory
 - GPU Interconnect Design
 
 == Reading List and Other Resources
