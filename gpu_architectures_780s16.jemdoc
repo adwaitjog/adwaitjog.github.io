@@ -95,6 +95,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 
 == Useful Simulators and Tools
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
 - [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
