@@ -94,13 +94,15 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - GPU Processing-in-Memory
 - GPU Interconnect Design
 - GPU Reliability
+- Multi-GPU systems
 - Multi-context GPU Architecture
 - Mobile GPU Architecture
 - Approximate GPU Architecture
-
+- Heterogeneous GPU platforms that incorporate GPUs
 
 == Useful Simulators and Tools
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://github.com/macsimgt/macsim-public MacSim], A trace-driven CPU/GPU simulator
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
 - [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
