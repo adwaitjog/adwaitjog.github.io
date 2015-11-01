@@ -22,21 +22,17 @@ to read a variety of papers, critique them, and present them in the front of the
 In addition, students are expected to complete a semester-long research project. 
 
 == Grade Distribution
-- Simulation-based Assignments: 20%
-- Paper critiques: 15%
-- In-Class Presentations: 15%
-- Semester-long Research Project: 50%
+- (I) Paper critiques: 10%
+- (II) In-Class Presentations: 10%
+- (III) Simulation-based Assignments: 30%
+- (IV) Semester-long Research Project: 50%
 
 == Submissions
-- Critique and Report Submissions via Box.
-- In-Class Presentations will be uploaded in the Box folder (shared with students).
-- Semester-long research project report submissions need to be emailed to the instructor. 
+- In-Class Presentations will be uploaded in a shared Box folder visible to all students.
+- Critique and Report Submissions via Box. A separate Box folder will be shared with the instructor and the student.
 - Final grade submission via Banner.
 
-== Simulation-based Assignments
-Assignments will be given based on the [http://www.gpgpu-sim.org/ GPGPU-Sim] simulator. More details to follow soon.
-
-== Paper Critiques 
+== (I) Paper Critiques 
 All students are required to submit a detailed critique for each paper we discuss 
 in the class. However, the student who presents the paper in-class is not required
 to submit the critique for that particular paper. *Deadline for critique submission
@@ -50,7 +46,7 @@ and associated slides are submitted to the box folder (shared with students).
 
 /No collaboration is allowed on critiques./
 
-== In-Class Presentations 
+== (II) In-Class Presentations 
 Each student will present a maximum of two papers throughout the semester. 
 If you plan to audit the course, you are required to present at least two papers. When you 
 present a paper, be prepared to answer a variety of questions asked by the instructor 
@@ -62,7 +58,10 @@ would need approval from the instructor.
 background (\~15 minutes) and then paper details (\~25 minutes). The remaining
 time will be for discussion driven by the fellow students and the instructor.\n
 
-==  Semester-Long Research Project
+== (III) Simulation-based Assignments
+Assignments will be given based on the [http://www.gpgpu-sim.org/ GPGPU-Sim] simulator. More details to follow soon.
+
+==  (IV) Semester-Long Research Project
 Students are expected to perform a semester-long research
 project. All projects need to be approved by the instructor. Students can 
 work in groups if they wish, but not more than *2* students are allowed to be 
