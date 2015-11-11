@@ -272,12 +272,12 @@ ideas. Deadline to determine project topic area is also *Sept 22* \n
 - *P12* Composite Cores: Pushing Heterogeneity into a Core, MICRO 2012
 - *P13* ATLAS: A Scalable and High-Performance Scheduling Algorithm for Multiple Memory Controllers, HPCA 2010
 - *P14* RowClone: Fast and Energy-Efficient In-DRAM Bulk Data Copy and Initialization, MICRO 2013
-- *P15* 
+- *P15* Exploiting ILP, TLP, and DLP with the Polymorphous TRIPS Architecture, ISCA 2003
 - *P16* 
 - *P17* Quasar: Resource-Efficient and QoS-Aware Cluster Management, ASPLOS 2014
 - *P18* 
 - *P19* 
-- *P20* 
+- *P20* Efficient Memory Integrity Verification and Encryption for Secure Processors, MICRO 2003
 - *P21* 
 - *P22* 
 
