@@ -273,13 +273,13 @@ ideas. Deadline to determine project topic area is also *Sept 22* \n
 - *P13* ATLAS: A Scalable and High-Performance Scheduling Algorithm for Multiple Memory Controllers, HPCA 2010
 - *P14* RowClone: Fast and Energy-Efficient In-DRAM Bulk Data Copy and Initialization, MICRO 2013
 - *P15* Exploiting ILP, TLP, and DLP with the Polymorphous TRIPS Architecture, ISCA 2003
-- *P16* 
+- *P16* Page Placement Strategies for GPUs within Heterogeneous Memory Systems, ASPLOS 2015
 - *P17* Quasar: Resource-Efficient and QoS-Aware Cluster Management, ASPLOS 2014
-- *P18* 
-- *P19* 
+- *P18* High-Performance and Energy-Efficient Mobile Web Browsing on Big/Little Systems, HPCA 2013
+- *P19* Quantifying the Energy Cost of Data Movement for Emerging Smart Phone Workloads on Mobile Platforms, IISWC 2014
 - *P20* Efficient Memory Integrity Verification and Encryption for Secure Processors, MICRO 2003
-- *P21* 
-- *P22* 
+- *P21* The Efficacy of Error Mitigation Techniques for DRAM Retention Failures: A Comparative Experimental Study, SIGMETRICS 2014
+- *P22* SAGE: Self-Tuning Approximation on Graphics Engines, MICRO 2013
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
