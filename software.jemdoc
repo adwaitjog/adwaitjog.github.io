@@ -19,6 +19,13 @@
 
 {{<a name="Software"></a>}} 
 == Software and Downloads
+*MAFIA: Multiple Application Framework for GPU Architectures* [https://github.com/adwaitjog/mafia (Github)] \n
+MAFIA is developed for supporting multiple applications execution on GPUs by HPCL Group at The 
+Pennsylvania State University. It is implemented by extending v3.2 GPGPU-Sim simulator from UBC. Currently, 
+it supports 25 benchmarks from various benchmark suites (e.g., CUDA, Parboil, SHOC and Rodinia). From these benchmarks, one can construct 300 2-application workloads 
+and 2300 3-application workloads.
+
+
 *Mars on GPGPU-Sim*\n
 [http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some
 applications that can take advantage of CUDA enabled GPU. More details can be viewed [http://www.cse.ust.hk/catalac/papers/mars_pact08.pdf here]. I decided to run these applications on [http://www.gpgpu-sim.org/ GPGPU-Sim], a publicly available GPU Simulator.
