@@ -26,5 +26,5 @@ these benchmarks, one can construct 300 2-application workloads and 2300 3-appli
 Some of these workloads are used to evaluate the proposed schemes in our MEMSYS-2015 paper.
 
 *Mars on GPGPU-Sim* [software/Mars_GPGPUSim.tar.gz (tarball)]\n
-[http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some applications that can be executed on http://www.gpgpu-sim.org/ GPGPU-Sim], a cycle accurate GPU simulator. Some of these applications are used to evaluate the proposed schemes in our ASPLOS-2013 paper. 
+[http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some applications that can be executed on [http://www.gpgpu-sim.org/ GPGPU-Sim], a cycle accurate GPU simulator. Some of these applications are used to evaluate the proposed schemes in our ASPLOS-2013 paper. 
 
