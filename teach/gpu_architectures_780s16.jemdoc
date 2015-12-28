@@ -1,12 +1,14 @@
-== GPU Architectures, Spring 2016 (CS 780 02)
+
+== GPU Architectures, Spring 2016 (CS 780)
 
 == General Information
 - Time and Location: Tuesday/Thursday 3:30PM-4:50PM, Washington Hall 310
 - Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
 - Office hours: Tues/Thu 10:30AM-noon or by appointment, McGl 111
 - Email: adwait@cs.wm.edu \n
-- Deadlines: Jan XX (add/drop deadline) and Mar XX (withdraw deadline)
-- *\<span style=\"color: blue\"\> This page is under construction. Please keep checking this website for the latest information regarding the course. \<\/span\>* \n
+- Deadlines: Jan 29 (add/drop deadline) and Mar 18 (withdraw deadline)
+- *\<span style=\"color: blue\"\> This page is under construction. Please keep checking this 
+website for the latest information regarding the course. \<\/span\>* \n
 
 == Prerequisites
 Students are expected to have a good understanding of the basic
@@ -22,10 +24,10 @@ to read a variety of papers, critique them, and present them in the front of the
 In addition, students are expected to complete a semester-long research project. 
 
 == Grade Distribution
-- (I) Paper critiques: 10%
-- (II) In-Class Presentations: 10%
+- (I) Paper critiques: 20%
+- (II) In-Class Presentations: 20%
 - (III) Simulation-based Assignments: 30%
-- (IV) Semester-long Research Project: 50%
+- (IV) Semester-long Research Project: 30%
 
 == Submissions
 - In-Class Presentations will be uploaded in a shared Box folder visible to all students.
@@ -63,12 +65,9 @@ Assignments will be given based on the [http://www.gpgpu-sim.org/ GPGPU-Sim] sim
 
 ==  (IV) Semester-Long Research Project
 Students are expected to perform a semester-long research
-project. All projects need to be approved by the instructor. Students can 
-work in groups if they wish, but not more than *2* students are allowed to be 
-in a single group.  If two people choose to work on the same project, 
-the instructor will need a list of individual contributions made by each of you two, 
-when you submit your final report. Please contact the instructor early 
-to brainstorm potential project ideas. \n
+project. All projects need to be approved by the instructor. 
+Please contact the instructor early to brainstorm potential 
+project ideas. \n
 \n
 *Project Timeline* \n
 - *Phase 1 -- Project Determination: /(Deadline:)/*; Please send an email to the instructor by 
