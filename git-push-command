@@ -1,5 +1,8 @@
 
 jemdoc *.jemdoc
+cd teach
+jemdoc *.jemdoc
+cd -
 jemdoc -c mysite.conf index.jemdoc
 #jemdoc -c gpusched.conf gpu_scheduling.jemdoc
 git add --all
