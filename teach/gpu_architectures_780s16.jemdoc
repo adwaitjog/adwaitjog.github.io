@@ -21,7 +21,8 @@ of a general purpose graphics processing unit (GPU). It also provides an in-dept
 important research issues associated with GPU computing by covering a range of latest papers 
 that have appeared in leading international journals and conferences. Students are expected 
 to read a variety of papers, critique them, and present them in the front of the class. 
-In addition, students are expected to complete a semester-long research project. 
+In addition, students are expected to complete a semester-long research project and
+simulation-based assignments. 
 
 == Grade Distribution
 - (I) Paper critiques: 20%
@@ -29,7 +30,7 @@ In addition, students are expected to complete a semester-long research project.
 - (III) Simulation-based Assignments: 30%
 - (IV) Semester-long Research Project: 30%
 
-== Submissions
+== Submission Format
 - In-Class Presentations will be uploaded in a shared Box folder visible to all students.
 - Critique and Report Submissions via Box. A separate Box folder will be shared with the instructor and the student.
 - Final grade submission via Banner.
@@ -61,7 +62,8 @@ background (\~15 minutes) and then paper details (\~25 minutes). The remaining
 time will be for discussion driven by the fellow students and the instructor.\n
 
 == (III) Simulation-based Assignments
-Assignments will be given based on the [http://www.gpgpu-sim.org/ GPGPU-Sim] simulator. More details to follow soon.
+Assignments will be given based on the [http://www.gpgpu-sim.org/ GPGPU-Sim] simulator. 
+More details to follow soon.
 
 ==  (IV) Semester-Long Research Project
 Students are expected to perform a semester-long research
