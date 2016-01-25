@@ -63,7 +63,9 @@ time will be for discussion driven by the fellow students and the instructor.\n
 
 == (III) Simulation-based Assignments
 Assignments will be given based on the [http://www.gpgpu-sim.org/ GPGPU-Sim] simulator. 
-More details to follow soon.
+GPGPU-Sim Installation guide (for bg machines at CS, WM) is 
+[https://docs.google.com/document/d/1_BnDd8LL1KiRWyR2D_LcKZOQlwYNdEMuuvk14rYk6rE/edit?usp=sharing here]. 
+No collaboration is allowed on assignments.
 
 ==  (IV) Semester-Long Research Project
 Students are expected to perform a semester-long research
