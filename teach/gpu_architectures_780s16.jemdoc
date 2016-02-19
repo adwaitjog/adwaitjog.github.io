@@ -37,10 +37,10 @@ simulation-based assignments.
 
 == (I) Paper Critiques 
 All students are required to submit a detailed critique for each paper we discuss 
-in the class. However, the student who presents the paper in-class is not required
+in the class. However, the student who presents the paper in-class is not allowed
 to submit the critique for that particular paper. *Deadline for critique submission
 is one week from when the paper is discussed completely in the class. Please submit
-them in the PDF format.* 
+any FIVE critiques in the PDF format.* 
 
 *Submission Format:* Each critique should not exceed one-page and must consists of four 
 sections: 1) paper summary (2-3 lines), 2) strengths (2-3 lines), 3) weaknesses (2-3 lines), 
@@ -153,26 +153,26 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 16&nbsp;</td>
   <td valign=top> GPU Memory System (1) </a></td>
-  <td valign=top> HW# 2 Due</td>
+  <td valign=top> HW#2 Due</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 18&nbsp;</td>
   <td valign=top> GPU Memory System (2) </a></td>
-  <td valign=top> HW# 3 Out</td>
+  <td valign=top> </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 23&nbsp;</td>
   <td valign=top> Advanced GPU Topics (1) </a></td>
-  <td valign=top> </td>
+  <td valign=top> HW#3 Out </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 25&nbsp;</td>
   <td valign=top> Advanced GPU Topics (2) </a></td>
   <td valign=top> </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Mar 1&nbsp;</td>
-  <td valign=top> </a></td>
+  <td valign=top> Presenter: Bin Nie, GPU Reliability </a></td>
   <td valign=top> </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Mar 3&nbsp;</td>
-  <td valign=top> </a></td>
+  <td valign=top> Presenter: Lingfei Wu </a></td>
   <td valign=top> </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Mar 8&nbsp;</td>
@@ -181,7 +181,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Mar 10&nbsp;</td>
   <td valign=top> Spring break, no classes </a></td>
-  <td valign=top> HW# 3 Due </td>
+  <td valign=top> HW#3 Due </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Mar 15&nbsp;</td>
   <td valign=top>Presenter: James Bieron, Paper: [P1] </td>
@@ -245,17 +245,17 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 ~~~
 
 == Readings
-- *P1*: 
-- *P2*:
+- *P1*: Architectural Support for Address Translation on GPUs, ASPLOS 2014
+- *P2*: Improving GPU Performance via Large Warps and Two-Level Warp Scheduling, MICRO 2011
 - *P3*: Cache-Conscious Wavefront Scheduling, MICRO 2012
-- *P4*: 
+- *P4*: WarpPool: sharing requests with inter-warp coalescing for throughput processors, MICRO 2015
 - *P5*: Dynamic Warp Formation and Scheduling for Efficient GPU Control Flow, MICRO 2007
 - *P6*: GPU Register File Virtualization, MICRO 2015
 - *P7*: Throughput-Effective On-Chip Networks for Manycore Accelerators, MICRO 2010
 - *P8*: Cache Coherence for GPU Architectures, HPCA 2013
 - *P9*: Neural acceleration for GPU throughput processors, MICRO 2015
 - *P10*: A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps, ISCA 2015
-- *P11*:
+- *P11*: Equalizer: Dynamic Tuning of GPU Resources for Efficient Execution, MICRO 2014
 - *P12*: A Complete Key Recovery Timing Attack on a GPU, HPCA 2016
 
 == Academic Accommodations

@@ -22,6 +22,17 @@
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)]
 
 === 
+*\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>*
+\[[docs/Clams-Sigmetrics-2016.pdf PDF]]
+\[[docs/Clams-Sigmetrics-2016.pptx Talk (PPTX)]]
+\[[docs/Clams-Sigmetrics-2016-bib.txt BibTeX]] \n
+*Adwait Jog*, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir,
+Onur Mutlu, Ravishankar Iyer, Chita R. Das, \n
+[docs/Clams-Sigmetrics-2016.pdf /Exploiting Core-Criticality for Enhanced
+GPU Performance/], \n
+In the Proceedings of 2016 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, Antibes Juan-Les-Pins, France, June 2016 \n
+(Acceptance rate: 28/208 ≈ 13.4% ) \n
+
 *\<span style=\"color: forestgreen\"\>(MEMSYS 2015)\<\/span\>* 
 \[[docs/Anatomy-Memsys-2015.pdf PDF]] 
 \[[docs/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
@@ -47,6 +58,8 @@ Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata
 Mahmut Kandemir, Todd Mowry, Onur Mutlu, \n
 [docs/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
+(Acceptance rate: 58/305 ≈ 19.0%) \n
+
 
 *\<span style=\"color: forestgreen\"\>(Ph.D. Thesis)\<\/span\>* \n 
 [https://etda.libraries.psu.edu/paper/26480/ /Design and Analysis of Scheduling Techniques for Throughput Processors./] \n
@@ -62,6 +75,7 @@ Committee Members: [http://www.cse.psu.edu/~das Chita Das: Advisor (Penn State)]
 Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das, \n 
 [docs/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
 In the Proceedings of 47th International Symposium on Micro Architecture (MICRO), Cambridge, UK, December 2014 \n
+(Acceptance rate: 53/273 ≈ 19.4%) \n
 
 *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* 
 \[[docs/TradeCM-PACT-2014.pdf PDF]] 
@@ -89,6 +103,7 @@ Architectural Support for Programming Languages and Operating Systems (ASPLOS), 
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
 [docs/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
 In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
+(Acceptance rate: 36/208 ≈ 17.3%) \n
 
 *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* 
 \[[docs/OSP-ISCA-2013.pdf PDF]]
@@ -97,6 +112,7 @@ In the Proceedings of 22nd International Conference on Parallel Architectures an
 *Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n 
 [docs/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
 In the Proceedings of 40th International Symposium on Computer Architecture (ISCA), Tel Aviv, Israel, June 2013 \n 
+(Acceptance rate: 56/288 ≈ 19.4%) \n
 
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
 \[[docs/OWL-ASPLOS-2013.pdf PDF]]  
@@ -106,6 +122,7 @@ In the Proceedings of 40th International Symposium on Computer Architecture (ISC
 *Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
 [docs/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
+(Acceptance rate: 44/191 ≈ 23.0%) 
 
 === 
 *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* 
