@@ -85,6 +85,7 @@ In the Proceedings of 47th International Symposium on Micro Architecture (MICRO)
 Wei Ding, Mahmut Kandemir, Diana Guttman, *Adwait Jog*, Chita Das, Praveen Yedlapalli, \n
 [docs/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/], \n
 In the Proceedings of 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edmonton, Alberta, Canada, August 2014 \n
+Acceptance rate: 37/144 ≈ 25.7\% \n
 
 *\<span style=\"color: forestgreen\"\>(GPGPU@ASPLOS 2014)\<\/span\>* 
 \[[docs/app-aware-memory-GPGPU7-2014.pdf PDF]]
