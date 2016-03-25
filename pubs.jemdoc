@@ -22,6 +22,11 @@
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)]
 
 === 
+*\<span style=\"color: forestgreen\"\>(Book Chapter)\<\/span\>* \n
+Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, and Onur Mutlu, \n
+[http://arxiv.org/abs/1602.01348 /A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps/] \n
+Book Chapter in Advances in GPU Research and Practice, Elsevier, to be published in 2016. \n
+
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>*
 \[[docs/Clams-Sigmetrics-2016.pdf PDF]]
 \[[docs/Clams-Sigmetrics-2016.pptx Talk (PPTX)]]
