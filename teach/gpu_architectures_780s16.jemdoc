@@ -216,7 +216,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
   <td valign=top>Critique [P6] Due</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Apr 12&nbsp;</td>
-  <td valign=top>Presenter: Yiqiang Lin, Paper: [P9] </td>
+  <td valign=top>Presenter: Jamie Bieron, Paper: [P9] </td>
   <td valign=top>Critique [P7] Due</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Apr 14&nbsp;</td>
@@ -224,7 +224,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
   <td valign=top>Critique [P8] Due</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Apr 19&nbsp;</td>
-  <td valign=top>Presenter: James Bieron, Paper: [P11] </td>
+  <td valign=top>Presenter: Yiqiang Lin, Paper: [P11] </td>
   <td valign=top>Critique [P9] Due</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Apr 21&nbsp;</td>
@@ -253,9 +253,9 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - *P6*: GPU Register File Virtualization, MICRO 2015
 - *P7*: Throughput-Effective On-Chip Networks for Manycore Accelerators, MICRO 2010
 - *P8*: Cache Coherence for GPU Architectures, HPCA 2013
-- *P9*: Neural acceleration for GPU throughput processors, MICRO 2015
+- *P9*: Equalizer: Dynamic Tuning of GPU Resources for Efficient Execution, MICRO 2014
 - *P10*: A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps, ISCA 2015
-- *P11*: Equalizer: Dynamic Tuning of GPU Resources for Efficient Execution, MICRO 2014
+- *P11*: Neural acceleration for GPU throughput processors, MICRO 2015
 - *P12*: A Complete Key Recovery Timing Attack on a GPU, HPCA 2016
 
 == Academic Accommodations
