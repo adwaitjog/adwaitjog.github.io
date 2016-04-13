@@ -24,7 +24,7 @@
 === 
 *\<span style=\"color: forestgreen\"\>(Book Chapter)\<\/span\>* \n
 Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, and Onur Mutlu, \n
-[http://arxiv.org/abs/1602.01348 /A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps/] \n
+[http://arxiv.org/abs/1602.01348 /A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps/], \n
 Book Chapter in Advances in GPU Research and Practice, Elsevier, to be published in 2016. \n
 
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>*
@@ -70,7 +70,7 @@ In the Proceedings of 42nd International Symposium on Computer Architecture (ISC
 
 *\<span style=\"color: forestgreen\"\>(Ph.D. Thesis)\<\/span\>* \n 
 [https://etda.libraries.psu.edu/paper/26480/ /Design and Analysis of Scheduling Techniques for Throughput Processors./] \n
-Committee Members: [http://www.cse.psu.edu/~das Chita Das: Advisor (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir: Co-Advisor (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State/UCSB)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel)] \n
+Committee Members: [http://www.cse.psu.edu/~das Chita Das: Advisor (Penn State)], [http://www.cse.psu.edu/~kandemir Mahmut Kandemir (Penn State)], [http://www.cse.psu.edu/~yuanxie Yuan Xie (Penn State/UCSB)], [http://www.ee.psu.edu/directory/FacultyInfo/Jenkins/JenkinsProfilePage.aspx Ken Jenkins (Penn State)], [http://www.ece.cmu.edu/~omutlu Onur Mutlu (CMU)], [http://www.intel.com/content/www/us/en/research/people/intel-labs-bio-ravishankor-iyer.html Ravi Iyer (Intel)] \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* 
