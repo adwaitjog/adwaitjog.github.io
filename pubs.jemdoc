@@ -31,10 +31,8 @@ Book Chapter in Advances in GPU Research and Practice, Elsevier, to be published
 \[[docs/Clams-Sigmetrics-2016.pdf PDF]]
 \[[docs/Clams-Sigmetrics-2016.pptx Talk (PPTX)]]
 \[[docs/Clams-Sigmetrics-2016-bib.txt BibTeX]] \n
-*Adwait Jog*, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir,
-Onur Mutlu, Ravishankar Iyer, Chita R. Das, \n
-[docs/Clams-Sigmetrics-2016.pdf /Exploiting Core-Criticality for Enhanced
-GPU Performance/], \n
+*Adwait Jog*, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das, \n
+[docs/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/], \n
 In the Proceedings of 42nd ACM International Conference on Measurement and Modeling of Computer Systems
 (SIGMETRICS), Antibes Juan-Les-Pins, France, June 2016 \n
 (Acceptance rate: 28/208 ≈ 13.4%) \n 
