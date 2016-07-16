@@ -1,12 +1,3 @@
-@inproceedings{proteus-micro16,
-  author    = {Nandita Vijaykumar and Kevin Hsieh and Gennady Pekhimenko and  Samira Khan and
- Saugata Ghose and  Ashish Shrestha and Adwait Jog and Phillip B. Gibbons and Onur Mutlu},
-  title     = {{Proteus: Enhancing Programming Ease, Portability, and
-              Performance with Fluid GPU Resources}},
-  booktitle = {MICRO},
-  year = {2016},
-}
-
 @inproceedings{gpu-pim-pact16,
   author    = {Ashutosh Pattnaik and Xulong Tang and Adwait Jog and Onur Kayiran and
 Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Chita R. Das},
