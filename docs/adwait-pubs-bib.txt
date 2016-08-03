@@ -1,7 +1,8 @@
+
 @inproceedings{gpu-pim-pact16,
   author    = {Ashutosh Pattnaik and Xulong Tang and Adwait Jog and Onur Kayiran and
 Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Chita R. Das},
-  title     = {{Kernel Scheduling Techniques for PIM-Assisted GPU Architectures}},
+  title     = {{Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities}},
   booktitle = {PACT},
   year      = {2016},
 }
@@ -10,7 +11,7 @@ Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Chita R. Das},
   author    = {Onur Kayiran and Adwait Jog and Ashutosh Pattnaik and
 Rachata Ausavarungnirun and Xulong Tang and Mahmut T. Kandemir and Gabriel H. Loh
 and Onur Mutlu and Chita R. Das},
-        title     = {{Fine-grain Datapath Management for Scale-up GPUs}},
+        title     = {{Fine-grained GPU Datapath Power Management}},
         booktitle = {PACT},
         year = {2016},
 }
