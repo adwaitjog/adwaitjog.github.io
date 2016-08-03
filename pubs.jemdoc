@@ -23,6 +23,35 @@
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)] [docs/adwait-pubs-bib.txt BibTeX]
 
 === 2016
+*\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>*
+\[[coming.html PDF]]
+\[[coming.html Talk (PPTX)]]
+\[[docs/adwait-pubs-bib.txt BibTeX]] \n
+[coming.html Coming soon] \n
+In the Proceedings of 49th International Symposium on Micro Architecture (MICRO), Taipei, Taiwan, October 2016 \n
+(Acceptance rate: 61/288 ≈ 21.5%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(IISWC 2016)\<\/span\>*
+\[[coming.html PDF]]
+\[[coming.html Talk (PPTX)]]
+\[[docs/adwait-pubs-bib.txt BibTeX]] \n
+Robert Risque, *Adwait Jog*\n
+[coming.html Characterization of Quantum Workloads on SIMD Architectures] \n
+In the Proceedings of International Symposium on Workload Characterization, Providence, RI, September 2016 \n
+(Acceptance rate: 21/71 ≈ 29%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(PACT 2016 (1))\<\/span\>*
+\[[coming.html PDF]]
+\[[coming.html Talk (PPTX)]]
+\[[docs/adwait-pubs-bib.txt BibTeX]] \n
+Ashutosh Pattnaik, Xulong Tang, *Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Chita R. Das, \n
+[coming.html /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/], \n
+In the Proceedings of 25th International Conference on Parallel Architectures and Compilation Techniques (PACT), Haifa, Israel, September 2016 \n
+(Acceptance rate: 31/139 ≈ 22.3%) \n
+
+=== 
 *\<span style=\"color: forestgreen\"\>(PACT 2016 (2))\<\/span\>*
 \[[coming.html PDF]]
 \[[coming.html Talk (PPTX)]]
