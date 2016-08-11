@@ -28,13 +28,13 @@ workloads. \n
 
 Please cite the following paper if you use or build upon this framework: \n
 *\<span style=\"color: forestgreen\"\>(MEMSYS 2015)\<\/span\>* 
-\[[docs/Anatomy-Memsys-2015.pdf PDF]] 
-\[[docs/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
-\[[docs/Anatomy-Memsys-2015-bib.txt BibTeX]]
+\[[docs/pdf/Anatomy-Memsys-2015.pdf PDF]] 
+\[[docs/pptx/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
+\[[docs/bib/Anatomy-Memsys-2015-bib.txt BibTeX]]
 \[[https://github.com/adwaitjog/mafia Github]] \n 
 *Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
 Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
-[docs/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
+[docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
 
 \n
@@ -46,10 +46,10 @@ accurate GPU simulator. \n
 
 Please cite the following paper if you use or build upon this framework: \n
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
-\[[docs/OWL-ASPLOS-2013.pdf PDF]]  
-\[[docs/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
-\[[docs/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] 
-\[[docs/OWL-ASPLOS-2013-bib.txt BibTeX]] \n 
+\[[docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
+\[[docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
+\[[docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] 
+\[[docs/bib/OWL-ASPLOS-2013-bib.txt BibTeX]] \n 
 *Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
-[docs/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
+[docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
