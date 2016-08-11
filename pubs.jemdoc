@@ -68,7 +68,7 @@ In the Proceedings of 25th International Conference on Parallel Architectures an
 \[[docs/pptx/Clams-Sigmetrics-2016.pptx Talk (PPTX)]]
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]] \n
 *Adwait Jog*, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das, \n
-[docs/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/], \n
+[docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/], \n
 In the Proceedings of 42nd ACM International Conference on Measurement and Modeling of Computer Systems
 (SIGMETRICS), Antibes Juan-Les-Pins, France, June 2016 \n
 (Acceptance rate: 28/208 ≈ 13.4%) \n 
@@ -122,7 +122,7 @@ Committee Members: [http://www.cse.psu.edu/~das Chita Das: Advisor (Penn State)]
 \[[docs/pdf/CPUGPU-MICRO-2014-trailer.pdf Lightning]] 
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]] \n 
 Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das, \n 
-[docs/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
+[docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
 In the Proceedings of 47th International Symposium on Micro Architecture (MICRO), Cambridge, UK, December 2014 \n
 (Acceptance rate: 53/273 ≈ 19.4%) \n
 
@@ -131,7 +131,7 @@ In the Proceedings of 47th International Symposium on Micro Architecture (MICRO)
 \[[docs/pdf/TradeCM-PACT-2014.pdf PDF]] 
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]] \n 
 Wei Ding, Mahmut Kandemir, Diana Guttman, *Adwait Jog*, Chita Das, Praveen Yedlapalli, \n
-[docs/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/], \n
+[docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/], \n
 In the Proceedings of 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edmonton, Alberta, Canada, August 2014 \n
 (Acceptance rate: 37/144 ≈ 25.7%) \n
 
@@ -142,7 +142,7 @@ In the Proceedings of 23rd International Conference on Parallel Architectures an
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]]  
 \[[http://dl.acm.org/citation.cfm?doid=2576779.2576780 ACM DOI]] \n 
 *Adwait Jog*, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita Das, \n
-[docs/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
+[docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
 In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
 Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
 (Acceptance rate: 12/27 ≈ 44.4%) \n
@@ -154,7 +154,7 @@ Architectural Support for Programming Languages and Operating Systems (ASPLOS), 
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]] \n 
 *\<span style=\"color: red\"\>Best Paper Nomination:\<\/span\>* /One of the four papers nominated for the Best Paper Award./\n
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
-[docs/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
+[docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
 In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
 (Acceptance rate: 36/208 ≈ 17.3%) \n
 
@@ -164,7 +164,7 @@ In the Proceedings of 22nd International Conference on Parallel Architectures an
 \[[docs/pdf/OSP-ISCA-2013-Slides.pptx Talk (PPTX)]]
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]] \n 
 *Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n 
-[docs/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
+[docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
 In the Proceedings of 40th International Symposium on Computer Architecture (ISCA), Tel Aviv, Israel, June 2013 \n 
 (Acceptance rate: 56/288 ≈ 19.4%) \n
 
@@ -175,7 +175,7 @@ In the Proceedings of 40th International Symposium on Computer Architecture (ISC
 \[[docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] 
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]] \n 
 *Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
-[docs/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
+[docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
 (Acceptance rate: 44/191 ≈ 23.0%) 
 
@@ -186,7 +186,7 @@ In the Proceedings of 18th International Conference on Architectural Support for
 \[[docs/pdf/Revive-DAC-Poster-2012.pdf Poster]]
 \[[docs/bib/adwait-pubs-bib.txt BibTeX]]\n
 *Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
-[docs/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
+[docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
 In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA, June 2012 \n
 
 === 
