@@ -1,7 +1,0 @@
-@inproceedings{data-compression-gpu,
-  author    = { Nandita Vijaykumar and Gennady Pekhimenko and Adwait Jog and Abhishek Bhowmick and 
- Onur Mutlu and Chita Das and Mahmut T. Kandemir and Todd Mowry and Rachata Ausavarungnirun},
-  title     = {{Enabling Efficient Data Compression in GPUs}},
-  booktitle = {ISCA},
-  year      = {2015},
-}

@@ -1,7 +1,0 @@
-
-@inproceedings{owl-asplos13,
- author    =  {Adwait Jog and Onur Kayiran and Nachiappan C. Nachiappan and Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Ravishankar Iyer and Chita R. Das},
- title     =  {{OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU Performance}},
- booktitle =  {ASPLOS},
- year      =  {2013},
-}

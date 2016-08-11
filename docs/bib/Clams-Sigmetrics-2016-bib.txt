@@ -1,7 +1,0 @@
-@inproceedings{clams-sigmetrics16,
-  author    = {Adwait Jog and Onur Kayiran and Ashutosh Pattnaik and Mahmut T. Kandemir and 
-  Onur Mutlu and Ravi Iyer and Chita R. Das},
-  title     = {{Exploiting Core Criticality for Enhanced Performance in GPUs}},
-  booktitle = {SIGMETRICS},
-  year      = {2016}
-}

@@ -1,8 +1,0 @@
-
-@inproceedings{app-aware-GPGPU-2014,
- author    = {Adwait Jog and Evgeny Bolotin and Zvika Guz and Mike Parker and
- Stephen W. Keckler and  Mahmut T. Kandemir and Chita R. Das},
- title     = {{Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications}},
- booktitle = {GPGPU},
- year      = {2014},
-} 

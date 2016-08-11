@@ -1,7 +1,0 @@
-
-@inproceedings{nmnl-pact13,
-  author    = {Onur Kayiran and Adwait Jog and Mahmut T. Kandemir and Chita R. Das},
-  title     = {{Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs}},
-  booktitle = {PACT},
-  year      = {2013},
-}

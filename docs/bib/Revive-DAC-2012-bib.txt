@@ -1,7 +1,0 @@
-
-@inproceedings{revive-dac12,
- author    = {Jog, Adwait and Mishra, Asit K. and Xu, Cong and Xie, Yuan and Narayanan, Vijaykrishnan and Iyer, Ravishankar and Das, Chita R.},
- title     = {{Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs}},
- booktitle = {DAC},
- year      = {2012},
-} 
