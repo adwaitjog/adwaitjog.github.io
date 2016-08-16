@@ -1,5 +1,5 @@
 
-jemdoc *.jemdoc
+./jemdoc *.jemdoc
 
 cd teach
 jemdoc *.jemdoc
