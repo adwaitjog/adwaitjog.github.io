@@ -1,3 +1,4 @@
+
 all: latex_part 
 	dvips -Ppdf -P cmz -Pdownload35 -j0 -G0 -t letter -o adwait-cv.ps adwait-cv.dvi
 	ps2pdf14 -dPDFSETTINGS=/prepress -dEmbedAllFonts=true adwait-cv.ps
