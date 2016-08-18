@@ -1,4 +1,13 @@
 
+
+@inproceedings{zorua-micro16,
+ author = {Nandita Vijaykumar and Kevin Hsieh and Gennady Pekhimenko and Samira Khan and Ashish Shrestha and Saugata Ghose and Adwait Jog
+and Phillip B. Gibbons and Onur Mutlu},
+ title = {{Zorua: A Holistic Approach to Resource Virtualization in GPUs}},
+ booktitle = {MICRO},
+ year = {2016},
+}
+
 @inproceedings{rob-iiswc16,
  author = {Robert Risque and Adwait Jog},
  title = {{Characterization of Quantum Workloads on SIMD Architectures}},
