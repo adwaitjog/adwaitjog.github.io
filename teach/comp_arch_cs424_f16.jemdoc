@@ -17,14 +17,17 @@
 - *\<span style=\"color: blue\"\> Please keep checking this 
 website for the latest information regarding this course. \<\/span\>* \n
 
-== Course Description and Prerequisites
-An introduction to the principles of computer design. Students will apply their knowledge of digital 
-logic design to understand the high-level interactions between different computer system hardware 
-components. The course will cover various computer architecture aspects related to CPU design, 
-pipelining, memory hierarchy, and multiprocessor architecture. A tentative weekly agenda of topics 
-can be found at the end of this web-page. 
-
+== Prerequisites and Course Description
 Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303  
+
+An introduction to the principles of computer design. Students will apply their knowledge of 
+digital logic design to understand the high-level interactions between different computer system 
+hardware components. Specifically, this course will cover various computer architecture aspects 
+related to MIPS ISA, single-cycle design, multiple-cycle design, pipelining, memory hierarchy, 
+and multiprocessor architecture. 
+
+A tentative weekly agenda of topics can be found at the end of this web-page. This weekly agenda
+is likely to change based on the progress of the class. Keep checking it regularly. 
 
 == Textbook and Resources
 - *Required:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this] website for more details.
