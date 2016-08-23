@@ -27,12 +27,14 @@ related to MIPS ISA, single-cycle design, multiple-cycle design, pipelining, mem
 and multiprocessor architecture. 
 
 A tentative weekly agenda of topics can be found at the end of this web-page. This weekly agenda
-is likely to change based on the progress of the class. Keep checking it regularly. 
+is very likely to change based on the progress of the class. Keep checking it regularly. 
 
 == Textbook and Resources
-- *Required:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.
-- *Optional:* [http://www.zyBooks.com Zybooks] /(Code: WMCSCI424-524JogFall2016)/, See [https://vimeo.com/135692064 this video]
+- *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.
+- *Optional Textbook:* [http://www.zyBooks.com Zybooks] /(Code: WMCSCI424-524JogFall2016)/, See [https://vimeo.com/135692064 this video]
 for more details.
+- *Resources:* Some homeworks will also have simulation-based component. Access to a laptop with remote access to a 
+lab machine is necessary. More details to follow.
 
 == Grade Distribution
 - *CSCI 424*
@@ -60,11 +62,6 @@ handwriting should be legible.
 --  Late HWs are accepted with 20% penalty for each day they are late by.
 --  If you miss a exam or quiz, you will get zero on that quiz.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
-
-
-
-
-
 
 == Tentative Schedule
 ~~~
