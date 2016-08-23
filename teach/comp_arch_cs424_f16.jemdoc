@@ -63,14 +63,14 @@ video for more details.
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
-  <td rowspan="2">Week 1 &nbsp;</td>
+  <td valign=top>Week 1 &nbsp;</td>
   <td valign=top>Aug 25 &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
   <td valign=top> First Day of Classes &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
-  <td valign=top>Week 2 &nbsp;</td>
+  <td rowspan="2">Week 2 &nbsp;</td>
   <td valign=top>Aug 30 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
