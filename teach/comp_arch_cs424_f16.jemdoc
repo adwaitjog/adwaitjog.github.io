@@ -57,8 +57,8 @@ video for more details.
 <center>
 
 <TABLE cellspacing=5 cellpadding=5 border=2>
-  <tr><th>Week</th>
   <tr><th>Date</th>
+  <th>Week</th>
   <th>Agenda</th>
   <th>Notes</th>
   </tr>
