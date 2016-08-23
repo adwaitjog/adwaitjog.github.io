@@ -13,11 +13,18 @@
 -- Email:
 
 - Deadlines: Sept 2 (add/drop deadline) and Oct 21 (withdraw deadline)
-- In-class Exam Dates: Oct XX (Midterm-1), Nov YY (Midterm-2), Dec ZZ (Finals)
+- Exam Dates: Oct 13 (Midterm Exam, in-class) and Dec 14 (Final Exam, regular class-room)
 - *\<span style=\"color: blue\"\> Please keep checking this 
 website for the latest information regarding the course. \<\/span\>* \n
 
-== Course Description, Prerequisites
+== Course Description and Prerequisites
+An introduction to the principles of computer design. Students will apply their knowledge of digital 
+logic design to understand the high-level interactions between different computer system hardware 
+components. The course will cover various computer architecture aspects related to CPU design, 
+pipelining, memory hierarchy, and multiprocessor architecture. A tentative weekly agenda of topics 
+can be found at the end of this web-page. \\
+
+Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303  
 
 
 == Grade Distribution
@@ -26,6 +33,7 @@ website for the latest information regarding the course. \<\/span\>* \n
 
 
 
+== Weekly Agenda
 ~~~
 {}{raw}
 <center>
