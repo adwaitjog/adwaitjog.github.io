@@ -1,5 +1,5 @@
 
-== Computer Architecture, Fall 2016 (CS 424 / CS 524)
+== Computer Architecture, Fall 2016 (CSCI 424 / CSCI 524)
 
 == General Information
 - Time and Location: Tuesday/Thursday 11:00AM-12:20PM, Integrated Science Center, 2280
@@ -31,13 +31,19 @@ Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303
 - *Optional:* [http://www.zyBooks.com Zybooks] /(Code: WMCSCI424-524JogFall2016)/, See [https://vimeo.com/135692064 this]
 video for more details.
 
+== Grade Distribution (CSCI 424)
+- *CSCI 424*
+-- Homework (40%)
+-- Midterm Exam (25%)
+-- Final Exam (25%)
+-- Class participation and Quizzes (10%)
 
-== Grade Distribution
-- Homework (40%)
-- Midterm Exam (25%)
-- Final Exam (25%)
-- Class participation and Quizzes (10%)
-
+- *CSCI 524*
+-- Homework (30%)
+-- Midterm Exam (20%)
+-- Final Exam (20%)
+-- Class participation and Quizzes (10%)
+-- Term Project (10%)
 
 == Weekly Agenda
 ~~~
