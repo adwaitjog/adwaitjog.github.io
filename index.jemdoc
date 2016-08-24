@@ -28,31 +28,29 @@
 ==== ~~~McGlothlin-Street Hall 111
 ==== ~~~Williamsburg, VA 23187 
 ==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  /*adwait@cs.wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
+==== ~~~Fall 2016 Office hours: Tues/Thu 4:00PM -- 5:30PM or by appointment \n
 ~~~
 \n
 \n
-#==== ~~~Fall 2016 Office hours: Tues/Thu 3:30PM -- 5:00PM or by appointment \n
+
+== About
+I am an assistant professor of computer science 
+at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I have started a new 
+research group with the goal of designing future computing systems more energy-efficient, reliable, secure, capable, and useful.
+
+== Currently Teaching
+- *Fall 2016:* [http://adwaitjog.github.io/teach/comp_arch_cs424_f16.html CS 424/524, Computer Architecture (undergraduate course)]
 
 == Recent News
 - Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
 - Invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017] and [http://grid.hust.edu.cn/icpads2016/ ICPADS 2016]. Submit your best work.
 - Served on the Program Committees of [http://ics16.bilkent.edu.tr/ ICS 2016], [http://icpp2016.cs.wcupa.edu/ ICPP 2016], [http://conf.researchr.org/committee/PPoPP-2016/gpgpu-2016-papers-program-committee GPGPU9 2016], [http://www.nas-conference.org/ NAS 2016].
-- *\<span style=\"color: red\"\>Looking for self-motivated students to join my research group. If you are 
-interested in doing research related to any aspects of computer architecture, please send me your CV.
-I am especially interested in the areas related to GPU computing, memory systems, and emerging new architectures.
+- *\<span style=\"color: red\"\>Looking for self-motivated students to join my research group. If you 
+are interested in doing research related to any aspects of computer architecture, please send me your CV.
+I am especially interested in the areas related to GPU computing, memory systems, and emerging/non-traditional 
+computing architectures. I am also excited to explore opportunities that can lead to solid 
+cross-disciplinary research work. Therefore, I am also looking for students having interests in other 
+disciplines such as (but not limited to) biology, economics, machine learning, security, and quantum physics.
 \<\/span\>* \n
 
-== About
-I am an assistant professor of computer science 
-at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I have started a new research group with the goal of designing future computing systems more 
-energy-efficient, reliable, secure, capable, and useful.
-
-I am looking for *self-motivated, talented, and creative students* to work with who have 
-interests in the broad areas of computer architecture. 
-I am also excited to explore opportunities that can lead to solid cross-disciplinary research 
-work. Therefore, I am also looking for students having interests in other disciplines 
-such as (but not limited to) biology, economics, machine learning, security, and quantum physics.
-Feel free to contact me if you are interested to know more or discuss the possibilities of joining 
-my group. Also, feel free to browse through my [http://adwaitjog.github.io/pubs.html publication list]
-to get an idea of the topics I had been working on in the past.
 
