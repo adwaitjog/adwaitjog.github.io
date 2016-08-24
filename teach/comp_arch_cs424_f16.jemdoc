@@ -77,12 +77,14 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <tr><th>Week</th>
   <th>Date</th>
   <th>Agenda</th>
+  <th>Reading Assignment</th>
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Week 1 &nbsp;</td>
   <td valign=top>Aug 25 &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> First Day of Classes &nbsp;</td>
   </tr>
   </tr>
@@ -91,10 +93,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Aug 30 &nbsp;</td>
   <td valign=top>Introduction, Abstractions, and Technology &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 1 &nbsp;</td>
   <td valign=top>Introduction, Abstractions, and Technology  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -102,10 +106,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Sep 6 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 8 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -113,10 +119,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Sep 13 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 15 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -124,10 +132,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Sep 20 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 22 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -135,10 +145,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Sep 27 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 29 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -146,21 +158,25 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Oct 04 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 06 &nbsp;</td>
   <td valign=top> Multi-cycle Design &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 8 &nbsp;</td>
   <td valign=top>Oct 11 &nbsp;</td>
   <td valign=top>No class  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>Fall Break&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 13 &nbsp;</td>
   <td valign=top> Mid-term Examination  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> To be in held in the Regular Classroom &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -168,10 +184,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Oct 18 &nbsp;</td>
   <td valign=top> Pipelining &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 20 &nbsp;</td>
   <td valign=top> Pipelining &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -179,10 +197,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Oct 25 &nbsp;</td>
   <td valign=top>  Pipelining &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 27 &nbsp;</td>
   <td valign=top>  Pipelining &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -190,10 +210,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Nov 1 &nbsp;</td>
   <td valign=top>Pipelining &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 3 &nbsp;</td>
   <td valign=top>VLIW and Superscalar &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -201,10 +223,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Nov 8 &nbsp;</td>
   <td valign=top>VLIW and Superscalar  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 10 &nbsp;</td>
   <td valign=top>VLIW and Superscalar  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -212,10 +236,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Nov 15 &nbsp;</td>
   <td valign=top>Memory Hierarchy   &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 17 &nbsp;</td>
   <td valign=top>Memory Hierarchy  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -223,10 +249,12 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Nov 22 &nbsp;</td>
   <td valign=top>Memory Hierarchy   &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 24 &nbsp;</td>
   <td valign=top>No class  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>Thanksgiving Break&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -234,16 +262,19 @@ others. No collaboration is allowed on homeworks, unless otherwise stated.
   <td valign=top>Nov 29 &nbsp;</td>
   <td valign=top>Multiprocessors  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Dec 1 &nbsp;</td>
   <td valign=top>Multiprocessors  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>Last day of the class&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Finals &nbsp;</td>
   <td valign=top> Dec 14 &nbsp;</td>
   <td valign=top> Final Exam, 2:00--5:00pm &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> To be held in the Regular Classroom &nbsp;</td>
   </tr>
 </TABLE>
