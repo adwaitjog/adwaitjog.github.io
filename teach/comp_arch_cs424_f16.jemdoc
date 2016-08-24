@@ -26,7 +26,7 @@ computer system hardware components. Specifically, this course will cover variou
 aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, 
 memory hierarchy, and multiprocessor architecture. 
 
-A tentative weekly agenda of topics can be found at the end of this web-page. This weekly agenda
+A tentative weekly agenda can be found at the end of this web-page. This weekly agenda
 is very likely to change based on the progress of the class. Keep checking it regularly. 
 
 == Textbook and Resources
@@ -36,7 +36,7 @@ for more details.
 - *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
 lab machine is necessary. More details will appear here on this webpage.
 - *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
-will be posted on this website. Please keep checking both forums regularly.
+will be posted on this website. Please keep checking both the forums regularly.
 
 == Grade Distribution
 - *CSCI 424*
@@ -60,13 +60,14 @@ others.
 -- Research Project (20%)
 
 == Policies
-- No collaboration is allowed on homeworks, unless otherwise stated.
+- You are responsible for all materials covered in lectures.
 - No collaboration whatsoever is allowed on exams and quizzes. 
+- No collaboration is allowed on homeworks, unless otherwise stated.
 - Collaboration is allowed on the research projects.
 - Submission deadlines are *hard*. 
 - Late/Miss Policy
---  Late HWs are accepted with 20% penalty for each day they are late by.
---  If you miss an exam or quiz, you will get zero on that. The lowest score on the quizzes will be dropped.
+-- Late HWs are accepted with /20%/ penalty for each day they are late by.
+-- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
 
 == Tentative Schedule
