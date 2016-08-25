@@ -75,7 +75,7 @@ others.
 - [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
 Install [http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Aug. 2014] and 
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. As MARS is a
-a Java program, it should run on any OS. Browse through the software and documentation to 
+Java program, it should run on any OS. Browse through the software and documentation to 
 familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
 tutorial] with lots of screenshots.  Try that first, before starting MARS. More documentation 
 is [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
