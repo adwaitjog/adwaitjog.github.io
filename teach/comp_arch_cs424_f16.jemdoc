@@ -72,12 +72,16 @@ others.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
 
 == Simulators
-#- [http://spimsimulator.sourceforge.net/ SPIM: A MIPS32 Simulator]. Download and Install 
-#QtSpim (9.1.17) from [https://sourceforge.net/projects/spimsimulator/files/ here]. It runs
-#on Windows, Linux as well as Mac OS X. The newest version of SPIM is called QtSpim. Browse
-#through the software and documentation to familiarize yourself with the software. 
-#- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
-#to follow. 
+- [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
+Install http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Aug. 2014] and 
+[http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. As MARS is a
+a Java program, so it should run on any OS. Browse through the software and documentation to 
+familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
+tutorial] with lots of screenshots.  Try that first, before starting MARS. More documentation 
+is [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
+
+- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
+to follow. 
 
 == Tentative Schedule
 ~~~
