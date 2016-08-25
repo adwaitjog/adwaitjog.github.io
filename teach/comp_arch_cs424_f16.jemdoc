@@ -72,12 +72,12 @@ others.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
 
 == Simulators
-- [http://spimsimulator.sourceforge.net/ SPIM: A MIPS32 Simulator]. Download and Install 
-QtSpim (9.1.17) from [https://sourceforge.net/projects/spimsimulator/files/ here]. It runs
-on Windows, Linux as well as Mac OS X. The newest version of SPIM is called QtSpim. Browse
-through the software and documentation to familiarize yourself with the software. 
-- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
-to follow. 
+#- [http://spimsimulator.sourceforge.net/ SPIM: A MIPS32 Simulator]. Download and Install 
+#QtSpim (9.1.17) from [https://sourceforge.net/projects/spimsimulator/files/ here]. It runs
+#on Windows, Linux as well as Mac OS X. The newest version of SPIM is called QtSpim. Browse
+#through the software and documentation to familiarize yourself with the software. 
+#- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
+#to follow. 
 
 == Tentative Schedule
 ~~~
