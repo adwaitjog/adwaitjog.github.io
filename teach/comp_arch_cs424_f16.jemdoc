@@ -34,7 +34,7 @@ is very likely to change based on the progress of the class. Keep checking it re
 - *Optional Textbook:* [http://www.zyBooks.com Zybooks] /(Code: WMCSCI424-524JogFall2016)/, See [https://vimeo.com/135692064 this video]
 for more details.
 - *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
-lab machine is necessary. More details will appear here on this webpage.
+lab machine is necessary. See /Simulators/ section for more details.
 - *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
 will be posted on this website. Please keep checking both the forums regularly.
 
@@ -70,6 +70,14 @@ others.
 -- Late HWs are accepted with /20%/ penalty for each day they are late by.
 -- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
+
+== Simulators
+- [http://spimsimulator.sourceforge.net/ SPIM: A MIPS32 Simulator]. Download and Install 
+QtSpim (9.1.17) from [https://sourceforge.net/projects/spimsimulator/files/ here]. It runs
+on Windows, Linux as well as Mac OS X. The newest version of SPIM is called QtSpim. Browse
+through the software and documentation to familiarize yourself with the software. 
+- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
+to follow. 
 
 == Tentative Schedule
 ~~~
@@ -108,7 +116,7 @@ others.
   <td rowspan="2">Week 3 &nbsp;</td>
   <td valign=top>Sep 6 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> Appendix A &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
