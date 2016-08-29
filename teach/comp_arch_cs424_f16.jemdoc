@@ -14,7 +14,7 @@
 
 - Deadlines: Sept 2 (add/drop deadline) and Oct 21 (withdraw deadline). See [https://www.wm.edu/offices/registrar/documents/calendars/2016_2017ugcal.pdf calender] for more details.
 - Exam Dates: Oct 13 (Midterm Exam, in-class) and Dec 14 (Final Exam, 2:00 to 5:00pm in the regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php Fall 2016 Final Exam Schedule])
-- *\<span style=\"color: blue\"\> Please keep checking this 
+- *\<span style=\"color: red\"\> Please keep checking this 
 website for the latest information regarding this course. \<\/span\>* \n
 
 == Prerequisites and Course Description
@@ -25,9 +25,6 @@ knowledge of digital logic design to understand the high-level interactions betw
 computer system hardware components. Specifically, this course will cover various computer architecture 
 aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, 
 memory hierarchy, and multiprocessor architecture. 
-
-A tentative weekly agenda can be found at the end of this web-page. This weekly agenda
-is very likely to change based on the progress of the class. Keep checking it regularly. 
 
 == Textbook and Resources
 - *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.
@@ -89,7 +86,7 @@ is [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html her
 - [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
 to follow. 
 
-== Tentative Schedule
+== Tentative Schedule (Will keep changing regularly)
 ~~~
 {}{raw}
 <center>
@@ -297,7 +294,7 @@ to follow.
   <td valign=top> <font color="red">Final Exam, 2:00--5:00pm</font>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php">
-  Fall 2016 Exam Schedule</a> &nbsp;</td>
+  (Fall 2016 Exam Schedule)</a> &nbsp;</td>
   </tr>
 </TABLE>
 
@@ -305,7 +302,7 @@ to follow.
 ~~~
 
 == Academic Integrity and Accommodations
-- The university, college, and department policies against academic dishonesty will be strictly enforced.
+- The university and department policies against academic dishonesty will be strictly enforced.
 
 - Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
 
