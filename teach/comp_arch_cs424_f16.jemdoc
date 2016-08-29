@@ -27,7 +27,7 @@ aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle desig
 memory hierarchy, and multiprocessor architecture. 
 
 == Textbook and Resources
-- *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.
+- *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
 - *Optional Textbook:* [http://www.zyBooks.com Zybooks] /(Code: WMCSCI424-524JogFall2016)/, See [https://vimeo.com/135692064 this video]
 for more details.
 - *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
@@ -38,7 +38,7 @@ Please keep checking all forums regularly for the latest information.
 - *Help:* It is important to start working on homeworks early, especially the homeworks that have simulation 
 component. If you need help, show up in the office hours or ask questions in or after the class. You may also use 
 [https://piazza.com/wm/fall2016/csci424524/home piazza] to ask general clarification or conceptual questions regarding 
-homeworks, quizzes, exams etc.
+homeworks, quizzes, exams etc. 
 
 == Grade Distribution
 - *CSCI 424*
