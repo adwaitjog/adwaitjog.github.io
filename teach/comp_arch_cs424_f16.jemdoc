@@ -33,7 +33,8 @@ for more details.
 - *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
 lab machine is necessary. See /Simulators/ section for more details.
 - *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
-will be posted on this website. Please keep checking both the forums regularly.
+will be posted on this website as well as course announcements/reminders will be given via [https://piazza.com/wm/fall2016/csci424524/home piazza].
+Please keep all forums regularly for the latest information.
 
 == Grade Distribution
 - *CSCI 424*
@@ -69,10 +70,6 @@ homeworks will carry more points than others.
 -- Late HWs are accepted with /20%/ penalty for each day they are late by.
 -- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
-
-== Discussion Forum
-The instructor has also set-up [https://piazza.com/wm/fall2016/csci424524/home piazza] for this course. Please use
-this forum for discussions. The instructor and TA will also use this forum for course announcements and reminders. 
 
 == Simulators
 - [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
