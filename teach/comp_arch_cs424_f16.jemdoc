@@ -94,6 +94,7 @@ to follow.
   <th>Date</th>
   <th>Agenda</th>
   <th>Readings</th>
+  <th>HW/Quiz</th>
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -101,7 +102,8 @@ to follow.
   <td valign=top>Aug 25 &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> Quiz 1 is out. First Day of Classes &nbsp;</td>
+  <td valign=top> Quiz 1 is out. &nbsp;</td>
+  <td valign=top> First Day of Classes &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -109,13 +111,15 @@ to follow.
   <td valign=top>Aug 30 &nbsp;</td>
   <td valign=top>Introduction, Abstractions, and Technology &nbsp;</td>
   <td valign=top> Chapter 1  &nbsp;</td>
-  <td valign=top> HW 1 is out. Download/install MARS and run sample codes to prepare for upcoming homeworks. &nbsp;</td>
+  <td valign=top> HW 1 is out. &nbsp;</td>
+  <td valign=top> Download/install MARS and run sample codes to prepare for upcoming homeworks. &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 1 &nbsp;</td>
   <td valign=top>Introduction, Abstractions, and Technology  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>Quiz 1 is due. <font color="red">Sep 2 is the add/drop deadline.</font> &nbsp;</td>
+  <td valign=top> Quiz 1 is due. &nbsp;</td>
+  <td valign=top> <font color="red">Sep 2 is the add/drop deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 3 &nbsp;</td>
@@ -123,12 +127,14 @@ to follow.
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top> Appendix A &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 8 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>HW 1 is due. &nbsp;</td>
+  <td valign=top>  HW 1 is due. &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 4 &nbsp;</td>
@@ -136,10 +142,12 @@ to follow.
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 15 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -149,10 +157,12 @@ to follow.
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 22 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -162,10 +172,12 @@ to follow.
   <td valign=top> Single Cycle Datapath Design  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 29 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -175,10 +187,12 @@ to follow.
   <td valign=top> Single Cycle Datapath Design  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 06 &nbsp;</td>
   <td valign=top> Multi-cycle Design &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -187,11 +201,13 @@ to follow.
   <td valign=top>Oct 11 &nbsp;</td>
   <td valign=top><font color="green">No class (Fall Break)</font> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 13 &nbsp;</td>
   <td valign=top> <font color="red">In-class Mid-term Examination.</font> &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   </tr>
@@ -201,10 +217,12 @@ to follow.
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 20 &nbsp;</td>
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top><font color="red">Oct 21 is the withdraw deadline.</font> &nbsp;</td>
   </tr>
@@ -214,10 +232,12 @@ to follow.
   <td valign=top>  Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 27 &nbsp;</td>
   <td valign=top>  Pipelining and Related Issues &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -227,10 +247,12 @@ to follow.
   <td valign=top>Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 3 &nbsp;</td>
   <td valign=top>Superscalar Processors &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -240,10 +262,12 @@ to follow.
   <td valign=top>Superscalar Processors  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 10 &nbsp;</td>
   <td valign=top>Superscalar Processors &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -253,10 +277,12 @@ to follow.
   <td valign=top>Memory Hierarchy   &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 17 &nbsp;</td>
   <td valign=top>Memory Hierarchy  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -266,10 +292,12 @@ to follow.
   <td valign=top>Memory Hierarchy   &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 24 &nbsp;</td>
   <td valign=top><font color="green">No class (Thanksgiving Break)</font> &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>&nbsp;</td>
   </tr>
@@ -279,10 +307,12 @@ to follow.
   <td valign=top>Multiprocessors  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Dec 1 &nbsp;</td>
   <td valign=top>Multiprocessors  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>Last day of the class&nbsp;</td>
   </tr>
@@ -290,6 +320,7 @@ to follow.
   <td valign=top> Finals &nbsp;</td>
   <td valign=top> Dec 14 &nbsp;</td>
   <td valign=top> <font color="red">Final Exam, 2:00--5:00pm</font>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php">
   (Fall 2016 Exam Schedule)</a> &nbsp;</td>
