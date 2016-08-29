@@ -2,7 +2,7 @@
 == CSCI 424 / CSCI 524: Computer Architecture, Fall 2016 
 
 == General Information
-- Time and Location: Tuesday/Thursday 11:00AM-12:20PM, Integrated Science Center, 2280
+- Time and Location: Tuesday/Thursday 11:00AM-12:20PM, Integrated Science Center (ISC), 2280
 
 - Instructor: *Adwait Jog* [http://adwaitjog.github.io/ (Personal Website)]
 -- Office hours: Tues/Thu 4PM-5:30PM or by appointment, McGl 111
@@ -35,10 +35,10 @@ lab machine is necessary. See /Simulators/ section for more details.
 - *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
 will be posted on this website as well as course announcements/reminders will be delivered via [https://piazza.com/wm/fall2016/csci424524/home piazza].
 Please keep checking all forums regularly for the latest information.
-- *Help:* It is important to start working on homeworks early, especially the homeworks that have simulation component. 
-If you need help, show up in the office hours or ask questions in or after the class. You may also use 
-[https://piazza.com/wm/fall2016/csci424524/home piazza] to ask general clarification or conceptual questions regarding homeworks, 
-quizzes, exams etc.
+- *Help:* It is important to start working on homeworks early, especially the homeworks that have simulation 
+component. If you need help, show up in the office hours or ask questions in or after the class. You may also use 
+[https://piazza.com/wm/fall2016/csci424524/home piazza] to ask general clarification or conceptual questions regarding 
+homeworks, quizzes, exams etc.
 
 == Grade Distribution
 - *CSCI 424*
@@ -321,7 +321,7 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Finals &nbsp;</td>
   <td valign=top> Dec 14 &nbsp;</td>
-  <td valign=top> <font color="red">Final Exam, 2:00--5:00pm</font>  &nbsp;</td>
+  <td valign=top> <font color="red">Final Exam, 2:00--5:00pm, ISC 2280</font>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php">
