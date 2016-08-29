@@ -59,7 +59,7 @@ others.
 -- Class participation and In-class/Blackboard Quizzes (10%)
 -- Research Project (20%) (Two reports due: one on Oct 13th and second on Dec 14th)
 
-- Final letter grades will be given based on the standard scale. Grades may be curved at my discretion.
+- Final letter grades will be given based on the standard scale. Grades may be curved at the instructor's discretion.
 
 == Policies
 - You are expected to attend *all* lectures.
@@ -72,6 +72,10 @@ others.
 -- Late HWs are accepted with /20%/ penalty for each day they are late by.
 -- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
 -- Exceptions will be handled case by case and will only be considered under a university-approved condition, with written proof.
+
+== Discussion Forum
+The instructor has also set-up [https://piazza.com/wm/fall2016/csci424524/home] piazza for this course. Please use
+this forum for discussions. The instructor and TA will also use this forum to make course announcements. 
 
 == Simulators
 - [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
