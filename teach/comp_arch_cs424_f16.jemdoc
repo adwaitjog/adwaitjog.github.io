@@ -81,8 +81,8 @@ Install [http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Au
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. As MARS is a
 Java program, it should run on any OS. Browse through the software and documentation to 
 familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
-tutorial] with lots of screenshots.  Try that first, before starting MARS. More documentation 
-is [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
+tutorial] with lots of screenshots.  Read the tutorial first before starting MARS. More documentation 
+can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
 
 - [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
 to follow. 
