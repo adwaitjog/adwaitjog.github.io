@@ -158,7 +158,7 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 5 &nbsp;</td>
   <td valign=top>Sep 20 &nbsp;</td>
-  <td valign=top> Single Cycle Datapath Design &nbsp;</td>
+  <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -188,14 +188,14 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 7 &nbsp;</td>
   <td valign=top>Oct 04 &nbsp;</td>
-  <td valign=top> Single Cycle Datapath Design  &nbsp;</td>
+  <td valign=top> Multi-cycle Design  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 06 &nbsp;</td>
-  <td valign=top> Multi-cycle Design &nbsp;</td>
+  <td valign=top> Intro to Pipelining &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
