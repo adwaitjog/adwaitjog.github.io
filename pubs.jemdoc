@@ -29,7 +29,7 @@
 Nandita Vijaykumar, Kevin Hsieh, Gennady Pekhimenko, Samira Khan,  Ashish Shrestha, Saugata Ghose, *Adwait Jog*, Phillip B. Gibbons, Onur Mutlu, \n
 [docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/], \n
 In the Proceedings of 49th International Symposium on Micro Architecture (MICRO), Taipei, Taiwan, October 2016 \n
-(Acceptance rate: 61/288 ≈ 21.5%) \n
+(Acceptance rate: 61/288 ≈ 21%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(IISWC 2016)\<\/span\>*
@@ -47,7 +47,7 @@ In the Proceedings of International Symposium on Workload Characterization, Prov
 Ashutosh Pattnaik, Xulong Tang, *Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Chita R. Das, \n
 [docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/], \n
 In the Proceedings of 25th International Conference on Parallel Architectures and Compilation Techniques (PACT), Haifa, Israel, September 2016 \n
-(Acceptance rate: 31/139 ≈ 22.3%) \n
+(Acceptance rate: 31/139 ≈ 22%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(PACT 2016 (2))\<\/span\>*
@@ -56,7 +56,7 @@ In the Proceedings of 25th International Conference on Parallel Architectures an
 Onur Kayiran, *Adwait Jog*, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das, \n
 [docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/], \n
 In the Proceedings of 25th International Conference on Parallel Architectures and Compilation Techniques (PACT), Haifa, Israel, September 2016 \n
-(Acceptance rate: 31/139 ≈ 22.3%) \n
+(Acceptance rate: 31/139 ≈ 22%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>*
@@ -66,7 +66,7 @@ In the Proceedings of 25th International Conference on Parallel Architectures an
 [docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/], \n
 In the Proceedings of 42nd ACM International Conference on Measurement and Modeling of Computer Systems
 (SIGMETRICS), Antibes Juan-Les-Pins, France, June 2016 \n
-(Acceptance rate: 28/208 ≈ 13.4%) \n 
+(Acceptance rate: 28/208 ≈ 13%) \n 
 
 === 
 *\<span style=\"color: forestgreen\"\>(Book Chapter)\<\/span\>* \n
@@ -93,7 +93,7 @@ Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata
 Mahmut Kandemir, Todd Mowry, Onur Mutlu, \n
 [docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
-(Acceptance rate: 58/305 ≈ 19.0%) \n
+(Acceptance rate: 58/305 ≈ 19%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(US Patent App, 2015)\<\/span\>* \n
@@ -116,7 +116,7 @@ Committee Members: [http://www.cse.psu.edu/~das Chita Das: Advisor (Penn State)]
 Onur Kayiran, Nachiappan CN, *Adwait Jog*, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das, \n 
 [docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/], \n
 In the Proceedings of 47th International Symposium on Micro Architecture (MICRO), Cambridge, UK, December 2014 \n
-(Acceptance rate: 53/273 ≈ 19.4%) \n
+(Acceptance rate: 53/273 ≈ 19%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* 
@@ -124,7 +124,7 @@ In the Proceedings of 47th International Symposium on Micro Architecture (MICRO)
 Wei Ding, Mahmut Kandemir, Diana Guttman, *Adwait Jog*, Chita Das, Praveen Yedlapalli, \n
 [docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/], \n
 In the Proceedings of 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edmonton, Alberta, Canada, August 2014 \n
-(Acceptance rate: 37/144 ≈ 25.7%) \n
+(Acceptance rate: 37/144 ≈ 25%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(GPGPU@ASPLOS 2014)\<\/span\>* 
@@ -135,7 +135,7 @@ In the Proceedings of 23rd International Conference on Parallel Architectures an
 [docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
 In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
 Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
-(Acceptance rate: 12/27 ≈ 44.4%) \n
+(Acceptance rate: 12/27 ≈ 44%) \n
 
 === 2013
 *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>*
@@ -145,7 +145,7 @@ Architectural Support for Programming Languages and Operating Systems (ASPLOS), 
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
 [docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
 In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
-(Acceptance rate: 36/208 ≈ 17.3%) \n
+(Acceptance rate: 36/208 ≈ 17%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* 
@@ -154,7 +154,7 @@ In the Proceedings of 22nd International Conference on Parallel Architectures an
 *Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das, \n 
 [docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/], \n
 In the Proceedings of 40th International Symposium on Computer Architecture (ISCA), Tel Aviv, Israel, June 2013 \n 
-(Acceptance rate: 56/288 ≈ 19.4%) \n
+(Acceptance rate: 56/288 ≈ 19%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
@@ -164,7 +164,7 @@ In the Proceedings of 40th International Symposium on Computer Architecture (ISC
 *Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
 [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
-(Acceptance rate: 44/191 ≈ 23.0%) 
+(Acceptance rate: 44/191 ≈ 23%) 
 
 === 2012
 *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* 
@@ -174,6 +174,7 @@ In the Proceedings of 18th International Conference on Architectural Support for
 *Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das, \n
 [docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
 In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA, June 2012 \n
+(Acceptance rate: 168/741 ≈ 22%) 
 
 === 
 *\<span style=\"color: forestgreen\"\>(Tech Report 2012)\<\/span\>* \n 
