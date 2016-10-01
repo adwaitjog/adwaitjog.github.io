@@ -72,7 +72,8 @@ Contact Number: +1-757-221-1434 & Homepage: \url{http://www.cs.wm.edu/~adwait}  
 \vspace{0.2cm}
 \begin{list}{}{}
 \item 
-My research interests lie in all aspects of computer architecture and systems.
+My research interests lie in all aspects of computer hardware architecture, including memory system
+architecture, data-parallel architectures (e.g., GPUs), and hardware scheduling. 
 \end{list}
 
 \subsection*{EDUCATION}
@@ -98,17 +99,13 @@ Bachelor of Technology {\it (Hons.)} in Electronics and Instrumentation Engineer
 \vspace{0.2cm}
 \begin{itemize}
 
-\item{\bf College of William and Mary \hfill {\bf Aug 2015 -- Present}} \\
+\item{\bf College of William and Mary (W\&M) \hfill {\bf Aug 2015 -- Present}} \\
 {\it Assistant Professor} \hfill {\bf Williamsburg, VA}\\
-$\bullet$ Leading a new computer architecture research group. 
+$\bullet$ Leading a new computer hardware architecture research group. 
 
 \item{\bf Pennsylvania State University, Research Assistant \hfill {\bf Fall 2009 -- Summer 2015}}\\
-{\it Advisor: Prof. Chita Das, High Performance Computing Lab (HPCL)} \hfill {\bf University Park, PA}\\
-$\bullet$ Proposed techniques for efficient execution of multiple applications on next generation GPUs.  \\ 
-$\bullet$ Proposed criticality-aware memory system for GPUs. \\ 
-$\bullet$ Proposed a coordinated scheduling and prefetching mechanism to improve GPU performance. \\
-$\bullet$ Proposed warp scheduling policies to mitigate contention in GPU memory system. \\
-$\bullet$ Traded-off non-volatility of STT-RAM for lower write latency and energy.
+{\it Advisor: Prof. Chita Das, High Performance Computing Lab (HPCL)} \hfill {\bf University Park, PA} \\
+$\bullet$ Proposed various techniques to improve the performance and energy efficiency of GPU hardware.
 
 \item{\bf NVIDIA Research, Graduate Research Intern \hfill {\bf Summer 2013}} \\
 {\it Manager: Steve Keckler}  \hfill {\bf Santa Clara, CA} \\ 
@@ -130,42 +127,39 @@ interconnect fabric for the Intel's next generation heterogeneous SoCs.
 
 \end{itemize}
 
-\subsection*{AWARDS, GRANTS, and HONORS}
+\subsection*{PUBLICATIONS}
 \hrule
 \vspace{0.2cm}
-$\bullet$  NVIDIA Hardware Grant (Tesla K40), 2016 \\
-$\bullet$  Reves Faculty International Conference Travel Grant, 2015 \\
-$\bullet$  Outstanding Graduate Research Assistant Award, CSE, Penn State, 2014 \\
-$\bullet$  NVIDIA Graduate Fellowship 2013, Finalist \\
-$\bullet$  Best Paper Nomination, PACT 2013 (One of the four papers nominated for the Best Paper Award) \\
-$\bullet$  Student Travel Grants for attending: ASPLOS (2014, 2013), ISCA (2015, 2013), MICRO 2014 \\
-$\bullet$  College of Engineering Fellowship, Penn State University, 2009 \\
-$\bullet$  Summer Research Fellowship, School of Computing, National University of Singapore (NUS), 2008 \\
-$\bullet$  Summer Research Fellowship, Indian Academy of Sciences (IAS), 2007 \\
-$\bullet$  Undergraduate Scholarship for being in Top 1\% in All India Engineering Entrance Exam, 2005
-
-\subsection*{PUBLICATIONS (Total Citations: 470, h-index: 7, as of August 2016) \\ (Google scholar: \url{https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ}) }
+{\bf Note:} In my sub-discipline (computer hardware architecture) of computer science, conference publication 
+is preferred to journal publication, and the premier conferences are generally more selective than the premier journals. 
+The premier conferences in computer hardware architecture and related areas (not in any particular order)
+are: MICRO, ISCA, HPCA, ASPLOS, PACT, SIGMETRICS, DAC (European version of it is called DATE). The
+acceptance rate of all these premier conferences is around 20\%. 
+See \url{https://www.cs.ucsd.edu/sites/cse/files/cse/assets/docs/arch.pdf} for more details.  \\
+ 
+\subsubsection*{PUBLICATIONS (After Joining W\&M)}
 \hrule
 \vspace{0.2cm}
+\underline{Underlined} students are advised by me. %(or were advised) 
 
 \begin{description}
 \item
 {\bf [MICRO 2016]}
-Nandita Vijaykumar, Kevin Hsieh, Gennady Pekhimenko, Samira Khan, Ashish Shrestha, Saugata Ghose, {\bf \underline{Adwait Jog}}, Phillip B. Gibbons, Onur Mutlu, 
+Nandita Vijaykumar, Kevin Hsieh, Gennady Pekhimenko, Samira Khan, Ashish Shrestha, Saugata Ghose, {\tt Adwait Jog}, Phillip B. Gibbons, Onur Mutlu, 
 {\it Zorua: A Holistic Approach to Resource Virtualization in GPUs},
 In the Proceedings of 49th International Symposium on Micro Architecture (MICRO), Taipei, Taiwan, October 2016 
 \textbf{\textit{Acceptance rate: 61/288 $\approx$ 21.5\%}}
 
 \item
 {\bf [IISWC 2016]}
-Robert Risque, {\bf \underline{Adwait Jog}}, 
+\underline{Robert Risque}, {\tt Adwait Jog}, 
 {\it Characterization of Quantum Workloads on SIMD Architectures},
 In the Proceedings of International Symposium on Workload Characterization (IISWC), Providence, RI, September 2016 
 \textbf{\textit{Acceptance rate: 21/71 $\approx$ 29\%}}
 
 \item
 {\bf [PACT 2016]}
-Ashutosh Pattnaik, Xulong Tang, {\bf \underline{Adwait Jog}}, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, 
+Ashutosh Pattnaik, Xulong Tang, {\tt Adwait Jog}, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, 
 Onur Mutlu, Chita R. Das, 
 {\it Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities},
 In the Proceedings of $25^{th}$ International Conference on Parallel Architectures and Compilation Techniques (PACT), 
@@ -174,21 +168,28 @@ Haifa, Israel, September 2016
 
 \item
 {\bf [PACT 2016]}
-Onur Kayiran, {\bf \underline{Adwait Jog}}, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das, 
+Onur Kayiran, {\tt Adwait Jog}, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das, 
 {\it $\mu$C-States: Fine-grained GPU Datapath Power Management},
 In the Proceedings of $25^{th}$ International Conference on Parallel Architectures and Compilation Techniques (PACT), 
 Haifa, Israel, September 2016 
 \textbf{\textit{Acceptance rate: 31/139 $\approx$ 22.3\%}}
 
 \item{\bf [SIGMETRICS 2016]} 
-{\bf \underline{Adwait Jog}}, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir, 
+{\tt Adwait Jog}, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir, 
 Onur Mutlu, Ravi Iyer, Chita R. Das, {\it Exploiting Core-Criticality for Enhanced Performance in GPUs}, 
 In the Proceedings of 42nd ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), Antibes Juan-Les-Pins, France, June 2016 
 \textbf{\textit{Acceptance rate: 28/208 $\approx$ 13.4\%}}
 
+\end{description}
+
+\subsubsection*{PUBLICATIONS (Before Joining W\&M)}
+\hrule
+\vspace{0.2cm}
+
+\begin{description}
 \item 
 {\bf [MEMSYS 2015]}
-{\bf \underline{Adwait Jog}}, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
+{\tt Adwait Jog}, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
 Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, 
 {\it Anatomy of GPU Memory System for Multi-Application Execution}, 
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \\
@@ -196,58 +197,57 @@ The associated code is open-source: \url{https://github.com/adwaitjog/mafia}
 
 \item 
 {\bf [Ph.D. Thesis 2015]}
-{\bf \underline{Adwait Jog}}, {\it Design and Analysis of Scheduling Techniques for Throughput Processors}, 
+{\tt Adwait Jog}, {\it Design and Analysis of Scheduling Techniques for Throughput Processors}, 
 Ph.D. Thesis, The Pennsylvania State University, University Park, PA, 2015
 
 \item 
 {\bf [ISCA 2015]}
-Nandita Vijaykumar, Gennady Pekhimenko, {\bf \underline{Adwait Jog}}, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, Mahmut Kandemir, Todd Mowry,
+Nandita Vijaykumar, Gennady Pekhimenko, {\tt Adwait Jog}, Abhishek Bhowmick, Rachata Ausavarungnirun, Onur Mutlu, Chita Das, Mahmut Kandemir, Todd Mowry,
 {\it A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Efficient Data Compression},
 In the Proceedings of $42^{nd}$ International Symposium on Computer Architecture (ISCA), Portland, OR, June, 2015
 \textbf{\textit{Acceptance rate: 58/305 $\approx$ 19.1\%}}
 
 \item{\bf [MICRO 2014]} 
-Onur Kayiran, Nachiappan CN, {\bf \underline{Adwait Jog}}, Rachata Ausavarungnirun, 
+Onur Kayiran, Nachiappan CN, {\tt Adwait Jog}, Rachata Ausavarungnirun, 
 Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita Das, 
 {\it Managing GPU Concurrency in Heterogeneous CPU-GPU Architectures}, 
 In the Proceedings of $47^{th}$ International Symposium on Micro Architecture (MICRO), Cambridge, UK, Dec 2014
-\textbf{\textit{Acceptance rate: 53/273 $\approx$ 19.4\%}} \\
-The associated code is open-source: \url{https://github.com/okayiran/cpugpusim}
+\textbf{\textit{Acceptance rate: 53/273 $\approx$ 19.4\%}} 
 
 \item{\bf [PACT 2014]}
-Wei Ding, Mahmut Kandemir, Diana Guttman, {\bf \underline{Adwait Jog}}, Chita Das, Praveen Yedlapalli, 
+Wei Ding, Mahmut Kandemir, Diana Guttman, {\tt Adwait Jog}, Chita Das, Praveen Yedlapalli, 
 {\it Trading Cache Hit Rate for Memory Performance}, 
 In the Proceedings of $23^{rd}$ International Conference on Parallel Architectures and Compilation Techniques (PACT), 
 Edmonton, Canada, August, 2014 
 \textbf{\textit{Acceptance rate: 37/144 $\approx$ 25.7\%}}
 
 \item{\bf [GPGPU 2014]}
-{\bf \underline{Adwait Jog}}, Evgeny Bolotin, Zvika Guz, Mike Parker, Steve Keckler, Mahmut \\ Kandemir, Chita Das, 
+{\tt Adwait Jog}, Evgeny Bolotin, Zvika Guz, Mike Parker, Steve Keckler, Mahmut \\ Kandemir, Chita Das, 
 {\it Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications}, 
 In the Proceedings of General-Purpose Computation on Graphics Processing Unit (GPGPU-7), co-located with ASPLOS, Salt Lake City, UT, USA, March, 2014
 \textbf{\textit{Acceptance rate: 12/27 $\approx$ 44.4\%}}
 
 \item{\bf [PACT 2013]}
-Onur Kayiran, {\bf \underline{Adwait Jog}}, Mahmut Kandemir, Chita Das,
+Onur Kayiran, {\tt Adwait Jog}, Mahmut Kandemir, Chita Das,
 {\it Neither More Nor Less: Optimizing Thread-Level Parallelism for GPGPUs},
 In the Proceedings of $22^{nd}$ International Conference on Parallel Architectures and Compilation Techniques (PACT), 
 Edinburgh, Scotland, September, 2013 
 \textbf{\textit{Acceptance rate: 36/208 $\approx$ 17.3\%, Best Paper Nomination}}
 
 \item{\bf [ISCA 2013]}
-{\bf \underline{Adwait Jog}}, Onur Kayiran, Asit Mishra, Mahmut Kandemir, Onur Mutlu, Ravi Iyer, Chita Das, 
+{\tt Adwait Jog}, Onur Kayiran, Asit Mishra, Mahmut Kandemir, Onur Mutlu, Ravi Iyer, Chita Das, 
 {\it Orchestrated Scheduling and Prefetching for GPGPUs}, 
 In the Proceedings of $40^{th}$ International Symposium on Computer Architecture (ISCA), Tel Aviv, Israel, June, 2013
 \textbf{\textit{Acceptance rate: 56/288 $\approx$ 19.4\%}}
 
 \item{\bf [ASPLOS 2013]} 
-{\bf \underline{Adwait Jog}}, Onur Kayiran, Nachiappan CN, Asit Mishra, Mahmut Kandemir, Onur Mutlu, Ravi Iyer, Chita Das, 
+{\tt Adwait Jog}, Onur Kayiran, Nachiappan CN, Asit Mishra, Mahmut Kandemir, Onur Mutlu, Ravi Iyer, Chita Das, 
 {\it OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance},
 In the Proceedings of $18^{th}$ International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, USA, March, 2013 
 \textbf{\textit{Acceptance rate: 44/191 $\approx$ 23.0\%}}
 
 \item{\bf [DAC 2012]}
-{\bf \underline{Adwait Jog}}, Asit Mishra, Cong Xu, Yuan Xie, Vijaykrishnan Narayanan, 
+{\tt Adwait Jog}, Asit Mishra, Cong Xu, Yuan Xie, Vijaykrishnan Narayanan, 
 Ravi Iyer, Chita Das, {\it Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced 
 Performance in CMPs}, 
 In the Proceedings of $49^{th}$ Design Automation Conference (DAC), San Francisco, USA, June 2012
@@ -261,28 +261,55 @@ In the Proceedings of $49^{th}$ Design Automation Conference (DAC), San Francisc
 
 \begin{description}
 \item{\bf [US Patent]}
-Evgeny Bolotin, Zvika Guz, {\bf \underline{Adwait Jog}}, Stephen W. Keckler, Mike Parker, 
+Evgeny Bolotin, Zvika Guz, {\tt Adwait Jog}, Stephen W. Keckler, Mike Parker, 
 Approach to Adpative Allocation of Shared Resources in Computer Systems, 
 United States Patent Application US20150163324 A1 
 
 \end{description}
 
-\subsection*{STUDENTS ADVISING}
+\subsection*{GRANTS (Awarded)}
 \hrule
 \vspace{0.2cm}
 \begin{itemize}
-\item {\bf Ph.D. Students:} Mohamed Assem Ibrahim, Haonan Wang
-\item {\bf MS Students:}  Fan Luo, Robert Risque
-\item {\bf Undergraduate Students:}  Colin Weinshenker
+\item  NVIDIA Hardware Grant (Tesla K40), 2016 
+\item  Reves Faculty International Conference Travel Grant, 2015 
+\end{itemize}
+
+\subsection*{AWARDS and HONORS}
+\hrule
+\vspace{0.2cm}
+\begin{itemize}
+\item  Outstanding Graduate Research Assistant Award, CSE, Penn State, 2014 
+\item  NVIDIA Graduate Fellowship 2013, Finalist 
+\item  Best Paper Nomination, PACT 2013 (One of the four papers nominated for the Best Paper Award) 
+\item  Student Travel Grants for attending: ASPLOS (2014, 2013), ISCA (2015, 2013), MICRO 2014 
+\item  College of Engineering Fellowship, Penn State University, 2009 
+\end{itemize}
+
+\subsection*{STUDENTS CURRENTLY ADVISING}
+\hrule
+\vspace{0.2cm}
+\begin{itemize}
+\item {\bf Ph.D. Students:} Mohamed Ibrahim, Haonan Wang
+\item {\bf MS Students:}  Robert Risque 
+\item {\bf Undergraduate Students:}  Colin Weinshenker (Honors student)
+\end{itemize}
+
+\subsection*{STUDENTS GRADUATED}
+\hrule
+\vspace{0.2cm}
+\begin{itemize}
+\item {\bf MS Students:}  Fan Luo 
+\item {\bf Undergraduate Students:}  Robert Risque
 \end{itemize}
 
 \subsection*{TEACHING EXPERIENCE}
 \hrule
 \vspace{0.2cm}
 \begin{itemize}
-\item{\bf Instructor@WM}, CS 424/524, Computer Architecture \hfill {\bf Fall 2016}  (In-progress)
-\item{\bf Instructor@WM}, CS 680/780, GPU Architectures \hfill {\bf Spring 2016}  (Rating: 4.28/5.0)
-\item{\bf Instructor@WM}, CS 680/780, Topics in Computer Architecture \hfill {\bf Fall 2015} (Rating: 4.43/5.0)
+\item{\bf Instructor@W\&M}, CS 424/524, Computer Architecture \hfill {\bf Fall 2016}  (In-progress)
+\item{\bf Instructor@W\&M}, CS 680/780, GPU Architectures \hfill {\bf Spring 2016}  (Rating: 4.28/5.0)
+\item{\bf Instructor@W\&M}, CS 680/780, Topics in Computer Architecture \hfill {\bf Fall 2015} (Rating: 4.43/5.0)
 \item{\bf Co-Instructor@PSU}, CMPEN 331, Computer Organization and Design \hfill {\bf Fall 2014} 
 \item{\bf Co-Instructor@PSU}, CMPEN 331, Computer Organization and Design \hfill {\bf Spring 2014} 
 \item{\bf Teaching Assistant@PSU}, CMPEN 431, Introduction to Computer Architecture  \hfill {\bf Spring 2010} 
@@ -326,15 +353,16 @@ United States Patent Application US20150163324 A1
 -- Poster presentation at IUCRC NEXYS Workshop, Pittsburgh, PA
 \end{itemize}
 
-\subsection*{SERVICE AT WM}
+\subsection*{SERVICE AT W\&M}
 \hrule
 \vspace{0.2cm}
 \begin{itemize}
 	\item Pre-major advising, Aug 2016 - Present
-	\item Departmental Admissions Committee, Aug 2015 - Present
+	\item Departmental Colloquium Committee, Aug 2016 - Present
+	\item Departmental Admissions Committee, Aug 2015 - July 2016
 \end{itemize}
 
-\subsection*{PROFESSIONAL SERVICE AND MEMBERSHIPS}
+\subsection*{EXTERNAL PROFESSIONAL SERVICE AND MEMBERSHIPS}
 \hrule
 \vspace{0.2cm}
 \begin{itemize}
