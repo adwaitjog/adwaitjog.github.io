@@ -107,7 +107,7 @@ to follow.
   <td valign=top> Administrativia and Introductions &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> Quiz 1 is out. &nbsp;</td>
-  <td valign=top> First Day of Classes &nbsp;</td>
+  <td valign=top> First Day of class. &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -240,7 +240,7 @@ to follow.
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 27 &nbsp;</td>
-  <td valign=top>  Pipelining and Related Issues &nbsp;</td>
+  <td valign=top>  Static Superscalar &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -248,14 +248,14 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 11 &nbsp;</td>
   <td valign=top>Nov 1 &nbsp;</td>
-  <td valign=top> Pipelining and Related Issues &nbsp;</td>
+  <td valign=top> Static Superscalar &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 3 &nbsp;</td>
-  <td valign=top> Superscalar Processors &nbsp;</td>
+  <td valign=top> Dynamic Superscalar &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -263,14 +263,14 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 12 &nbsp;</td>
   <td valign=top>Nov 8 &nbsp;</td>
-  <td valign=top> Superscalar Processors  &nbsp;</td>
+  <td valign=top> Dynamic Superscalar  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 10 &nbsp;</td>
-  <td valign=top> Superscalar Processors &nbsp;</td>
+  <td valign=top> Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
