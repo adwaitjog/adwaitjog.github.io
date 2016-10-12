@@ -55,3 +55,16 @@ cross-disciplinary research opportunities.
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [coming.html /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
+- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
+- *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
+
+
