@@ -683,7 +683,7 @@ def br(b, f, tableblock=False):
   b = re.sub(r, r'<b>\1</b>', b)
   
   # Deal with *underline*.
-  r = re.compile(r'(?<!\\)\_(.*?)(?<!\\)\_', re.M + re.S)
+  r = re.compile(r'(?<!\\)\%(.*?)(?<!\\)\%', re.M + re.S)
   b = re.sub(r, r'<u>\1</u>', b)
 
   # Deal with +monospace+.
