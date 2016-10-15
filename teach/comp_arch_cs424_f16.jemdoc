@@ -255,7 +255,7 @@ to follow.
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 3 &nbsp;</td>
-  <td valign=top> Caches &nbsp;</td>
+  <td valign=top> Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -263,14 +263,14 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 12 &nbsp;</td>
   <td valign=top>Nov 8 &nbsp;</td>
-  <td valign=top> Caches &nbsp;</td>
+  <td valign=top> Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 10 &nbsp;</td>
-  <td valign=top> TLBs &nbsp;</td>
+  <td valign=top> Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -278,7 +278,7 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 13 &nbsp;</td>
   <td valign=top>Nov 15 &nbsp;</td>
-  <td valign=top> TLBs &nbsp;</td>
+  <td valign=top> Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
