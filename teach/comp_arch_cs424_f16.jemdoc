@@ -219,7 +219,7 @@ to follow.
   <td rowspan="2">Week 9 &nbsp;</td>
   <td valign=top>Oct 18 &nbsp;</td>
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Chapter 4.8 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  Mid-term Analysis will be discussed in the class. &nbsp;</td>
   </tr>
@@ -234,7 +234,7 @@ to follow.
   <td rowspan="2">Week 10 &nbsp;</td>
   <td valign=top>Oct 25 &nbsp;</td>
   <td valign=top>  Memory Hierarchy &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Chapter 5.1 -- 5.8 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -271,7 +271,7 @@ to follow.
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 10 &nbsp;</td>
   <td valign=top> Disks and I/O &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> Chapter 5.11 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -309,7 +309,7 @@ to follow.
   <td rowspan="2">Week 15 &nbsp;</td>
   <td valign=top>Nov 29 &nbsp;</td>
   <td valign=top>Multiprocessors/SIMD architectures &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Appendix C-2 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
