@@ -85,8 +85,9 @@ familiarize yourself with the software. Here is a good [http://courses.missouris
 tutorial] with lots of screenshots.  Read the tutorial first before starting MARS. More documentation 
 can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
 
-- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. More details
-to follow. 
+- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. Refer
+to these [http://adwaitjog.github.io/teach/simplescalar/SimpleScalar_Setup.pptx presentation slides] 
+and this [http://adwaitjog.github.io/teach/simplescalar/users_guide_v2.pdf user guide] . 
 
 == Tentative Schedule (Will keep changing regularly)
 ~~~
@@ -227,7 +228,7 @@ to follow.
   <td valign=top>Oct 20 &nbsp;</td>
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Quiz 5 and HW5 are out. </td>
   <td valign=top><font color="red"> Oct 21 is the withdraw deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -242,7 +243,7 @@ to follow.
   <td valign=top>Oct 27 &nbsp;</td>
   <td valign=top>  Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Quiz 5 is due. &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -250,7 +251,7 @@ to follow.
   <td valign=top>Nov 1 &nbsp;</td>
   <td valign=top> Memory Hierarchy &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  HW5 is due. </td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
