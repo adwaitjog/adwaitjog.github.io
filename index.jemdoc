@@ -38,12 +38,12 @@ I am an assistant professor of computer science
 at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I have started a new 
 research group with the goal of designing future computing systems more energy-efficient, reliable, secure, capable, and useful. \n
 
-I am currently teaching an undergraduate course: [http://adwaitjog.github.io/teach/comp_arch_cs424_f16.html CS 424/524, Computer Architecture]
+/I am currently teaching an undergraduate course: [http://adwaitjog.github.io/teach/comp_arch_cs424_f16.html CS 424/524, Computer Architecture]/
 
 == Recent News
 - Papers accepted in HPCA 2017 and VLSID 2017
 - Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
-- Invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017] and [http://www.hpdc.org/2017/ HPDC 2017]. 
+- Invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], and [http://gpgpu10.athoura.com/ GPGPU 2017]. 
 Submit your best work.
 - *\<span style=\"color: red\"\>Looking for self-motivated students to join my research group. If you 
 are interested in doing research related to any aspects of computer architecture, please send me your CV.
@@ -66,5 +66,3 @@ cross-disciplinary research opportunities.
 - *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
 - *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
-
-
