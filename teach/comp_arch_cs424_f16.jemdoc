@@ -36,9 +36,9 @@ lab machine is necessary. See /Simulators/ section for more details.
 will be posted on this website as well as course announcements/reminders will be delivered via [https://piazza.com/wm/fall2016/csci424524/home piazza].
 Please keep checking all forums regularly for the latest information.
 - *Help:* It is important to start working on homeworks early, especially the homeworks that have simulation 
-component. If you need help, show up in the office hours or ask questions in or after the class. You may also use 
-[https://piazza.com/wm/fall2016/csci424524/home piazza] to ask general clarification or conceptual questions regarding 
-homeworks, quizzes, exams etc. 
+component. If you need help, show up in the office hours or ask questions in or after the class. You are also highly
+encouraged to use [https://piazza.com/wm/fall2016/csci424524/home piazza] to ask general clarification or 
+conceptual questions regarding homeworks, quizzes, exams etc. 
 
 == Grade Distribution
 - *CSCI 424*
@@ -82,12 +82,13 @@ Install [http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Au
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. As MARS is a
 Java program, it should run on any OS. Browse through the software and documentation to 
 familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
-tutorial] with lots of screenshots.  Read the tutorial first before starting MARS. More documentation 
+tutorial] with lots of screenshots. Read the tutorial first before starting MARS. More documentation 
 can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
 
-- [http://www.simplescalar.com/ SimpleScalar]. It is an architectural simulator. Refer
+- [http://www.simplescalar.com/ SimpleScalar]. It is an architecture-level simulator. Refer
 to these [http://adwaitjog.github.io/teach/simplescalar/SimpleScalar_Setup.pptx presentation slides] 
 and this [http://adwaitjog.github.io/teach/simplescalar/users_guide_v2.pdf user guide]. 
+Browse through the simulator-software and documentation to familiarize yourself with the environment. 
 
 == Tentative Schedule (Will keep changing regularly)
 ~~~
