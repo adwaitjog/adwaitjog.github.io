@@ -235,14 +235,14 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 10 &nbsp;</td>
   <td valign=top>Oct 25 &nbsp;</td>
-  <td valign=top>  Memory Hierarchy &nbsp;</td>
+  <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
   <td valign=top>  Chapter 5.1 -- 5.8 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 27 &nbsp;</td>
-  <td valign=top>  Memory Hierarchy &nbsp;</td>
+  <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  Quiz 5 is due. &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -250,14 +250,14 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 11 &nbsp;</td>
   <td valign=top>Nov 1 &nbsp;</td>
-  <td valign=top> Memory Hierarchy &nbsp;</td>
+  <td valign=top> Memory Hierarchy (DRAM) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  HW5 is due. </td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 3 &nbsp;</td>
-  <td valign=top> Memory Hierarchy &nbsp;</td>
+  <td valign=top> Memory Hierarchy (DRAM) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -265,7 +265,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 12 &nbsp;</td>
   <td valign=top>Nov 8 &nbsp;</td>
-  <td valign=top> Memory Hierarchy &nbsp;</td>
+  <td valign=top> Virtual Memory and TLBs &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
