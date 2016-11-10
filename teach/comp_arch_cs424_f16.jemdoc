@@ -236,7 +236,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td rowspan="2">Week 10 &nbsp;</td>
   <td valign=top>Oct 25 &nbsp;</td>
   <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
-  <td valign=top>  Chapter 5.1 -- 5.8 &nbsp;</td>
+  <td valign=top>  Chapter 5.1 -- 5.4 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -273,7 +273,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 10 &nbsp;</td>
   <td valign=top> Virtual Memory and TLBs &nbsp;</td>
-  <td valign=top> Chapter 5.11 &nbsp;</td>
+  <td valign=top> Chapter 5.6 -- 5.8 &nbsp;</td>
   <td valign=top> Quiz 6 and HW6 are due. </td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -281,7 +281,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td rowspan="2">Week 13 &nbsp;</td>
   <td valign=top>Nov 15 &nbsp;</td>
   <td valign=top> Disks and I/O &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> Chapter 5.11 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -296,7 +296,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td rowspan="2">Week 14 &nbsp;</td>
   <td valign=top> Nov 22 &nbsp;</td>
   <td valign=top> Multi-processors &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Chapter 6.1 -- 6.5 </td>
   <td valign=top>  Quiz 7 and HW 7 are due. </td>
   <td valign=top>  &nbsp;</td>
   </tr>
