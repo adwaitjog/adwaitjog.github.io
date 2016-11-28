@@ -1,4 +1,18 @@
 
+@inproceedings{dp-hpca17,
+ author = {Xulong Tang and Ashutosh Pattnaik and Huaipan Jiang and Onur Kayiran and Adwait Jog and Sreepathi Pai and Mohamed Ibrahim and
+Mahmut Kandemir and Chita Das},
+ title = {{Controlled Kernel Launch for Dynamic Parallelism in GPUs}},
+ booktitle = {HPCA},
+ year = {2017},
+}
+
+@inproceedings{gpureliability-vlsid17,
+ author = {Sparsh Mittal and Hoanan Wang and Adwait Jog and Jeff Vetter},
+ title = {Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File},
+ booktitle = {VLSID},
+ year = {2017},
+}
 
 @inproceedings{zorua-micro16,
  author = {Nandita Vijaykumar and Kevin Hsieh and Gennady Pekhimenko and Samira Khan and Ashish Shrestha and Saugata Ghose and Adwait Jog
