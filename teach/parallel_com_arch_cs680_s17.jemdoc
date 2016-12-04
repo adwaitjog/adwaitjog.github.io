@@ -26,8 +26,8 @@ and take a final exam.
 - Semester-long Research Project: 50%
 
 == Submissions
-- Critique and Homework Submissions via Email.
-- In-Class Presentations will be uploaded on the Box folder (shared with students).
+- Critique and Homework Submissions (on-paper, in-class)
+- In-Class presentations will be uploaded on Piazza.
 - Semester-long Research Project Report Submissions need to be emailed to the instructor. 
 - Final Grade submission via Banner.
 
@@ -50,8 +50,7 @@ some homeworks will also be given.
 
 == In-Class Presentations 
 Each student will present a maximum of two papers throughout the semester. 
-If you plan to audit the course, you are required to present at least two papers. When you 
-present a paper, be prepared to answer a variety of questions asked by the instructor 
+When you present a paper, be prepared to answer a variety of questions asked by the instructor 
 or other fellow students. The goal is to make class lively. A list of papers will be provided
 to students. They can choose from that list or come up with their own suggestions. Suggestions
 would need approval from the instructor. 
@@ -131,123 +130,9 @@ ideas. Deadline to determine project topic area is also *Sept 22* \n
   <th>Agenda</th>
   <th>Notes</th>
   </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Aug 27&nbsp;</td>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 18&nbsp;</td>
   <td valign=top> Administrativia and Introductions </a></td>
   <td valign=top>HW 0 Out</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 1&nbsp;</td>
-  <td valign=top>Overview: Core Design, Memory Systems, and 
-  Near Data Computing. </a></td>
-  <td valign=top>HW 0 Due, HW1 Out</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 3&nbsp;</td>
-  <td valign=top>Overview: Simulators, Accelerators (contd.). </a></td>
-  <td valign=top>Sep 4 is add/drop deadline</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 8&nbsp;</td>
-  <td valign=top>Overview: Accelerators (contd.), Approx Computing </a></td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 10&nbsp;</td>
-  <td valign=top>Overview: Approx Computing, Emerging Memory Technology  </a></td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 15&nbsp;</td>
-  <td valign=top>Overview: Mobile Architectures </a></td>
-  <td valign=top>HW1 Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 17&nbsp;</td>
-  <td valign=top>Overview: Data Center Architectures</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 22&nbsp;</td>
-  <td valign=top>Overview: Security and Reliability</td>
-  <td valign=top>Project Determination and In-Class Presentation Topic Selection Deadline</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 24&nbsp;</td>
-  <td valign=top>Presenter: James Bieron, Paper: [P1] </td>
-  <td valign=top>In-class Presentations Start</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Sep 29&nbsp;</td>
-  <td valign=top>Presenter: Shengye Wan, Paper: [P2]</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 1&nbsp;</td>
-  <td valign=top>Presenter: Qingsen Wang, Paper: [P3]</td>
-  <td valign=top>Critique [P1] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 6&nbsp;</td>
-  <td valign=top>Presenter: Rongdong Chai, Paper: [P4]</td>
-  <td valign=top>Instructor on Travel, Critique [P2] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 8&nbsp;</td>
-  <td valign=top>Class Canceled, Instead watch this <a href="https://www.youtube.com/watch?v=a1zDuOPkMSw">video</a>
-  on "You and Your Research" by Richard Hamming</td>
-  <td valign=top>Instructor on Travel, Critique [P3] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 13&nbsp;</td>
-  <td valign=top>No Class, Fall Break </td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 15&nbsp;</td>
-  <td valign=top>Presenter: Haonan Wang, Paper: [P5]</td>
-  <td valign=top>Critique [P4] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 17&nbsp;</td>
-  <td valign=top>Presenter: Lihua Ren, Paper: [P6]</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 22&nbsp;</td>
-  <td valign=top>Presenter: Fan Luo, Paper: [P7]</td>
-  <td valign=top>Critique [P5] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 24&nbsp;</td>
-  <td valign=top>Presenter: Ruiqin Tian, Paper: [P8]</td>
-  <td valign=top>Critique [P6] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Oct 27&nbsp;</td>
-  <td valign=top>Presenter: Lele Ma, Paper: [P9]</td>
-  <td valign=top>Critique [P7] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 3&nbsp;</td>
-  <td valign=top>Presenter: Bin Nie, Paper: [P10]</td>
-  <td valign=top>Critique [P8] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 5&nbsp;</td>
-  <td valign=top>Presenter: Yiqiang Lin, Paper: [P11]</td>
-  <td valign=top>Critique [P9] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 10&nbsp;</td>
-  <td valign=top>Presenters: Jamie Bieron and Shengye Wan, Papers: [P12] and [P13]</td>
-  <td valign=top>Critique [P10] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 12&nbsp;</td>
-  <td valign=top>Presenters: Qingsen Wang and Rongdong Chai, Papers: [P14] and [P15]</td>
-  <td valign=top>Critique [P11] Due</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 17&nbsp;</td>
-  <td valign=top>Presenters: Haonan Wang and Lihua Ren, Papers: [P16] and [P17]</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 19&nbsp;</td>
-  <td valign=top>Presenters: Fan Luo and Ruiqin Tian, Papers: [P18] and [P19]</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 24&nbsp;</td>
-  <td valign=top>Presenters: Lele Ma and Bin Nie, Papers: [P20] and [P21]</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Nov 26&nbsp;</td>
-  <td valign=top>No Class, Thanks giving break</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Dec 1&nbsp;</td>
-  <td valign=top>Presenter: Yiqiang Lin, Paper: [P22]. Project Discussions</td>
-  <td valign=top>&nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Dec 3&nbsp;</td>
-  <td valign=top>Project Discussions</td>
-  <td valign=top>Final Project Report is due on Dec 11</td>
   </tr>
 </TABLE>
 
@@ -255,28 +140,6 @@ ideas. Deadline to determine project topic area is also *Sept 22* \n
 ~~~
 
 == Readings
-- *P1*: MorphCore: An Energy-Efficient Micro-architecture for High Performance ILP and High Throughput TLP, MICRO 2012
-- *P2*: Memory Performance Attacks, USENIX Security 2007
-- *P3*: PIM-Enabled Instructions: A Low-Overhead, Locality-Aware Processing-in-Memory Architecture, ISCA 2015
-- *P4*: Scheduling Heterogeneous Multi-Cores through Performance Impact Estimation (PIE), ISCA 2012
-- *P5*: A Locality-Aware Memory Hierarchy for Energy-Efficient GPU Architectures, MICRO 2013
-- *P6*: Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters, ASPLOS 2013
-- *P7*: WebCore: Architectural Support for Mobile Web Browsing, ISCA 2014
-- *P8*: A Study of Mobile Device Utilization, ISPASS 2015
-- *P9*: CloudMonatt: an architecture for security health monitoring and attestation of virtual machines in cloud computing, ISCA 2015
-- *P10* An Experimental Study of Data Retention Behavior in Modern DRAM Devices: Implications for Retention Time Profiling Mechanisms, ISCA 2013
-- *P11* Neural Acceleration for General-Purpose Approximate Programs, MICRO 2012
-- *P12* Composite Cores: Pushing Heterogeneity into a Core, MICRO 2012
-- *P13* ATLAS: A Scalable and High-Performance Scheduling Algorithm for Multiple Memory Controllers, HPCA 2010
-- *P14* RowClone: Fast and Energy-Efficient In-DRAM Bulk Data Copy and Initialization, MICRO 2013
-- *P15* Exploiting ILP, TLP, and DLP with the Polymorphous TRIPS Architecture, ISCA 2003
-- *P16* Page Placement Strategies for GPUs within Heterogeneous Memory Systems, ASPLOS 2015
-- *P17* Quasar: Resource-Efficient and QoS-Aware Cluster Management, ASPLOS 2014
-- *P18* High-Performance and Energy-Efficient Mobile Web Browsing on Big/Little Systems, HPCA 2013
-- *P19* Quantifying the Energy Cost of Data Movement for Emerging Smart Phone Workloads on Mobile Platforms, IISWC 2014
-- *P20* Efficient Memory Integrity Verification and Encryption for Secure Processors, MICRO 2003
-- *P21* The Efficacy of Error Mitigation Techniques for DRAM Retention Failures: A Comparative Experimental Study, SIGMETRICS 2014
-- *P22* SAGE: Self-Tuning Approximation on Graphics Engines, MICRO 2013
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
