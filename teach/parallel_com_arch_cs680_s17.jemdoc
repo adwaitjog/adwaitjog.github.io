@@ -81,7 +81,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - Core Design
 - Memory Systems 
 - Near-Data Computing
-- Accelerators 
+- Accelerators (e.g., GPUs)
 - Approximate Computing
 - Emerging Memory/Storage Technologies
 - Mobile Architectures
@@ -118,7 +118,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 18&nbsp;</td>
   <td valign=top> Administrativia and Introductions </a></td>
-  <td valign=top>HW 0 Out</td>
+  <td valign=top></td>
   </tr>
 </TABLE>
 
