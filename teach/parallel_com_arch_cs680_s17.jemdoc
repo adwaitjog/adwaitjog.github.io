@@ -4,7 +4,7 @@
 == General Information
 - Time and Location: Mondays and Wednesdays 3:30PM-4:50PM, Tucker Hall 222
 - Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
-- Office hours: Mondays and Wednesdays 5:00-6:30pm or by appointment, McGl 111
+- Office hours: Mondays and Wednesdays 4:50-6:00pm (after the class) or by appointment, McGl 111
 - Email: adwait@cs.wm.edu \n
 - Deadlines: Jan 27 (add/drop deadline) and Mar 17 (withdraw deadline)
 - *\<span style=\"color: blue\"\> Please keep checking this website for the latest information regarding the course. \<\/span\>* \n
@@ -69,14 +69,14 @@ when you submit your final report. Please contact the instructor early
 to brainstorm potential project ideas. \n
 \n
 *Project Timeline* \n
-- *Phase 1 -- Project Determination: /(Deadline: Sept. 22)/*; Please send an email to the instructor by 
+- *Phase 1 -- Project Determination:*; Please send an email to the instructor by 
 the deadline containing: 1) Project Name (think of this as your paper/report title), 2) Problem Statement, 
 3) Expected Infrastructure Platform Required, 4) Possible Outcomes and Deliverables. \n
-- *Phase 2 -- Determination of (more) concrete project goals and Infrastructure Setup /(Deadline: Oct 20)/*;
+- *Phase 2 -- Determination of (more) concrete project goals and Infrastructure Setup*;
 Please meet the instructor during office hours to discuss the status of your project.
-- *Phase 3 -- Motivation Results  /(Deadline: Nov 19)/*; Please meet the instructor during office hours 
+- *Phase 3 -- Motivation Results*; Please meet the instructor during office hours 
 to discuss the status of your project.
-- *Phase 4 -- Final Project Report /(Deadline: Dec 11)/*; Please email your final project report 
+- *Phase 4 -- Final Project Report*; Please email your final project report 
 in PDF format. Please use the [http://www.acm.org/publications/article-templates/proceedings-template.html/ 
 standard LaTeX or Word ACM templates]. The PDF should have these sections: 1) Problem Statement, 2)
 Introduction, 3) Background and Related Work, 4) Motivation Results, 5) Implementation Details, 6) 
