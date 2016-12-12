@@ -40,16 +40,6 @@ research group with the goal of designing future computing systems more energy-e
 
 /I am currently teaching: [http://adwaitjog.github.io/teach/comp_arch_cs424_f16.html CS 424-524, Computer Architecture]/
 
-/I am currently advising the following students:/
-- Mohamed Ibrahim (PhD)
-- Gurunath Kadam (PhD)
-- Haonan Wang (PhD)
-- Colin Weinshenker (Undergraduate Honor's Thesis Student)
-
-/I advised the following students in the past:/
-- Fan Luo (MS)
-- Robert Risque (Undergraduate)
-
 == Recent News
 - Papers accepted in HPCA 2017 and VLSID 2017
 - Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
@@ -62,6 +52,14 @@ memory systems, and emerging/non-traditional computing architectures. Students i
 such as (but not limited to) biology, economics, machine learning, physics, security, are also welcome to 
 initiate a discussion with me to explore cross-disciplinary research opportunities.
  \n
+
+== Students
+- Mohamed Ibrahim (PhD, in-progress)
+- Gurunath Kadam (PhD, in-progress)
+- Haonan Wang (PhD, in-progress)
+- Colin Weinshenker (Undergraduate Honor's Thesis Student, in-progress)
+- Fan Luo (MS, graduated)
+- Robert Risque (Senior's Thesis, graduated)
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [coming.html /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
