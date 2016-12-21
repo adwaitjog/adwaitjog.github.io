@@ -53,17 +53,18 @@ to initiate a discussion with me to explore cross-disciplinary research opportun
  \n
 
 == Students
-- Mohamed Ibrahim (Ph.D, since Spring 2016)
-- Gurunath Kadam (Ph.D, since Fall 2016)
-- Haonan Wang (Ph.D, since Spring 2016)
+- Haonan Wang (Ph.D., since Spring 2016)
+- Mohamed Ibrahim (Ph.D., since Spring 2016)
+- Gurunath Kadam (Ph.D., since Fall 2016)
+- Hongyuan Liu (Ph.D., since Spring 2017)
 - Corey Ames (M.S., since Spring 2017)
 - Colin Weinshenker (Undergraduate Honor's Thesis, since Fall 2016)
 
-- Fan Luo (M.S., /graduated/)
-- Robert Risque (Senior's Thesis, /graduated/)
+- Fan Luo (M.S., /graduated in Summer 2016/)
+- Robert Risque (Senior's Thesis, /graduated in Spring 2016/)
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [coming.html /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
 - *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
