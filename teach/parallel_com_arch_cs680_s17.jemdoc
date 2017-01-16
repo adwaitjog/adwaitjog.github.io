@@ -25,12 +25,14 @@ This course provides an in-depth understanding of the fundamental principles and
 - (III) Semester-long Research Project: 40%
 - (IV) Final Exam: 20%
 
-== Submission Format
-- In-Class Presentations will be uploaded in a shared Box folder visible to all students.
-- Critique and Report Submissions via Box. A separate Box folder will be shared with the instructor and the student.
+== Discussion Forum and Announcements 
+- We will extensively use [https://piazza.com/class/ixzae7ucc8rht Piazza] for discussions. All announcements
+will also be made through Piazza. 
+- Lecture slides will be uploaded in a shared Box folder visible to all students.
+- Critique, Homework, and other submissions via Box or Piazza (TBD). 
 - Final grade submission via Banner.
 
-== (I) Paper Critiques 
+== (I) Paper Critiques and Homeworks
 All students are required to submit a detailed critique for each paper we discuss 
 in the class. However, the student who presents the paper in-class is not allowed
 to submit the critique for that particular paper. *Deadline for critique submission
@@ -79,7 +81,11 @@ The PDF should have these sections: 1) Problem Statement, 2)
 Introduction, 3) Background and Related Work, 4) Motivation Results, 5) Implementation Details, 6) 
 Infrastructure Details, 7) Final Results, and 8) Conclusions.
 
-== Areas for In-class Presentations and Projects
+==  (IV) Final Exam
+A comprehensive final exam will be conducted in the finals week. It will cover all the topics covered
+in the class and research papers. 
+
+== General Areas for In-class Presentations and Projects
 - Core Design
 - Memory Systems 
 - Near-Data Computing
@@ -93,7 +99,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - Emerging Architectures: Quantum and DNA Architectures
 
 == Reading List and Other Resources
-- Complete Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. \n
+- Complete Reading List can be found [https://docs.google.com/document/d/1lcl65WFP2DR4A92uJaq0ovK2txC4ARCY6hZUPOmwZ7Q/edit?usp=sharing here (Google Doc Link)]. The list is currently under construction. \n
 \n
 \n
 *Useful Simulators/Tools* \n
