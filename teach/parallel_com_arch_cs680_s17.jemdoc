@@ -7,22 +7,28 @@
 - Office hours: MW 5:00PM to 6:30PM or by appointment, McGL 111
 - Email: adwait@cs.wm.edu \n
 - Deadlines: Jan 27 (add/drop deadline) and Mar 17 (withdraw deadline)
-- Final exam: May 1, Monday, 9AM to 12:00 noon, McGL 002 ([http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/spring17exam/index.php Final Exam Schedule])
+- Final exam: May 1, Monday, 9 AM to 12:00 noon, McGL 002 ([http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/spring17exam/index.php Final Exam Schedule])
 - *\<span style=\"color: blue\"\> Please keep checking this website for the latest information regarding the course. \<\/span\>* \n
 
 == Prerequisites
 Students are expected to have a good understanding of the basic
 computer organization and design, especially of the topics covered
 by [http://adwaitjog.github.io/teach/comp_arch_cs424_f16.html CS 424-524, 
-Computer Architecture]. 
-Please talk to the instructor if you do not satisfy this requirement. 
+Computer Architecture]. Please talk to the instructor if you do not 
+satisfy this requirement. 
 
 == Course Materials
 Most of the material will be based on the research papers. However, the following /optional/ textbook is recommended:
-[https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X Computer Architecture, Fifth Edition: A Quantitative Approach]
+[https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X Computer Architecture, 
+Fifth Edition: A Quantitative Approach]
 
 == Course Description
-This course provides an in-depth understanding of the fundamental principles and design trade-offs involved in designing modern parallel computing architectures​.​ ​We will also discuss a range of latest papers that have appeared in leading international journals and conferences​ to understand ​​​​research issues associated with parallel computing​ systems​. Students are expected to read a variety of ​research ​papers, critique them and present them in the front of the class. In addition, students are expected to complete a ​semester-long research project​, and take a final exam. 
+This course provides an in-depth understanding of the fundamental principles and design trade-offs involved in 
+designing modern parallel computing architectures​.​ ​We will also discuss a range of latest papers that have 
+appeared in leading international journals and conferences​ to understand ​​​​research issues associated with 
+parallel computing​ systems​. Students are expected to read a variety of ​research ​papers, critique them and 
+present them in the front of the class. In addition, students are expected to complete a ​semester-long 
+research project​, and take a final exam. 
 
 == Grade Distribution
 - (I) Paper critiques and Homeworks: 20%
@@ -123,7 +129,7 @@ It will cover all the topics covered in the class, including the content covered
 - [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
-== Semester Schedule
+== Semester Schedule (Will be updated regularly)
 
 ~~~
 {}{raw}
