@@ -145,11 +145,59 @@ It will cover all the topics covered in the class, including the content covered
   <td valign=top></td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 23&nbsp;</td>
-  <td valign=top> Overview of Computer Architecture Research Issues  </a></td>
+  <td valign=top> Overview of General Comp. Arch. Research Issues  </a></td>
   <td valign=top></td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 25 &nbsp;</td>
-  <td valign=top> Overview of Computer Architecture Research Issues  </a></td>
+  <td valign=top> Overview of Accelerators </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Jan 30 &nbsp;</td>
+  <td valign=top> Overview of Approximate Computing  </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 1 &nbsp;</td>
+  <td valign=top> Overview of Emerging Memory Technology  </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 6 &nbsp;</td>
+  <td valign=top> HPCA Conference  </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 8 &nbsp;</td>
+  <td valign=top> HPCA Conference  </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 13 &nbsp;</td>
+  <td valign=top> Project topic presentations </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 15 &nbsp;</td>
+  <td valign=top> Overview of Data center research issues </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 20 &nbsp;</td>
+  <td valign=top> Overview of Data center  research issues </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 22 &nbsp;</td>
+  <td valign=top> Overview of Mobile research issues </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>Feb 27 &nbsp;</td>
+  <td valign=top> Overview of Reliability and Security research issues </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>March 1 &nbsp;</td>
+  <td valign=top> Overview of Reliability and Security research issues </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>March 6 &nbsp;</td>
+  <td valign=top> Spring break </a></td>
+  <td valign=top></td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER ><td valign=top>March 8 &nbsp;</td>
+  <td valign=top> Spring break </a></td>
   <td valign=top></td>
   </tr>
 </TABLE>
@@ -158,6 +206,28 @@ It will cover all the topics covered in the class, including the content covered
 ~~~
 
 == Readings
+- *P1*: A DNA-Based Archival Storage System, ASPLOS 2016
+- *P2*: DNA-based Molecular Architecture with Spatially Localized Components, ISCA 2013
+- *P3*: A Split Cache Hierarchy for Enabling Data-oriented Optimizations, HPCA 2017
+- *P4*: Pilot Register File: Energy Efficient Register File for GPUs, HPCA 2017 
+- *P5*: TABLA: A Unified Template-based Framework for Accelerating Statistical Machine Learning, HPCA 2016
+- *P6*: vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design, MICRO 2016
+- *P7*: Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures, HPCA 2017
+- *P8*: EIE: Efficient Inference Engine on Compressed Deep Neural Network, ISCA 2016
+- *P9*: Phase-Aware Optimization in Approximate Computing, CGO 2017
+- *P10*: Understanding and Optimizing Power Consumption in Memory Networks, HPCA 2017 
+- *P11*: GPGPU Performance and Power Estimation Using Machine Learning, HPCA 2015
+- *P12*: Dynamic GPGPU Power Management using Adaptive Model Predictive Control, , HPCA 2017
+- *P13*: Secure Dynamic Memory Scheduling Against Timing Channel Attacks, HPCA 2017
+- *P14*: Reliability-Aware Scheduling on Heterogeneous Multicore Processors, HPCA 2017
+- *P15*: Near-Optimal Access Partitioning for Memory Hierarchies with Multiple Heterogeneous Bandwidth Sources, HPCA 2017 
+- *P16*: Compute Caches, HPCA 2017
+- *P17*: Architecting an Energy Efficient DRAM System for GPUs, HPCA 2017 
+- *P18*: Design and Analysis of an APU for Exascale Computing, HPCA 2017 
+- *P19*: G-Scalar: Cost-Effective Generalized Scalar Execution Architecture for Power-Efficient GPUs, HPCA 2017
+- *P20*: Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks, PPoPP 2017 
+- *P21*: Power Attack Defense: Securing Battery-Backed Data Centers, ISCA 2016
+- *P22*: Camouflage: Memory Traffic Shaping to Mitigate Timing Attacks, HPCA 2017
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
