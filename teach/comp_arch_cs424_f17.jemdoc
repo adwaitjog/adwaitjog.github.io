@@ -1,19 +1,19 @@
 
-== CSCI 424 / CSCI 524: Computer Architecture, Fall 2016 
+== CSCI 424 / CSCI 524: Computer Architecture, Fall 2017 
 
 == General Information
-- Time and Location: Tuesday/Thursday 11:00AM-12:20PM, Integrated Science Center (ISC), 2280
+- Time and Location: Tuesday/Thursday 11:00AM-12:20PM, Morton Hall, 201
 
 - Instructor: *Adwait Jog* [http://adwaitjog.github.io/ (Personal Website)]
 -- Office hours: Tues/Thu 4PM-5:30PM or by appointment, McGl 111
 -- Email: adwait@cs.wm.edu 
 
-- Teaching Assistant: *Mohamed Ibrahim*
+- Teaching Assistant: *TBD*
 -- Office hours: By appointment, McGl 101B
--- Email: maibrahim@email.wm.edu
+-- Email: TBD
 
-- Deadlines: Sept 2 (add/drop deadline) and Oct 21 (withdraw deadline). See the [https://www.wm.edu/offices/registrar/documents/calendars/2016_2017ugcal.pdf UG calender] for more details.
-- Exam Dates: Oct 13 (Midterm Exam, in-class) and Dec 14 (Final Exam, 2:00 to 5:00 PM in the regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php Fall 2016 Final Exam Schedule] for more details.)
+- Deadlines: Sept 8 (add/drop deadline) and Oct 27 (withdraw deadline). See the [https://www.wm.edu/offices/registrar/documents/calendars/2017_2018ugcal.pdf UG calender] for more details.
+- Exam Dates: Oct 19 (Midterm Exam, in-class) and Dec 18 (Final Exam, 2:00 to 5:00 PM in the regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall17exam/index.php Fall 2017 Final Exam Schedule] for more details.)
 - *\<span style=\"color: red\"\> Please keep checking this 
 website for the latest information regarding this course. \<\/span\>* \n
 
@@ -28,8 +28,6 @@ memory hierarchy, and multiprocessor architecture.
 
 == Textbook and Resources
 - *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
-- *Optional Textbook:* [http://www.zyBooks.com Zybooks] /(Code: WMCSCI424-524JogFall2016)/, See [https://vimeo.com/135692064 this video]
-for more details.
 - *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
 lab machine is necessary. See /Simulators/ section for more details.
 - *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
