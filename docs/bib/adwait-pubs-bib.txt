@@ -1,4 +1,12 @@
 
+@inproceedings{sotram-isvlsi17,
+ author = {Sparsh Mittal and Rajendra Bishnoi and Fabian Oboril and Haonan Wang and
+ Mehdi Tahoori and Adwait Jog and Jeffrey Vetter},
+ title = {Architecting SOT-RAM Based GPU Register File},
+ booktitle = {ISVLSI},
+ year = {2017},
+}
+
 @inproceedings{dp-hpca17,
  author = {Xulong Tang and Ashutosh Pattnaik and Huaipan Jiang and Onur Kayiran and Adwait Jog and Sreepathi Pai and Mohamed Ibrahim and
 Mahmut Kandemir and Chita Das},

@@ -101,7 +101,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <th>Date</th>
   <th>Agenda</th>
   <th>Readings</th>
-  <th>HW/Quiz</th>
+  <th>HW</th>
+  <th>Quiz</th>
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -109,7 +110,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Aug 31 &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> Quiz 1 is out. &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> First Day of class. &nbsp;</td>
   </tr>
   </tr>
@@ -119,13 +121,15 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Introduction, Abstractions, and Technology &nbsp;</td>
   <td valign=top> Chapter 1  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> Download/install MARS and run sample codes to prepare for upcoming homeworks. &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 7 &nbsp;</td>
   <td valign=top>Introduction, Abstractions, and Technology  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> HW 1 is out. Quiz 1 is due. &nbsp;</td>
+   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> <font color="red">Sep 8 is the add/drop deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -135,12 +139,14 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Appendix A &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 14 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW 1 is due. Quiz 2 is out. HW 2 is out. &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -148,14 +154,16 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Sep 19 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top> Chapter 2  &nbsp;</td>
-  <td valign=top>  Quiz 2 is due. &nbsp;</td>
+   <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 21 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -170,7 +178,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Sep 28 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
   <td valign=top> Chapter 4.1 -- 4.3 &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+   <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -178,15 +187,17 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Oct 3 &nbsp;</td>
   <td valign=top> MIPS Review &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> Quiz 3 is due. HW 3 is due. &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 5 &nbsp;</td>
   <td valign=top> Single Cycle Datapath Design &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 4 is out. HW 4 is out. &nbsp;</td>
-  <td valign=top>  &nbsp; </td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 7 &nbsp;</td>
@@ -194,13 +205,15 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Intro to Pipelining &nbsp;</td>
   <td valign=top>  Chapter 4.4 -- 4.7 </td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  Practice exam and solutions are out. </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 12 &nbsp;</td>
   <td valign=top> Mid-term Review &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 4 is due. HW 4 is due. &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -209,11 +222,13 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top><font color="green"> No class (Fall Break)</font> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>&nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 19 &nbsp;</td>
   <td valign=top> <font color="red">  In-class Mid-term Examination.</font> &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> Mid-term exam will include all the material covered until the Fall break. Exam duration is 75 minutes. &nbsp;</td>
@@ -224,13 +239,15 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  Chapter 4.8 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  Mid-term Analysis will be discussed in the class. &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 26 &nbsp;</td>
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 5 and HW5 are out. </td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top><font color="red"> Oct 27 is the withdraw deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -240,12 +257,14 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  Chapter 5.1 -- 5.4 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 2 &nbsp;</td>
   <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 5 is due. &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -253,14 +272,16 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Nov 7 &nbsp;</td>
   <td valign=top> Memory Hierarchy (DRAM) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW5 is due. </td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 9 &nbsp;</td>
   <td valign=top> Memory Hierarchy (DRAM) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 6 and HW6 are out.</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -270,12 +291,14 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 16 &nbsp;</td>
   <td valign=top> Virtual Memory and TLBs &nbsp;</td>
   <td valign=top> Chapter 5.6 -- 5.8 &nbsp;</td>
-  <td valign=top> Quiz 6 and HW6 are due. </td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> Discussion on new problems related to Virtual Memory and Caching </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -285,26 +308,30 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  Chapter 5.11 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Nov 23 &nbsp;</td>
   <td valign=top>  No class (Thanksgiving Break) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  ;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 14 &nbsp;</td>
   <td valign=top> Nov 28 &nbsp;</td>
   <td valign=top> Multi-processors &nbsp;</td>
   <td valign=top> Chapter 6.1 -- 6.5 </td>
-  <td valign=top> Quiz 7 and HW 7 are due. </td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 30 &nbsp;</td>
   <td valign=top> Multi-processors &nbsp;</td>
   <td valign=top>  Appendix C-2 &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -315,18 +342,21 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  Appendix C-2 &nbsp;</td>
   <td valign=top>  &nbsp; </td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Dec 7 &nbsp;</td>
   <td valign=top>  Final-exam review and wrap-up &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW 8 is due on Dec 2 </td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  Course evaluations are due on Dec 8 </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Finals &nbsp;</td>
   <td valign=top> Dec 18 &nbsp;</td>
   <td valign=top> <font color="red">Comprehensive Final Exam, 2:00 to 5:00 PM, ISC 2280</font>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall17exam/index.php">
