@@ -41,12 +41,12 @@ conceptual questions regarding homeworks, quizzes, exams etc.
 == Grade Distribution
 - *CSCI 424*
 -- Homework (40%, around 8). Submit electronically (no hard copies) on Blackboard by *23:00* hrs on the due date
-in the *PDF* format. You may use MS-word or Latex to typeset your answers. You can also scan and submit your hand-written HWs, but handwriting 
-should be legible. Some homeworks will have simulation-based component. Some homeworks will carry more points than 
-others. 
+in the *PDF* format. You may use MS-word or Latex to typeset your answers. You can also scan and submit your 
+hand-written HWs, but handwriting should be legible. Some homeworks will have simulation-based component. 
+Some homeworks will carry more points than others. 
+-- Class participation and In-class/Blackboard Quizzes (10%)
 -- In-class Midterm Exam (25%)
 -- Final Exam (25%)
--- Class participation and In-class/Blackboard Quizzes (10%)
 -- /Optional: Undergraduate Research Project: Talk to the instructor if you are interested./
 
 - *CSCI 524*
@@ -54,9 +54,9 @@ others.
 in the *PDF* format. You may use MS-word or Latex to typeset your answers. You can also scan and submit your 
 hand-written HWs, but handwriting should be legible. Some homeworks will have simulation-based component. Some 
 homeworks will carry more points than others. 
+-- Class participation and In-class/Blackboard Quizzes (10%)
 -- In-class Midterm Exam (20%)
 -- Final Exam (20%)
--- Class participation and In-class/Blackboard Quizzes (10%)
 -- Research Project (20%) (Two reports due: one on Oct 19th (day of midterm) and second one on Dec 18th (day of finals)). 
 Talk to the instructor early to discuss potential project topics.
 
@@ -70,7 +70,7 @@ Talk to the instructor early to discuss potential project topics.
 solution by yourself without assistance, even if you collaborate with others to solve the problem. You must 
 also identify your collaborators. If you did not work with anyone, you should write ”Collaborators: none.” It 
 is a violation of this policy to submit a problem solution that you cannot orally explain to an instructor or TA.
-- Research projects can be performed in pairs and submit a single project report per group.
+- Simulated-based assignments can be performed in pairs and can be submitted as a single project report per group.
 - Submission deadlines are *hard*. However, we do have a late/miss policy:
 -- Late HWs are accepted with /20%/ penalty for each day they are late by.
 -- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
