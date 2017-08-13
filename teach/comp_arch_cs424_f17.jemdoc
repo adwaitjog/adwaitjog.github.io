@@ -69,15 +69,15 @@ is a violation of this policy to submit a problem solution that you cannot orall
 
 == Deadlines and Grading
 - Homeworks and Reports should be submitted electronically (no hard copies) on Blackboard by *23:00* hrs on the due date
-in the *PDF* format. You may use MS-word or Latex to typeset your answers. You can also scan and submit your 
-hand-written HWs, but handwriting should be legible. Some homeworks will have simulation-based component. Some 
-homeworks will carry more points than others. 
+in the *PDF* format. You may use MS-word or Latex to typeset your answers. Some homeworks will have simulation-based 
+component. Some homeworks may carry more points than others. 
 - Submission deadlines are *hard*. However, we do have a late/miss policy:
 -- Late HWs are accepted with /20%/ penalty for each day they are late by.
 -- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
--- Exceptions will be handled case by case and will only be considered under a university-approved condition with written proof.
-- If you have any grading-related questions, please contact the TA first. If issues are not resolved, then you can escalate the 
-matter to the instructor. The instructor will make the final decision.
+-- Exceptions will be handled case by case and will only be considered under a university-approved condition with 
+written proof.
+- If you have any grading-related questions, please contact the TA first. If issues are not resolved, then you 
+can escalate the matter to the instructor. The instructor will make the final decision.
 
 == Simulators
 - [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
