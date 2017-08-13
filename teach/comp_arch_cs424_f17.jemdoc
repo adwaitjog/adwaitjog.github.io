@@ -40,14 +40,14 @@ conceptual questions regarding homeworks, quizzes, exams etc.
 
 == Grade Distribution
 - *CSCI 424*
--- Homework (40%, around 8) 
+-- Homework Assignments (40%, around 8) 
 -- Class participation and In-class/Blackboard Quizzes (10%)
 -- In-class Midterm Exam (25%)
 -- Final Exam (25%)
 -- /Optional: Undergraduate Research Project: Talk to the instructor if you are interested./
 
 - *CSCI 524*
--- Homework (30%, around 8)
+-- Homework Assignments (30%, around 8)
 -- Class participation and In-class/Blackboard Quizzes (10%)
 -- In-class Midterm Exam (20%)
 -- Final Exam (20%)
@@ -68,7 +68,8 @@ is a violation of this policy to submit a problem solution that you cannot orall
 - Simulated-based assignments can be performed in pairs and can be submitted as a single project report per pair.
 
 == Deadlines and Grading
-- Homeworks and Reports should be submitted electronically (no hard copies) on Blackboard by *23:00* hrs on the due date
+- Homework Assignments and Reports should be submitted electronically (no hard copies) on 
+Blackboard by *23:00* hrs on the due date
 in the *PDF* format. You may use MS-word or Latex to typeset your answers. Some homeworks will have simulation-based 
 component. Some homeworks may carry more points than others. 
 - Submission deadlines are *hard*. However, we do have a late/miss policy:
@@ -124,7 +125,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Chapter 1  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> Download/install MARS and run sample codes to prepare for upcoming homeworks. &nbsp;</td>
+  <td valign=top> Download/Install MARS and run sample codes to prepare for upcoming homeworks. &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 7 &nbsp;</td>
