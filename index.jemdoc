@@ -39,8 +39,9 @@ I am an assistant professor of computer science
 at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I am leading [http://insight-archlab.github.io /Insight Computer Architecture Lab/] with the goal to generate insights that would enable
 more energy-efficient, reliable, and secure computing systems. \n
 
-*\<span style=\"color: red\"\> I am looking for self-motivated students to work with. \<\/span\>* Current topics of interest include (but not limited to): 
-GPU Architectures, Approximate Computing, Hardware Security and Reliability, and Non-traditional Architectures (Automata Processor, Quantum, DNA etc.). 
+*\<span style=\"color: red\"\> I am looking for self-motivated students to work with. \<\/span\>* I work in the area of computer architecture. Especially,
+I am interested in designing novel GPU-based architectures and other non-traditional accelerators. Current topics of interest include (but not limited to): 
+GPU Memory System, Approximate GPU Computing, GPU Reliability and Security, and Non-traditional Architectures (e.g., Automata Processor, Quantum Architectures). 
 If you are interested, email me with your CV. If you are not currently at W&M, also apply [http://www.wm.edu/as/computerscience/graduate/ here].
 
 # /I am currently teaching: [http://adwaitjog.github.io/teach/parallel_com_arch_cs680_s17.html CSCI 680: Parallel Computer Architecture]/
