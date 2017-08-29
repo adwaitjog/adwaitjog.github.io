@@ -68,7 +68,7 @@ is a violation of this policy to submit a problem solution that you cannot orall
 - Simulated-based assignments can be performed in pairs and can be submitted as a single project report per pair.
 
 == Submissions, Grading, and Deadlines
-- Homework Assignments and Reports should be submitted electronically (no hard copies) on 
+- Homework Assignments and Project Reports should be submitted electronically (no hard copies) on 
 Blackboard by *23:00* hrs on the due date
 in the *PDF* format. You may use MS-word or Latex to typeset your answers, however, final submission has
 to be in the *PDF* format. Submission in any other format (including hand-written and then scanned PDFs) 
@@ -311,8 +311,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 13 &nbsp;</td>
   <td valign=top>Nov 21 &nbsp;</td>
-  <td valign=top>  Disks and I/O &nbsp;</td>
-  <td valign=top>  Chapter 5.11 &nbsp;</td>
+  <td valign=top>  TBD &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -328,8 +328,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 14 &nbsp;</td>
   <td valign=top> Nov 28 &nbsp;</td>
-  <td valign=top> Multi-processors &nbsp;</td>
-  <td valign=top> Chapter 6.1 -- 6.5 </td>
+  <td valign=top>  Disks and I/O &nbsp;</td>
+  <td valign=top>  Chapter 5.11 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -337,7 +337,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 30 &nbsp;</td>
   <td valign=top> Multi-processors &nbsp;</td>
-  <td valign=top>  Appendix C-2 &nbsp;</td>
+  <td valign=top> Chapter 6.1 -- 6.5 </td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -345,7 +345,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 15 &nbsp;</td>
   <td valign=top>  Dec 5 &nbsp;</td>
-  <td valign=top>  GPUs &nbsp;</td>
+  <td valign=top> Multi-processors &nbsp;</td>
   <td valign=top>  Appendix C-2 &nbsp;</td>
   <td valign=top>  &nbsp; </td>
   <td valign=top>  &nbsp;</td>
