@@ -237,25 +237,25 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 9 &nbsp;</td>
   <td valign=top>Oct 24 &nbsp;</td>
-  <td valign=top> Pipelining and Related Issues &nbsp;</td>
-  <td valign=top>  Chapter 4.8 &nbsp;</td>
+  <td valign=top>  No Class &nbsp;</td>
+  <td valign=top>  Instructor on Travel &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  In-class Analysis of Mid-term. &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Oct 26 &nbsp;</td>
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
+  <td valign=top>  Chapter 4.8 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
-  <td valign=top><font color="red"> Oct 27 is the withdraw deadline.</font> &nbsp;</td>
+  <td valign=top> In-class Analysis of Mid-term. <font color="red"> Oct 27 is the withdraw deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 10 &nbsp;</td>
   <td valign=top>Oct 31 &nbsp;</td>
-  <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
-  <td valign=top>  Chapter 5.1 -- 5.4 &nbsp;</td>
+  <td valign=top>  Pipelining and Related Issues &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -263,7 +263,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 2 &nbsp;</td>
   <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Chapter 5.1 -- 5.4 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -271,7 +271,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 11 &nbsp;</td>
   <td valign=top>Nov 7 &nbsp;</td>
-  <td valign=top> Memory Hierarchy (DRAM) &nbsp;</td>
+  <td valign=top> Memory Hierarchy (Caches) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
