@@ -59,7 +59,6 @@ is allowed. Yes, you can see both sides of the page.
 However, you must write up each problem solution (or MIPS code) by yourself without assistance. You must 
 also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It 
 is a violation of this policy to submit a problem solution that you cannot orally explain to the instructor or TA.
-- Simplescalar-based assignments can be performed in pairs and can be submitted as a single report per pair.
 
 == Submissions, Grading, and Deadlines
 - Homework Assignments and Reports should be submitted electronically (no hard copies) on 
@@ -194,7 +193,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 5 &nbsp;</td>
   <td valign=top> Pipelining and Hazards &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top>  Chapter 4.4 -- 4.7 &nbsp;</td>
   <td valign=top> HW3 Due / HW4 Out &nbsp;</td>
   <td valign=top> Quiz 3 Due / Quiz 4 Out &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -203,7 +202,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td rowspan="2">Week 7 &nbsp;</td>
   <td valign=top>Oct 10 &nbsp;</td>
   <td valign=top> Pipelining and Hazards &nbsp;</td>
-  <td valign=top>  Chapter 4.4 -- 4.7 </td>
+  <td valign=top>  &nbsp; </td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  Practice exam and solutions are out. </td>
