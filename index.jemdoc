@@ -74,6 +74,8 @@ Undergraduate:
 - Robert Risque (Senior's Thesis 2016)
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
+- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/coming.html /Efficient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/coming.html /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
