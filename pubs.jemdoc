@@ -23,6 +23,8 @@
 
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)] [docs/bib/adwait-pubs-bib.txt (BibTeX)]
 
++Students are/were advised by me+
+
 === 2018
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
 \[[coming.html PDF]]
@@ -52,7 +54,7 @@ In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, J
 
 === 
 *\<span style=\"color: forestgreen \"\>(AIM@PACT 2017)\<\/span\>* 
-Hengyu Zhao, Colin Weinshenker, +Mohamed Ibrahim+, *Adwait Jog*, Jishen Zhao \n
+Hengyu Zhao, +Colin Weinshenker+, +Mohamed Ibrahim+, *Adwait Jog*, Jishen Zhao \n
 /Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
 In the Proceedings of [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
 
