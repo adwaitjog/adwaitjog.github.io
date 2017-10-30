@@ -1,4 +1,18 @@
 
+@inproceedings{pbs-hpca18,
+ author = {Haonan Wang and Fan Luo and Mohamed Ibrahim and Onur Kayiran and Adwait Jog},
+ title = {Efficient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management},
+ booktitle = {HPCA},
+ year = {2018},
+}
+
+@inproceedings{rcoal-hpca18,
+ author = {Gurunath Kadam and Danfeng Zhang and Adwait Jog},
+ title = {RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques},
+ booktitle = {HPCA},
+ year = {2018},
+}
+
 @inproceedings{sotram-isvlsi17,
  author = {Sparsh Mittal and Rajendra Bishnoi and Fabian Oboril and Haonan Wang and
  Mehdi Tahoori and Adwait Jog and Jeffrey Vetter},
