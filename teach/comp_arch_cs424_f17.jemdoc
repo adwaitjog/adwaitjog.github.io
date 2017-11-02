@@ -246,8 +246,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>Oct 26 &nbsp;</td>
   <td valign=top> Pipelining and Related Issues &nbsp;</td>
   <td valign=top>  Chapter 4.8 &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW#5 is out </td>
+  <td valign=top>  HW#5 is out &nbsp;</td>
+  <td valign=top>  &nbsp; </td>
   <td valign=top> In-class Analysis of Mid-term. <font color="red"> Oct 27 is the withdraw deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -263,8 +263,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Nov 2 &nbsp;</td>
   <td valign=top>  Memory Hierarchy (Caches) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
+  <td valign=top>  HW#5 is due  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> HW#5 is due &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -272,9 +272,9 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Nov 7 &nbsp;</td>
   <td valign=top> Memory Hierarchy (DRAM) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW#6 is out &nbsp;</td>
-  <td valign=top>  Quiz 5 is out &nbsp;</td>
+  <td valign=top>  HW#6 is out&nbsp;</td>
+  <td valign=top>   Quiz 5 is out&nbsp;</td>
+  <td valign=top>   &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 9 &nbsp;</td>
@@ -290,15 +290,15 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Virtual Memory and TLBs &nbsp;</td>
   <td valign=top>  Chapter 5.6 -- 5.8 &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   <td valign=top>  Quiz 5 is due / Quiz 6 is out &nbsp;</td>
+  <td valign=top>   &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 16 &nbsp;</td>
   <td valign=top> Virtual Memory and TLBs &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW#6 is due / HW#7 is out. &nbsp;</td>
+  <td valign=top>  HW#6 is due / HW#7 is out &nbsp;</td>
+  <td valign=top>   &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -307,8 +307,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  TBD &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 6 is due &nbsp;</td>
+  <td valign=top> Quiz 6 is due &nbsp;</td>
+  <td valign=top>   &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Nov 23 &nbsp;</td>
@@ -323,9 +323,9 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> Nov 28 &nbsp;</td>
   <td valign=top>  Disks and I/O &nbsp;</td>
   <td valign=top>  Chapter 5.11 &nbsp;</td>
+  <td valign=top>  HW#7 is due / HW#8 is out &nbsp;</td>
+  <td valign=top>  Quiz 7 is out  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  HW#7 is due / HW#8 is out;</td>
-  <td valign=top>  Quiz 7 is out &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Nov 30 &nbsp;</td>
@@ -349,7 +349,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  Final-exam review and wrap-up &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  HW#8 is due. &nbsp;</td>
-  <td valign=top>   &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  Course evaluations are due on Dec 8 </td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -358,7 +358,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> <font color="red">Comprehensive Final Exam, 2:00 to 5:00 PM, Morton 201</font>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 7 is due.</td>
+  <td valign=top>  Quiz 7 is due &nbsp;</td>
   <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall17exam/index.php">
   (Exam Schedule)</a>. Final exam will include all material covered during the semester. &nbsp;</td>
   </tr>
