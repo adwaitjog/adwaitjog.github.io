@@ -35,10 +35,12 @@
 
 == About
 I am an assistant professor of computer science 
-at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/] with the goal to generate insights, which would help in architecting future computers that are more energy-efficient, capable, reliable, and secure. \n
+at [http://goo.gl/JP9omL The College of William and Mary (W&M)] in Virginia, USA. At W&M, I am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/] with the goal to generate insights, which would
+help in architecting future computers that are more energy-efficient, capable, reliable, and secure. \n
 
-*\<span style=\"color: red\"\> I am looking for self-motivated students to join our lab. \<\/span\>* Current topics of interest include (but not limited to): 
-GPU Memory System, Approximate GPU Computing, GPU Reliability and Security, and Non-traditional Architectures (e.g., Automata Processor, Quantum Architectures). 
+*\<span style=\"color: red\"\> I am looking for self-motivated students to join our lab. \<\/span\>* Current topics 
+of interest include (but not limited to): GPU Memory System, Approximate GPU Computing, GPU Reliability and 
+Security, and Non-traditional Architectures (e.g., Automata Processor, Quantum Architectures). 
 
 If you are interested, email me with your CV. If you are not currently at W&M, also apply [http://www.wm.edu/as/computerscience/graduate/ here].
 
