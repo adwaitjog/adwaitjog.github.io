@@ -25,7 +25,15 @@
 +Students are/were advised by me+
 
 === 2018
-*\<span style=\"color: forestgreen\"\>(HPCA (1) 2018)\<\/span\>*
+*\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>*
+\[[coming.html PDF]]
+\[[coming.html Talk (PPTX)]] \n
+In the Proceedings of 23rd ACM International Conference on Architectural Support for Programming Languages
+and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018 \n
+(Acceptance rate: 56/319 ≈ 17%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
 \[[coming.html PDF]]
 \[[coming.html Talk (PPTX)]] \n
 +Haonan Wang+, +Fan Luo+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
@@ -34,7 +42,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 (Acceptance rate: 54/260 ≈ 20%) \n
 
 === 
-*\<span style=\"color: forestgreen\"\>(HPCA (2) 2018)\<\/span\>*
+*\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
 \[[coming.html PDF]]
 \[[coming.html Talk (PPTX)]] \n
 +Gurunath Kadam+, Danfeng Zhang, *Adwait Jog* \n
@@ -95,7 +103,7 @@ In the Proceedings of International Symposium on Workload Characterization, Prov
 (Acceptance rate: 21/71 ≈ 29%) \n
 
 === 
-*\<span style=\"color: forestgreen\"\>(PACT 2016 (1))\<\/span\>*
+*\<span style=\"color: forestgreen\"\>(PACT 2016\<\/span\>*
 \[[docs/pdf/PIM-PACT2016.pdf PDF]]
 \[[docs/pptx/PIM-PACT2016.pptx Talk (PPTX)]] \n
 Ashutosh Pattnaik, Xulong Tang, *Adwait Jog*, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Chita R. Das, \n
@@ -104,7 +112,7 @@ In the Proceedings of 25th International Conference on Parallel Architectures an
 (Acceptance rate: 31/139 ≈ 22%) \n
 
 === 
-*\<span style=\"color: forestgreen\"\>(PACT 2016 (2))\<\/span\>*
+*\<span style=\"color: forestgreen\"\>(PACT 2016\<\/span\>*
 \[[docs/pdf/uC-States-PACT2016.pdf PDF]]
 \[[docs/pptx/uC-States-PACT2016.pptx Talk (PPTX)]] \n
 Onur Kayiran, *Adwait Jog*, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das, \n
