@@ -36,24 +36,26 @@
 == About
 I am an assistant professor in the Department of Computer Science
 at [http://goo.gl/JP9omL The College of William and Mary (W&M)] in Virginia, USA. At W&M, I 
-am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/] with the 
-goal to generate insights, which would help in architecting future computers that are more energy-efficient, capable, reliable, and secure. \n
+am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/] with 
+the goal to generate insights, which would help in architecting future computers that are 
+more energy-efficient, capable, reliable, and secure. \n
 
 *\<span style=\"color: red\"\> I am looking for self-motivated students to join 
 our lab. \<\/span\>* Current topics of interest include (but not limited to): 
 GPU Architectures, Approximate GPU Computing, GPU Reliability and Security, 
 and Non-traditional Architectures (e.g., Automata Processor, Quantum Architectures). 
 
-If you are interested to join our lab, email me with your CV. If you are not currently at W&M, also apply [http://www.wm.edu/as/computerscience/graduate/ here].
+If you are interested to join our lab, email me with your CV. If you are not currently 
+at W&M, also apply [http://www.wm.edu/as/computerscience/graduate/ here].
 
 == Recent News
-- We are co-organizing the second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It will be co-located with [https://www.asplos2018.org/ ASPLOS 2018]. Stay tuned for details. 
+- We are co-organizing second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It will be co-located with [https://www.asplos2018.org/ ASPLOS 2018]. Stay tuned for details. 
 - Paper accepted in [https://www.asplos2018.org/ ASPLOS 2018].
 - Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] will showcase two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
 -- We have developed new memory bandwidth management techniques for efficient and fair multi-application execution in GPUs.
 -- We have developed new randomized coalescing mechanisms for efficiently balancing performance and security in GPUs.
 - Invited to be on the Program Committees of [http://www.ispass.org/ispass2018/ ISPASS 2018] and [https://gpgpu11.000webhostapp.com/ GPGPU-11 2018]. Submit your best work!
-- Co-organized a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2017]) co-located with PACT 2017.
+- Co-organized a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2017]) co-located with PACT 2017. The workshop was a great success.
 - As a part of outreach, I gave a talk on /Career Opportunities in CS/ to middle school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M.
 - Received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017], PI (co-PI: Evgenia Smirni). Thanks NSF!
 - Received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017], sole PI. Thanks NSF!
@@ -63,8 +65,8 @@ If you are interested to join our lab, email me with your CV. If you are not cur
 [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017].
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/coming.html /Efficient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management/]
-- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/coming.html /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
