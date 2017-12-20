@@ -1,7 +1,7 @@
 
 @inproceedings{pbs-hpca18,
  author = {Haonan Wang and Fan Luo and Mohamed Ibrahim and Onur Kayiran and Adwait Jog},
- title = {Efficient and Fair Multi-programming in GPUs via Pattern-based Effective Bandwidth Management},
+ title = {Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management},
  booktitle = {HPCA},
  year = {2018},
 }
