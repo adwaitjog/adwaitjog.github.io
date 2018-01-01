@@ -49,7 +49,7 @@ If you are interested to join our lab, email me with your CV. If you are not cur
 at W&M, also apply [http://www.wm.edu/as/computerscience/graduate/ here].
 
 == Recent News
-- We are co-organizing second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It will be co-located with [https://www.asplos2018.org/ ASPLOS 2018]. Stay tuned for details. 
+- Co-organizing second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It will be co-located with [https://www.asplos2018.org/ ASPLOS 2018]. Stay tuned for details. 
 - Paper accepted in [https://www.asplos2018.org/ ASPLOS 2018].
 - Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] will showcase two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
 -- We have developed new memory bandwidth management techniques for efficient and fair multi-application execution in GPUs.
