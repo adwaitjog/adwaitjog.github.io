@@ -80,7 +80,7 @@ In addition, students will also be required to complete a semester-long research
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 2 &nbsp;</td>
   <td valign=top> Jan 23rd &nbsp;</td>
-  <td valign=top>Introduction &nbsp;</td>
+  <td valign=top>Introduction to Comp. Arch (1) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
@@ -88,11 +88,28 @@ In addition, students will also be required to complete a semester-long research
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Jan 25th &nbsp;</td>
-  <td valign=top> Introduction  &nbsp;</td>
+  <td valign=top> Introduction to Comp. Arch (2)  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
    <td valign=top>  &nbsp;</td>
   <td valign=top>   &nbsp;</td>
   <td valign=top> <font color="red"> Jan 26 is the add/drop deadline.</font> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 2 &nbsp;</td>
+  <td valign=top> Jan 30th &nbsp;</td>
+  <td valign=top>Introduction to Comp. Arch (3) &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Feb 1 &nbsp;</td>
+  <td valign=top> Introduction to GPUs  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+   <td valign=top>  &nbsp;</td>
+  <td valign=top>   &nbsp;</td>
+  <td valign=top> Familiarize yourself with CUDA. </font> &nbsp;</td>
   </tr>
 </TABLE>
 
