@@ -32,7 +32,25 @@ In addition, students will also be required to complete a semester-long research
 
 == Homeworks
 Homeworks are due in hard copy on the deadline. Submit it to the instructor in the beginning
-of the class. Homeworks will test analytical, coding, and simulation skills. 
+of the class. Homeworks will test analytical, coding, and simulation skills. Homeworks are
+ideally performed in groups of two. Late homeworks are accepted only within a week of the 
+original deadline with 20% penalty. 
+
+== Oral Presentations and Critiques
+During a fraction of classes, students will be asked to present recent publications
+in the area of GPU architectures and then each student writes his/her own review 
+about the paper. The review will be due in hard copy one week after the paper is
+presented completely. The presentation schedule will be discussed in the class. The
+goal of this component is to test your analytical, written/oral presentation skills. 
+
+== Semester-long Research Project
+It will test your capabilities of doing architecture research. Ideally performed in groups 
+of 2. Regular meetings are expected with the advisor so that progress can be made. 
+
+== Final Exam
+It will be comprehensive and will cover material covered until the end of the semester. 
+It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
+
 
 == Areas for Oral Presentations and Semester-long Research Projects
 - GPU Core Design
@@ -113,7 +131,6 @@ of the class. Homeworks will test analytical, coding, and simulation skills.
 
 </center>
 ~~~
-
 
 == Readings (Books and Other Resources)
 - [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
