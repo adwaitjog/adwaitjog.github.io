@@ -51,7 +51,6 @@ of 2. Regular meetings are expected with the advisor so that progress can be mad
 It will be comprehensive and will cover material covered until the end of the semester. 
 It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
 
-
 == Areas for Oral Presentations and Semester-long Research Projects
 - GPU Core Design
 - GPU Warp Scheduler Design
@@ -138,11 +137,9 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
 
 == Useful Simulators and Tools
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
-- [https://github.com/macsimgt/macsim-public MacSim], A trace-driven CPU/GPU simulator
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
 - [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
-- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Academic Accommodations
