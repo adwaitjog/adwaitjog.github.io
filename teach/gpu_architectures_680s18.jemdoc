@@ -24,12 +24,17 @@ simulation-based assignments, oral/written presentation skills, and written exam
 In addition, students will also be required to complete a semester-long research project.
 
 == Grade Distribution
-- Assignments: 30%
-- Semester-long Research Project: 30%
+- Homeworks: 30%
 - Oral Presentations and Critiques: 20%
+- Semester-long Research Project: 30%
 - Final Exam: 20%
 
-== Areas for In-class Presentations and Projects
+== Homeworks
+Homeworks are due in hard copy on the deadline. Submit it to the instructor in the beginning
+of the class. Homeworks test analytical, coding, and simulation skills. 
+
+
+== Areas for Oral Presentations and Semester-long Research Projects
 - GPU Core Design
 - GPU Warp Scheduler Design
 - GPU Thread block Scheduler Design
@@ -38,20 +43,12 @@ In addition, students will also be required to complete a semester-long research
 - GPU Processing-in-Memory
 - GPU Interconnect Design
 - GPU Reliability
+- GPU Security
 - Multi-GPU systems
 - Multi-context GPU Architecture
 - Mobile GPU Architecture
 - Approximate GPU Architecture
 - Heterogeneous GPU platforms that incorporate GPUs
-
-== Useful Simulators and Tools
-- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
-- [https://github.com/macsimgt/macsim-public MacSim], A trace-driven CPU/GPU simulator
-- [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
-- [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
-- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
-- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
-- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Tentative Schedule (Will keep changing regularly)
 ~~~
@@ -117,7 +114,18 @@ In addition, students will also be required to complete a semester-long research
 </center>
 ~~~
 
+
 == Readings
+
+
+== Useful Simulators and Tools
+- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://github.com/macsimgt/macsim-public MacSim], A trace-driven CPU/GPU simulator
+- [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
+- [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
+- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
+- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
