@@ -12,8 +12,9 @@
 
 == Prerequisites
 Students are expected to have a good understanding of the basic
-computer organization and design (i.e., comparable to the material covered by CSCI 424/524). 
-Please talk to the instructor if you do not satisfy this requirement. 
+computer organization and design (i.e., comparable to the material 
+covered by CSCI 424/524). Please talk to the instructor if you do 
+not satisfy this requirement. 
 
 == Course Description
 This course provides an in-depth understanding of the micro-architectural and architectural 
@@ -31,8 +32,7 @@ In addition, students will also be required to complete a semester-long research
 
 == Homeworks
 Homeworks are due in hard copy on the deadline. Submit it to the instructor in the beginning
-of the class. Homeworks test analytical, coding, and simulation skills. 
-
+of the class. Homeworks will test analytical, coding, and simulation skills. 
 
 == Areas for Oral Presentations and Semester-long Research Projects
 - GPU Core Design
