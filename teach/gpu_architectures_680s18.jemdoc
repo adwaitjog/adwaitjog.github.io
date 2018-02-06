@@ -91,34 +91,34 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 2 &nbsp;</td>
   <td valign=top> Jan 23rd &nbsp;</td>
-  <td valign=top>Introduction to Comp. Arch (1) &nbsp;</td>
+  <td valign=top>Introduction to Comp. Arch: Performance Metrics &nbsp;</td>
   <td valign=top> HW1 is out &nbsp;</td>
   <td valign=top> Familiarize yourself with CUDA. &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Jan 25th &nbsp;</td>
-  <td valign=top> Introduction to Comp. Arch (2)  &nbsp;</td>
+  <td valign=top> Introduction to Comp. Arch (2): ISA and Pipelining  &nbsp;</td>
    <td valign=top>  &nbsp;</td>
   <td valign=top> <font color="red"> Jan 26 is the add/drop deadline.</font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 3 &nbsp;</td>
   <td valign=top> Jan 30th &nbsp;</td>
-  <td valign=top>Introduction to Comp. Arch (3) &nbsp;</td>
+  <td valign=top>Introduction to Comp. Arch (3): Caches and Memory &nbsp;</td>
   <td valign=top> HW1 is due. &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Feb 1 &nbsp;</td>
   <td valign=top> Introduction to GPUs  &nbsp;</td>
-  <td valign=top> HW2 is out &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
   <td valign=top>  </font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 4 &nbsp;</td>
   <td valign=top> Feb 6th &nbsp;</td>
-  <td valign=top>Introduction to CUDA Programming &nbsp;</td>
-  <td valign=top> HW2 is due. &nbsp;</td>
+  <td valign=top> Introduction to CUDA Programming &nbsp;</td>
+  <td valign=top> HW2 is out. &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
