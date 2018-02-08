@@ -134,14 +134,14 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 5 &nbsp;</td>
   <td valign=top> Feb 13th &nbsp;</td>
-  <td valign=top> CUDA Memory Model &nbsp;</td>
+  <td valign=top> CUDA Memory Hiearchy &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Feb 15th &nbsp;</td>
-  <td valign=top> CUDA Memory Model  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> CUDA Memory Hiearchy  &nbsp;</td>
+  <td valign=top> HW2 is due; HW3 is out &nbsp;</td>
   <td valign=top>  </font> &nbsp;</td>
   </tr>
 
@@ -155,7 +155,7 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Feb 22nd  &nbsp;</td>
   <td valign=top> GPU Architecture Design  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> HW3 is due. &nbsp;</td>
   <td valign=top>  </font> &nbsp;</td>
   </tr>
 
