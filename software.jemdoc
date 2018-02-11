@@ -31,7 +31,6 @@ Please cite the following paper if you use or build upon this framework: \n
 *\<span style=\"color: forestgreen\"\>(MEMSYS 2015)\<\/span\>* 
 \[[docs/pdf/Anatomy-Memsys-2015.pdf PDF]] 
 \[[docs/pptx/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
-\[[docs/bib/Anatomy-Memsys-2015-bib.txt BibTeX]]
 \[[https://github.com/adwaitjog/mafia Github]] \n 
 *Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
 Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
@@ -50,7 +49,6 @@ Please cite the following paper if you use or build upon this framework: \n
 \[[docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
 \[[docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
 \[[docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] 
-\[[docs/bib/OWL-ASPLOS-2013-bib.txt BibTeX]] \n 
 *Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
 [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
