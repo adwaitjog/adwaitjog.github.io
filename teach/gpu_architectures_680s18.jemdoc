@@ -309,8 +309,7 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
-- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
-- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
+- [http://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
