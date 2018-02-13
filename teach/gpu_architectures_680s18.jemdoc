@@ -136,13 +136,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 5 &nbsp;</td>
   <td valign=top> Feb 13th &nbsp;</td>
-  <td valign=top> CUDA Memory Hiearchy &nbsp;</td>
+  <td valign=top> CUDA Memory &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Feb 15th &nbsp;</td>
-  <td valign=top> CUDA Memory Hiearchy  &nbsp;</td>
+  <td valign=top> CUDA Memory  &nbsp;</td>
   <td valign=top> HW2 is due; HW3 is out &nbsp;</td>
   <td valign=top>  </font> &nbsp;</td>
   </tr>
@@ -150,13 +150,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 6 &nbsp;</td>
   <td valign=top> Feb 20th &nbsp;</td>
-  <td valign=top> GPU Architecture Design &nbsp;</td>
+  <td valign=top> CUDA Memory  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Feb 22nd  &nbsp;</td>
-  <td valign=top> GPU Architecture Design  &nbsp;</td>
+  <td valign=top> CUDA Memory  &nbsp;</td>
   <td valign=top> HW3 is due. &nbsp;</td>
   <td valign=top>  </font> &nbsp;</td>
   </tr>
@@ -199,7 +199,7 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> March 15th &nbsp;</td>
-  <td valign=top> TBD &nbsp;</td>
+  <td valign=top> GPU Micro-architecture (1) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   </tr>
@@ -207,13 +207,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 10 &nbsp;</td>
   <td valign=top> March 20th &nbsp;</td>
-  <td valign=top> TBD &nbsp;</td>
+  <td valign=top> GPU Micro-architecture (2) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> March 22nd &nbsp;</td>
-  <td valign=top>  TBD &nbsp;</td>
+  <td valign=top> GPU Micro-architecture (3) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -221,13 +221,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 11 &nbsp;</td>
   <td valign=top> March 27th &nbsp;</td>
-  <td valign=top> TBD &nbsp;</td>
+  <td valign=top> GPU Architecture (1) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> March 29th &nbsp;</td>
-  <td valign=top>  TBD &nbsp;</td>
+  <td valign=top>  GPU Architecture (2) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -235,13 +235,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 12 &nbsp;</td>
   <td valign=top> April 3rd &nbsp;</td>
-  <td valign=top> TBD &nbsp;</td>
+  <td valign=top> GPU Architecture (3) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  April 5th &nbsp;</td>
-  <td valign=top>  TBD &nbsp;</td>
+  <td valign=top>  GPU Research Issues (1) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -249,13 +249,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 13 &nbsp;</td>
   <td valign=top>  April 10th &nbsp;</td>
-  <td valign=top>  TBD &nbsp;</td>
+  <td valign=top>  GPU Research Issues (2) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  April 12th &nbsp;</td>
-  <td valign=top>  TBD &nbsp;</td>
+  <td valign=top>  GPU Research Issues (3) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
@@ -303,7 +303,8 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
 ~~~
 
 == Readings (Books and Other Resources)
-- [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
+- [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
+D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
 - [https://docs.nvidia.com/cuda/cuda-c-programming-guide/ NVIDIA CUDA C Programming Guide]
 
 == Useful Simulators and Tools
