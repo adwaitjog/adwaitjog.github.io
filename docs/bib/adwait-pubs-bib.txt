@@ -1,14 +1,23 @@
 
+@inproceedings{mask-asplos18,
+ author = {Rachata Ausavarungnirun and Vance Miller and Joshua Landgraf and
+ Saugata Ghose and Jayneel Gandhi and Adwait Jog and Christopher J. Rossbach
+ and Onur Mutlu},
+ title = {{MASK: Redesigning the GPU Memory Hierarchy to Support Multi-application Concurrency}},
+ booktitle = {ASPLOS}
+ year  = {2018},
+}
+
 @inproceedings{pbs-hpca18,
  author = {Haonan Wang and Fan Luo and Mohamed Ibrahim and Onur Kayiran and Adwait Jog},
- title = {Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management},
+ title = {{Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management}},
  booktitle = {HPCA},
  year = {2018},
 }
 
 @inproceedings{rcoal-hpca18,
  author = {Gurunath Kadam and Danfeng Zhang and Adwait Jog},
- title = {RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques},
+ title = {{RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques}},
  booktitle = {HPCA},
  year = {2018},
 }
@@ -16,7 +25,7 @@
 @inproceedings{sotram-isvlsi17,
  author = {Sparsh Mittal and Rajendra Bishnoi and Fabian Oboril and Haonan Wang and
  Mehdi Tahoori and Adwait Jog and Jeffrey Vetter},
- title = {Architecting SOT-RAM Based GPU Register File},
+ title = {{Architecting SOT-RAM Based GPU Register File}},
  booktitle = {ISVLSI},
  year = {2017},
 }
@@ -31,7 +40,7 @@ Mahmut Kandemir and Chita Das},
 
 @inproceedings{gpureliability-vlsid17,
  author = {Sparsh Mittal and Hoanan Wang and Adwait Jog and Jeff Vetter},
- title = {Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File},
+ title = {{Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File}},
  booktitle = {VLSID},
  year = {2017},
 }
