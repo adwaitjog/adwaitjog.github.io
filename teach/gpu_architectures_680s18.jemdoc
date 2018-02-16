@@ -46,8 +46,9 @@ presented. The presentation schedule will be discussed in the class. The
 goal of this component is to test your analytical, written/oral presentation skills. 
 
 == Semester-long Research Project
-It will test your capabilities of doing architecture research. Ideally performed in groups 
-of 2. Regular meetings are expected with the advisor so that progress can be made. 
+It will test your capabilities of doing architecture research. Ideally performed in 
+groups of 2. Regular meetings are expected with the advisor so that progress can be 
+made. 
 
 == Final Exam
 It will be comprehensive and will cover material covered until the end of the semester. 
@@ -116,7 +117,7 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <td valign=top> Introduction to GPUs  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top> Familiarize yourself with CUDA. CS WM bg9 machine has 
-  three NVIDIA GPUs </font> &nbsp;</td>
+  three NVIDIA GPUs. </font> &nbsp;</td>
   </tr>
 
   <tr bgcolor=cornsilk align=CENTER >
@@ -150,13 +151,13 @@ It is scheduled on May 3rd, Thursday, 2:00 to 5:00pm, in our same classroom.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 6 &nbsp;</td>
   <td valign=top> Feb 20th &nbsp;</td>
-  <td valign=top> CUDA Memory  &nbsp;</td>
+  <td valign=top> CUDA Streams  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Feb 22nd  &nbsp;</td>
-  <td valign=top> CUDA Memory  &nbsp;</td>
+  <td valign=top> Tiling and Matrix Multiplication &nbsp;</td>
   <td valign=top> HW3 is due; HW4 is out &nbsp;</td>
   <td valign=top>  </font> &nbsp;</td>
   </tr>
