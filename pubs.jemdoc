@@ -48,7 +48,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
 \[[docs/pdf/rcoal-hpca18.pdf PDF]]
 \[[coming.html Talk (PPTX)]] 
-\[[coming.html YouTube Trailer]] \n
+\[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
 +Gurunath Kadam+, Danfeng Zhang, *Adwait Jog* \n
 [docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
 Subwarp-based Randomized Coalescing Techniques/], \n
