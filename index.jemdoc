@@ -58,7 +58,8 @@ award will support my group to research on large-scale GPU-based systems and to 
 - Co-organizing second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It will be co-located with [https://www.asplos2018.org/ ASPLOS 2018].
 - As a part of outreach, I gave a talk titled /Computer Science: Myths,  Challenges, and Opportunties/ to high school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M. 
 - Paper accepted in [https://www.asplos2018.org/ ASPLOS 2018].
-- Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] will showcase two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
+- Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] will showcase 
+two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
 -- We have developed new memory bandwidth management techniques for efficient and fair multi-application execution in GPUs.
 -- We have developed new randomized coalescing mechanisms for efficiently balancing performance and security in GPUs.
 - Invited to be on the Program Committees of [http://www.ispass.org/ispass2018/ ISPASS 2018] and [https://gpgpu11.000webhostapp.com/ GPGPU-11 2018]. Submit your best work!
