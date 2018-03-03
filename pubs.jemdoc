@@ -37,7 +37,7 @@ and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018 \n
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
 \[[docs/pdf/pbs-hpca18.pdf PDF]]
-\[[coming.html Talk (PPTX)]] 
+\[[docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
 \[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
 +Haonan Wang+, +Fan Luo+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
 [docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
@@ -47,7 +47,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
 \[[docs/pdf/rcoal-hpca18.pdf PDF]]
-\[[coming.html Talk (PPTX)]] 
+\[[docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
 \[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
 +Gurunath Kadam+, Danfeng Zhang, *Adwait Jog* \n
 [docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
