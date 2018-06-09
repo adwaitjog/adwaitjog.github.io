@@ -46,36 +46,24 @@ talented students to join my lab. We have several funded RA positions. \<\/span\
 Send me a /brief email/ to start the conversation. All graduate admissions are formally managed 
 by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
 
+== Research Funding
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018], PI. Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017], PI. Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017], PI. Thanks NSF!
+- NVIDIA Equipment Donation. Thanks NVIDIA!
+
 == Recent News
-- Invited to be on the Program Committees of ICCD 2018, SBAC-PAD 2018, IISWC 2018, NAS 2018, HPCA 2018 (ERC). Submit your best work!
+- I will be teaching a [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog short GPU course] at the computer architecture summer school organized annually by HiPEAC. See more 
+details [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog here]. 
 - I delivered talks at the ECE departments of [https://www.ece.ncsu.edu/seminar/memory-bandwidth-management-for-enhanced-throughput-and-security-in-gpus/ NCSU] and 
 [https://www.ece.seas.gwu.edu/ece-seminar-%E2%80%9Cmemory-bandwidth-management-enhanced-throughput-and-security-gpus%E2%80%9D GWU] on memory bandwidth management techniques for performance and security. Talk slides are 
 available [http://adwaitjog.github.io/docs/pptx/ncsu_talk_april13_2018.pptx here].
 - I delivered talks at Intel and Cisco on [http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf our recent work] on GPU security. 
 - W&M published a featured [https://www.wm.edu/as/computerscience/news/using_career_award_jog.php news item] on my group's work and recently granted [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award].
-- I will be teaching a [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog short GPU course] 
-at the computer architecture summer school organized annually by HiPEAC. See more 
-details [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog here]. 
-Registration details can be found [http://acaces.hipeac.net/2018/index.php?page=form here]. Stay tuned for course materials.
-- I am grateful and honored to receive [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018]. 
-Over the next five years, this 
-award will support my group to research on large-scale GPU-based systems and to pursue my teaching/outreach goals. Thanks NSF!
-- Co-organized second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It was co-located with [https://www.asplos2018.org/ ASPLOS 2018].The workshop was a great success.
-- As a part of outreach, I gave a talk titled /Computer Science: Myths,  Challenges, and Opportunties/ to high school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M. 
 - Paper accepted in [https://www.asplos2018.org/ ASPLOS 2018].
-- Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] will showcase 
-two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
+- Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] will showcase two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
 -- We have developed new memory bandwidth management techniques for efficient and fair multi-application execution in GPUs.
 -- We have developed new randomized coalescing mechanisms for efficiently balancing performance and security in GPUs.
-- Invited to be on the Program Committees of [http://www.ispass.org/ispass2018/ ISPASS 2018] and [https://gpgpu11.000webhostapp.com/ GPGPU-11 2018]. Submit your best work!
-- Co-organized a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2017]) co-located with PACT 2017. The workshop was a great success.
-- As a part of outreach, I gave a talk on /Career Opportunities in CS/ to middle school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M.
-- Received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017], PI. Thanks NSF!
-- Received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017], PI. Thanks NSF!
-- Papers accepted in HPCA 2017, VLSID 2017, and ISVLSI 2017
-- Papers accepted in IISWC 2016, 2x PACT 2016, MICRO 2016, and SIGMETRICS 2016.  
-- Served on the Program Committees of [http://hpca2018.ece.ucsb.edu/ HPCA 2018], [https://www.microarch.org/micro50/ MICRO 2017 (ERC)], 
-[http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017].
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
@@ -93,3 +81,14 @@ two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018].
 - *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
 - *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
+
+== Recent Program and Organization Committees
+- Publicity Chair, CGO 2019
+- Invited to be on the Program Committees of ICCD 2018, SBAC-PAD 2018, IISWC 2018, NAS 2018, HPCA 2019 (ERC). Submit your best work!
+- [https://www.adwaitjog.github.io/service.html More..]
+
+== Outreach
+- Co-organized second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move]). It was co-located with [https://www.asplos2018.org/ ASPLOS 2018].The workshop was a great success.
+- As a part of outreach, I gave a talk titled /Computer Science: Myths, Challenges, and Opportunties/ to high school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M. 
+- Co-organized a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2017]) co-located with PACT 2017. The workshop was a great success.
+- As a part of outreach, I gave a talk on /Career Opportunities in CS/ to middle school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M.
