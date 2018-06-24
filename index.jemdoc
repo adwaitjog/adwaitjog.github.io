@@ -35,8 +35,8 @@
 == About
 I am an assistant professor in the Department of Computer Science
 at [http://goo.gl/JP9omL College of William & Mary (W&M)] in Virginia, USA. At W&M, I 
-am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/] with 
-the goal to generate insights, which would help in architecting future computers that are 
+am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/]. Our
+goal is to generate insights, which would help in architecting future computers that are 
 more energy-efficient, capable, reliable, and secure. \n
 
 *\<span style=\"color: red\"\> I am always looking for self-motivated and 
@@ -51,17 +51,12 @@ by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
 [https://www.ece.seas.gwu.edu/ece-seminar-%E2%80%9Cmemory-bandwidth-management-enhanced-throughput-and-security-gpus%E2%80%9D GWU] on memory bandwidth management techniques for performance and security. Talk slides are 
 available [http://adwaitjog.github.io/docs/pptx/ncsu_talk_april13_2018.pptx here].
 - I delivered talks at Intel and Cisco on [http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf our recent work] on GPU security. 
-- W&M published a featured [https://www.wm.edu/as/computerscience/news/using_career_award_jog.php news item] on my group's work and recently granted [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award].
-- Paper accepted in [https://www.asplos2018.org/ ASPLOS 2018].
-- Our newly formed [http://insight-archlab.github.io/ Insight Computer Architecture Lab] showcased two accepted papers at [https://hpca2018.ece.ucsb.edu/ HPCA 2018]. 
--- We have developed new memory bandwidth management techniques for efficient and fair multi-application execution in GPUs.
--- We have developed new randomized coalescing mechanisms for efficiently balancing performance and security in GPUs.
 
 == Research Funding
 My [http://insight-archlab.github.io research group] is currently supported by the following research grants:
-- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018], PI. Thanks NSF!
-- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017], PI. Thanks NSF!
-- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017], PI. Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018]. [https://www.wm.edu/as/computerscience/news/using_career_award_jog.php News in the Media.] Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017]. Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017]. Thanks NSF!
 - NVIDIA Equipment Donation. Thanks NVIDIA!
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
