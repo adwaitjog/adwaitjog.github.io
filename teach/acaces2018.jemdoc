@@ -13,7 +13,7 @@ information regarding the course. \<\/span\>* \n
 == Preliminary Lecture Material
 - Lecture 1 (July 9th): Intro to GPUs and Basics of CUDA programming ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-1.pdf slides])
 - Lecture 2 (July 10th): Basics of GPU architecture ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-2.pdf slides])
-- Lecture 3 (July 12th): GPU Performance Bottlenecks and Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-3.pdf slides])
+- Lecture 3 (July 12th): GPU Performance and Energy Efficiency Bottlenecks and Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-3.pdf slides])
 - Lecture 4 (July 13th): Emerging GPU Security Concerns and Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-4.pdf slides])
 
 == Background Material and Additional References
