@@ -21,3 +21,25 @@ computer organization and design.
 - Lecture 4 (July 13th): Emerging GPU Security Concerns and Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-4.pdf slides])
 
 == References
+
+=== 
+*\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
+\[[docs/pdf/rcoal-hpca18.pdf PDF]]
+\[[docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
+\[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
++Gurunath Kadam+, Danfeng Zhang, *Adwait Jog* \n
+[docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
+Subwarp-based Randomized Coalescing Techniques/], \n
+In the Proceedings of 24th IEEE Symposium on High Performance 
+Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
+(Acceptance rate: 54/260 ≈ 20%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
+\[[docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
+\[[docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
+\[[docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
+*Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
+[docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
+In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
+(Acceptance rate: 44/191 ≈ 23%) 
