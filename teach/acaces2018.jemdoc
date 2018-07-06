@@ -20,7 +20,17 @@ computer organization and design.
 - Lecture 3 (July 12th): GPU Performance Bottlenecks and Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-3.pdf slides])
 - Lecture 4 (July 13th): Emerging GPU Security Concerns and Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-4.pdf slides])
 
-== References
+== Background Material
+
+=== 
+*\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
+\[[docs/pdf/pbs-hpca18.pdf PDF]]
+\[[docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
+\[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
++Haonan Wang+, +Fan Luo+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
+[docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
+In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
+(Acceptance rate: 54/260 ≈ 20%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
@@ -35,6 +45,49 @@ Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n
 (Acceptance rate: 54/260 ≈ 20%) \n
 
 === 
+*\<span style=\"color: forestgreen\"\>(MEMSYS 2015)\<\/span\>* 
+\[[docs/pdf/Anatomy-Memsys-2015.pdf PDF]] 
+\[[docs/pptx/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
+\[[https://github.com/adwaitjog/mafia Github]] \n 
+*Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
+Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
+[docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
+In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* 
+\[[docs/pdf/CABA-ISCA-2015.pdf PDF]] 
+\[[docs/pptx/CABA-ISCA-2015.pptx Talk (PPTX)]]
+\[[docs/pptx/CABA-ISCA-2015-trailer.pptx Lightning]] \n 
+Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, 
+Mahmut Kandemir, Todd Mowry, Onur Mutlu, \n
+[docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
+In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
+(Acceptance rate: 58/305 ≈ 19%) \n
+
+
+=== 
+*\<span style=\"color: forestgreen\"\>(GPGPU@ASPLOS 2014)\<\/span\>* 
+\[[docs/pdf/app-aware-memory-GPGPU7-2014.pdf PDF]]
+\[[docs/pptx/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]]
+\[[http://dl.acm.org/citation.cfm?doid=2576779.2576780 ACM DOI]] \n 
+*Adwait Jog*, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita Das, \n
+[docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
+In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
+Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
+(Acceptance rate: 12/27 ≈ 44%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>*
+\[[docs/pdf/NMNL-PACT-2013.pdf PDF]]
+\[[docs/pptx/NMNL-PACT-2013-Slides.pptx Talk (PPTX)]] \n
+*\<span style=\"color: red\"\>Best Paper Nomination:\<\/span\>* /One of the four papers nominated for the Best Paper Award./\n
+Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
+[docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
+In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
+(Acceptance rate: 36/208 ≈ 17%) \n
+
+=== 
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
 \[[docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
 \[[docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
@@ -43,3 +96,4 @@ Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n
 [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
 (Acceptance rate: 44/191 ≈ 23%) 
+
