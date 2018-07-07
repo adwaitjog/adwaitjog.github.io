@@ -25,7 +25,7 @@ information regarding the course. \<\/span\>* \n
 \[[http://adwaitjog.github.io/docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
 \[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
 +Haonan Wang+, +Fan Luo+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
-[docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
+[http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
 (Acceptance rate: 54/260 ≈ 20%) \n
 
@@ -35,7 +35,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 \[[http://adwaitjog.github.io/docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
 \[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
 +Gurunath Kadam+, Danfeng Zhang, *Adwait Jog* \n
-[docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
+[http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
 Subwarp-based Randomized Coalescing Techniques/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
@@ -48,7 +48,7 @@ Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n
 \[[https://github.com/adwaitjog/mafia Github]] \n 
 *Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
 Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
-[docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
+[http://adwaitjog.github.io/docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
 
 === 
@@ -58,7 +58,7 @@ In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Wa
 \[[http://adwaitjog.github.io/docs/pptx/CABA-ISCA-2015-trailer.pptx Lightning]] \n 
 Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, 
 Mahmut Kandemir, Todd Mowry, Onur Mutlu, \n
-[docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
+[http://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
 (Acceptance rate: 58/305 ≈ 19%) \n
 
@@ -69,7 +69,7 @@ In the Proceedings of 42nd International Symposium on Computer Architecture (ISC
 \[[http://adwaitjog.github.io/docs/pptx/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]]
 \[[http://dl.acm.org/citation.cfm?doid=2576779.2576780 ACM DOI]] \n 
 *Adwait Jog*, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita Das, \n
-[docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
+[http://adwaitjog.github.io/docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
 In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
 Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
 (Acceptance rate: 12/27 ≈ 44%) \n
