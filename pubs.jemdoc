@@ -22,7 +22,7 @@
 
 === [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP)] [docs/bib/adwait-pubs-bib.txt (BibTeX)]
 
-+Students are/were advised by me+
++_My advisee_+ 
 
 === 2018
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>*
@@ -39,7 +39,7 @@ and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018 \n
 \[[docs/pdf/pbs-hpca18.pdf PDF]]
 \[[docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
 \[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
-+Haonan Wang+, +Fan Luo+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
++Haonan Wang+, +_Fan Luo_+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
 [docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
 (Acceptance rate: 54/260 ≈ 20%) \n
