@@ -27,7 +27,7 @@
 === 2018
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>*
 \[[docs/pdf/mask-asplos18.pdf PDF]]
-\[[coming.html Talk (PPTX)]] \n
+\[[docs/pptx/MASK-ASPLOS-2018.pptx Talk (PPTX)]] \n
 Rachata Ausavarungnirun, Vance Miller, Joshua Landgraf, Saugata Ghose, *Adwait Jog*, Jayneel Gandhi, Christopher J. Rossbach, Onur Mutlu \n 
 [docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency], \n
 In the Proceedings of 23rd ACM International Conference on Architectural Support for Programming Languages
