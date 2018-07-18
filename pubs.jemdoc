@@ -43,7 +43,7 @@ In the Proceedings of 51st International Symposium on Microarchitecture (MICRO),
 \[[docs/pdf/mask-asplos18.pdf PDF]]
 \[[docs/pptx/MASK-ASPLOS-2018.pptx Talk (PPTX)]] \n
 Rachata Ausavarungnirun, Vance Miller, Joshua Landgraf, Saugata Ghose, *Adwait Jog*, Jayneel Gandhi, Christopher J. Rossbach, Onur Mutlu \n 
-[docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency], \n
+[docs/pdf/mask-asplos18.pdf /MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency/], \n
 In the Proceedings of 23rd ACM International Conference on Architectural Support for Programming Languages
 and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018 \n
 (Acceptance rate: 56/319 ≈ 17%) \n
