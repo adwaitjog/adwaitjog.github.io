@@ -65,8 +65,8 @@ My [http://insight-archlab.github.io research group] is currently supported by t
 - NVIDIA Equipment Donation. Thanks NVIDIA!
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [coming.html /Architectural Support for Efficient Large-Scale Automata Processing/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [coming.html /Error Site Pruning for Practical Reliability Analysis of GPGPU Applications/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2018, to appear)\<\/span\>* [coming.html /Architectural Support for Efficient Large-Scale Automata Processing/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2018, to appear)\<\/span\>* [coming.html /Error Site Pruning for Practical Reliability Analysis of GPGPU Applications/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
