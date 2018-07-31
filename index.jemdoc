@@ -5,14 +5,14 @@
     <div class="navbar navbar-inverse" role="navigation">
       <div class="container">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="http://adwaitjog.github.io/index.html">Home</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/talks.html">Talks</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/software.html">Software</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/service.html">Service</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/misc.html">Misc.</a></li>
-            <li class="active"><a href="http://insight-archlab.github.io/index.html">Research Group</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/talks.html">Talks</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/software.html">Software</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/misc.html">Misc.</a></li>
+            <li class="active"><a href="https://insight-archlab.github.io/index.html">Research Group</a></li>
           </ul>
       </div>
     </div>
@@ -41,8 +41,8 @@ more energy-efficient, capable, reliable, and secure. \n
 
 *\<span style=\"color: red\"\> I am always looking for self-motivated and 
 talented students to join my lab. We have several funded RA positions. \<\/span\>* 
-Send me a /brief email/ to start the conversation. All graduate admissions are formally managed 
-by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
+Send me a /brief email/ to start the conversation. All graduate admissions are 
+formally managed by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
 
 == Recent News
 - Two papers accepted at [https://www.microarch.org/micro51/ MICRO 2018]. These 
@@ -55,10 +55,10 @@ Congratulations to my students and collaborators.
 - I am serving as a [http://cgo.org/cgo2019/organization/ publicity chair] for 
 [http://cgo.org/cgo2019/ CGO'19]. The conference [http://cgo.org/cgo2019/ website] and [http://cgo.org/cgo2019/cfp/ call for papers] is up! 
 
-- [http://adwaitjog.github.io/teach/acaces2018.html ACACES 2018 course website] is up with the lecture material. This [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog short GPU course] is a part of the computer architecture summer school organized annually by HiPEAC. 
+- [https://adwaitjog.github.io/teach/acaces2018.html ACACES 2018 course website] is up with the lecture material. This [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog short GPU course] is a part of the computer architecture summer school organized annually by HiPEAC. 
 
 == Research Funding
-My [http://insight-archlab.github.io research group] is currently supported by the following research grants:
+My [https://insight-archlab.github.io research group] is currently supported by the following research grants:
 - [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018]. [https://www.wm.edu/as/computerscience/news/using_career_award_jog.php News in the Media.] Thanks NSF!
 - [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017]. Thanks NSF!
 - [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017]. Thanks NSF!
@@ -67,34 +67,34 @@ My [http://insight-archlab.github.io research group] is currently supported by t
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [coming.html /Architectural Support for Efficient Large-Scale Automata Processing/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [coming.html /Error Site Pruning for Practical Reliability Analysis of GPGPU Applications/]
-- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
-- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
-- *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
-- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
-- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
-- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
-- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
-- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
-- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
+- *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
+- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
 - *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
 
-== Teaching ([http://adwaitjog.github.io/teaching.html complete list])
+== Teaching ([https://adwaitjog.github.io/teaching.html complete list])
 - I will be teaching CSCI 424: Computer Architecture in Fall 2018
 
-== Program and Organization Committees ([http://adwaitjog.github.io/service.html complete list])
+== Program and Organization Committees ([https://adwaitjog.github.io/service.html complete list])
 - Publicity Chair, CGO 2019
 - Invited to be on the Program Committees of ICCD 2018, SBAC-PAD 2018, IISWC 2018, NAS 2018, HPCA 2019 (ERC). Submit your best work!
 - Local Arrangements Chair, ASPLOS 2018
 
 == Outreach
-- Co-organized second version of the workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2018]). It was co-located with [https://www.asplos2018.org/ ASPLOS 2018].The workshop was a great success.
+- Co-organized second version of the workshop on minimizing data movement ([https://insight-archlab.github.io/minmove.html Min-Move 2018]). It was co-located with [https://www.asplos2018.org/ ASPLOS 2018].The workshop was a great success.
 - Delivered a talk titled /Computer Science: Myths, Challenges, and Opportunties/ to high school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M. 
-- Co-organized a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove17.html Min-Move 2017]) co-located with PACT 2017. The workshop was a great success.
+- Co-organized a workshop on minimizing data movement ([https://insight-archlab.github.io/minmove17.html Min-Move 2017]) co-located with PACT 2017. The workshop was a great success.
 - Delivered as a talk on /Career Opportunities in CS/ to middle school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M.
 
 

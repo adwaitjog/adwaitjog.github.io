@@ -5,14 +5,14 @@
     <div class="navbar navbar-inverse" role="navigation">
       <div class="container">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="http://adwaitjog.github.io/index.html">Home</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/talks.html">Talks</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/software.html">Software</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/service.html">Service</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/misc.html">Misc.</a></li>
-            <li class="active"><a href="http://insight-archlab.github.io/index.html">Research Group</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/talks.html">Talks</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/software.html">Software</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/misc.html">Misc.</a></li>
+            <li class="active"><a href="https://insight-archlab.github.io/index.html">Research Group</a></li>
           </ul>
       </div>
     </div>
@@ -24,7 +24,7 @@
 - Intel, Hillsboro, May 2018
 - Cisco, April 2018
 
-/Memory Bandwidth Management for Enhanced Throughput and Security in GPUs/ [http://adwaitjog.github.io/docs/pptx/ncsu_talk_april13_2018.pptx (Slides)] \n
+/Memory Bandwidth Management for Enhanced Throughput and Security in GPUs/ [https://adwaitjog.github.io/docs/pptx/ncsu_talk_april13_2018.pptx (Slides)] \n
 - [https://www.ece.ncsu.edu/seminar/memory-bandwidth-management-for-enhanced-throughput-and-security-in-gpus/ North Carolina State University], April 2018
 - [https://www.ece.seas.gwu.edu/ece-seminar-%E2%80%9Cmemory-bandwidth-management-enhanced-throughput-and-security-gpus%E2%80%9D George Washington University], April 2018
 
