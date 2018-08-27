@@ -27,7 +27,7 @@ knowledge of digital logic design to understand the high-level interactions betw
 computer system hardware components. Specifically, this course will cover various computer architecture aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, memory hierarchy, and multiprocessor architecture. 
 
 == Textbook and Resources
-- *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
+- *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
 - *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
 lab machine is necessary. See /Simulators/ section for more details.
 - *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
