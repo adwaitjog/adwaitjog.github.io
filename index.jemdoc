@@ -50,12 +50,16 @@ two papers cover two different topics: a) architectural support for efficient
 large-scale automata processing, and b) practical GPU reliability analysis. 
 Congratulations to my students and collaborators.
 
-- I am invited to serve on the [https://www.sigmetrics.org/sigmetrics2019/ Sigmetrics 2019] program committee. Submit your best work!
+- I am invited to serve on the [https://www.sigmetrics.org/sigmetrics2019/ Sigmetrics 2019] 
+program committee. Submit your best work!
 
 - I am serving as a [http://cgo.org/cgo2019/organization/ publicity chair] for 
-[http://cgo.org/cgo2019/ CGO'19]. The conference [http://cgo.org/cgo2019/ website] and [http://cgo.org/cgo2019/cfp/ call for papers] is up! 
+[http://cgo.org/cgo2019/ CGO'19]. The conference [http://cgo.org/cgo2019/ website] 
+and [http://cgo.org/cgo2019/cfp/ call for papers] is up! 
 
-- [https://adwaitjog.github.io/teach/acaces2018.html ACACES 2018 course website] is up with the lecture material. This [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog short GPU course] is a part of the computer architecture summer school organized annually by HiPEAC. 
+- [https://adwaitjog.github.io/teach/acaces2018.html ACACES 2018 course website] is 
+up with the lecture material. This [http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog 
+short GPU course] is a part of the computer architecture summer school organized annually by HiPEAC. 
 
 == Research Funding
 My [https://insight-archlab.github.io research group] is currently supported by the following research grants:
@@ -84,11 +88,13 @@ My [https://insight-archlab.github.io research group] is currently supported by 
 - *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
 
 == Teaching ([https://adwaitjog.github.io/teaching.html complete list])
-- I will be teaching CSCI 424: Computer Architecture in Fall 2018
+- I will be teaching [https://adwaitjog.github.io/teach/comp_arch_cs424_f18.html CSCI 424/524, 
+Computer Architecture (undergraduate course)] in Fall 2018
 
 == Program and Organization Committees ([https://adwaitjog.github.io/service.html complete list])
 - Publicity Chair, CGO 2019
-- Invited to be on the Program Committees of ICCD 2018, SBAC-PAD 2018, IISWC 2018, NAS 2018, HPCA 2019 (ERC). Submit your best work!
+- Invited to be on the Program Committees of 
+Sigmetrics 2019, HPCA 2019 (ERC), ICCD 2018, SBAC-PAD 2018, IISWC 2018, NAS 2018. Submit your best work!
 - Local Arrangements Chair, ASPLOS 2018
 
 == Outreach
