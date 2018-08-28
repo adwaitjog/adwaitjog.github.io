@@ -12,12 +12,14 @@
 -- Office hours: *TBD* 
 -- Email: *TBD* 
 
-- Deadlines: Sept 7 (add/drop deadline) and Oct 26 (withdraw deadline). See the [https://www.wm.edu/offices/registrar/documents/calendars/2018_2019ugcal.pdf UG calender] 
+- Deadlines: Sept 7 (add/drop deadline) and Oct 26 (withdraw deadline). See 
+the [https://www.wm.edu/offices/registrar/documents/calendars/2018_2019ugcal.pdf UG calender] 
 for more details.
 - Exam Dates: *TBD* (Midterm Exam, in-class) and Dec 11 (Final Exam, 9:00 to noon 
 in our regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall18exam/index.php Fall 2018 Final Exam Schedule] for more details.)
 
-# - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
+# - *\<span style=\"color: red\"\> Please keep checking this website for the 
+latest information regarding this course. \<\/span\>* \n
 
 == Prerequisites and Course Description
 Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303  
@@ -28,10 +30,13 @@ computer system hardware components. Specifically, this course will cover variou
 
 == Textbook and Resources
 - *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
-- *Resources:* Some homeworks will also have simulation-based component. Access to a computer with remote access to a 
+- *Resources:* Some homeworks will also have simulation-based component. 
+Access to a computer with remote access to a 
 lab machine is necessary. See /Simulators/ section for more details.
-- *Materials:* Lecture slides, homeworks, and other course materials will be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
-will be posted on this website as well as course announcements/reminders will be delivered via [https://piazza.com/wm/fall2018/csci424524/home piazza].
+- *Materials:* Lecture slides, homeworks, and other course materials will 
+be posted on [https://blackboard.wm.edu/ Blackboard]. Updates
+will be posted on this website as well as course announcements/reminders will 
+be delivered via [https://piazza.com/wm/fall2018/csci424524/home piazza].
 Please keep checking all forums regularly for the latest information.
 - *Help:* It is important to start working on homeworks early, especially the homeworks that have simulation 
 component. If you need help, show up in the office hours or ask questions in or after the class. You are also highly
@@ -58,26 +63,26 @@ on your research project.
 - Final letter grades will be given based on the standard scale used in WM. Grades may be curved at the instructor's discretion.
 
 == Collaboration and Classroom Policies
-- You are expected to attend *all* lectures. You are responsible for all materials covered in lectures.
+- You are expected to attend *all* lectures. You are 
+responsible for all materials covered in lectures.
 - You can use laptops *only* to take notes, however, other electronic devices are not allowed to be used in the class. 
-- All exams are closed textbook/slides. No electronic devices are allowed during exams. One A4-sized cheat sheet
-is allowed. Yes, you can see both sides of the page. 
+- All exams are closed textbook/slides. No electronic devices are allowed during exams. One A4-sized cheat sheet is allowed. Yes, you can use both sides of the page. 
 - No collaboration whatsoever is allowed on exams and quizzes. However, you may you use your notes or textbook for quizzes. 
 - You can collaborate on the homework problems with one more student currently enrolled in the class. However, you must write up each problem solution (or MIPS code) by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the instructor or TA.
 
 == Submissions, Grading, and Deadlines
-- Homework Assignments and Reports should be submitted electronically (no hard copies) on 
-Blackboard by *23:00* hrs on the due date
+- Homework Assignments and Reports should be submitted 
+electronically (no hard copies) on Blackboard by *23:00* hrs on the due date
 in the *PDF* format. You may use MS-word or Latex to typeset your answers, however, final submission must be in the *PDF* format. Submission in any other format (including hand-written and then scanned PDFs) 
 will not be graded and will receive zero. 
-- Some homeworks will have simulation-based component. Some homeworks may carry more points than others. 
+- Some homeworks will have simulation-based component. 
+Some homeworks may carry more points than others. 
 - Submission deadlines are *hard*. However, we do have a late/miss policy:
 -- Late HWs are accepted with /20%/ penalty for each day they are late by.
--- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped.
--- Exceptions will be handled case by case and will only be considered under a university-approved condition with 
-written proof.
-- If you have any grading-related questions, please contact the TA first. If issues are not resolved, then you 
-can escalate the matter to the instructor. The instructor will make the final decision.
+-- If you miss an exam or quiz, you will get /zero/ on that. The lowest score on the quizzes will be dropped. Exceptions will be handled case by case.
+- If you have any grading-related questions, please contact the TA first. 
+If issues are not resolved, then you can escalate the matter to the instructor. 
+The instructor will make the final decision.
 
 == Simulators
 - [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
@@ -120,19 +125,19 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 2 &nbsp;</td>
   <td valign=top>Sep 3 &nbsp;</td>
-  <td valign=top>Introduction, Abstractions, and Technology &nbsp;</td>
+  <td valign=top> Introduction, Abstractions, and Technology &nbsp;</td>
   <td valign=top> Chapter 1  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top> Download/Install MARS and run sample codes to prepare for upcoming homeworks. &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>Sep 5 &nbsp;</td>
   <td valign=top>Introduction, Abstractions, and Technology  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-   <td valign=top> HW 1 Out &nbsp;</td>
+  <td valign=top> HW 1 Out &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> <font color="red">Sept 7 is the Add/drop deadline.</font> &nbsp;</td>
+  <td valign=top>  <font color="red">Sept 7 is the Add/drop deadline.</font> &nbsp;</td>
   </tr>
 </TABLE>
 
