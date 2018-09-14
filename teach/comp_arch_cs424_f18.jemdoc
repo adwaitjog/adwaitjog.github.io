@@ -147,7 +147,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 3 &nbsp;</td>
-  <td valign=top>Sep 10 &nbsp;</td>
+  <td valign=top> Sep 10 &nbsp;</td>
   <td valign=top> MIPS ISA &nbsp;</td>
   <td valign=top> Appendix A  &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -184,7 +184,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 5 &nbsp;</td>
   <td valign=top> Sep 24 &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> MIPS Datapath &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -192,7 +192,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Sep 26 &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> MIPS Datapath &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -202,7 +202,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 6 &nbsp;</td>
   <td valign=top> Oct 1 &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Single-cycle Design &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -210,7 +210,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 3 &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Pipelining &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -220,7 +220,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 7 &nbsp;</td>
   <td valign=top> Oct 8 &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Pipelining and Midterm-Review &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -250,7 +250,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Mid-term Analysis &nbsp;</td>
   </tr>
 </TABLE>
 
