@@ -49,15 +49,17 @@ formally managed by [http://www.wm.edu/as/computerscience/graduate/ W&M CS depar
 - [https://massemibrahim.github.io/ Mohamed Ibrahim] will be 
 presenting [https://massemibrahim.github.io/Documents/PDFs/abstract_mohamed_ibrahim_src2018.pdf our poster]
 at the [https://www.microarch.org/micro51/SRC/ ACM SRC competition] to 
-be held at [https://www.microarch.org/micro51/ MICRO 2018]. 
+be held at [https://www.microarch.org/micro51/ MICRO'18]. [http://www.cs.wm.edu/~hyliu/ Hongyuan Liu]
+will be presenting [https://adwaitjog.github.io/docs/pdf/hotcoldap-micro18.pdf our recent MICRO'18 
+paper] on efficiently executing large-scale automata.
 
-- My students, [https://massemibrahim.github.io/ Mohamed Ibrahim] and 
+- [https://massemibrahim.github.io/ Mohamed Ibrahim] and 
 [https://woodun.github.io/ Haonan Wang], are back from summer internships
 at AMD Research and Pacific Northwest National Laboratory (PNNL), 
 respectively. [http://www.cs.wm.edu/~gakadam/ 
 Gurunath Kadam] is currently doing a co-op at Intel Labs this Fall. 
 
-- Two papers accepted at [https://www.microarch.org/micro51/ MICRO 2018]. These 
+- Two papers accepted at [https://www.microarch.org/micro51/ MICRO'18]. These 
 two papers cover two different topics: a) architectural support for efficient 
 large-scale automata processing, and b) practical GPU reliability analysis. 
 Congratulations to my students and collaborators.
