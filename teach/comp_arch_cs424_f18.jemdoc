@@ -16,7 +16,7 @@
 the [https://www.wm.edu/offices/registrar/documents/calendars/2018_2019ugcal.pdf UG calender] 
 for more details.
 
-- Exam Dates: Oct 10th (Midterm Exam, in-class) and Dec 11 (Final Exam, 9:00 to noon 
+- Exam Dates: Oct 17th (Midterm Exam, in-class) and Dec 11 (Final Exam, 9:00 to noon 
 in our regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall18exam/index.php Fall 2018 Final Exam Schedule] for more details.)
 
 #- *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
@@ -228,11 +228,11 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 10 &nbsp;</td>
-  <td valign=top> -- &nbsp;</td>
+  <td valign=top> Quiz/HW Review &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> <font color="red"> In-class Midterm Exam </font> &nbsp;</td>
+  <td valign=top> Instructor on travel &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -246,16 +246,16 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 17 &nbsp;</td>
-  <td valign=top> Pipelining and Hazards &nbsp;</td>
+  <td valign=top> -- &nbsp;</td>
   <td valign=top> Chapter 4.4 -- 4.7 &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> Mid-term Analysis &nbsp;</td>
+  <td valign=top> <font color="red"> In-class Midterm Exam </font> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 9 &nbsp;</td>
   <td valign=top> Oct 22 &nbsp;</td>
-  <td valign=top> Simple-scalar (1) &nbsp;</td>
+  <td valign=top> Intro to Simple-scalar (1) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -263,11 +263,28 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 24 &nbsp;</td>
-  <td valign=top> Simple-scalar (2) &nbsp;</td>
+  <td valign=top> Intro to Simple-scalar (2) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> Instructor on Travel. &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 10 &nbsp;</td>
+  <td valign=top> Oct 29 &nbsp;</td>
+  <td valign=top> Pipelining and Hazards &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> </font> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Oct 31 &nbsp;</td>
+  <td valign=top> Pipelining and Hazards &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   </tr>
 </TABLE>
 
