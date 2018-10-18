@@ -7,8 +7,8 @@ Dmitry Evtyushkin (Sep 21) - Host: Dmitry Evtyushkin
 XX (Sep 28) -- NOP
 Matthias Zwicker  (Oct 5) - Host: Pieter Peers
 Lydia Kavraki (Oct 12 -- distinguished) — Host: Evgenia Smirni
-Kevin Moran (Oct 19) - Host: Denys Poshyvanyk
-XX (Oct 26)
+XX (Oct 19) -- Homecoming
+Kevin Moran (Oct 26) - Host: Denys Poshyvanyk
 Changhee Jung (Nov 2) - Host: Xu Liu
 Sreepathi Pai (Nov 9) - Host: Adwait Jog
 XX (Nov 16)
