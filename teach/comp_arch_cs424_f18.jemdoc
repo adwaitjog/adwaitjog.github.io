@@ -272,7 +272,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 10 &nbsp;</td>
   <td valign=top> Oct 29 &nbsp;</td>
-  <td valign=top> Pipelining and Hazards &nbsp;</td>
+  <td valign=top> Intro to Branch Prediction &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -280,11 +280,11 @@ Browse through the simulator-software and documentation to familiarize yourself 
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 31 &nbsp;</td>
-  <td valign=top> Pipelining and Hazards &nbsp;</td>
+  <td valign=top> Caches &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> HW5 out &nbsp;</td>
-  <td valign=top> Quiz 5 out &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   </tr>
 </TABLE>
 
