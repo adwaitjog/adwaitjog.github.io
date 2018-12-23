@@ -38,18 +38,12 @@ Ideally performed in groups of 2. Regular meetings are expected with the instruc
 progress can be made. We will have three project presentations during the entire semester: 
 proposal, mid-term presentation, and final presentation. Also, a final project report will be 
 due in the finals week. If you perform the project in a group, briefly describe your 
-individual contributions to the project in the submission document.
+individual contributions to the project in the submission document. The instructor has a 
+list of possible projects. Please discuss with the instructor.
 
 == Final Exam
 It will be comprehensive and will cover all the material covered until the end 
 of the semester. The final exam is scheduled by W&M and the date will be announced soon.
-
-== Piazza
-We will be using Piazza as an on-line forum for discussions. You will also receive
-notifications from the instructor via Piazza.
-The Piazza website for our course is [https://piazza.com/class/jq0odr3c8qm12m here]. 
-The [https://piazza.com/wm/spring2019/csci674/resources resource] section of the 
-website will contain most of the material related to this course. 
 
 == Class Schedule (in-progress)
 ~~~
@@ -89,6 +83,13 @@ website will contain most of the material related to this course.
 </center>
 ~~~
 
+== Piazza (Discussion Forum)
+We will be using Piazza as an on-line forum for discussions. You will also receive
+notifications from the instructor via Piazza.
+The Piazza website for our course is [https://piazza.com/class/jq0odr3c8qm12m here]. 
+The [https://piazza.com/wm/spring2019/csci674/resources resource] section of this 
+Piazza website will contain most of the material related to this course. 
+
 == Readings (Books and Other Resources)
 There is no required book for this course, however, you might find the following reference material useful.
 - [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
@@ -100,9 +101,6 @@ D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on 
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
 - [http://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
-
-== Possible Areas for Semester-long Research Projects
-- The instructor has a list of possible projects. Please discuss with the instructor.
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
