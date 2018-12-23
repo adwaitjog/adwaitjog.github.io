@@ -1,0 +1,111 @@
+
+== GPU Architectures, Spring 2019, CSCI 674 
+
+== General Information
+- Time and Location: Tuesday/Thursday 2:00PM-3:20PM, Washington Hall 307
+- Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
+- Office hours: By appointment, McGl 111
+- Email: ajog@wm.edu 
+- Deadlines: Jan 26 (add/drop deadline) and Mar 16 (withdraw deadline)
+
+== Prerequisites
+Students are expected to have a good understanding of the basic
+computer organization and design (i.e., comparable to the material 
+covered by CSCI 424/524). Please talk to the instructor if you do 
+not satisfy this requirement. 
+
+== Course Description
+This course provides an in-depth understanding of the micro-architectural and 
+architectural details of a general-purpose graphics processing unit (GPU). A range of 
+top-tier architecture conference and journal papers are discussed to understand the 
+important research issues associated with the GPU architectures. Students will be tested 
+via various assignments and a written examination. In addition, students will also be 
+required to complete a semester-long research project.
+
+== Grade Distribution
+- Homeworks (including Paper Critiques): 40%
+- Semester-long Research Project: 40%
+- Final Exam: 20%
+
+== Homeworks
+Homeworks are due in hard copy before the deadline. Submit it to the instructor at the beginning
+of the class. Homeworks will test analytical, coding, and simulation skills. Homeworks need 
+to be done individually but one can collaborate with one more student enrolled in this class.
+
+== Semester-long Research Project
+It will test your capabilities of doing architecture research. Ideally performed in 
+groups of 2. Regular meetings are expected with the instructor so that progress can 
+be made. We will have three project presentations during the entire semester: proposal,
+mid-term report, and final presentation. Also, a final project report will be due in the 
+finals week.
+
+== Final Exam
+It will be comprehensive and will cover material covered until the end 
+of the semester. The final exam is scheduled by W&M.
+
+== Areas for Oral Presentations and Semester-long Research Projects
+- GPU Core Design
+- GPU Warp Scheduler Design
+- GPU Thread block Scheduler Design
+- GPU Cache Design
+- GPU Memory System Design (incl. emerging memory technology design)
+- GPU Processing-in-Memory
+- GPU Interconnect Design
+- GPU Reliability
+- GPU Security
+- Multi-GPU systems
+- Multi-context GPU Architecture
+- Mobile GPU Architecture
+- Approximate GPU Architecture
+- Heterogeneous GPU platforms that incorporate GPUs
+
+== Class Schedule (in-progress)
+~~~
+{}{raw}
+<center>
+
+<TABLE cellspacing=5 cellpadding=5 border=2>
+  <tr><th>Week</th>
+  <th>Date</th>
+  <th>Agenda</th>
+  <th>Assignment</th>
+  <th>Notes</th>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top>Week 1 &nbsp;</td>
+  <td valign=top> Jan 18th &nbsp;</td>
+  <td valign=top> Administrativia and Introductions &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top> First Day of class. &nbsp;</td>
+  </tr>
+
+</TABLE>
+
+</center>
+~~~
+
+== Readings (Books and Other Resources)
+- [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
+D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
+- [https://docs.nvidia.com/cuda/cuda-c-programming-guide/ NVIDIA CUDA C Programming Guide]
+
+== Useful Simulators and Tools
+- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
+- [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
+- [http://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+
+== Academic Accommodations
+It is the policy of The College of William and Mary to accommodate 
+students with disabilities and qualifying diagnosed conditions in 
+accordance with federal and state laws. Any student who feels s/he may 
+need an accommodation based on the impact of a learning, psychiatric, 
+physical, or chronic health diagnosis should contact Student 
+Accessibility Services staff at 757-221-2509 or at sas@wm.edu to 
+determine if accommodations are warranted and to obtain an 
+official letter of accommodation. For more information, please 
+click [http://www.wm.edu/sas here].
+
+== Honor Code
+Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+
