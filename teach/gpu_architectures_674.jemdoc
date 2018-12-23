@@ -31,19 +31,21 @@ required to complete a semester-long research project.
 Homeworks are due in hard copy before the deadline. Submit it to the instructor at the beginning
 of the class. Homeworks will test analytical, coding, and simulation skills. Homeworks need 
 to be done individually but one can collaborate with one more student enrolled in this class.
+If you do so, please mention the name of the collaborator in the submission document. 
 
 == Semester-long Research Project
-It will test your capabilities of doing architecture research. Ideally performed in 
-groups of 2. Regular meetings are expected with the instructor so that progress can 
-be made. We will have three project presentations during the entire semester: proposal,
-mid-term report, and final presentation. Also, a final project report will be due in the 
-finals week.
+It will test your capabilities of doing research in the area of computer architecture. 
+Ideally performed in groups of 2. Regular meetings are expected with the instructor so that 
+progress can be made. We will have three project presentations during the entire semester: 
+proposal, mid-term report, and final presentation. Also, a final project report will be due 
+in the finals week. If you perform the project in a group, do mention your individual contributions
+in the submission document.
 
 == Final Exam
-It will be comprehensive and will cover material covered until the end 
-of the semester. The final exam is scheduled by W&M.
+It will be comprehensive and will cover all the material covered until the end 
+of the semester. The final exam is scheduled by W&M and the date will be announced soon.
 
-== Areas for Oral Presentations and Semester-long Research Projects
+== Possible Areas for Semester-long Research Projects
 - GPU Core Design
 - GPU Warp Scheduler Design
 - GPU Thread block Scheduler Design
@@ -58,6 +60,8 @@ of the semester. The final exam is scheduled by W&M.
 - Mobile GPU Architecture
 - Approximate GPU Architecture
 - Heterogeneous GPU platforms that incorporate GPUs
+- Use of Machine Learning for GPU design
+- Use of GPUs for efficient deep learning
 
 == Class Schedule (in-progress)
 ~~~
@@ -72,13 +76,26 @@ of the semester. The final exam is scheduled by W&M.
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
-  <td valign=top>Week 1 &nbsp;</td>
-  <td valign=top> Jan 18th &nbsp;</td>
+  <td valign=top> Week 1 &nbsp;</td>
+  <td valign=top> Jan 17th &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top> First Day of class. &nbsp;</td>
   </tr>
-
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 2 &nbsp;</td>
+  <td valign=top> Jan 22 &nbsp;</td>
+  <td valign=top> Introduction, Abstractions, and Technology &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Jan 24 &nbsp;</td>
+  <td valign=top>  Introduction, Abstractions, and Technology  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
 </TABLE>
 
 </center>
