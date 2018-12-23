@@ -1,7 +1,8 @@
 CC=jemdoc
 
 teach:
+	$(CC) teach/*.jemdoc; $(CC) -c mysite.conf index.jemdoc
+index:
 	$(CC) *.jemdoc; $(CC) -c mysite.conf index.jemdoc
-
 all:
-	$(CC) *.jemdoc; cd teach; $(CC) *.jemdoc; cd -; $(CC) -c mysite.conf index.jemdoc
+	$(CC) *.jemdoc; $(CC) teach/*.jemdoc; $(CC) -c mysite.conf index.jemdoc
