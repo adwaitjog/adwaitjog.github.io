@@ -90,6 +90,7 @@ website will contain most of the material related to this course.
 ~~~
 
 == Readings (Books and Other Resources)
+There is no required book for this course, however, you might find the following reference material useful.
 - [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
 D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
 - [https://docs.nvidia.com/cuda/cuda-c-programming-guide/ NVIDIA CUDA C Programming Guide]
