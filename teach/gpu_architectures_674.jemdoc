@@ -22,24 +22,30 @@ via various assignments and a written examination. In addition, students will al
 required to complete a semester-long research project.
 
 == Grade Distribution
-- Homeworks: 40%
+- Homeworks (around 8): 40%
 - Semester-long Research Project: 40%
 - Final Exam: 20%
 
 == Homeworks
-Homeworks are due in hard copy before the deadline. Submit it to the instructor at the beginning
-of the class. Homeworks will test analytical, coding, and simulation skills. Homeworks need 
-to be done individually but one can collaborate with one more student enrolled in this 
-class. If you do so, please mention the name of the collaborator in the submission document. 
+Homeworks are due in hard copy on the specified date. Submit it to the instructor at the 
+beginning of the class. Homeworks will test analytical, coding, and simulation skills. 
+Ideally performed in groups of 2. If you do the homework in a group, briefly describe 
+your individual contributions to the homework in the submission document. 
 
 == Semester-long Research Project
-It will give you a taste of computer architecture research. 
-Ideally performed in groups of 2. Regular meetings are expected with the instructor so that 
-progress can be made. We will have three project presentations during the entire semester: 
-proposal, mid-term presentation, and final presentation. Also, a final project report will be 
-due in the finals week. If you perform the project in a group, briefly describe your 
-individual contributions to the project in the submission document. The instructor has a 
-list of possible projects. Please discuss with the instructor.
+- It will give you a taste of computer architecture research. The instructor has 
+a list of possible projects. Please discuss with the instructor to decide on the 
+project. Regular meetings are expected with the instructor so that progress can 
+be made. 
+
+- We will have three project presentations 
+during the entire semester: proposal (5 percent), mid-term presentation 
+(10 percent), and final presentation (+ final project report due in the 
+finals week) (25 percent).
+
+- Project ideally performed in groups of 2. If you perform the project in a 
+group, briefly describe your individual contributions to the project in the 
+presentation and final report. 
 
 == Final Exam
 It will be comprehensive and will cover all the material covered until the end 
@@ -91,6 +97,14 @@ notifications from the instructor via Piazza.
 The Piazza website for our course is [https://piazza.com/class/jq0odr3c8qm12m here]. 
 The [https://piazza.com/wm/spring2019/csci674/resources resource] section of this 
 Piazza website will contain most of the material related to this course. 
+
+== Infrastructure
+- Access to a GPU is required to test and execute your CUDA programs. It is needed for homeworks.
+bg9 machine has two GPUs attached to it. Sciclone cluster also has several GPUs.
+
+- Access to a computer with remote access to a lab machine (bg machines mostly) is necessary 
+for simulation-based assignments. We will use GPGPU-Sim – A GPU simulator
+
 
 == Readings (Books and Other Resources)
 There is no required book for this course, however, you might find the following reference material useful.

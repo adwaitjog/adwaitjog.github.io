@@ -1,4 +1,20 @@
 
+@inproceedings{hotcoldap-micro18,
+ author = {Hongyuan Liu and Mohamed Ibrahim and Onur Kayiran and Sreepathi Pai and Adwait Jog},
+ title = {{Architectural Support for Efficient Large-Scale Automata Processing}},
+ booktitle = {MICRO},
+ Fukuoka, Japan},
+ year  = {2018},
+}
+
+@inproceedings{pruning-micro18,
+ author = {Bin Nie and Lishan Yang and Evgenia Smirni and Adwait Jog},
+ title = {{Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications}},
+ booktitle = {MICRO},
+ Fukuoka, Japan},
+ year  = {2018},
+}
+
 @inproceedings{mask-asplos18,
  author = {Rachata Ausavarungnirun and Vance Miller and Joshua Landgraf and
  Saugata Ghose and Jayneel Gandhi and Adwait Jog and Christopher J. Rossbach
