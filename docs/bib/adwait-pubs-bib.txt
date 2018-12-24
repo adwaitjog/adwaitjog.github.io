@@ -3,7 +3,6 @@
  author = {Hongyuan Liu and Mohamed Ibrahim and Onur Kayiran and Sreepathi Pai and Adwait Jog},
  title = {{Architectural Support for Efficient Large-Scale Automata Processing}},
  booktitle = {MICRO},
- Fukuoka, Japan},
  year  = {2018},
 }
 
@@ -11,7 +10,6 @@
  author = {Bin Nie and Lishan Yang and Evgenia Smirni and Adwait Jog},
  title = {{Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications}},
  booktitle = {MICRO},
- Fukuoka, Japan},
  year  = {2018},
 }
 
