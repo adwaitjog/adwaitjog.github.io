@@ -96,15 +96,16 @@ We will be using Piazza as an on-line forum for discussions. You will also recei
 notifications from the instructor via Piazza.
 The Piazza website for our course is [https://piazza.com/class/jq0odr3c8qm12m here]. 
 The [https://piazza.com/wm/spring2019/csci674/resources resource] section of this 
-Piazza website will contain most of the material related to this course. 
+The Piazza website will contain most of the material related to this course. 
 
 == Infrastructure
-- Access to a GPU is required to test and execute your CUDA programs. It is needed for homeworks.
+- Access to a GPU is required to test and execute your CUDA programs. 
+It is needed for homeworks and perhaps also for the project.
 bg9 machine has two GPUs attached to it. Sciclone cluster also has several GPUs.
 
 - Access to a computer with remote access to a lab machine (bg machines mostly) is necessary 
-for simulation-based assignments. We will use GPGPU-Sim – A GPU simulator
-
+for simulation-based assignments. We will use GPGPU-Sim – A GPU simulator, which is already
+installed on the bg machines and instructions will be provided to run it on your end. 
 
 == Readings (Books and Other Resources)
 There is no required book for this course, however, you might find the following reference material useful.
