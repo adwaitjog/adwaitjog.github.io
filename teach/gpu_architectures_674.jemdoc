@@ -109,9 +109,11 @@ installed on the bg machines and instructions will be provided to run it on your
 
 == Readings (Books and Other Resources)
 There is no required book for this course, however, you might find the following reference material useful.
+- Patterson and Hennesy, Computer Organization and Design, 5th Edition, Appendix C-2 on GPUs
 - [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
 D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
 - [https://docs.nvidia.com/cuda/cuda-c-programming-guide/ NVIDIA CUDA C Programming Guide]
+- Aamodt, Fung, Rogers, “General-Purpose Graphics Processing Architectures” – Morgan and Claypool Publishers, 1st Edition
 
 == Useful Simulators and Tools
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
