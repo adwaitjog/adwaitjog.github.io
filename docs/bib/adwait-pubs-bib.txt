@@ -7,7 +7,7 @@
 }
 
 @inproceedings{pruning-micro18,
- author = {Bin Nie and Lishan Yang and Evgenia Smirni and Adwait Jog},
+ author = {Bin Nie and Lishan Yang and Adwait Jog and Evgenia Smirni},
  title = {{Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications}},
  booktitle = {MICRO},
  year  = {2018},
