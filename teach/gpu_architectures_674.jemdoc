@@ -89,13 +89,26 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 3 &nbsp;</td>
   <td valign=top> Jan 29 &nbsp;</td>
-  <td valign=top> Intro to Comp Arch &nbsp;</td>
+  <td valign=top> Intro to Comp Arch (ISA, Pipelining) &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Jan 31 &nbsp;</td>
-  <td valign=top>  Intro to Comp Arch  &nbsp;</td>
+  <td valign=top>  Intro to Comp Arch (ISA, Pipelining)  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 4 &nbsp;</td>
+  <td valign=top> Feb 5 &nbsp;</td>
+  <td valign=top> Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top>  Feb 7 &nbsp;</td>
+  <td valign=top>  Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
