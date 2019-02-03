@@ -62,14 +62,12 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <tr><th>Week</th>
   <th>Date</th>
   <th>Agenda</th>
-  <th>Assignment</th>
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Week 1 &nbsp;</td>
   <td valign=top> Jan 17 &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   <td valign=top> First Day of class. &nbsp;</td>
   </tr>
   </tr>
@@ -78,12 +76,10 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <td valign=top> Jan 22 &nbsp;</td>
   <td valign=top> Introduction, Abstractions, and Technology &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Jan 24 &nbsp;</td>
   <td valign=top>  Introduction, Abstractions, and Technology  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -91,12 +87,10 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <td valign=top> Jan 29 &nbsp;</td>
   <td valign=top> Intro to Comp Arch (ISA, Pipelining) &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Jan 31 &nbsp;</td>
   <td valign=top>  Intro to Comp Arch (ISA, Pipelining)  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -104,12 +98,10 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <td valign=top> Feb 5 &nbsp;</td>
   <td valign=top> Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Feb 7 &nbsp;</td>
   <td valign=top>  Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
 </TABLE>
