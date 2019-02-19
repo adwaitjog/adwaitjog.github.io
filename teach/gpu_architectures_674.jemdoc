@@ -104,6 +104,39 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <td valign=top>  Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 5 &nbsp;</td>
+  <td valign=top> Feb 5 &nbsp;</td>
+  <td valign=top> Intro to CUDA Programming &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top>  Feb 7 &nbsp;</td>
+  <td valign=top>  Intro to CUDA Programming &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 6 &nbsp;</td>
+  <td valign=top> Feb 12 &nbsp;</td>
+  <td valign=top> Code-Hardware Mapping &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top>  Feb 14 &nbsp;</td>
+  <td valign=top>  CPU-GPU bottleneck &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 7 &nbsp;</td>
+  <td valign=top> Feb 19 &nbsp;</td>
+  <td valign=top> GPU Memory Hierarchy (1) &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top>  Feb 21 &nbsp;</td>
+  <td valign=top>  GPU Memory Hierarchy (2) &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
 </TABLE>
 
 </center>
@@ -119,7 +152,7 @@ The Piazza website will contain most of the material related to this course.
 == Infrastructure
 - Access to a GPU is required to test and execute your CUDA programs. 
 It is needed for homeworks and perhaps also for the project.
-bg9 machine has two GPUs attached to it. Sciclone cluster also has several GPUs.
+bg machines have several GPUs attached to it. Sciclone cluster also has several GPUs.
 
 - Access to a computer with remote access to a lab machine (bg machines mostly) is necessary 
 for simulation-based assignments. We will use GPGPU-Sim – A GPU simulator, which is already
