@@ -62,80 +62,66 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <tr><th>Week</th>
   <th>Date</th>
   <th>Agenda</th>
-  <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Week 1 &nbsp;</td>
   <td valign=top> Jan 17 &nbsp;</td>
   <td valign=top> Administrativia and Introductions &nbsp;</td>
-  <td valign=top> First Day of class. &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 2 &nbsp;</td>
   <td valign=top> Jan 22 &nbsp;</td>
   <td valign=top> Introduction, Abstractions, and Technology &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Jan 24 &nbsp;</td>
   <td valign=top>  Introduction, Abstractions, and Technology  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 3 &nbsp;</td>
   <td valign=top> Jan 29 &nbsp;</td>
   <td valign=top> Intro to Comp Arch (ISA, Pipelining) &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Jan 31 &nbsp;</td>
   <td valign=top>  Intro to Comp Arch (ISA, Pipelining)  &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 4 &nbsp;</td>
   <td valign=top> Feb 5 &nbsp;</td>
   <td valign=top> Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Feb 7 &nbsp;</td>
   <td valign=top>  Intro to Comp Arch (Memory Hierarchy) &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 5 &nbsp;</td>
   <td valign=top> Feb 5 &nbsp;</td>
   <td valign=top> Intro to CUDA Programming &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Feb 7 &nbsp;</td>
   <td valign=top>  Intro to CUDA Programming &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 6 &nbsp;</td>
   <td valign=top> Feb 12 &nbsp;</td>
   <td valign=top> Code-Hardware Mapping &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Feb 14 &nbsp;</td>
   <td valign=top>  CPU-GPU bottleneck &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 7 &nbsp;</td>
   <td valign=top> Feb 19 &nbsp;</td>
   <td valign=top> GPU Memory Hierarchy (1) &nbsp;</td>
-  <td valign=top> &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Feb 21 &nbsp;</td>
   <td valign=top>  GPU Memory Hierarchy (2) &nbsp;</td>
-  <td valign=top>  &nbsp;</td>
   </tr>
 </TABLE>
 
