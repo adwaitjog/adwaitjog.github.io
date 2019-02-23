@@ -117,11 +117,20 @@ as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedule
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 7 &nbsp;</td>
   <td valign=top> Feb 19 &nbsp;</td>
-  <td valign=top> GPU Memory Hierarchy (1) &nbsp;</td>
+  <td valign=top>  Memory Coalescing (1) &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top>  Feb 21 &nbsp;</td>
-  <td valign=top>  GPU Memory Hierarchy (2) &nbsp;</td>
+  <td valign=top>  Memory Coalescing (2) &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 8 &nbsp;</td>
+  <td valign=top> Feb 26 &nbsp;</td>
+  <td valign=top>  Project Proposal Presentations &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top>  Feb 28 &nbsp;</td>
+  <td valign=top>  Shared Memory &nbsp;</td>
   </tr>
 </TABLE>
 
