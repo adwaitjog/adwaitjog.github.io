@@ -61,16 +61,10 @@ be held at [https://www.microarch.org/micro51/ MICRO'18]. [http://www.cs.wm.edu/
 will be presenting [https://adwaitjog.github.io/docs/pdf/hotcoldap-micro18.pdf our recent MICRO'18 
 paper] on efficiently executing large-scale automata.
 
-- [https://massemibrahim.github.io/ Mohamed Ibrahim] and 
-[https://woodun.github.io/ Haonan Wang] are back in the lab from summer internships 
-at AMD Research and Pacific Northwest National Laboratory (PNNL), 
-respectively. [http://www.cs.wm.edu/~gakadam/ 
-Gurunath Kadam] will be completing a co-op at Intel Labs this Fall. 
-
 - Two papers accepted at [https://www.microarch.org/micro51/ MICRO'18]. These 
 two papers cover two different topics: a) architectural support for efficient 
 large-scale automata processing, and b) practical GPU reliability analysis. 
-Congratulations to my students and collaborators.
+Congratulations to my students and collaborators. 
 
 == Research Funding
 My [https://insight-archlab.github.io research group] is currently supported by the following research grants:
