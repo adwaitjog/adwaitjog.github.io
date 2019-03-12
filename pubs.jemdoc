@@ -24,6 +24,13 @@
 
 +My advisee+~~~~~~~_W&M Student_
 
+=== 2019
+*\<span style=\"color: forestgreen\"\>(SIGMETRICS 2019)\<\/span\>* \n
+Xulong Tang, Ashutosh Pattnaik, Onur Kayiran, *Adwait Jog*, Mahmut Taylan Kandemir, Chita Das \n
+[coming.html /Quantifying Data Locality in Dynamic Parallelism in GPUs./], \n
+In Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal)
+(Acceptance rate: ≈ 20%) \n
+
 === 2018
 *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>*
 \[[docs/pdf/hotcoldap-micro18.pdf PDF]]
