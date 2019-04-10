@@ -51,24 +51,16 @@ My [https://insight-archlab.github.io research group] is currently supported by 
 - [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017]. Thanks NSF!
 - NVIDIA Equipment Donation. Thanks NVIDIA!
 
-== Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
+== Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
+- *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [coming.html /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2019)\<\/span\>* [coming.html /Opportunistic Computing in GPU Architectures/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2019)\<\/span\>* [coming.html /Quantifying Data Locality in Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/hotcoldap-micro18.pdf /Architectural Support for Efficient Large-Scale Automata Processing/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/pruning-micro18.pdf /Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
-- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
-- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
-- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
-- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
-- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
-- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
-- *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
+
 
 == Currently Teaching ([https://adwaitjog.github.io/teaching.html complete list])
 - I am teaching [https://adwaitjog.github.io/teach/gpu_architectures_674.html CSCI 674, 
