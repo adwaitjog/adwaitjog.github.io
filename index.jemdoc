@@ -32,7 +32,6 @@
 ==== ~~~{{<a href="https://twitter.com/adwaitjog/with_replies" class="twitter-follow-button" data-show-count="false">Twitter handle: @adwaitjog</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}} \n
 ~~~
 
-
 == About
 I am an assistant professor in the Department of Computer Science
 at [http://goo.gl/JP9omL College of William & Mary (W&M)] in Virginia, USA. At W&M, I 
@@ -44,27 +43,6 @@ more energy-efficient, capable, reliable, and secure. \n
 talented students to join my lab. We have several funded RA positions. \<\/span\>* 
 Send me a /brief email/ to start the conversation. All graduate admissions are 
 formally managed by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
-
-== Recent News
-- I am co-chairing (with Onur Kayiran) the 
-[https://insight-archlab.github.io/gpgpu.html 12th Workshop on General Purpose Processing Using GPU (GPGPU 2019)] to be held in conjunction with [https://asplos-conference.org/ ASPLOS 2019].
-
-- I am invited to serve on the [https://www.microarch.org/micro52/index.html MICRO 2019],
-[https://www.sigmetrics.org/sigmetrics2019/ Sigmetrics 2019], [https://www.iccd-conf.com/Home.html ICCD 2019], 
-and [http://www.hpdc.org/ HPDC 2019] program committees, and [http://hpca2019.seas.gwu.edu/ HPCA 2019] 
-external program committee. Submit your best work!
-
-- [https://massemibrahim.github.io/ Mohamed Ibrahim] will be 
-presenting [https://massemibrahim.github.io/Documents/PDFs/abstract_mohamed_ibrahim_src2018.pdf our poster]
-at the [https://www.microarch.org/micro51/SRC/ ACM SRC competition] to 
-be held at [https://www.microarch.org/micro51/ MICRO'18]. [http://www.cs.wm.edu/~hyliu/ Hongyuan Liu]
-will be presenting [https://adwaitjog.github.io/docs/pdf/hotcoldap-micro18.pdf our recent MICRO'18 
-paper] on efficiently executing large-scale automata.
-
-- Two papers accepted at [https://www.microarch.org/micro51/ MICRO'18]. These 
-two papers cover two different topics: a) architectural support for efficient 
-large-scale automata processing, and b) practical GPU reliability analysis. 
-Congratulations to my students and collaborators. 
 
 == Research Funding
 My [https://insight-archlab.github.io research group] is currently supported by the following research grants:
@@ -92,19 +70,12 @@ My [https://insight-archlab.github.io research group] is currently supported by 
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
 - *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
 
-== Teaching ([https://adwaitjog.github.io/teaching.html complete list])
+== Currently Teaching ([https://adwaitjog.github.io/teaching.html complete list])
 - I am teaching [https://adwaitjog.github.io/teach/gpu_architectures_674.html CSCI 674, 
 GPU Architectures (graduate course)] in Spring 2019.
 
-== Program and Organization Committees ([https://adwaitjog.github.io/service.html complete list])
-- Publicity Chair, CGO 2019
-- Program Committees of MICRO 2019, Sigmetrics 2019, HPDC 2019, HPCA 2019 (ERC), ICCD 2019. Submit your best work!
-- Local Arrangements Chair, ASPLOS 2018
-
-== Outreach
-- Co-organized second version of the workshop on minimizing data movement ([https://insight-archlab.github.io/minmove.html Min-Move 2018]). It was co-located with [https://www.asplos2018.org/ ASPLOS 2018].The workshop was a great success.
-- Delivered a talk titled /Computer Science: Myths, Challenges, and Opportunties/ to high school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M. 
-- Co-organized a workshop on minimizing data movement ([https://insight-archlab.github.io/minmove17.html Min-Move 2017]) co-located with PACT 2017. The workshop was a great success.
-- Delivered as a talk on /Career Opportunities in CS/ to middle school students attending Focusing on the Future (FOF) conference organized by School of Education, W&M.
+== Recent Program and Organization Committees ([https://adwaitjog.github.io/service.html complete list])
+- Organization Committees: MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), GPGPU 2019 (Workshop co-chair)
+- Program Committees: MICRO 2019, SIGMETRICS 2019, ICCD 2019, HPDC 2019, HPCA 2019 (ERC). 
 
 
