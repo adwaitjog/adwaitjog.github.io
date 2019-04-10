@@ -44,13 +44,6 @@ talented students to join my lab. We have several funded RA positions. \<\/span\
 Send me a /brief email/ to start the conversation. All graduate admissions are 
 formally managed by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
 
-== Research Funding
-My [https://insight-archlab.github.io research group] is currently supported by the following research grants:
-- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018]. [https://www.wm.edu/as/computerscience/news/using_career_award_jog.php News in the Media.] Thanks NSF!
-- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017]. Thanks NSF!
-- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017]. Thanks NSF!
-- NVIDIA Equipment Donation. Thanks NVIDIA!
-
 == Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [coming.html /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
 - *\<span style=\"color: forestgreen\"\>(ISCA 2019)\<\/span\>* [coming.html /Opportunistic Computing in GPU Architectures/]
@@ -61,6 +54,12 @@ My [https://insight-archlab.github.io research group] is currently supported by 
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques/]
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
 
+== Research Funding
+My [https://insight-archlab.github.io research group] is currently supported by the following research grants:
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018]. [https://www.wm.edu/as/computerscience/news/using_career_award_jog.php News in the Media.] Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017]. Thanks NSF!
+- [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017]. Thanks NSF!
+- NVIDIA Equipment Donation. Thanks NVIDIA!
 
 == Currently Teaching ([https://adwaitjog.github.io/teaching.html complete list])
 - I am teaching [https://adwaitjog.github.io/teach/gpu_architectures_674.html CSCI 674, 
