@@ -33,10 +33,10 @@
 
 == About
 I am an assistant professor in the Department of Computer Science
-at [http://goo.gl/JP9omL College of William & Mary (W&M)] in Virginia, USA. At W&M, I 
-am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/]. Our
-goal is to generate insights, which would help in architecting future computers that are 
-more energy-efficient, capable, reliable, and secure. \n
+at [http://goo.gl/JP9omL College of William & Mary (W&M)] in Virginia, USA. At W&M, 
+I am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/]. 
+Our goal is to generate insights, which would help in architecting future computers that 
+are more energy-efficient, capable, reliable, and secure. \n
 
 *\<span style=\"color: red\"\> I am always looking for self-motivated 
 students to join my lab. We have several funded RA positions. \<\/span\>* 
@@ -62,8 +62,7 @@ My [https://insight-archlab.github.io research group] is currently supported by 
 - NVIDIA Equipment Donation. Thanks NVIDIA!
 
 == Currently Teaching ([https://adwaitjog.github.io/teaching.html complete list])
-- I am teaching [https://adwaitjog.github.io/teach/gpu_architectures_674.html CSCI 674, 
-GPU Architectures (graduate course)] in Spring 2019.
+- I will be teaching CSCI 424/524, Computer Architecture (undergraduate course) in Fall 2019.
 
 == Recent Organization and Program Committees ([https://adwaitjog.github.io/service.html complete list])
 - Organization Committees: MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), GPGPU 2019 (Workshop co-chair)
