@@ -34,9 +34,10 @@ In the Proceedings of 49th IEEE International Conference on Dependable Systems a
 (Acceptance rate: 54/252 ≈ 21%) \n
 
 === 
-*\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* \n
+*\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* 
+\[[docs/pdf/asap-ics19.pdf PDF]] \n
 +_Haonan Wang_+, +_Mohamed Ibrahim_+, Sparsh Mittal, *Adwait Jog* \n
-[coming.html /Address-Stride Assisted Approximate Value Prediction in GPUs/], \n
+[docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/], \n
 In the Proceedings of 33rd ACM International Conference on Super Computing (ICS), 
 Phoenix, Arizona, June 2019 \n
 (Acceptance rate: 45/193 ≈ 23%) \n

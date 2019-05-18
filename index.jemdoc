@@ -35,17 +35,17 @@
 I am an assistant professor in the Department of Computer Science
 at [http://goo.gl/JP9omL College of William & Mary (W&M)] in Virginia, USA. At W&M, 
 I am leading the [http://insight-archlab.github.io /Insight Computer Architecture Lab/]. 
-Our goal is to generate insights, which would help in architecting future computers that 
+Our goal is to generate insights necessary in order to architect future computers that 
 are more energy-efficient, capable, reliable, and secure. \n
 
 *\<span style=\"color: red\"\> I am always looking for self-motivated 
 students to join my lab. We have several funded RA positions. \<\/span\>* 
-Send me a /brief email/ to start the conversation. All graduate admissions are 
-formally managed by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
+Send me a /brief email/ with your CV to start the conversation. All graduate admissions 
+are formally managed by [http://www.wm.edu/as/computerscience/graduate/ W&M CS department].
 
 == Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
-- *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* [coming.html /Address-Stride Assisted Approximate Value Prediction in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(ISCA 2019)\<\/span\>* [coming.html /Opportunistic Computing in GPU Architectures/]
 - *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/2019_SIGMETRICS_2_Xulong.pdf /Quantifying Data Locality in Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/hotcoldap-micro18.pdf /Architectural Support for Efficient Large-Scale Automata Processing/]
@@ -66,6 +66,6 @@ My [https://insight-archlab.github.io research group] is currently supported by 
 
 == Recent Organization and Program Committees ([https://adwaitjog.github.io/service.html complete list])
 - Organization Committees: MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), GPGPU 2019 (Workshop co-chair)
-- Program Committees: MICRO 2019, SIGMETRICS 2019, ICCD 2019, HPDC 2019, HPCA 2019 (ERC), NAS 2019. 
+- Program Committees: HPCA 2020, MICRO 2019, SIGMETRICS 2019, ICCD 2019, HPDC 2019, HPCA 2019 (ERC), NAS 2019. 
 
 
