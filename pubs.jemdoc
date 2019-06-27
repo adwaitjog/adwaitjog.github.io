@@ -26,7 +26,8 @@
 
 === 2019
 *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* 
-\[[docs/pdf/lmc-dsn19.pdf PDF]] \n
+\[[docs/pdf/lmc-dsn19.pdf PDF]]
+\[[docs/pptx/LMC_DSN2019-Slides.pptx Talk (PPTX)]] \n
 +_Haonan Wang_+ and *Adwait Jog* \n
 [docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/], \n
 In the Proceedings of 49th IEEE International Conference on Dependable Systems and Networks
@@ -35,7 +36,8 @@ In the Proceedings of 49th IEEE International Conference on Dependable Systems a
 
 === 
 *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* 
-\[[docs/pdf/asap-ics19.pdf PDF]] \n
+\[[docs/pdf/asap-ics19.pdf PDF]] 
+\[[docs/pptx/ASAP_ICS2019-Slides.pptx Talk (PPTX)]] \n
 +_Haonan Wang_+, +_Mohamed Ibrahim_+, Sparsh Mittal, *Adwait Jog* \n
 [docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/], \n
 In the Proceedings of 33rd ACM International Conference on Super Computing (ICS), 
