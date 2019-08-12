@@ -36,7 +36,7 @@ and Compilation Techniques (PACT), Seattle, WA, September 2019
 *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* 
 \[[docs/pdf/lmc-dsn19.pdf PDF]]
 \[[docs/pptx/LMC_DSN2019-Slides.pptx Talk (PPTX)]] \n
-+_Haonan Wang_+ and *Adwait Jog* \n
++_Haonan Wang_+, *Adwait Jog* \n
 [docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/], \n
 In the Proceedings of 49th IEEE International Conference on Dependable Systems and Networks
 (DSN), Portland, OR, June 2019 \n
@@ -205,7 +205,7 @@ In the Proceedings of 42nd ACM International Conference on Measurement and Model
 
 === 
 *\<span style=\"color: forestgreen\"\>(Book Chapter)\<\/span\>* \n
-Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, and Onur Mutlu, \n
+Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, Onur Mutlu, \n
 [http://arxiv.org/abs/1602.01348 /A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps/], \n
 Book Chapter in Advances in GPU Research and Practice, Elsevier, to be published in 2016. 
 [https://www.elsevier.com/books/advances-in-gpu-research-and-practice/sarbazi-azad/978-0-12-803738-6 Elsevier Book Link (Chapter 15)] \n
