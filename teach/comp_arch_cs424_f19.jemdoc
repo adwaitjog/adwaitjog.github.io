@@ -25,16 +25,17 @@ Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303
 
 This course will introduce principles of computer design. The students will apply their 
 knowledge of digital logic design to understand the high-level interactions between different 
-computer system hardware components. Specifically, this course will cover various computer architecture aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, memory hierarchy, and multiprocessor architecture. 
+computer system hardware components. Specifically, this course will cover various computer architecture 
+aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, memory hierarchy, 
+and multiprocessor architecture. 
 
 == Textbook and Resources
 - *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
-- *Resources:* Some homeworks will have simulation component. 
-Access to a computer is necessary. See /Simulators/ section for more details.
+- *Resources:* Access to a computer is necessary. 
 - *Materials:* Lecture slides, homeworks, and other course materials will 
 be posted on [https://piazza.com/wm/fall2019/csci424524/home Piazza]. 
 Piazza will also be used for course announcements and discussions. We will
-use [https://blackboard.wm.edu/ Blackboard] for submitting homeworks.
+use [https://blackboard.wm.edu/ Blackboard] for online quizzes, submitting homeworks.
 - *Help:* It is important to start working on homeworks early. If you 
 need help, show up in the office hours or ask questions in or after the class. 
 You are also highly encouraged to use [https://piazza.com/wm/fall2019/csci424524/home piazza] 
@@ -42,14 +43,14 @@ to ask questions.
 
 == Grading
 - Homework Assignments (40%) 
-- In-class and Blackboard Quizzes (20%)
+- In-class and Online (Blackboard) Quizzes (20%)
 - Midterm Exam (20%)
 - Final Exam (20%)
 - Final letter grades will be given based on the standard scale 
 used in WM. Grades may be curved at the instructor's discretion.
-- If you have any grading-related questions regarding homeworks and quizzes, 
-please email the TA first (CC the instructor). If issues are not resolved, 
-then you can escalate the matter to the instructor. The instructor will make the final decision.
+- If you have any grading-related questions, please email the TA first (CC the instructor). 
+If issues are not resolved, then you can escalate the matter to the instructor. The instructor 
+will make the final decision.
 
 == Homework Assignments
 - Homework assignments should be submitted 
@@ -110,8 +111,8 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td valign=top> Administrativia and Introductions &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top>  Quiz 1 is out &nbsp;</td>
-  <td valign=top>  First Day of class. Turing Lecture: https://www.youtube.com/watch?v=3LVeEjsn8Ts &nbsp;</td>
+  <td valign=top>  Quiz 0 is out &nbsp;</td>
+  <td valign=top>  First Day of class. &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >

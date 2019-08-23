@@ -44,7 +44,7 @@ Send me a /brief email/ with your CV to start the conversation. All graduate adm
 are formally managed by the [http://www.wm.edu/as/computerscience/graduate/ Department of Computer Science].
 
 == Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* [coming.html /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/remote-core-pact19.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
 - *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(ISCA 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/ndc-isca19.pdf /Opportunistic Computing in GPU Architectures/]
