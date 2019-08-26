@@ -4,7 +4,7 @@
 - Time and Location: Monday/Wednesday 3:30pm-4:50PM, ISC Building, 2280
 
 - Instructor: *Adwait Jog* [https://adwaitjog.github.io (Personal Website)]
--- Office hours: TBD or by appointment, McGl 111
+-- Office hours:  Monday/Wednesday 2:00pm-3:30PM or by appointment, McGl 111
 -- Email: ajog@wm.edu
 
 - Teaching Assistant: TBD
@@ -26,8 +26,8 @@ Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303
 This course will introduce principles of computer design. The students will apply their 
 knowledge of digital logic design to understand the high-level interactions between different 
 computer system hardware components. Specifically, this course will cover various computer architecture 
-aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, memory hierarchy, 
-and multiprocessor architecture. 
+aspects related to MIPS ISA, single-cycle data-path design, multiple-cycle design, pipelining, 
+memory hierarchy, and multiprocessor architecture. 
 
 == Textbook and Resources
 - *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
