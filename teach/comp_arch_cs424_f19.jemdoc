@@ -116,7 +116,7 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <th>Agenda</th>
   <th>Readings</th>
   <th>HW</th>
-  <th>Quiz</th>
+  <th>Quiz/Activity</th>
   <th>Notes</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -143,8 +143,26 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td valign=top> Introduction, Abstractions, and Technology  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> HW 1 Out &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Activity 1 </td>
   <td valign=top> <font color="red">Sept 6 is the Add/drop deadline.</font> &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 3 &nbsp;</td>
+  <td valign=top> Sep 9 &nbsp;</td>
+  <td valign=top> MIPS ISA &nbsp;</td>
+  <td valign=top> Appendix A  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Sep 11 &nbsp;</td>
+  <td valign=top> MIPS ISA  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> HW 2 Out &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp;</td>
   </tr>
   </tr>
 </TABLE>
