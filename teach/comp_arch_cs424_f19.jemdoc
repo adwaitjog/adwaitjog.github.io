@@ -150,7 +150,7 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2">Week 3 &nbsp;</td>
   <td valign=top> Sep 9 &nbsp;</td>
-  <td valign=top> MIPS ISA &nbsp;</td>
+  <td valign=top> MIPS ISA (1) &nbsp;</td>
   <td valign=top> Appendix A  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> Activity 2 </td>
@@ -158,9 +158,27 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Sep 11 &nbsp;</td>
-  <td valign=top> MIPS ISA  &nbsp;</td>
+  <td valign=top> MIPS ISA (2)  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> HW 2 Out &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 4 &nbsp;</td>
+  <td valign=top> Sep 16 &nbsp;</td>
+  <td valign=top> MIPS ISA (3) &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Sep 18 &nbsp;</td>
+  <td valign=top> MIPS ISA (4)  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp; </td>
   <td valign=top> &nbsp;</td>
   </tr>
