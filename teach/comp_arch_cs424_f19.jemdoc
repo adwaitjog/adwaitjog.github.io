@@ -181,8 +181,98 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td valign=top> MIPS ISA (4)  &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp; </td>
+  <td valign=top> Activity 3 &nbsp; </td>
+  <td valign=top> Quiz 3 is Out </td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 5 &nbsp;</td>
+  <td valign=top> Sep 23 &nbsp;</td>
+  <td valign=top> MIPS ISA (5) &nbsp;</td>
   <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Sep 25 &nbsp;</td>
+  <td valign=top> MIPS ISA (6)  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp; </td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 6 &nbsp;</td>
+  <td valign=top> Sep 30 &nbsp;</td>
+  <td valign=top> MIPS Datapath (1) &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Oct 2 &nbsp;</td>
+  <td valign=top> MIPS Datapath (2)  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp; </td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 7 &nbsp;</td>
+  <td valign=top> Oct 7 &nbsp;</td>
+  <td valign=top> Single Cycle Design &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Oct 9 &nbsp;</td>
+  <td valign=top> Pipelining  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp; </td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 8 &nbsp;</td>
+  <td valign=top> Oct 14 &nbsp;</td>
+  <td valign=top> No Class &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> Fall Break &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Oct 16 &nbsp;</td>
+  <td valign=top> Pipelining and Mid-term Review  &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp; </td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2">Week 9 &nbsp;</td>
+  <td valign=top> Oct 21 &nbsp;</td>
+  <td valign=top> Midterm Exam &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Oct 23 &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp;</td>
+  <td valign=top> &nbsp; </td>
+  <td valign=top> &nbsp; </td>
   </tr>
   </tr>
 </TABLE>
