@@ -26,7 +26,8 @@
 
 === 2019
 *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* 
-\[[docs/pdf/remote-core-pact19.pdf PDF]] \n
+\[[docs/pdf/remote-core-pact19.pdf PDF]] 
+\[[docs/pptx/Remote_BW_PACT2019-Slides.pptx Talk (PPTX)]] \n
 +_Mohamed Assem Ibrahim_+, +_Hongyuan Liu_+, Onur Kayiran, *Adwait Jog* \n
 [docs/pdf/remote-core-pact19.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/], \n
 In the Proceedings of 28th International Conference on Parallel Architectures 
@@ -135,6 +136,7 @@ In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, J
 
 === 
 *\<span style=\"color: forestgreen \"\>(AIM@PACT 2017)\<\/span\>* 
+\[[docs/pdf/paper_hengyu_zhao_aim2017.pdf PDF]] \n
 Hengyu Zhao, +_Colin Weinshenker+_, +_Mohamed Ibrahim+_, *Adwait Jog*, Jishen Zhao \n
 /Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
 In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
