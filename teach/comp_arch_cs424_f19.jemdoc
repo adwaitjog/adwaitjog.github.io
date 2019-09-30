@@ -171,7 +171,7 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td rowspan="2">Week 4 &nbsp;</td>
   <td valign=top> Sep 16 &nbsp;</td>
   <td valign=top> MIPS ISA (3) &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Chapter 2 </td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -198,7 +198,7 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td valign=top> Sep 25 &nbsp;</td>
   <td valign=top> MIPS ISA (6)  &nbsp;</td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> HW 3 Out </td>
   <td valign=top> Activity 5 &nbsp; </td>
   <td valign=top> &nbsp; </td>
   </tr>
@@ -207,7 +207,7 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td rowspan="2">Week 6 &nbsp;</td>
   <td valign=top> Sep 30 &nbsp;</td>
   <td valign=top> MIPS Datapath (1) &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Appendix B.1 -- B.3 and B.7--B.9 </td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
@@ -215,9 +215,9 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Oct 2 &nbsp;</td>
   <td valign=top> MIPS Datapath (2)  &nbsp;</td>
+  <td valign=top> Chapter 4.1 -- 4.3 </td>
   <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp;</td>
-  <td valign=top> &nbsp; </td>
+  <td valign=top> HW 4 Out </td>
   <td valign=top> &nbsp; </td>
   </tr>
   </tr>
@@ -225,7 +225,7 @@ can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntr
   <td rowspan="2">Week 7 &nbsp;</td>
   <td valign=top> Oct 7 &nbsp;</td>
   <td valign=top> Single Cycle Design &nbsp;</td>
-  <td valign=top> &nbsp;</td>
+  <td valign=top> Chapter 4.4 -- 4.7 </td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
   <td valign=top> &nbsp;</td>
