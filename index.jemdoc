@@ -38,12 +38,19 @@ I am leading the [http://insight-archlab.github.io /Insight Computer Architectur
 Our goal is to generate insights necessary in order to architect future computers that 
 are more energy-efficient, capable, reliable, and secure. \n
 
+As per [http://csrankings.org/ CS Rankings], William & Mary ranks among /top 30/ 
+US universities in the area of computer architecture. This ranking is based on 
+publications at top venues (HPCA, MICRO, ASPLOS, ISCA) in the area of computer 
+architecture. \n
+
 *\<span style=\"color: red\"\> I am always looking for self-motivated 
 students to join my lab. We have several funded RA positions. \<\/span\>* 
-Send me a /brief/ email with your CV to start the conversation. 
-All graduate admissions are formally managed by the [http://www.wm.edu/as/computerscience/graduate/ Department of Computer Science].
+Send me a /brief/ email with your CV (with GRE/TOEFL scores) to start the 
+conversation. All graduate admissions are formally managed by 
+the [http://www.wm.edu/as/computerscience/graduate/ Department of Computer Science].
 
 == Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
+- *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* [coming.html /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/]
 - *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/remote-core-pact19.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
 - *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/]
@@ -68,7 +75,7 @@ My [https://insight-archlab.github.io research group] is supported by the follow
 == Recent Committees ([https://adwaitjog.github.io/service.html complete list])
 - Organization Committees: GPGPU 2020 (Workshop co-chair), MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), GPGPU 2019 (Workshop co-chair)
 - Program Committees: HPCA 2020, ISCA 2020 (ERC), ASPLOS 2020 (ERC), MICRO 2019, SIGMETRICS 2019, ICCD 2019, HPDC 2019, HPCA 2019 (ERC), NAS 2019. 
-- W&M Committees (2019-20): Graduate Admissions, Graduate Curriculum, CS Colloquiums, T.Jefferson
+- W&M Committees (2019-20): Faculty Hiring, Graduate Admissions, Graduate Curriculum, CS Colloquiums, T. Jefferson
 Prize in Natural Philosophy, Pre-major advising
 
 
