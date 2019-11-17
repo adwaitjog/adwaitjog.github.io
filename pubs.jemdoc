@@ -26,7 +26,7 @@
 
 === 2020
 *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* \n
-+_Gurunath Kadam+_, Danfeng Zhang, *Adwait Jog* \n
++_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
 [coming.html /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
 In the Proceedings of 26th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), San Diego, CA, Feb 2020  \n 
@@ -56,7 +56,7 @@ In the Proceedings of 49th IEEE International Conference on Dependable Systems a
 *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* 
 \[[docs/pdf/asap-ics19.pdf PDF]] 
 \[[docs/pptx/ASAP_ICS2019-Slides.pptx Talk (PPTX)]] \n
-+_Haonan Wang_+, +_Mohamed Ibrahim_+, Sparsh Mittal, *Adwait Jog* \n
++_Haonan Wang_+, +_Mohamed Assem Ibrahim_+, Sparsh Mittal, *Adwait Jog* \n
 [docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/], \n
 In the Proceedings of 33rd ACM International Conference on Super Computing (ICS), 
 Phoenix, Arizona, June 2019 \n
@@ -86,7 +86,7 @@ In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (
 \[[docs/pdf/hotcoldap-micro18-poster.pdf Poster (PDF)]] 
 \[[docs/pdf/summary-hotcold-ap-micro18.pdf 2-page Summary (PDF)]] 
 \[[https://www.youtube.com/watch?v=-kXyyXxe82Y&feature=youtu.be YouTube Trailer]] \n
-+_Hongyuan Liu_+, +_Mohamed Ibrahim_+, Onur Kayiran, Sreepathi Pai, *Adwait Jog*, \n
++_Hongyuan Liu_+, +_Mohamed Assem Ibrahim_+, Onur Kayiran, Sreepathi Pai, *Adwait Jog*, \n
 [docs/pdf/hotcoldap-micro18.pdf /Architectural Support for Efficient Large-Scale Automata Processing/], \n
 In the Proceedings of 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018 \n
 (Acceptance rate: 74/351 ≈ 21%) \n
@@ -117,7 +117,7 @@ and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018 \n
 \[[docs/pdf/pbs-hpca18.pdf PDF]]
 \[[docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
 \[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
-+_Haonan Wang_+, +_Fan Luo_+, +_Mohamed Ibrahim+_, Onur Kayiran, *Adwait Jog* \n
++_Haonan Wang_+, +_Fan Luo_+, +_Mohamed Assem Ibrahim_+, Onur Kayiran, *Adwait Jog* \n
 [docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
 (Acceptance rate: 54/260 ≈ 20%) \n
@@ -127,7 +127,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 \[[docs/pdf/rcoal-hpca18.pdf PDF]]
 \[[docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
 \[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
-+_Gurunath Kadam+_, Danfeng Zhang, *Adwait Jog* \n
++_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
 [docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
 Subwarp-based Randomized Coalescing Techniques/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance 
@@ -145,7 +145,7 @@ In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, J
 === 
 *\<span style=\"color: forestgreen \"\>(AIM@PACT 2017)\<\/span\>* 
 \[[docs/pdf/paper_hengyu_zhao_aim2017.pdf PDF]] \n
-Hengyu Zhao, +_Colin Weinshenker+_, +_Mohamed Ibrahim+_, *Adwait Jog*, Jishen Zhao \n
+Hengyu Zhao, +_Colin Weinshenker_+, +_Mohamed Assem Ibrahim_+, *Adwait Jog*, Jishen Zhao \n
 /Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
 In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
 
@@ -153,7 +153,7 @@ In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures 
 *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>*
 \[[docs/pdf/Controlled-DP-HPCA-2017.pdf PDF]]
 \[[coming.html Talk (PPTX)]] \n
-Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, *Adwait Jog*, Sreepathi Pai, +_Mohamed Ibrahim+_, Mahmut Kandemir, Chita Das, \n
+Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, *Adwait Jog*, Sreepathi Pai, +_Mohamed Assem Ibrahim_+, Mahmut Kandemir, Chita Das, \n
 [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/], \n
 In the Proceedings of 23rd IEEE Symposium on High Performance Computer Architecture (HPCA), Austin, TX, Feb 2017  \n
 (Acceptance rate: 50/224 ≈ 22%) \n
