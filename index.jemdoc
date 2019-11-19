@@ -50,6 +50,7 @@ formally apply to the [https://www.wm.edu/as/computerscience/graduate/admission/
 Ph.D. program at CS department].
 
 == Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
+- *\<span style=\"color: forestgreen\"\>(ASPLOS 2020)\<\/span\>* [coming.html /Why GPUs are Slow at Executing NFAs and How to Make them Faster/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* [coming.html /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/]
 - *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/remote-core-pact19.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
