@@ -25,6 +25,14 @@
 +My advisee+~~~~~~~_W&M Student_
 
 === 2020
+*\<span style=\"color: forestgreen\"\>(ASPLOS 2020)\<\/span\>* \n
++_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
+[coming.html /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
+In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
+and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n 
+(Acceptance rate: 86/479 ≈ 18%) \n
+
+=== 
 *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* \n
 +_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
 [coming.html /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
