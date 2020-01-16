@@ -1,0 +1,130 @@
+
+== GPU Architectures, Spring 2020, CSCI 674 
+
+== General Information
+- Time and Location: Tuesday/Thursday 11:00am-12:20pm, McGL 002
+- Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
+- Office hours: By appointment at McGl 111
+- Email: ajog@wm.edu 
+
+== Prerequisites
+Students are expected to have a good understanding of the basic
+computer organization and design (i.e., comparable to the material 
+covered by CSCI 424/524). Please talk to the instructor if you do 
+not satisfy this requirement. 
+
+== Course Description
+This course provides an in-depth understanding of the micro-architectural and 
+architectural details of a general-purpose graphics processing unit (GPU). A range of 
+top-tier architecture conference and journal papers are also discussed to understand the 
+important research issues associated with the GPU architectures. Students will be tested 
+via various assignments and a written examination. In addition, students will also be 
+required to complete a semester-long research project.
+
+== Grade Distribution
+- Homeworks: 40%
+- Research Project (Semester-long): 40%
+- Final Exam (In the finals week): 20%
+- Add-Drop Period Ends (January 31); Withdrawal period ends (March 23)
+
+== Homeworks
+Homeworks are due in hard copy on the specified date. Submit it to the instructor at the 
+beginning of the class. Homeworks will test analytical, coding, and simulation skills. 
+Can be performed in groups of 2. If you do the homework in a group, briefly describe 
+your individual contributions to the homework in the submission document. 
+
+== Semester-long Research Project
+- It will give you a taste of computer architecture research. 
+Please discuss with the instructor to decide on the 
+project. Regular meetings are expected with the instructor so that progress can 
+be made. 
+
+- We will have three project presentations 
+during the entire semester: proposal (5 percent), mid-term presentation 
+(10 percent), and final presentation (+ final project report due in the 
+finals week) (25 percent).
+
+- Can be performed in groups of 2. If you perform the project in a 
+group, briefly describe your individual contributions to the project in the 
+presentation and final report. 
+
+== Final Exam
+It will be comprehensive and will cover all the material covered until the end 
+of the semester. The final exam is scheduled by W&M and is on April 30 (9:00-12:00 noon) 
+as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedules/spring19exam/index.php website].
+
+
+== Class Schedule 
+~~~
+{}{raw}
+<center>
+
+<TABLE cellspacing=5 cellpadding=5 border=2>
+  <tr><th>Week</th>
+  <th>Date</th>
+  <th>Agenda</th>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Week 1 &nbsp;</td>
+  <td valign=top> Jan 24 &nbsp;</td>
+  <td valign=top> Administrativia and Introductions &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 2 &nbsp;</td>
+  <td valign=top> Jan 28 &nbsp;</td>
+  <td valign=top> Introduction, Abstractions, and Technology &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Jan 30 &nbsp;</td>
+  <td valign=top>  Introduction, Abstractions, and Technology  &nbsp;</td>
+  </tr>
+</TABLE>
+
+</center>
+~~~
+
+== Piazza (Discussion Forum)
+We will be using Piazza as an on-line forum for discussions. You will also receive
+notifications from the instructor via Piazza.
+The Piazza website for our course is [https://piazza.com/class/k5h5e9o6qpzv2 here]. 
+The [https://piazza.com/wm/spring2020/csci674/resources resource] section of this 
+The Piazza website will contain most of the material related to this course. 
+
+== Infrastructure
+- Access to a GPU is required to test and execute your CUDA programs. 
+It is needed for homeworks and perhaps also for the project.
+bg machines have several GPUs attached to it. Sciclone cluster also has several GPUs.
+
+- Access to a computer with remote access to a lab machine (bg machines mostly) is necessary 
+for simulation-based assignments. We will use GPGPU-Sim – A GPU simulator, which is already
+installed on the bg machines and instructions will be provided to run it on your end. 
+
+== Readings (Books and Other Resources)
+There is no required book for this course, however, you might find the following reference material useful.
+- Patterson and Hennesy, Computer Organization and Design, 5th Edition, Appendix C-2 on GPUs
+- [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
+D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
+- [https://docs.nvidia.com/cuda/cuda-c-programming-guide/ NVIDIA CUDA C Programming Guide]
+- Aamodt, Fung, Rogers, “General-Purpose Graphics Processing Architectures” – Morgan and Claypool Publishers, 1st Edition
+
+== Useful Simulators and Tools
+- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
+- [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
+- [http://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+
+== Academic Accommodations
+It is the policy of The College of William and Mary to accommodate 
+students with disabilities and qualifying diagnosed conditions in 
+accordance with federal and state laws. Any student who feels s/he may 
+need an accommodation based on the impact of a learning, psychiatric, 
+physical, or chronic health diagnosis should contact Student 
+Accessibility Services staff at 757-221-2509 or at sas@wm.edu to 
+determine if accommodations are warranted and to obtain an 
+official letter of accommodation. For more information, please 
+click [http://www.wm.edu/sas here].
+
+== Honor Code
+Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+
