@@ -8,7 +8,7 @@
             <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/talks.html">Talks</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/software.html">Software</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/software.html">Artifacts</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/misc.html">Misc.</a></li>
@@ -19,7 +19,7 @@
 ~~~
 
 {{<a name="Software"></a>}} 
-== Software and Downloads
+== Artifacts
 *\<span style=\"color: blue\"\>MAFIA: Multiple Application Framework for GPU Architectures\<\/span\>* 
 [https://github.com/adwaitjog/mafia (github)] \n
 MAFIA is developed for supporting multiple applications execution on GPUs. Currently, 
