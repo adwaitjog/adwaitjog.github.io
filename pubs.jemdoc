@@ -36,7 +36,7 @@ and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* 
-\[[docs/pdf/bcoal-hpca20.pdf PDF]] 
+\[[docs/pdf/bcoal-hpca20.pdf PDF]] \n
 +_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
 [coming.html /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
 In the Proceedings of 26th IEEE Symposium on High Performance 
