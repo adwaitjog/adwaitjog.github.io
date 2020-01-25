@@ -29,7 +29,7 @@
 \[[docs/pdf/nfagpu-asplos20.pdf PDF]] 
 \[[https://github.com/bigwater/gpunfa-artifact Artifact]] \n
 +_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
-[coming.html /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
+[docs/pdf/nfagpu-asplos20.pdf /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
 In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
 and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n 
 (Acceptance rate: 86/479 ≈ 18%) \n
@@ -38,7 +38,7 @@ and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n
 *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* 
 \[[docs/pdf/bcoal-hpca20.pdf PDF]] \n
 +_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
-[coming.html /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
+[docs/pdf/bcoal-hpca20.pdf /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
 In the Proceedings of 26th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), San Diego, CA, Feb 2020  \n 
 (Acceptance rate: 48/248 ≈ 19%) \n
@@ -78,7 +78,7 @@ Phoenix, Arizona, June 2019 \n
 \[[docs/pdf/ndc-isca19.pdf PDF]] 
 \[[https://www.youtube.com/watch?v=xckzft1Ckss YouTube Trailer]] \n
 Ashutosh Pattnaik, Xulong Tang, Onur Kayiran, *Adwait Jog*, Asit Mishra, Mahmut T. Kandemir, Anand Sivasubramaniam, Chita R. Das \n
-[coming.html /Opportunistic Computing in GPU Architectures/], \n
+[docs/pdf/ndc-isca19.pdf /Opportunistic Computing in GPU Architectures/], \n
 In the Proceedings of 46th International Symposium on Computer Architecture (ISCA), Phoenix, Arizona, June 2019 \n
 (Acceptance rate: 62/365 ≈ 17%) \n
 
@@ -162,8 +162,7 @@ In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures 
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>*
-\[[docs/pdf/Controlled-DP-HPCA-2017.pdf PDF]]
-\[[coming.html Talk (PPTX)]] \n
+\[[docs/pdf/Controlled-DP-HPCA-2017.pdf PDF]] \n
 Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, *Adwait Jog*, Sreepathi Pai, +_Mohamed Assem Ibrahim_+, Mahmut Kandemir, Chita Das, \n
 [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/], \n
 In the Proceedings of 23rd IEEE Symposium on High Performance Computer Architecture (HPCA), Austin, TX, Feb 2017  \n
