@@ -20,6 +20,28 @@
 
 {{<a name="Software"></a>}} 
 == Artifacts
+*\<span style=\"color: blue\"\>A Fast NFA Engine for GPUs\<\/span\>* 
+[https://github.com/bigwater/gpunfa-artifact (github)] \n
+Non-deterministic Finite Automata (NFA) are space-efficient
+finite state machines that have significant applications in
+domains such as pattern matching and data analytics. We have
+developed a fast NFA engine for GPUs, which performs much that
+the state-of-the-art and even outperforms Automata Processor 
+(a domain-specific accelerator for NFAs) in several cases. \n
+
+Please cite the following paper if you use or build upon this framework: \n
+*\<span style=\"color: forestgreen\"\>(ASPLOS 2020)\<\/span\>* 
+\[[docs/pdf/nfagpu-asplos20.pdf PDF]] 
+\[[https://github.com/bigwater/gpunfa-artifact Artifact]] \n
++_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
+[docs/pdf/nfagpu-asplos20.pdf /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
+In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
+and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n 
+(Acceptance rate: 86/479 ≈ 18%) \n
+
+\n
+\n
+
 *\<span style=\"color: blue\"\>MAFIA: Multiple Application Framework for GPU Architectures\<\/span\>* 
 [https://github.com/adwaitjog/mafia (github)] \n
 MAFIA is developed for supporting multiple applications execution on GPUs. Currently, 
