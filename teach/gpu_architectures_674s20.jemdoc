@@ -76,7 +76,52 @@ of the semester.
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> Jan 30 &nbsp;</td>
-  <td valign=top>  Introduction, Abstractions, and Technology  &nbsp;</td>
+  <td valign=top>  Computer Architecture Basics  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 3 &nbsp;</td>
+  <td valign=top> Feb 4 &nbsp;</td>
+  <td valign=top> Computer Architecture Basics &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Feb 6 &nbsp;</td>
+  <td valign=top>  Computer Architecture Basics  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 4 &nbsp;</td>
+  <td valign=top> Feb 11 &nbsp;</td>
+  <td valign=top> Computer Architecture Basics &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Feb 13 &nbsp;</td>
+  <td valign=top>  GPU Basics  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 5 &nbsp;</td>
+  <td valign=top> Feb 18 &nbsp;</td>
+  <td valign=top> Computer Architecture Basics &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Feb 20 &nbsp;</td>
+  <td valign=top>  GPU Basics  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 6 &nbsp;</td>
+  <td valign=top> Feb 25 &nbsp;</td>
+  <td valign=top> No Class -- Instructor on Travel &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Feb 27 &nbsp;</td>
+  <td valign=top> Project Proposal Presentations &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 7 &nbsp;</td>
+  <td valign=top> March 3 &nbsp;</td>
+  <td valign=top> Project Proposal Presentations &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> March 5 &nbsp;</td>
+  <td valign=top>  No Class -- Instructor on Travel  &nbsp;</td>
   </tr>
 </TABLE>
 
