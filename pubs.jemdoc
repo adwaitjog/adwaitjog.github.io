@@ -27,7 +27,9 @@
 === 2020
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2020)\<\/span\>* 
 \[[docs/pdf/nfagpu-asplos20.pdf PDF]] 
-\[[https://github.com/bigwater/gpunfa-artifact Artifact]] \n
+\[[docs/pptx/nfagpu-asplos20.pptx PPTX]] 
+\[[https://github.com/bigwater/gpunfa-artifact Artifact]] 
+\[[https://www.youtube.com/watch?v=ShcjkBDs8TI YouTube Full Video]] \n
 +_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
 [docs/pdf/nfagpu-asplos20.pdf /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
 In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
@@ -36,7 +38,9 @@ and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2020)\<\/span\>* 
-\[[docs/pdf/bcoal-hpca20.pdf PDF]] \n
+\[[docs/pdf/bcoal-hpca20.pdf PDF]] 
+\[[docs/pptx/bcoal-hpca20.pptx PPTX]] 
+\[[https://www.youtube.com/watch?v=Iyld3gsaUUs&amp=&feature=youtu.be YouTube Trailer]] \n
 +_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
 [docs/pdf/bcoal-hpca20.pdf /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
 In the Proceedings of 26th IEEE Symposium on High Performance 
