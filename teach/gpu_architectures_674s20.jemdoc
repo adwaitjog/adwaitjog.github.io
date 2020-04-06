@@ -144,11 +144,29 @@ of the semester.
   <tr bgcolor=cornsilk align=CENTER >
   <td rowspan="2"> Week 10 &nbsp;</td>
   <td valign=top> March 24 &nbsp;</td>
-  <td valign=top> Class canceled due to COVID-19 &nbsp;</td>
+  <td valign=top> Memory Coalescing &nbsp;</td>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> March 26 &nbsp;</td>
-  <td valign=top> Class canceled due to COVID-19 &nbsp;</td>
+  <td valign=top> Shared Memory &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 11 &nbsp;</td>
+  <td valign=top> March 31 &nbsp;</td>
+  <td valign=top> GPU Micro-Architecture Basics &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> April 2 &nbsp;</td>
+  <td valign=top> GPU Micro-Architecture Basics &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 12 &nbsp;</td>
+  <td valign=top> April 7 &nbsp;</td>
+  <td valign=top> GPU Research Issues (Memory) &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> April 9 &nbsp;</td>
+  <td valign=top> Project Mid-term Presentations &nbsp;</td>
   </tr>
 </TABLE>
 
