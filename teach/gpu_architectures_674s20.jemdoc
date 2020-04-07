@@ -6,7 +6,7 @@
 - Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
 - Office hours: T/R: 12:20 to 1 pm ; F: 10-noon ; by appointment at McGl 111
 - Email: ajog@wm.edu 
-- Add-Drop Period Ends (January 31); Withdrawal period ends (March 23); Final Exam (May 8, 2:00-5:00 p.m)
+- Add-Drop Period Ends (January 31); Withdrawal period ends (March 31); Final Exam (May 8, 2:00-5:00 p.m)
 
 == Prerequisites
 Students are expected to have a good understanding of the basic
@@ -51,7 +51,6 @@ presentation and final report.
 == Final Exam
 It will be comprehensive and will cover all the material covered until the end 
 of the semester. 
-
 
 == Class Schedule 
 ~~~
@@ -167,6 +166,33 @@ of the semester.
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> April 9 &nbsp;</td>
   <td valign=top> Project Mid-term Presentations &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 13 &nbsp;</td>
+  <td valign=top> April 14 &nbsp;</td>
+  <td valign=top> GPU Research Issues (Memory) &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> April 16 &nbsp;</td>
+  <td valign=top> GPU Research Issues (Memory) &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 14 &nbsp;</td>
+  <td valign=top> April 21 &nbsp;</td>
+  <td valign=top> GPU Research Issues (Compute)  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> April 23 &nbsp;</td>
+  <td valign=top> GPU Research Issues (Compute) &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 15 &nbsp;</td>
+  <td valign=top> April 28 &nbsp;</td>
+  <td valign=top> GPU Security  &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> April 30 &nbsp;</td>
+  <td valign=top> Final Project Presentations &nbsp;</td>
   </tr>
 </TABLE>
 
