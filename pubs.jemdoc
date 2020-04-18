@@ -47,6 +47,13 @@ In the Proceedings of 26th IEEE Symposium on High Performance
 Computer Architecture (HPCA), San Diego, CA, Feb 2020  \n 
 (Acceptance rate: 48/248 ≈ 19%) \n
 
+*\<span style=\"color: forestgreen\"\>(TC 2020)\<\/span\>* 
+\[[docs/pdf/tc-pruning.pdf PDF]] \n
+_Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni, \n
+[docs/pdf/tc-pruning.pdf /Practical Resilience Analysis of GPGPU 
+Applications in the Presence of Single-and Multi-bit Faults/], \n
+In IEEE Transactions on Computers (TC), 2020 \n
+
 === 2019
 *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* 
 \[[docs/pdf/remote-core-pact19.pdf PDF]] 
