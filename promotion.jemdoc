@@ -31,23 +31,6 @@
 ==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  /*ajog@wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n 
 ~~~
 
-== About
-I am an assistant professor in the Department of Computer Science
-at [http://goo.gl/JP9omL William & Mary] in Virginia, USA. At William & Mary, 
-I am leading the [https://insight-cal.github.io/ /Insight Computer Architecture Lab/]. 
-Our goal is to generate insights necessary in order to architect future computers that 
-are more energy-efficient, capable, reliable, and secure. \n
-
-*\<span style=\"color: red\"\> I am always looking for self-motivated 
-students to join my lab. \<\/span\>* Interested students can email me
-to begin the conversation. If you are not at William & Mary, please formally 
-apply to the [https://www.wm.edu/as/computerscience/graduate/admission/index.php 
-Ph.D. program at CS department]. 
-
-A high-level summary of my group's research can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
-and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
-
-
 == Application Materials
 - [http://adwaitjog.github.io/docs/adwait-CV.pdf Curriculum vitae]
 - [http://adwaitjog.github.io/pubs.html Complete Publication List] ([http://adwaitjog.github.io/pubs.html Citations])
@@ -86,5 +69,22 @@ Thanks NSF!
 - Program Committees: HPCA 2020, ISCA 2020 (ERC), ASPLOS 2020 (ERC), MICRO 2019, SIGMETRICS 2019, ICCD 2019, HPDC 2019, HPCA 2019 (ERC), NAS 2019. 
 - W&M Committees (2019-20): Faculty Hiring, Graduate Admissions, Graduate Curriculum, CS Colloquiums, T. Jefferson
 Prize in Natural Philosophy, Pre-major advising
+
+== About
+I am an assistant professor in the Department of Computer Science
+at [http://goo.gl/JP9omL William & Mary] in Virginia, USA. At William & Mary, 
+I am leading the [https://insight-cal.github.io/ /Insight Computer Architecture Lab/]. 
+Our goal is to generate insights necessary in order to architect future computers that 
+are more energy-efficient, capable, reliable, and secure. \n
+
+*\<span style=\"color: red\"\> I am always looking for self-motivated 
+students to join my lab. \<\/span\>* Interested students can email me
+to begin the conversation. If you are not at William & Mary, please formally 
+apply to the [https://www.wm.edu/as/computerscience/graduate/admission/index.php 
+Ph.D. program at CS department]. 
+
+A high-level summary of my group's research can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
+and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
+
 
 
