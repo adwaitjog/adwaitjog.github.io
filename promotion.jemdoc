@@ -31,7 +31,7 @@
 ==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  /*ajog@wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n 
 ~~~
 
-== Application Materials
+== Materials
 - [http://adwaitjog.github.io/docs/adwait-CV.pdf Curriculum vitae]
 - [http://adwaitjog.github.io/pubs.html Complete Publication List] ([http://adwaitjog.github.io/pubs.html Citations])
 - [http://adwaitjog.github.io/docs/main_research.pdf Research Statement]
@@ -52,7 +52,7 @@
 - *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(IISWC 2016)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/quantum-iiswc2016.pdf /Characterization of Quantum Workloads on SIMD Architectures/]
 
-== Research Funding
+== External Research Funding
 My [https://insight-cal.github.io/ research group] is supported by the following research grants:
 - [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667 NSF CAREER Award 2018]. [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php News in the Media.] 
 Thanks NSF!
@@ -70,19 +70,10 @@ Thanks NSF!
 Prize in Natural Philosophy, Pre-major advising
 
 == About
-I am an assistant professor in the Department of Computer Science
+Adwait Jog is an assistant professor in the Department of Computer Science
 at [http://goo.gl/JP9omL William & Mary] in Virginia, USA. At William & Mary, 
-I am leading the [https://insight-cal.github.io/ /Insight Computer Architecture Lab/]. 
-Our goal is to generate insights necessary in order to architect future computers that 
-are more energy-efficient, capable, reliable, and secure. \n
-
-*\<span style=\"color: red\"\> I am always looking for self-motivated 
-students to join my lab. \<\/span\>* Interested students can email me
-to begin the conversation. If you are not at William & Mary, please formally 
-apply to the [https://www.wm.edu/as/computerscience/graduate/admission/index.php 
-Ph.D. program at CS department]. 
-
-A high-level summary of my group's research can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
+he is leading the [https://insight-cal.github.io/ /Insight Computer Architecture Lab/]. 
+A high-level summary of his group's research can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
 and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
 
 
