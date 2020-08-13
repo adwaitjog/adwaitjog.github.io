@@ -1,0 +1,142 @@
+
+== Topics in Computer Architecture, Fall 2020 (CSCI 780)
+
+== General Information
+- Time and Location: Tuesday/Thursday 09:30am-10:50am, Zoom (Link will be shared separately)
+- Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
+- Office hours: TBD and by appointment (over Zoom)
+- Email: ajog@wm.edu 
+- Add-Drop Period Ends (August 28); Withdrawal period Ends (October 12)
+
+== Prerequisites
+Students are expected to have a good understanding of the basic
+computer organization and design (i.e., comparable to the material 
+covered by CSCI 424/524). Please talk to the instructor if you do 
+not satisfy this requirement. 
+
+== Course Description
+This is a seminar-type graduate course, where
+we will discuss research papers on many
+different topics (e.g., cache or memory systems, scheduling, resource
+management, micro-architecture, emerging technologies/architectures)
+in the broad areas of computer architecture and systems.
+Students are expected to read a variety of
+papers, critique them, and present them in the front of the class. In
+addition, students are expected to complete a semester-long research project.
+
+== Grade Distribution
+- Class Participation: 10%
+- Paper critiques: 20%
+- In-Class Presentations: 30%
+- Semester-long Research Project: 40%
+
+== Class Participation
+Will be evaluated based on your participation on Zoom and Piazza. 
+
+== Paper Critiques
+All students are required to submit a critique on the paper going to be 
+discussed in the class. However, the student who presents that paper in-class 
+is not required to submit the critique for that particular paper. *Deadline 
+for the critique submission is just before the class starts.* 
+
+*Submission Format:* Each critique should not exceed one-page and must 
+consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
+(2-3 lines), 3) weaknesses (2-3 lines), and 4) detailed comments (4-5 lines). 
+
+== In-Class Presentations 
+Each student will present a maximum of 2-3 papers throughout the semester. 
+When you present a paper, be prepared to answer a variety of questions asked 
+by the instructor or other fellow students. A list of papers will be provided
+to students. They can choose from that list or come up with their own suggestions. 
+Suggestions would need approval from the instructor. 
+
+== Semester-long Research Project
+- It will give you a taste of computer architecture research. Please 
+discuss with the instructor to decide on the project. Regular meetings 
+are expected with the instructor so that progress can be made. 
+
+- We will have two project presentations 
+during the entire semester: mid-term presentation (15 percent), and 
+final presentation (+ final project report due in the finals week) (25 percent).
+
+- Can be performed in groups of 2. If you perform the project in a 
+group, briefly describe your individual contributions to the project 
+in the presentation and final report. 
+
+== Topics
+- Branch Prediction
+- Data Prefetching
+- Instruction Prefetching
+- Value Prediction
+- Cache replacement
+- Memory Scheduling
+- TLB prefetching
+- Data compression
+- Performance/Power Prediction
+- Approximate Computing
+- GPU Scheduling
+
+== Class Schedule 
+~~~
+{}{raw}
+<center>
+
+<TABLE cellspacing=5 cellpadding=5 border=2>
+  <tr><th>Week</th>
+  <th>Date</th>
+  <th>Agenda</th>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Week 1 &nbsp;</td>
+  <td valign=top> Aug 20 &nbsp;</td>
+  <td valign=top> Administrativia and Introductions &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td rowspan="2"> Week 2 &nbsp;</td>
+  <td valign=top> Aug 25 &nbsp;</td>
+  <td valign=top> Computer Architecture Basics &nbsp;</td>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> Aug 27 &nbsp;</td>
+  <td valign=top>  Computer Architecture Basics  &nbsp;</td>
+  </tr>
+</TABLE>
+
+</center>
+~~~
+
+== Piazza (Discussion Forum) and Blackboard
+We will be using Piazza as an on-line forum for discussions. You will 
+also receive notifications from the instructor via Piazza. The Piazza 
+website for our course is [TBD here]. Piazza and Blackboard will also
+contain course materials. All the submissions will be via Blackboard. 
+
+== Useful Links
+- [https://www.microarch.org/cvp1/ Championship Value Prediction (CVP)]
+- [https://research.ece.ncsu.edu/ipc/ Instruction Prefetching Championship]
+- [https://dpc3.compas.cs.stonybrook.edu/ Data Prefetching Championship]
+- [http://hpca23.cse.tamu.edu/champsim-traces/speccpu/ SPEC 2017 CPU Traces]
+- [https://www.jilp.org/cbp2016/ Championship Branch Prediction]
+- [https://crc2.ece.tamu.edu/ Cache Replacement Championship]
+- [https://github.com/google-research/google-research/tree/master/cache_replacement Machine Learning for Cache Replacement]
+- [https://github.com/ChampSim/ChampSim ChampSim -- A Cache Simulator]
+- [https://github.com/CMU-SAFARI/ramulator Ramulator - A DRAM Simulator]
+- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). 
+Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
+- [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
+
+== Academic Accommodations
+It is the policy of The College of William and Mary to accommodate 
+students with disabilities and qualifying diagnosed conditions in 
+accordance with federal and state laws. Any student who feels s/he may 
+need an accommodation based on the impact of a learning, psychiatric, 
+physical, or chronic health diagnosis should contact Student 
+Accessibility Services staff at 757-221-2509 or at sas@wm.edu to 
+determine if accommodations are warranted and to obtain an 
+official letter of accommodation. For more information, please 
+click [http://www.wm.edu/sas here].
+
+== Honor Code
+Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+
