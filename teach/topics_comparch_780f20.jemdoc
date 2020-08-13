@@ -121,7 +121,7 @@ contain course materials. All the submissions will be via Blackboard.
 - [https://github.com/google-research/google-research/tree/master/cache_replacement Machine Learning for Cache Replacement]
 - [https://github.com/ChampSim/ChampSim ChampSim -- A Cache Simulator (with link to SPEC 2017 CPU Traces)]
 - [https://github.com/CMU-SAFARI/ramulator Ramulator -- A DRAM Simulator]
-- [http://gem5.org/Main_Page GEM5 -- A Full System CPU Simulator]
+- [https://www.gem5.org/ GEM5 -- A Full System CPU Simulator]
 - [http://www.gpgpu-sim.org/ GPGPU-Sim -- A GPU Simulator]
 - [https://accel-sim.github.io/MICRO-2020-tutorial.html Accel-Sim -- A new Trace-based GPU Simulator]
 - [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch -- A GPU Power Simulator]
