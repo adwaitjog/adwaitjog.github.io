@@ -119,11 +119,12 @@ contain course materials. All the submissions will be via Blackboard.
 - [https://www.jilp.org/cbp2016/ Championship Branch Prediction]
 - [https://crc2.ece.tamu.edu/ Cache Replacement Championship]
 - [https://github.com/google-research/google-research/tree/master/cache_replacement Machine Learning for Cache Replacement]
-- [https://github.com/ChampSim/ChampSim ChampSim -- A Cache Simulator]
+- [https://github.com/ChampSim/ChampSim ChampSim -- A Cache Simulator (with link to SPEC 2017 CPU Traces)]
 - [https://github.com/CMU-SAFARI/ramulator Ramulator - A DRAM Simulator]
-- [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). 
-Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
+- [http://www.gpgpu-sim.org/ GPGPU-Sim -- A GPU Simulator]
+- [https://accel-sim.github.io/MICRO-2020-tutorial.html Accel-Sim -- A new Trace-based GPU Simulator]
+- [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch -- A GPU Power Simulator]
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
