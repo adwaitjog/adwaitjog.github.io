@@ -2,7 +2,7 @@
 == Topics in Computer Architecture, Fall 2020 (CSCI 780)
 
 == General Information
-- Time and Location: Tuesday/Thursday 09:30am-10:50am, Zoom (Link will be shared separately)
+- Time and Location: Tuesday/Thursday 09:30am-10:50am, synchronously via Zoom (Link will be shared separately)
 - Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
 - Office hours: TBD and by appointment (over Zoom)
 - Email: ajog@wm.edu 
@@ -63,7 +63,7 @@ final presentation (+ final project report due in the finals week) (25 percent).
 
 - Can be performed in groups of 2. If you perform the project in a 
 group, briefly describe your individual contributions to the project 
-in the presentation and final report. 
+in the presentations and final report. 
 
 == Topics
 - Branch Prediction
@@ -127,6 +127,11 @@ be via Blackboard.
 - [http://www.gpgpu-sim.org/ GPGPU-Sim -- A GPU Simulator]
 - [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch -- A GPU Power Simulator]
 - [https://accel-sim.github.io/ Accel-Sim -- A new trace-based GPU Simulator]
+
+== Optional Textbooks
+- [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1 Computer Architecture: A Quantitative Approach, Patterson & Hennessey]
+
+- [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-407726-3 Computer Organization and Design, Patterson & Hennessey]
 
 == Academic Accommodations
 It is the policy of William & Mary to accommodate 
