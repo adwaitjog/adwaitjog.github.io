@@ -82,34 +82,9 @@ in the presentations and final report.
 - GPU Scheduling
 
 == Class Schedule 
-~~~
-{}{raw}
-<center>
+- [https://docs.google.com/document/d/1DzLV8Kv7wP9v9p2vfkalVmg7i_2J8wI6e4zeIqDaLOA/edit?usp=sharing Reading List]
+- [https://docs.google.com/spreadsheets/d/14Smzczo5Njx0fyxhIGrMYTw9mDnH7HL5Lg1OhTJWPp0/edit?usp=sharing Schedule]
 
-<TABLE cellspacing=5 cellpadding=5 border=2>
-  <tr><th>Week</th>
-  <th>Date</th>
-  <th>Agenda</th>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER >
-  <td valign=top> Week 1 &nbsp;</td>
-  <td valign=top> Aug 20 &nbsp;</td>
-  <td valign=top> Administrativia and Introductions &nbsp;</td>
-  </tr>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER >
-  <td rowspan="2"> Week 2 &nbsp;</td>
-  <td valign=top> Aug 25 &nbsp;</td>
-  <td valign=top> Computer Architecture Basics &nbsp;</td>
-  </tr>
-  <tr bgcolor=cornsilk align=CENTER >
-  <td valign=top> Aug 27 &nbsp;</td>
-  <td valign=top>  Computer Architecture Basics  &nbsp;</td>
-  </tr>
-</TABLE>
-
-</center>
-~~~
 
 == Piazza (Discussion Forum) and Blackboard
 We will be using Piazza as an on-line forum for discussions. You will 
