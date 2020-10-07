@@ -27,7 +27,8 @@
 === 2020
 *\<span style=\"color: forestgreen\"\>(PACT 2020)\<\/span\>* 
 \[[docs/pdf/sharedl1-pact20.pdf PDF]] 
-\[[coming.html Talk (PPTX)]] \n
+\[[docs/pptx/sharedl1-pact20.pptx Talk (PPTX)]] 
+\[[https://www.youtube.com/watch?v=CGIhOnt7F6s YouTube Full Video]] \n
 +_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
 [docs/pdf/sharedl1-pact20.pdf /Analyzing and Leveraging Shared L1 Caches in GPUs/], \n
 In the Proceedings of 29th International Conference on Parallel Architectures 
