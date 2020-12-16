@@ -26,9 +26,9 @@
 
 === 2021
 *\<span style=\"color: forestgreen\"\>(HPCA 2021)\<\/span\>* 
-\[[docs/pdf/decoupledl1-pact20.pdf PDF]]  \n
+\[[docs/pdf/decoupledl1-hpca21.pdf PDF]]  \n
 +_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
-[docs/pdf/decoupledl1-pact20.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
+[docs/pdf/decoupledl1-hpca21.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
 In the Proceedings of 27th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), Seoul, South Korea, Feb 2021  \n 
 (Acceptance rate: 63/258 ≈ 24%) \n
