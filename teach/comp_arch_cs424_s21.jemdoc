@@ -19,17 +19,15 @@ UG calender] for more details.
 #- *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
 == Prerequisites 
-Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303  
+Prerequisite(s): CSCI 304 and either CSCI 301 or CSCI 303.
 Knowledge of Python Programming is desired (equivalent to CSCI 140/141). 
 If you do not meet these requirements, please talk to the instructor.
 
 == Textbook and Resources
 - *Required Textbook:* Computer Organization and Design, Patterson & Hennessey (P&H), /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details.  
-- *Resources:* Access to a computer is necessary. 
-- *Materials:* Lecture slides, homeworks, and other course materials will 
-be posted on [https://piazza.com/wm/spring2021/csci424524/home Piazza]. 
-Piazza will also be used for course announcements and discussions. We will
-use [https://blackboard.wm.edu/ Blackboard] for submitting homeworks.
+- *Materials:* We will primarily use [https://blackboard.wm.edu/ Blackboard] 
+for delivering and submitting materials. [https://piazza.com/wm/spring2021/csci424524/home Piazza] 
+will be used for course announcements and discussions. 
 - *Help:* It is important to start working on homeworks early. If you 
 need help, show up in the office hours or ask questions in or after the class. 
 You are also highly encouraged to use [https://piazza.com/wm/spring2021/csci424524/home piazza] 
