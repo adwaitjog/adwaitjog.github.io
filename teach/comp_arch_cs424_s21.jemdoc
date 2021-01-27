@@ -7,9 +7,6 @@
 -- Office hours:  Tuesday/Thursday 5PM to 6:30PM or by appointment, Zoom (same link as above)
 -- Email: ajog@wm.edu
 
-- Teaching Assistant: TBD
--- Office hours: TBD
-
 - Deadlines: Feb 5 (add/drop deadline) and March 29 (last day to withdraw). Refer to 
 the [https://www.wm.edu/offices/registrar/calendarsandexams/ugcalendars/index.php#spring 
 UG calender] for more details.
@@ -34,15 +31,12 @@ You are also highly encouraged to use [https://piazza.com/wm/spring2021/csci4245
 to ask questions. You are also expected to attend *all* lectures. 
 
 == Grading 
-- Homework Assignments (40%) 
-- Activities (mostly in-class) (20%)
-- Midterm Exam (20%)
-- Final Exam (20%)
+- Homework Assignments (25%) 
+- Activities (mostly in-class) (25%)
+- Midterm Exam (25%)
+- Final Exam (25%)
 - Final letter grades will be given based on the standard scale 
 used in W&M. Grades may be curved at the instructor's discretion.
-- If you have any grading-related questions for homeworks/activities, please email the TA first (CC the instructor). 
-If issues are not resolved, then you can escalate the matter to the instructor. The instructor 
-will make the final decision.
 
 == Homework Assignments
 - Homework assignments should be submitted 
@@ -54,15 +48,14 @@ final submission must be in the *PDF* format. Submission in any other format
 -- You can have up to a 48-hour extension for any three (3) homeworks of your choice. 
 -- If you use up all your three (3) extensions, homeworks will not accepted after the deadline 
 and /zero/ points will be awarded.
-- You can collaborate on the homework problems with one more student currently enrolled in the class. However, you must write up each problem solution by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the instructor or TA.
+- You can collaborate on the homework problems with one more student currently enrolled in the class. However, you must write up each problem solution by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the instructor.
 
 == Activities (mostly in-class)
 - There will be periodic in-class problem solving activities. You are expected to participate in them. Once the activity is complete, you need to submit your answer sheet on Blackboard on the same day by 23:00 hrs. 
 - You may you use your notes, lecture material, or textbook. You can also discuss with your classmates. However, you write answers on your own.
 - If you miss an in-class activity, /zero/ points will be awarded for that activity.
 However, we do have the following policy:  
--- You can make up for a maximum of three (3) missed in-class activities. Please do so within 
-one week of the missed activity. Email the TA (CC instructor) if you would like to do that. 
+-- You can make up for a maximum of three (3) missed in-class activities. Please do so within one week of the missed activity. 
 -- The lowest score on the activities will not be counted.
 
 == Exams
@@ -70,15 +63,6 @@ one week of the missed activity. Email the TA (CC instructor) if you would like 
 - The format of the exams will be discussed in-class.
 - No collaboration is allowed on exams.
 - If you miss an exam, /zero/ points will be awarded for that exam. 
-
-== Simulators
-- [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
-Install [http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Aug. 2014] and 
-[http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. It should run 
-on any OS. Browse through the software and documentation to 
-familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
-tutorial] with lots of screenshots. Read the tutorial first before starting MARS. More documentation 
-can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
 
 == Tentative Schedule (Will keep changing regularly)
 - [https://docs.google.com/spreadsheets/d/13YDdYgkaPSh80GAZfMxbY1UvJ7PSb9scWawGAEi41Nk/edit?usp=sharing Google Docs Link].
