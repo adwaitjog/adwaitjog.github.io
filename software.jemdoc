@@ -59,18 +59,3 @@ Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
 [docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
 
-\n
-\n
-
-*\<span style=\"color: blue\"\>Mars on GPGPU-Sim\<\/span\>* [software/Mars_GPGPUSim.tar.gz (tarball)]\n
-[http://www.cse.ust.hk/gpuqp/Mars.html Mars] is a MapReduce framework on GPUs. This package contains MapReduce implementations of some applications that can be executed on [http://www.gpgpu-sim.org/ GPGPU-Sim], a cycle 
-accurate GPU simulator. \n
-
-Please cite the following paper if you use or build upon this framework: \n
-*\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
-\[[docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
-\[[docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
-\[[docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n
-*Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
-[docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
-In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
