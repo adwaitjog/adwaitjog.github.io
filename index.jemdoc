@@ -58,7 +58,7 @@ and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-in
 - *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/]
 - *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(ISCA 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/ndc-isca19.pdf /Opportunistic Computing in GPU Architectures/]
-- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2019)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/2019_SIGMETRICS_2_Xulong.pdf /Quantifying Data Locality in Dynamic Parallelism in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2019)\<\/span\>* [https://dl.acm.org/doi/10.1145/3376930.3376947?cid=81502801417 /Quantifying Data Locality in Dynamic Parallelism in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/hotcoldap-micro18.pdf /Architectural Support for Efficient Large-Scale Automata Processing/]
 - *\<span style=\"color: forestgreen\"\>(MICRO 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/pruning-micro18.pdf /Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]
