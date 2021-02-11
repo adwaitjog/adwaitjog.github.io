@@ -90,12 +90,11 @@ In the Proceedings of 18th International Conference on Architectural Support for
 (Acceptance rate: 44/191 ≈ 23%) 
 
 == Credits
-Many lecture slides are derived from my CSCI 680: GPU Architectures
-course taught at W&M. The lecture slides also have material from the presentation 
+The lecture slides have material from the presentation 
 slides of various research papers (see above), which I am an author on. 
-Credit goes to my Ph.D. students and collaborators. Finally, some slides 
-are adopted from Tor Aamodt's ACACES 2015 course on GPU architecture. Thanks 
-to all. 
+Credit goes to my Ph.D. students and collaborators. Several slides 
+are adopted from Tor Aamodt's ACACES 2015 course on GPU architecture and
+other open source materials. Thanks to all. 
 
 
 
