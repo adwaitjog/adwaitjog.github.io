@@ -404,5 +404,10 @@ TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 [http://www.cse.psu.edu/research/publications/tech-reports/2011/CSE-11-010.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
 TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 
-
-
+~~~
+\C 20xx IEEE. Personal use of this material is permitted. Permission from IEEE must be
+obtained for all other uses, in any current or future media, including
+reprinting/republishing this material for advertising or promotional purposes, creating new
+collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted
+component of this work in other works.
+~~~
