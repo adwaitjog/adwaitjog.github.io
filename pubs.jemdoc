@@ -32,14 +32,14 @@
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* \n
 _Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni, \n
 [coming.html /SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing/], \n
-In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, Beijing, China, June 2021 \n 
+In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, Virtual Event, June 2021 \n 
 (Acceptance rate: ≈ 12%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(ICSE 2021)\<\/span\>* \n
 _Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni, \n
 [coming.html /Enabling Software Resilience in GPGPU Applications via Partial Thread Protection/], \n
-In the Proceedings of 43rd International Conference on Software Engineering (ICSE), Madrid, Spain, May 2021  \n
+In the Proceedings of 43rd International Conference on Software Engineering (ICSE), Virtual Event, May 2021  \n
 (Acceptance rate: 138/615 ≈ 22%) \n
 
 === 
@@ -48,7 +48,7 @@ In the Proceedings of 43rd International Conference on Software Engineering (ICS
 +_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
 [docs/pdf/decoupledl1-hpca21.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
 In the Proceedings of 27th IEEE Symposium on High Performance 
-Computer Architecture (HPCA), Seoul, South Korea, Feb 2021  \n 
+Computer Architecture (HPCA), Virtual Event, Feb 2021  \n 
 (Acceptance rate: 63/258 ≈ 24%) \n
 
 === 
@@ -67,7 +67,7 @@ In IEEE Transactions on Computers (TC), Jan 2021 \n
 +_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
 [docs/pdf/sharedl1-pact20.pdf /Analyzing and Leveraging Shared L1 Caches in GPUs/], \n
 In the Proceedings of 29th International Conference on Parallel Architectures 
-and Compilation Techniques (PACT), Atlanta, GA, October 2020 (held virtually due to COVID-19) \n
+and Compilation Techniques (PACT), Virtual Event, October 2020 \n
 (Acceptance rate: 35/137 ≈ 25%) \n
 
 === 
@@ -79,7 +79,7 @@ and Compilation Techniques (PACT), Atlanta, GA, October 2020 (held virtually due
 +_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
 [docs/pdf/nfagpu-asplos20.pdf /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
 In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
-and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020 (held virtually due to COVID-19) \n 
+and Operating Systems (ASPLOS), Virtual Event, March, 2020 \n 
 (Acceptance rate: 86/479 ≈ 18%) \n
 
 === 
