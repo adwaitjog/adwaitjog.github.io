@@ -28,8 +28,10 @@
 
 +My advisee+~~~~~~~_W&M Student_
 
+
 === 2021
-*\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* \n
+*\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* 
+\[[https://dl.acm.org/doi/abs/10.1145/3447375 PDF]]  \n
 _Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni, \n
 [coming.html /SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing/], \n
 In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, Virtual Event, June 2021 \n 
@@ -44,7 +46,8 @@ In the Proceedings of 43rd International Conference on Software Engineering (ICS
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2021)\<\/span\>* 
-\[[docs/pdf/decoupledl1-hpca21.pdf PDF]]  \n
+\[[docs/pdf/decoupledl1-hpca21.pdf PDF]]
+\[[https://www.youtube.com/watch?v=3YbrS9UpTZ0 YouTube Full Video]] \n
 +_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
 [docs/pdf/decoupledl1-hpca21.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
 In the Proceedings of 27th IEEE Symposium on High Performance 
