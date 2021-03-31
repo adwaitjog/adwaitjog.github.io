@@ -156,7 +156,7 @@ In the Proceedings of 46th International Symposium on Computer Architecture (ISC
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2019)\<\/span\>* 
 \[[https://dl.acm.org/doi/10.1145/3376930.3376947?cid=81502801417 PDF]] \n
 Xulong Tang, Ashutosh Pattnaik, Onur Kayiran, *Adwait Jog*, Mahmut Taylan Kandemir, Chita Das \n
-[docs/pdf/2019_SIGMETRICS_2_Xulong.pdf /Quantifying Data Locality in Dynamic Parallelism in GPUs/], \n
+[https://dl.acm.org/doi/10.1145/3376930.3376947?cid=81502801417 /Quantifying Data Locality in Dynamic Parallelism in GPUs/], \n
 In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, Phoenix, Arizona, June 2019 \n
 (Acceptance rate: ≈ 20%) \n
 
