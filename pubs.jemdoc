@@ -31,7 +31,7 @@
 
 === 2021
 *\<span style=\"color: forestgreen\"\>(Cluster 2021)\<\/span\>* 
-\[[coming.html PDF]]  \n
+\[[docs/pdf/liu-cluster21.pdf PDF]]  \n
 +_Hongyuan Liu_+, Bogdan Nicolae, Sheng Di, Franck Cappello, *Adwait Jog* \n
 [coming.html /Accelerating DNN Architecture Search at Scale using Selective Weight Transfer/], \n
 In the Proceedings of 23rd IEEE Cluster 2021 International Conference, Virtual Event, Sept 2021 \n
@@ -50,7 +50,8 @@ In the Proceedings of 51st IEEE International Conference on Dependable Systems a
 
 === 
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* 
-\[[https://dl.acm.org/doi/abs/10.1145/3447375 PDF]]  \n
+\[[https://dl.acm.org/doi/abs/10.1145/3447375 PDF]]
+\[[https://www.youtube.com/watch?v=UedRUjFfU1U YouTube Full Video]]  \n
 _Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni \n
 [https://dl.acm.org/doi/abs/10.1145/3447375 /SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing/], \n
 In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, Virtual Event, June 2021 \n 
@@ -58,7 +59,8 @@ In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (
 
 === 
 *\<span style=\"color: forestgreen\"\>(ICSE 2021)\<\/span\>* 
-\[[https://arxiv.org/abs/2103.02825 PDF]]  \n
+\[[https://arxiv.org/abs/2103.02825 PDF]]  
+\[[https://www.youtube.com/watch?v=diuja8kH1dA YouTube Full Video]]  \n
 _Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni \n
 [https://arxiv.org/abs/2103.02825 /Enabling Software Resilience in GPGPU Applications via Partial Thread Protection/], \n
 In the Proceedings of 43rd International Conference on Software Engineering (ICSE), Virtual Event, May 2021  \n
