@@ -46,7 +46,8 @@ Committee Members: *Adwait Jog (chair)*, Dmitry Evtyushkin, Bin Ren, Evgenia Smi
 
 === 
 *\<span style=\"color: forestgreen\"\>(Cluster 2021)\<\/span\>* 
-\[[docs/pdf/liu-cluster21.pdf PDF]]  \n
+\[[docs/pdf/liu-cluster21.pdf PDF]]
+\[[docs/pptx/cluster21-weighttransfer.pptx Talk (PPTX)]] \n
 +_Hongyuan Liu_+, Bogdan Nicolae, Sheng Di, Franck Cappello, *Adwait Jog* \n
 [docs/pdf/liu-cluster21.pdf /Accelerating DNN Architecture Search at Scale using Selective Weight Transfer/], \n
 In the Proceedings of 23rd IEEE Cluster 2021 International Conference, Virtual Event, Sept 2021 \n
@@ -123,7 +124,7 @@ and Compilation Techniques (PACT), Virtual Event, October 2020 \n
 \[[https://github.com/insight-cal/gpunfa-artifact Artifact]] 
 \[[https://www.youtube.com/watch?v=ShcjkBDs8TI YouTube Full Video]] \n
 +_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
-[docs/pdf/nfagpu-asplos20.pdf /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
+[https://par.nsf.gov/servlets/purl/10206640 /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
 In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
 and Operating Systems (ASPLOS), Virtual Event, March, 2020 \n 
 (Acceptance rate: 86/479 ≈ 18%) \n
