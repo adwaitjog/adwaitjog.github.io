@@ -1,0 +1,67 @@
+
+== Non-conventional Computer Architecture, Fall 2021 (CSCI 780)
+
+== General Information
+- Time and Location: Tuesday/Thursday 14:00-15:20pm, Washington 306
+- Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
+- Office hours: MWF 9am-10am and by appointment (over Zoom)
+- Email: ajog@wm.edu 
+- Add-Drop Period Ends (September 10); Withdrawal period Ends (November 1)
+
+
+== Course Description
+It is a reading course where we will cover several non-conventional computing paradigms and architectures such as quantum computers, graphics architectures, cryogenic designs, and machine learning accelerators. The evaluation will be based on paper presentations, semester-long project, class participation etc. No prior background in computer architecture 
+or any of the aforementioned topics is required.
+
+== Grade Distribution
+- Class Participation: 20%
+- Paper critiques: 25%
+- In-Class Presentations: 30%
+- Semester-long Research Project: 25%
+
+== Class Participation
+You are expected to participate in the discussions. Your participation will be evaluated by the instructor. 
+
+== Paper Critiques
+*Deadline for the critique submission is just before the class starts.* 
+
+*Submission Format:* Each critique should not exceed one-page (in the PDF format) 
+and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
+(2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (4-5 lines). 
+
+== In-Class Presentations 
+Each student will present 2-3 papers throughout the semester. 
+When you present a paper, be prepared to answer a variety of questions asked 
+by the instructor or other fellow students. A list of papers will be provided
+to students. 
+
+== Semester-long Research Project
+- It will give you a taste of computer architecture research. Please 
+discuss with the instructor to decide on the project. Regular meetings 
+are expected with the instructor so that progress can be made. 
+
+- We will have two project presentations 
+during the entire semester: mid-term presentation (10 percent), and 
+final presentation (+ final project report due in the finals week) (15 percent).
+
+- Can be performed in groups of 2. If you perform the project in a 
+group, briefly describe your individual contributions to the project 
+in the presentations and final report. 
+
+== Piazza (Discussion Forum) and Blackboard
+We will be using Piazza as an on-line forum for discussions. You will 
+also receive notifications from the instructor via Piazza. Piazza and 
+Blackboard will also contain course materials. All the submissions will 
+be via Blackboard. 
+
+== Optional Textbooks
+- [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1 Computer Architecture: A Quantitative Approach, Patterson & Hennessey]
+
+- [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-407726-3 Computer Organization and Design, Patterson & Hennessey]
+
+== Student Accessibility Services
+William & Mary accommodates students with disabilities in accordance with federal laws and university policy. Any student who feels they may need an accommodation based on the impact of a learning, psychiatric, physical, or chronic health diagnosis should contact Student Accessibility Services staff at 757-221-2512 or at sas@wm.edu to determine if accommodations are warranted and to obtain an official letter of accommodation. For more information, please visit this [http://www.wm.edu/sas website].
+
+== Honor Code
+Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of William & Mary.
+
