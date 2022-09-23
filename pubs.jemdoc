@@ -29,12 +29,18 @@
 +My advisee+~~~~~~~_W&M Student_
 
 === 2022
+*\<span style=\"color: forestgreen\"\>(ISVLSI 2022)\<\/span\>* 
+Khoa Ho, Hui Zhao, *Adwait Jog*, Saraju Mohanty \n
+[coming.html /Improving GPU Throughput through Parallel Execution Using Tensor Cores and CUDA Cores/], \n
+In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Pafos, Cyprus, July 2022 \n
+
 *\<span style=\"color: forestgreen\"\>(Ph.D. Dissertation, 2022)\<\/span\>* 
 \[[https://www.proquest.com/docview/2631485352/fulltextPDF/FCE70F3C0C8F4648PQ/1?accountid=15053 PDF]] \n
 +_Hongyuan Liu_+ \n
 [https://www.proquest.com/docview/2631485352/fulltextPDF/FCE70F3C0C8F4648PQ/1?accountid=15053 /Techniques for Accelerating Large-Scale Automata Processing/] \n
 Committee Members: *Adwait Jog* (Advisor and Chair), Pradeep Kumar, Zhenming Liu, Weizhen Mao,
 Zhijia Zhao
+
 
 === 2021
 *\<span style=\"color: forestgreen\"\>(Ph.D. Dissertation, 2021)\<\/span\>* 
@@ -263,7 +269,7 @@ Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n
 \[[docs/pdf/sotram-isvlsi17.pdf PDF]] \n
 Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, +_Haonan Wang+_, Mehdi Tahoori, *Adwait Jog*, Jeffrey Vetter \n
 [docs/pdf/sotram-isvlsi17.pdf /Architecting SOT-RAM Based GPU Register File/], \n
-In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 \n
+In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 \n
 (Acceptance rate: 67/212 ≈ 32%) \n
 
 === 
