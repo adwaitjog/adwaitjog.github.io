@@ -25,23 +25,21 @@
 ==== ~~~Adwait Jog
 ==== ~~~[http://www.wm.edu/as/computerscience/faculty/jog_a.php Adina Allen Associate Professor]
 ==== ~~~[http://www.wm.edu/ William & Mary]
-==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n 
+==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  /*ajog@wm.edu*/, [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n 
 ~~~
-
-== News
-
-*\<span style=\"color: red\"\> I am moving to the [https://engineering.virginia.edu/departments/computer-science University of Virginia (UVA)] in January 2023 and looking for students to join my research group in the CS department at UVA. If you are interested in the area of computer architecture and systems, you can [gjt5gz@virginia.edu contact] me to initiate a discussion. \<\/span\>*
-
 
 == About
 
 I am leading the [https://insight-cal.github.io/ Insight Computer Architecture Lab] 
-where we are interested in a wide-range range of topics related to GPU computing, 
-quantum computing, and security & reliability of GPU/accelerator-rich heterogeneous
-systems. 
+where we currently work on a wide-range range of topics related to GPU computing, 
+security and reliability. 
 
-A high-level summary of my group's prior work can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
+*\<span style=\"color: red\"\> I am looking for students to join my research group.
+Feel free to e-mail me if you have any questions. \<\/span\>* \n
+
+A high-level summary of my group's research can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
 and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
+
 
 == Recent and Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(DSN 2021)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/kadam-gpu-reliability-dsn21.pdf /Data-centric Reliability Management in GPUs/]
@@ -63,7 +61,7 @@ and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-in
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
 
 == Recent Committees ([https://adwaitjog.github.io/service.html complete list])
-- Program Committees: ISCA 2023, HPCA 2023, ASPLOS 2023 (ERC), ASPLOS 2022, ISPASS 2022, GPGPU 2022, MICRO 2021, ISCA 2021, DSN 2021, HPCA 2021, HPCA 2020, MICRO 2020 (ERC), ISCA 2020 (ERC), ASPLOS 2020 (ERC)
+- Program Committees: HPCA 2023, ASPLOS 2023 (ERC), ASPLOS 2022, ISPASS 2022, GPGPU 2022, MICRO 2021, ISCA 2021, DSN 2021, HPCA 2021, HPCA 2020, MICRO 2020 (ERC), ISCA 2020 (ERC), ASPLOS 2020 (ERC)
 - Organization Committees: PACT 2020 (ACM SRC chair), GPGPU 2020 (Workshop co-chair), MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), GPGPU 2019 (Workshop co-chair)
 
 
