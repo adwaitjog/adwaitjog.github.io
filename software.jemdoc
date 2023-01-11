@@ -33,7 +33,7 @@ Please cite the following paper if you use or build upon this framework: \n
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2020)\<\/span\>* 
 \[[docs/pdf/nfagpu-asplos20.pdf PDF]] 
 \[[https://github.com/bigwater/gpunfa-artifact Artifact]] \n
-+_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
+Hongyuan Liu, Sreepathi Pai, *Adwait Jog* \n
 [docs/pdf/nfagpu-asplos20.pdf /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
 In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
 and Operating Systems (ASPLOS), Lausanne, Switzerland, March, 2020  \n 
