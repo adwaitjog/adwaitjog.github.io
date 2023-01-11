@@ -26,11 +26,9 @@
 
 === [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP with DOI Links)] 
 
-+My advisee+~~~~~~~_Student Affilation_
-
 === 2023
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* \n
-+_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
+Hongyuan Liu, Sreepathi Pai, *Adwait Jog* \n
 [coming.html /Asynchronous Automata Processing on GPUs/], \n
 In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, FCRC, Orlando, FL, June 2023 \n 
 
@@ -45,7 +43,7 @@ In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Pafos, Cyprus, Jul
 === 
 *\<span style=\"color: forestgreen\"\>(Ph.D. Dissertation, 2022)\<\/span\>* 
 \[[https://www.proquest.com/docview/2631485352/fulltextPDF/FCE70F3C0C8F4648PQ/1?accountid=15053 PDF]] \n
-+_Hongyuan Liu_+ \n
+Hongyuan Liu \n
 [https://www.proquest.com/docview/2631485352/fulltextPDF/FCE70F3C0C8F4648PQ/1?accountid=15053 /Techniques for Accelerating Large-Scale Automata Processing/] \n
 Committee Members: *Adwait Jog* (Advisor and Chair), Pradeep Kumar, Zhenming Liu, Weizhen Mao,
 Zhijia Zhao
@@ -54,7 +52,7 @@ Zhijia Zhao
 === 2021
 *\<span style=\"color: forestgreen\"\>(Ph.D. Dissertation, 2021)\<\/span\>* 
 \[[https://scholarworks.wm.edu/etd/1627047836/ PDF]] \n
-+_Mohamed Assem Ibrahim_+ \n
+Mohamed Assem Ibrahim \n
 [https://scholarworks.wm.edu/etd/1627047836/ /Rethinking Cache Hierarchy and Interconnect Design for Next-generation GPUs/] \n
 *\<span style=\"color: red\"\>(Winner of the Distinguished Dissertation Award)\<\/span\>* ([https://www.wm.edu/as/graduate/studentresources/honors-awards/thesisaward/award-recipients/index.php details]) \n
 Committee Members: *Adwait Jog* (Advisor and Chair), Dmitry Evtyushkin, Bin Ren, Andreas Stathopoulos, Asit Mishra
@@ -62,7 +60,7 @@ Committee Members: *Adwait Jog* (Advisor and Chair), Dmitry Evtyushkin, Bin Ren,
 === 
 *\<span style=\"color: forestgreen\"\>(Ph.D. Dissertation, 2021)\<\/span\>* 
 \[[https://scholarworks.wm.edu/etd/1627047873/ PDF]] \n
-+_Gurunath Kadam_+ \n
+Gurunath Kadam \n
 [https://scholarworks.wm.edu/etd/1627047873/ /Low-Overhead Techniques for Secure and Reliable GPU Computing/] \n
 Committee Members: *Adwait Jog* (Advisor and Chair), Dmitry Evtyushkin, Bin Ren, Evgenia Smirni, Ashutosh Pattnaik
 
@@ -70,7 +68,7 @@ Committee Members: *Adwait Jog* (Advisor and Chair), Dmitry Evtyushkin, Bin Ren,
 *\<span style=\"color: forestgreen\"\>(Cluster 2021)\<\/span\>* 
 \[[docs/pdf/liu-cluster21.pdf PDF]]
 \[[docs/pptx/cluster21-weighttransfer.pptx Talk (PPTX)]] \n
-+_Hongyuan Liu_+, Bogdan Nicolae, Sheng Di, Franck Cappello, *Adwait Jog* \n
+Hongyuan Liu, Bogdan Nicolae, Sheng Di, Franck Cappello, *Adwait Jog* \n
 [docs/pdf/liu-cluster21.pdf /Accelerating DNN Architecture Search at Scale using Selective Weight Transfer/], \n
 In the Proceedings of 23rd IEEE Cluster 2021 International Conference, Virtual Event, Sept 2021 \n
 (Acceptance rate: 48/163 ≈ 29%) \n
@@ -79,7 +77,7 @@ In the Proceedings of 23rd IEEE Cluster 2021 International Conference, Virtual E
 *\<span style=\"color: forestgreen\"\>(DSN 2021)\<\/span\>* 
 \[[docs/pdf/kadam-gpu-reliability-dsn21.pdf PDF]] 
 \[[https://www.youtube.com/watch?v=hlPSA2SFeRQ YouTube Video]] \n
-+_Gurunath Kadam_+, Evgenia Smirni, *Adwait Jog* \n
+Gurunath Kadam, Evgenia Smirni, *Adwait Jog* \n
 [docs/pdf/kadam-gpu-reliability-dsn21.pdf /Data-centric Reliability Management in GPUs/], \n
 In the Proceedings of 51st IEEE International Conference on Dependable Systems and Networks
 (DSN), Virtual Event, June 2021 \n
@@ -89,7 +87,7 @@ In the Proceedings of 51st IEEE International Conference on Dependable Systems a
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* 
 \[[https://dl.acm.org/doi/abs/10.1145/3447375 PDF]]
 \[[https://www.youtube.com/watch?v=UedRUjFfU1U YouTube Full Video]]  \n
-_Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni \n
+Lishan Yang, Bin Nie, *Adwait Jog*, Evgenia Smirni \n
 [https://dl.acm.org/doi/abs/10.1145/3447375 /SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing/], \n
 In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, Virtual Event, June 2021 \n 
 (Acceptance rate: ≈ 12%) \n 
@@ -98,7 +96,7 @@ In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (
 *\<span style=\"color: forestgreen\"\>(ICSE 2021)\<\/span\>* 
 \[[https://arxiv.org/abs/2103.02825 PDF]]  
 \[[https://www.youtube.com/watch?v=diuja8kH1dA YouTube Full Video]]  \n
-_Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni \n
+Lishan Yang, Bin Nie, *Adwait Jog*, Evgenia Smirni \n
 [https://arxiv.org/abs/2103.02825 /Enabling Software Resilience in GPGPU Applications via Partial Thread Protection/], \n
 In the Proceedings of 43rd International Conference on Software Engineering (ICSE), Virtual Event, May 2021  \n
 (Acceptance rate: 138/615 ≈ 22%) \n
@@ -107,7 +105,7 @@ In the Proceedings of 43rd International Conference on Software Engineering (ICS
 *\<span style=\"color: forestgreen\"\>(HPCA 2021)\<\/span\>* 
 \[[docs/pdf/decoupledl1-hpca21.pdf PDF]]
 \[[https://www.youtube.com/watch?v=3YbrS9UpTZ0 YouTube Full Video]] \n
-+_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
+Mohamed Assem Ibrahim, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
 [docs/pdf/decoupledl1-hpca21.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/], \n
 In the Proceedings of 27th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), Virtual Event, Feb 2021  \n 
@@ -116,7 +114,7 @@ Computer Architecture (HPCA), Virtual Event, Feb 2021  \n
 === 
 *\<span style=\"color: forestgreen\"\>(TC 2021)\<\/span\>* 
 \[[docs/pdf/tc-pruning.pdf PDF]] \n
-_Lishan Yang_, _Bin Nie_, *Adwait Jog*, Evgenia Smirni \n
+Lishan Yang, Bin Nie, *Adwait Jog*, Evgenia Smirni \n
 [docs/pdf/tc-pruning.pdf /Practical Resilience Analysis of GPGPU 
 Applications in the Presence of Single-and Multi-bit Faults/], \n
 In IEEE Transactions on Computers (TC), Jan 2021 \n
@@ -133,7 +131,7 @@ Committee Members: *Adwait Jog* (Advisor and Chair), Xu Liu, Bin Ren, Evgenia Sm
 \[[docs/pdf/sharedl1-pact20.pdf PDF]] 
 \[[docs/pptx/sharedl1-pact20.pptx Talk (PPTX)]] 
 \[[https://www.youtube.com/watch?v=CGIhOnt7F6s YouTube Full Video]] \n
-+_Mohamed Assem Ibrahim_+, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
+Mohamed Assem Ibrahim, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, *Adwait Jog* \n
 [docs/pdf/sharedl1-pact20.pdf /Analyzing and Leveraging Shared L1 Caches in GPUs/], \n
 In the Proceedings of 29th International Conference on Parallel Architectures 
 and Compilation Techniques (PACT), Virtual Event, October 2020 \n
@@ -145,7 +143,7 @@ and Compilation Techniques (PACT), Virtual Event, October 2020 \n
 \[[docs/pptx/nfagpu-asplos20.pptx PPTX]] 
 \[[https://github.com/insight-cal/gpunfa-artifact Artifact]] 
 \[[https://www.youtube.com/watch?v=ShcjkBDs8TI YouTube Full Video]] \n
-+_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
+Hongyuan Liu, Sreepathi Pai, *Adwait Jog* \n
 [https://par.nsf.gov/servlets/purl/10206640 /Why GPUs are Slow at Executing NFAs and How to Make them Faster/], \n
 In the Proceedings of 25th ACM International Conference on Architectural Support for Programming Languages
 and Operating Systems (ASPLOS), Virtual Event, March, 2020 \n 
@@ -156,7 +154,7 @@ and Operating Systems (ASPLOS), Virtual Event, March, 2020 \n
 \[[docs/pdf/bcoal-hpca20.pdf PDF]] 
 \[[docs/pptx/bcoal-hpca20.pptx PPTX]] 
 \[[https://www.youtube.com/watch?v=Iyld3gsaUUs&amp=&feature=youtu.be YouTube Trailer]] \n
-+_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
+Gurunath Kadam, Danfeng Zhang, *Adwait Jog* \n
 [docs/pdf/bcoal-hpca20.pdf /BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs/], \n
 In the Proceedings of 26th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), San Diego, CA, Feb 2020  \n 
@@ -165,7 +163,7 @@ Computer Architecture (HPCA), San Diego, CA, Feb 2020  \n
 === 
 *\<span style=\"color: forestgreen\"\>(CCGrid 2020)\<\/span\>* 
 \[[docs/pdf/accuracy-aware-reliablity-ccgrid.pdf PDF]] \n
-_Bin Nie_, *Adwait Jog*, Evgenia Smirni \n
+Bin Nie, *Adwait Jog*, Evgenia Smirni \n
 [docs/pdf/accuracy-aware-reliablity-ccgrid.pdf /Characterizing Accuracy-Aware Resilience of GPGPU Applications/], \n
 In the Proceedings of 20th IEEE International Symposium on Cluster, 
 Cloud and Internet Computing, Melbourne, Victoria, Australia  \n 
@@ -175,7 +173,7 @@ Cloud and Internet Computing, Melbourne, Victoria, Australia  \n
 *\<span style=\"color: forestgreen\"\>(PACT 2019)\<\/span\>* 
 \[[docs/pdf/remote-core-pact19.pdf PDF]] 
 \[[docs/pptx/Remote_BW_PACT2019-Slides.pptx Talk (PPTX)]] \n
-+_Mohamed Assem Ibrahim_+, +_Hongyuan Liu_+, Onur Kayiran, *Adwait Jog* \n
+Mohamed Assem Ibrahim, Hongyuan Liu, Onur Kayiran, *Adwait Jog* \n
 [docs/pdf/remote-core-pact19.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/], \n
 In the Proceedings of 28th International Conference on Parallel Architectures 
 and Compilation Techniques (PACT), Seattle, WA, September 2019
@@ -185,7 +183,7 @@ and Compilation Techniques (PACT), Seattle, WA, September 2019
 *\<span style=\"color: forestgreen\"\>(DSN 2019)\<\/span\>* 
 \[[docs/pdf/lmc-dsn19.pdf PDF]]
 \[[docs/pptx/LMC_DSN2019-Slides.pptx Talk (PPTX)]] \n
-+_Haonan Wang_+, *Adwait Jog* \n
+Haonan Wang, *Adwait Jog* \n
 [docs/pdf/lmc-dsn19.pdf /Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM/], \n
 In the Proceedings of 49th IEEE International Conference on Dependable Systems and Networks
 (DSN), Portland, OR, June 2019 \n
@@ -195,7 +193,7 @@ In the Proceedings of 49th IEEE International Conference on Dependable Systems a
 *\<span style=\"color: forestgreen\"\>(ICS 2019)\<\/span\>* 
 \[[docs/pdf/asap-ics19.pdf PDF]] 
 \[[docs/pptx/ASAP_ICS2019-Slides.pptx Talk (PPTX)]] \n
-+_Haonan Wang_+, +_Mohamed Assem Ibrahim_+, Sparsh Mittal, *Adwait Jog* \n
+Haonan Wang, Mohamed Assem Ibrahim, Sparsh Mittal, *Adwait Jog* \n
 [docs/pdf/asap-ics19.pdf /Address-Stride Assisted Approximate Value Prediction in GPUs/], \n
 In the Proceedings of 33rd ACM International Conference on Super Computing (ICS), 
 Phoenix, Arizona, June 2019 \n
@@ -225,7 +223,7 @@ In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (
 \[[docs/pdf/hotcoldap-micro18-poster.pdf Poster (PDF)]] 
 \[[docs/pdf/summary-hotcold-ap-micro18.pdf 2-page Summary (PDF)]] 
 \[[https://www.youtube.com/watch?v=-kXyyXxe82Y&feature=youtu.be YouTube Trailer]] \n
-+_Hongyuan Liu_+, +_Mohamed Assem Ibrahim_+, Onur Kayiran, Sreepathi Pai, *Adwait Jog* \n
+Hongyuan Liu, Mohamed Assem Ibrahim, Onur Kayiran, Sreepathi Pai, *Adwait Jog* \n
 [docs/pdf/hotcoldap-micro18.pdf /Architectural Support for Efficient Large-Scale Automata Processing/], \n
 In the Proceedings of 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018 \n
 (Acceptance rate: 74/351 ≈ 21%) \n
@@ -236,7 +234,7 @@ In the Proceedings of 51st International Symposium on Microarchitecture (MICRO),
 \[[docs/pptx/pruning-micro18.pptx Talk (PPTX)]] 
 \[[docs/pdf/pruning-micro18-poster.pdf Poster (PDF)]] 
 \[[https://www.youtube.com/watch?v=_4kJyhz-uAw&feature=youtu.be YouTube Trailer]] \n
-_Bin Nie_, _Lishan Yang_, *Adwait Jog*, Evgenia Smirni \n
+Bin Nie, Lishan Yang, *Adwait Jog*, Evgenia Smirni \n
 [docs/pdf/pruning-micro18.pdf /Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications/], \n
 In the Proceedings of 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018 \n
 (Acceptance rate: 74/351 ≈ 21%) \n
@@ -256,7 +254,7 @@ and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018 \n
 \[[docs/pdf/pbs-hpca18.pdf PDF]]
 \[[docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
 \[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
-+_Haonan Wang_+, +_Fan Luo_+, +_Mohamed Assem Ibrahim_+, Onur Kayiran, *Adwait Jog* \n
+Haonan Wang, Fan Luo, Mohamed Assem Ibrahim, Onur Kayiran, *Adwait Jog* \n
 [docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
 (Acceptance rate: 54/260 ≈ 20%) \n
@@ -266,7 +264,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 \[[docs/pdf/rcoal-hpca18.pdf PDF]]
 \[[docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
 \[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
-+_Gurunath Kadam_+, Danfeng Zhang, *Adwait Jog* \n
+Gurunath Kadam, Danfeng Zhang, *Adwait Jog* \n
 [docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
 Subwarp-based Randomized Coalescing Techniques/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance 
@@ -276,7 +274,7 @@ Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n
 === 2017
 *\<span style=\"color: forestgreen\"\>(ISVLSI 2017)\<\/span\>*
 \[[docs/pdf/sotram-isvlsi17.pdf PDF]] \n
-Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, +_Haonan Wang+_, Mehdi Tahoori, *Adwait Jog*, Jeffrey Vetter \n
+Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, Haonan Wang, Mehdi Tahoori, *Adwait Jog*, Jeffrey Vetter \n
 [docs/pdf/sotram-isvlsi17.pdf /Architecting SOT-RAM Based GPU Register File/], \n
 In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 \n
 (Acceptance rate: 67/212 ≈ 32%) \n
@@ -284,14 +282,14 @@ In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, J
 === 
 *\<span style=\"color: forestgreen \"\>(AIM@PACT 2017)\<\/span\>* 
 \[[docs/pdf/paper_hengyu_zhao_aim2017.pdf PDF]] \n
-Hengyu Zhao, +_Colin Weinshenker_+, +_Mohamed Assem Ibrahim_+, *Adwait Jog*, Jishen Zhao \n
+Hengyu Zhao, Colin Weinshenker, Mohamed Assem Ibrahim, *Adwait Jog*, Jishen Zhao \n
 /Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
 In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>*
 \[[docs/pdf/Controlled-DP-HPCA-2017.pdf PDF]] \n
-Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, *Adwait Jog*, Sreepathi Pai, +_Mohamed Assem Ibrahim_+, Mahmut Kandemir, Chita R. Das \n
+Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, *Adwait Jog*, Sreepathi Pai, Mohamed Assem Ibrahim, Mahmut Kandemir, Chita R. Das \n
 [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/], \n
 In the Proceedings of 23rd IEEE Symposium on High Performance Computer Architecture (HPCA), Austin, TX, Feb 2017  \n
 (Acceptance rate: 50/224 ≈ 22%) \n
@@ -300,7 +298,7 @@ In the Proceedings of 23rd IEEE Symposium on High Performance Computer Architect
 *\<span style=\"color: forestgreen\"\>(VLSID 2017)\<\/span\>*
 \[[docs/pdf/GPU-SE-VLSID-2017.pdf PDF]]
 \[[docs/pptx/GPU-SE-VLSID-2017.pptx Talk (PPTX)]] \n
-Sparsh Mittal, +_Haonan Wang+_, *Adwait Jog*, Jeffrey Vetter \n
+Sparsh Mittal, Haonan Wang, *Adwait Jog*, Jeffrey Vetter \n
 [docs/pdf/GPU-SE-VLSID-2017.pdf /Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File/], \n
 In the Proceedings of 30th International Conference on VLSI design and 16th International Conference on Embedded Systems, 
 Hyderabad, India, Jan 2017 \n
@@ -319,7 +317,7 @@ In the Proceedings of 49th International Symposium on Micro Architecture (MICRO)
 *\<span style=\"color: forestgreen\"\>(IISWC 2016)\<\/span\>*
 \[[docs/pdf/quantum-iiswc2016.pdf PDF]]
 \[[docs/pptx/quantum-iiswc2016.pptx Talk (PPTX)]] \n
-+_Robert Risque+_, *Adwait Jog* \n
+Robert Risque, *Adwait Jog* \n
 [docs/pdf/quantum-iiswc2016.pdf /Characterization of Quantum Workloads on SIMD Architectures/], \n
 In the Proceedings of International Symposium on Workload Characterization, Providence, RI, September 2016 \n
 (Acceptance rate: 21/71 ≈ 29%) \n
