@@ -29,14 +29,15 @@
 +My advisee+~~~~~~~_Student Affilation_
 
 === 2023
-*\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* 
+*\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* \n
 +_Hongyuan Liu_+, Sreepathi Pai, *Adwait Jog* \n
 [coming.html /Asynchronous Automata Processing on GPUs/], \n
 In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, FCRC, Orlando, FL, June 2023 \n 
 
 
 === 2022
-*\<span style=\"color: forestgreen\"\>(ISVLSI 2022)\<\/span\>* 
+*\<span style=\"color: forestgreen\"\>(ISVLSI 2022)\<\/span\>*
+\[[https://ieeexplore.ieee.org/document/9912002 PDF]] \n
 Khoa Ho, Hui Zhao, *Adwait Jog*, Saraju Mohanty \n
 [https://ieeexplore.ieee.org/document/9912002 /Improving GPU Throughput through Parallel Execution Using Tensor Cores and CUDA Cores/], \n
 In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Pafos, Cyprus, July 2022 \n
