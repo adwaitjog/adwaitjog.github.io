@@ -11,7 +11,6 @@
             <li class="active"><a href="https://adwaitjog.github.io/software.html">Artifacts</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/misc.html">Misc.</a></li>
             <li class="active"><a href="https://insight-cal.github.io/">Research Group</a></li>
           </ul>
       </div>
@@ -32,12 +31,10 @@
 
 == About
 
-Since January 2023, I am an Associate Professor of Computer Science at the [https://engineering.virginia.edu/faculty/adwait-jog University of Virginia] 
-where I am leading the [https://insight-cal.github.io/ Insight Computer Architecture Lab]. Before joining UVA, I was the 
-Adina Allen Associate Professor of Computer Science at William & Mary. 
+Since January 2023, I am an Associate Professor (with Tenure) in the Department of Computer Science at the [https://engineering.virginia.edu/faculty/adwait-jog University of Virginia]. Before joining UVA, I was the Adina Allen Associate Professor (with Tenure) in the Department of Computer Science at William & Mary. 
 
-*\<span style=\"color: red\"\> I am looking for motivated students interested in the general area of computer architecture & systems, including 
-(but not limited to) accelerators, GPUs, quantum computing, reliability, or security. \<\/span\>*
+*\<span style=\"color: red\"\>  I am leading the [https://insight-cal.github.io/ Insight Computer Architecture Lab]
+and looking for motivated students interested in the general area of computer architecture & systems, including (but not limited to) accelerators, GPUs, quantum computing, reliability, or security. \<\/span\>*
 
 A high-level summary of my group's prior work at William & Mary can be found [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] 
 and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
