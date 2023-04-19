@@ -26,12 +26,26 @@
 === [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html (DBLP with DOI Links)] [https://orcid.org/0000-0002-5525-7204 (ORCID)]
 
 === 2023
+*\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>*
+\[[coming.html PDF]] \n
+Rishabh Jain, Scott Cheng, Vishwas Kalagi, Vrushabh Sanghavi, Samvit Kaul, Meena Arunachalam, Kiwan Maeng, *Adwait Jog*, Anand Sivasubramaniam, Mahmut T. Kandemir, and Chita R. Das \n
+[coming.html /Optimizing CPU Performance for Recommendation Systems At-Scale/], \n
+In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), FCRC, Orlando, FL, June 2023 \n 
+(Acceptance rate: 79/372 ≈ 21%) \n
+
+=== 
 *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>*
 \[[https://dl.acm.org/doi/10.1145/3579453 PDF]] \n
 Hongyuan Liu, Sreepathi Pai, *Adwait Jog* \n
 [https://dl.acm.org/doi/10.1145/3579453 /Asynchronous Automata Processing on GPUs/], \n
-In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, FCRC, Orlando, FL, June 2023 \n 
+In the Proceedings of ACM Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference, FCRC, Orlando, FL, June 2023 \n 
 
+=== 
+*\<span style=\"color: forestgreen\"\>(ISPASS 2023, Poster)\<\/span\>*
+\[[coming.html PDF]] \n
+Ying Li, Yifan Sun, *Adwait Jog* \n
+[coming.html /A Regression-based Model for End-to-End Latency Prediction for DNN Execution on GPUs/], \n
+In the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Raleigh, NC, April 2023 \n 
 
 === 2022
 *\<span style=\"color: forestgreen\"\>(ISVLSI 2022)\<\/span\>*

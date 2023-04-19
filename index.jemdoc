@@ -31,7 +31,7 @@
 
 == About
 
-Since January 2023, I am an Associate Professor (with Tenure) in the Department of Computer Science at the [https://engineering.virginia.edu/faculty/adwait-jog University of Virginia]. Before joining UVA, I was the Adina Allen Associate Professor (with Tenure) in the Department of Computer Science at William & Mary. 
+I am an Associate Professor (with Tenure) and Anita Jones Faculty Fellow in the Department of Computer Science at the [https://engineering.virginia.edu/faculty/adwait-jog University of Virginia]. Before joining UVA in January 2023, I was the Adina Allen Associate Professor (with Tenure) in the Department of Computer Science at William & Mary. 
 
 *\<span style=\"color: red\"\>  I am leading the [https://insight-cal.github.io/ Insight Computer Architecture Lab]
 and looking for motivated students interested in the general area of computer architecture & systems, including (but not limited to) accelerators, GPUs, quantum computing, reliability, or security. \<\/span\>*
@@ -40,7 +40,8 @@ A high-level summary of my group's prior work at William & Mary can be found [ht
 and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
 
 == Recent and Selected Publications ([https://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* [https://adwaitjog.github.io/coming.html /Asynchronous Automata Processing on GPUs/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>* [coming.html /Optimizing CPU Performance for Recommendation Systems At-Scale/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579453 /Asynchronous Automata Processing on GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2021)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/kadam-gpu-reliability-dsn21.pdf /Data-centric Reliability Management in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* [https://dl.acm.org/doi/abs/10.1145/3447375 /SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing/]
 - *\<span style=\"color: forestgreen\"\>(HPCA 2021)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/decoupledl1-hpca21.pdf /Analyzing and Leveraging Decoupled L1 Caches in GPUs/]
@@ -60,7 +61,7 @@ and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-in
 - *\<span style=\"color: forestgreen\"\>(ASPLOS 2018)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/mask-asplos18.pdf MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency]
 
 == Recent Committees ([https://adwaitjog.github.io/service.html complete list])
-- Program Committees: ISCA 2023, HPCA 2023, ASPLOS 2023 (ERC), ASPLOS 2022, ISPASS 2022, GPGPU 2022, MICRO 2021, ISCA 2021, DSN 2021, HPCA 2021, HPCA 2020, MICRO 2020 (ERC), ISCA 2020 (ERC), ASPLOS 2020 (ERC)
+- Program Committees: MICRO 2023, ISCA 2023, HPCA 2023, ASPLOS 2023 (ERC), ASPLOS 2022, ISPASS 2022, GPGPU 2022, MICRO 2021, ISCA 2021, DSN 2021, HPCA 2021, HPCA 2020, MICRO 2020 (ERC), ISCA 2020 (ERC), ASPLOS 2020 (ERC)
 - Organization Committees: PACT 2020 (ACM SRC chair), GPGPU 2020 (Workshop co-chair), MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), GPGPU 2019 (Workshop co-chair)
 
 
