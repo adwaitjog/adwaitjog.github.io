@@ -1,17 +1,17 @@
 == CS 6354: Computer Architecture, Fall 2023
 
 == General Information
-- Time and Location: Tuesday/Thursday 12:30 PM-1:45 PM, Rice Hall 032
+- Time and Location: Tuesday/Thursday 12:30 PM - 1:45 PM, Rice Hall 032
 
 - Instructor: *Adwait Jog* [https://adwaitjog.github.io (Website)]
--- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM or by appointment, Rice 502
+-- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 502
 -- Email: ajog@virginia.edu
 
 - Teaching Assistant: *TBD*
 -- Office hours: TBD
 -- Email: TBD
 
-- Exam Dates: Mid-term Exam (TBD, in-class) and Final Exam is on Dec 8, 2023 (2 PM to 5 PM). Refer to the [https://registrar.virginia.edu/exam-schedules/exam-schedule-fall-2023 Fall 2023 Final Exam Schedule] and [https://registrar.virginia.edu/calendar/academic/2023-2024 Academic Calendar] for more details. Unless otherwise specified, exams will be conducted in our same classroom.
+- Exam Dates: Mid-term Exam (TBD, in-class) and Final Exam is on Dec 8, 2023 (2 PM to 5 PM). Refer to the [https://registrar.virginia.edu/exam-schedules/exam-schedule-fall-2023 Fall 2023 Final Exam Schedule] and [https://registrar.virginia.edu/calendar/academic/2023-2024 Academic Calendar] for more details. Unless otherwise specified, exams will be conducted in the same classroom.
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
@@ -19,13 +19,13 @@
 SIS Description: Study of representative digital computer organization with an emphasis on control unit logic, input/output processors and devices, asynchronous processing, concurrency, and parallelism. Memory hierarchies. 
 More details can be found [https://louslist.org/sectiontip.php?Semester=1238&ClassNumber=20351 here].
 
-Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and Design is expected. Experience with Python programming is desired (equivalent to CS 1110/1111). If you do not meet these requirements or expectations, please talk to the instructor.
+Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and Design is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet these requirements or expectations, please talk to the instructor in the first week of classes.
 
 == Textbook and Resources
 - *Textbook 1:* Computer Organization and Design, Patterson & Hennessey, /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details. 
 - *Textbook 2:* Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/, see [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1 this website] for more details.
 - *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. 
-- *Help:* It is important to start working on homework, projects, and other deliverables early. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+- *Help:* It is important to start working early on homework, projects, and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
 
 == Grading 
 - Homework Assignments (25%) 
@@ -71,7 +71,7 @@ However, we do have the following policy:
 - Students are required to follow the UVA Honor Code. More details can be found [https://honor.virginia.edu/ here].
 
 == Students with disabilities or learning needs
-It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services [http://sdac.studenthealth.virginia.edu/ online]. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services [https://www.studenthealth.virginia.edu/SDAC online]. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
 
 == Discrimination and power-based violence
 
@@ -81,10 +81,8 @@ If you or someone you know has been affected by power-based personal violence, m
 
 As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and federal law to report what you tell me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also reviewing the information presented to determine whether further action is necessary to ensure survivor safety and the safety of the University community. If you wish to report something that you have seen, you can do so at the [http://justreportit.virginia.edu/ Just Report It portal]. The worst possible situation would be for you or your friend to remain silent when there are so many here willing and able to help.
 
-
 == Religious accommodations
-It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [https://eocr.virginia.edu/ University’s Office for Equal Opportunity and Civil Rights (EOCR)].
-
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [https://eocr.virginia.edu/religious-accommodations University’s Office for Equal Opportunity and Civil Rights (EOCR)].
 
 == Acknowledgments
 The majority of the course materials used in this course are adapted from the courses taught by many faculty members: Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (CMU/ETH), Ashish Venkat (UVA), Samira Khan (UVA), Tor Aamodt (UBC). Thank you, all! 
