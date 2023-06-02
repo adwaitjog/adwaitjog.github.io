@@ -22,9 +22,17 @@ More details can be found [https://louslist.org/sectiontip.php?Semester=1238&Cla
 Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and Design is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet these requirements or expectations, please talk to the instructor in the first week of classes.
 
 == Textbook and Resources
-- *Textbook 1:* Computer Organization and Design, Patterson & Hennessey, /5th Edition (MIPS Edition)/, see [http://store.elsevier.com/Computer-Organization-and-Design/David-Patterson/isbn-9780124077263/ this website] for more details. 
-- *Textbook 2:* Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/, see [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1 this website] for more details.
+
+- *Required Textbook:* Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/, see [https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1 this website] for more details.
+
+- *Recommended Textbook 1:* Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
+
+- *Recommended Textbook 2:* Computer Organization and Design, Patterson & Hennessey, /5th Edition (MIPS Edition)/.
+
+- *Recommended Textbook 3:* Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/.
+
 - *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. 
+
 - *Help:* It is important to start working early on homework, projects, and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
 
 == Grading 
