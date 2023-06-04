@@ -19,7 +19,8 @@
 SIS Description: Study of representative digital computer organization with an emphasis on control unit logic, input/output processors and devices, asynchronous processing, concurrency, and parallelism. Memory hierarchies. 
 More details can be found [https://louslist.org/sectiontip.php?Semester=1238&ClassNumber=20351 here].
 
-Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and Design is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet these requirements or expectations, please talk to the instructor in the first week of classes.
+Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and Design 
+is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet these requirements or expectations, please talk to the instructor in the first week of classes.
 
 == Textbook and Resources
 
@@ -32,7 +33,8 @@ Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic 
 
 == Grading 
 - Homework Assignments (25%) 
-- Class Attendance (In-person) and Activities (mostly in-class) (25%)
+- Class Attendance (In-person) (10%)
+- Activities (mostly In-class) (15%)
 - In-person Midterm Exam (25%)
 - In-person Final Exam (25%)
 - Final letter grades will be given based on the standard scale used in UVA. Grades may be curved at the instructor's discretion.
