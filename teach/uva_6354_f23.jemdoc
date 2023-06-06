@@ -11,8 +11,7 @@
 -- Office hours: TBD
 -- Email: TBD
 
-- Exam Dates: Final Exam is on Dec 8, 2023 (2 PM to 5 PM). Refer to the [https://registrar.virginia.edu/exam-schedules/exam-schedule-fall-2023 Fall 2023 Final Exam Schedule] and [https://registrar.virginia.edu/calendar/academic/2023-2024 Academic Calendar] for more details. Unless otherwise 
-specified, exams will be conducted in the same classroom.
+- Exam Dates: Final Exam is on Dec 8, 2023 (2 PM to 5 PM). Refer to the [https://registrar.virginia.edu/exam-schedules/exam-schedule-fall-2023 Fall 2023 Final Exam Schedule] and [https://registrar.virginia.edu/calendar/academic/2023-2024 Academic Calendar] for more details. Unless otherwise specified, exams will be conducted in the same classroom.
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
@@ -26,7 +25,6 @@ Design is expected. Experience with Python programming (equivalent to CS 1110/11
 these requirements or expectations, please talk to the instructor in the first week of classes.
 
 == Textbook and Resources
-
 - *Required Textbook:* Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/.
 - *Recommended Textbook 1:* Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/.
 - *Recommended Textbook 2:* Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
@@ -93,4 +91,8 @@ As your professor and as a person, know that I care about you and your well-bein
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [https://eocr.virginia.edu/religious-accommodations University’s Office for Equal Opportunity and Civil Rights (EOCR)].
 
 == Acknowledgments
-The majority of the course materials used in this course are adapted from the courses taught by many faculty members: Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Ashish Venkat (UVA), Samira Khan (UVA), Tor Aamodt (UBC). Thank you, all! 
+The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank
+Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Ashish Venkat (UVA), Samira Khan (UVA) for their contributions.
+
+
+
