@@ -40,7 +40,7 @@ A high-level summary of my group's prior work at William & Mary can be found [ht
 and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
 
 == Recent and Selected Publications ([https://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>* [coming.html /Optimizing CPU Performance for Recommendation Systems At-Scale/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579371.3589112 /Optimizing CPU Performance for Recommendation Systems At-Scale/]
 - *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579453 /Asynchronous Automata Processing on GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2021)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/kadam-gpu-reliability-dsn21.pdf /Data-centric Reliability Management in GPUs/]
 - *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2021)\<\/span\>* [https://dl.acm.org/doi/abs/10.1145/3447375 /SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing/]

@@ -27,9 +27,9 @@
 
 === 2023
 *\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>*
-\[[coming.html PDF]] \n
+\[[https://dl.acm.org/doi/10.1145/3579371.3589112 PDF]] \n
 Rishabh Jain, Scott Cheng, Vishwas Kalagi, Vrushabh Sanghavi, Samvit Kaul, Meena Arunachalam, Kiwan Maeng, *Adwait Jog*, Anand Sivasubramaniam, Mahmut T. Kandemir, and Chita R. Das \n
-[coming.html /Optimizing CPU Performance for Recommendation Systems At-Scale/], \n
+[https://dl.acm.org/doi/10.1145/3579371.3589112 /Optimizing CPU Performance for Recommendation Systems At-Scale/], \n
 In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), FCRC, Orlando, FL, June 2023 \n 
 (Acceptance rate: 79/372 ≈ 21%) \n
 
@@ -42,9 +42,9 @@ In the Proceedings of ACM Measurement and Analysis of Computing Systems (POMACS 
 
 === 
 *\<span style=\"color: forestgreen\"\>(ISPASS 2023, Poster)\<\/span\>*
-\[[coming.html PDF]] \n
+\[[https://ieeexplore.ieee.org/document/10158155 PDF]] \n
 Ying Li, Yifan Sun, *Adwait Jog* \n
-[coming.html /A Regression-based Model for End-to-End Latency Prediction for DNN Execution on GPUs/], \n
+[https://ieeexplore.ieee.org/document/10158155 /A Regression-based Model for End-to-End Latency Prediction for DNN Execution on GPUs/], \n
 In the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Raleigh, NC, April 2023 \n 
 
 === 2022
