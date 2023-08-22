@@ -28,7 +28,7 @@ these requirements or expectations, please talk to the instructor in the first w
 - *Required Textbook:* Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/.
 - *Recommended Textbook 1:* Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/.
 - *Recommended Textbook 2:* Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
-- *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. 
+- *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
 - *Help:* It is important to start working early on homework assignments, project, and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
 
 == Grading 
@@ -38,7 +38,7 @@ these requirements or expectations, please talk to the instructor in the first w
 - Semester-long project (20%)
 - In-class Mid-term exam (15%)
 - Final exam (15%)
-- Grades may be curved at the instructor's discretion.
+- Grades may be curved at the instructor's discretion. More details can be found [https://uvacsadvising.org/policies.html#cs-department-grading-guidelines here].
 
 == Class Attendance (In-person)
 - The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
@@ -54,7 +54,7 @@ However, we do have the following policy:
 -- The lowest score on the activities will not be counted.
 
 == Homework Assignments
-- Homework assignments should be submitted electronically on Canvas by *23:00* hrs on the due date in *PDF* format. You may use MS-word or Latex to typeset your answers, however, the final submission must be in the *PDF* format. Submission in any other format (including hand-written and then scanned PDFs) will not be graded and will receive /zero/. 
+- Homework assignments should be submitted electronically on Canvas (Gradescope) by *23:00* hrs on the due date in *PDF* format. You may use MS-word or Latex to typeset your answers, however, the final submission must be in the *PDF* format. Submission in any other format (including hand-written and then scanned PDFs) will not be graded and will receive /zero/. 
 - Homework submission deadlines are *hard*. However, we do have a late/miss policy for homework only:
 -- You can have up to a 48-hour extension for any two (2) homeworks of your choice. 
 -- If you use up all your two (2) extensions, homeworks will not be accepted after the deadline 
