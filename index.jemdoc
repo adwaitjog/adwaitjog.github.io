@@ -31,17 +31,19 @@
 
 == About
 
-I am an Associate Professor (with Tenure) and Anita Jones Faculty Fellow in the Department of Computer Science at the [https://engineering.virginia.edu/faculty/adwait-jog University of Virginia]. Before joining UVA in January 2023, I was the Adina Allen Associate Professor (with Tenure) at William & Mary. A high-level summary of my group's prior work can be found 
+I am an Associate Professor (with Tenure) and Anita Jones Faculty Fellow in the Department of Computer Science at the [https://engineering.virginia.edu/faculty/adwait-jog University of Virginia]. I am also a senior member of IEEE and ACM.
+Before joining UVA in January 2023, I was the Adina Allen Associate Professor (with Tenure) at William & Mary. A high-level summary of my group's prior work can be found 
 [https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php here] and [https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php here].
 
 *\<span style=\"color: red\"\>  Note to prospective Ph.D. students: \<\/span\>*
-We have open positions in our [https://insight-cal.github.io/ group]. If you are interested, please apply to UVA CS department and mention my name as a faculty member you are interested in working with. I will make sure to review your
+We have open positions in our [https://insight-cal.github.io/ lab]. If you are interested, please apply to UVA CS department and mention my name as a faculty member you are interested in working with. I will make sure to review your
 application. More details can be found [https://engineering.virginia.edu/future-grads/graduate-admissions here] and [https://engineering.virginia.edu/departments/computer-science/cs-graduate-program here].
 
 *\<span style=\"color: red\"\>  Note to UVA students: \<\/span\>*
-We have open positions in our [https://insight-cal.github.io/ group]. If you are interested, please send me an e-mail describing your interest.
+We have open positions in our [https://insight-cal.github.io/ lab]. If you are interested, please send me an e-mail describing your interest.
 
 == Recent and Selected Publications ([https://adwaitjog.github.io/pubs.html complete list])
+- *\<span style=\"color: forestgreen\"\>(MICRO 2023)\<\/span\>* [coming.html /Path Forward Beyond Simulators: Fast and Accurate GPU Execution Time Prediction for DNN Workloads/]
 - *\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579371.3589112 /Optimizing CPU Performance for Recommendation Systems At-Scale/]
 - *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579453 /Asynchronous Automata Processing on GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2021)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/kadam-gpu-reliability-dsn21.pdf /Data-centric Reliability Management in GPUs/]
