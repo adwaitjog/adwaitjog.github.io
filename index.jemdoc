@@ -41,7 +41,7 @@ We have open positions in our [https://insight-cal.github.io/ lab]. If you are i
 We have open positions in our [https://insight-cal.github.io/ lab]. If you are interested, please send me an e-mail describing your interest. You can also stop by my office (502 Rice). My office hours are Tuesday/Thursday 2pm to 3:30pm. 
 
 == Recent and Selected Publications ([https://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(MICRO 2023)\<\/span\>* [coming.html /Path Forward Beyond Simulators: Fast and Accurate GPU Execution Time Prediction for DNN Workloads/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3613424.3614277 /Path Forward Beyond Simulators: Fast and Accurate GPU Execution Time Prediction for DNN Workloads/]
 - *\<span style=\"color: forestgreen\"\>(ISCA 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579371.3589112 /Optimizing CPU Performance for Recommendation Systems At-Scale/]
 - *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2023)\<\/span\>* [https://dl.acm.org/doi/10.1145/3579453 /Asynchronous Automata Processing on GPUs/]
 - *\<span style=\"color: forestgreen\"\>(DSN 2021)\<\/span\>* [https://adwaitjog.github.io/docs/pdf/kadam-gpu-reliability-dsn21.pdf /Data-centric Reliability Management in GPUs/]
