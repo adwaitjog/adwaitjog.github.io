@@ -4,25 +4,30 @@
 - Time and Location: Tuesday/Thursday 11:00 AM - 12:15 PM, Rice Hall 340
 
 - Instructor: *Adwait Jog* [https://adwaitjog.github.io (Website)]
--- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 502
+-- Office hours: Tuesday/Thursday 1:00 PM - 2:00 PM; 3:00 PM - 3:30 PM, Rice 502
 -- Email: ajog@virginia.edu
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
 == Course Description and Prerequisites
 
-SIS Description: This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on components such as paper presentations, reviews, semester-long projects, and class participation.
-More details can be found [https://louslist.org/sectiontip.php?Semester=1242&ClassNumber=19401 here].
+Description: This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on components such as paper presentations, reviews, semester-long projects, and class attendance (in-person), and class participation. More details can be found [https://louslist.org/sectiontip.php?Semester=1242&ClassNumber=19401 here].
 
 Prerequisite(s): Background in computer organization and design is expected. Background on other mentioned topics (e.g., graphics, quantum, cryogenic, superconducting) is not expected.
 
 Breadth area coverage: Computer Systems
 
 == Grade Distribution
-- Class Participation: 20%
+- Class Attendance (In-person): 10%
+- Class Participation: 10%
 - Paper critiques: 25%
 - In-Class Presentations: 30%
 - Semester-long Research Project: 25%
+
+== Class Attendance (In-person)
+- The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
+- You are expected to attend *all* lectures *in-person*. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick -- please don't provide any specifics). 
+- Course staff will be taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person, no points will be deducted related to class attendance. 
 
 == Class Participation
 (20 percent) You are expected to participate in the discussions. Your participation will be evaluated by the instructor. Regular meetings with the instructor on the projects also count. There will be also scribe duties (more on this will be announced in the class).
