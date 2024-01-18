@@ -31,15 +31,15 @@ Breadth area coverage: Computer Systems
 - If you miss the class on the day of your presentation without sufficient notice, zero points will be awarded. 
 
 == Scribe
-During the papers presentations, instructor will assign 1-2 scribes. Their job would be to summarize the class discussions 
+During the papers presentations, instructor will assign scribing duties to 1-2 students. Their job would be to summarize the class discussions 
 and come up with a document that can be shared with the entire class. 
 
 == Paper Critiques
-*Deadline* for the critique submission is just before the class when the paper is scheduled to be discussed. 
+*Deadline* for the review submission is just before the class when the paper is scheduled to be discussed. 
 
 *Submission Format:* Each critique should not exceed one-page (in the PDF format) 
 and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
-(2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (4-5 lines). 
+(2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (2-3 paras). 
 
 == In-Class Presentations 
 Each student will present a few papers throughout the semester (actual number will depend on the number of 
@@ -58,15 +58,17 @@ in the presentations and final report.
 use IEEE or ACM conference formats. The report length should not be more than
 10 pages (excluding references).
 
-- Students will be asked to do two project presentations during the entire semester: 
+- Students will be also asked to do two project presentations during the entire semester: 
 mid-term presentation and final presentation.
 
-== Optional Textbook and Resources
+== Resources 
+- *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
+- *Help:* It is important to start working early on project and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+
+== Optional Textbooks and Resources
 - Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/.
 - Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/.
 - Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
-- *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
-- *Help:* It is important to start working early on project and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
 
 == Academic Integrity
 - The university, school, and department policies against academic dishonesty will be strictly enforced.
@@ -103,6 +105,6 @@ You have many resources available to you when you experience academic or persona
 The [https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering Center for Diversity in Engineering (CDE)] is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 
 == Acknowledgments
-The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Moin Qureshi (GaTech) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other companion materials available [https://www.elsevier.com/books-and-journals/book-companion/9780128119051 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128122754 here], and [https://www.elsevier.com/books-and-journals/book-companion/9780128203316 here].
+The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Moin Qureshi (GaTech), Murali Annavaram (USC) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other companion materials available [https://www.elsevier.com/books-and-journals/book-companion/9780128119051 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128122754 here], and [https://www.elsevier.com/books-and-journals/book-companion/9780128203316 here].
 
 
