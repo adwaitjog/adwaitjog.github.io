@@ -7,7 +7,6 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/software.html">Artifacts</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
             <li class="active"><a href="https://insight-cal.github.io/">Research Group</a></li>
           </ul>
@@ -16,10 +15,10 @@
 ~~~
 
 {{<a name="Talks"></a>}} 
+
+*\<span style=\"color: red\"\>  This page is no longer maintained. \<\/span\>*
+
 == Talks 
-*\<span style=\"color: red\"\>  This page will no longer be updated. \<\/span\>*
-
-
 /Breaking the Memory Wall in Current and Emerging Accelerators/ [https://adwaitjog.github.io/docs/pptx/india_talk_dec_2018.pptx (Slides)] \n
 - IBM Research, USA, March 2019
 - Microsoft Research, India, Dec 2018
