@@ -7,10 +7,8 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/talks.html">Talks</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/software.html">Artifacts</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
             <li class="active"><a href="https://insight-cal.github.io/">Research Group</a></li>
           </ul>
       </div>
@@ -20,6 +18,8 @@
 {{<a name="Service"></a>}} 
 
 == External Service
+
+*\<span style=\"color: red\"\>  This page will no longer be updated. \<\/span\>*
 
 - Organization Committees: PACT 2020 (ACM SRC chair), [http://insight-archlab.github.io/gpgpu.html GPGPU 2020] (Workshop co-chair), MICRO 2019 (Publicity co-chair), CGO 2019 (Publicity chair), [http://insight-archlab.github.io/gpgpu12.html GPGPU 2019] (Workshop co-chair), ASPLOS 2018 (Local arrangements co-chair), [https://insight-archlab.github.io/minmove.html Min-Move 2018] (Founder and Workshop Co-Chair), [http://insight-archlab.github.io/minmove17.html Min-Move 2017] (Founder and Workshop Co-Chair), ANCS 2015 (Proceedings Chair)
 
