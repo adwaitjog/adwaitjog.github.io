@@ -5,16 +5,16 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>CS 6501: Modern Computing Architectures, Spring 2024</title>
+<title>CS 6354: Computer Architecture, Fall 2024</title>
 </head>
 <body>
 <div id="layout-content">
 <div id="toptitle">
-<h1>CS 6501: Modern Computing Architectures, Spring 2024</h1>
+<h1>CS 6354: Computer Architecture, Fall 2024</h1>
 </div>
 <h2>General Information</h2>
 <ul>
-<li><p>Time and Location: Tuesday/Thursday 11:00 AM - 12:15 PM, Rice Hall 340
+<li><p>Time and Location: Tuesday/Thursday 12:30 PM - 1:45 PM, Rice Hall 032
 </p>
 </li>
 </ul>
@@ -22,7 +22,7 @@
 <li><p>Instructor: <b>Adwait Jog</b> <a href="https://adwaitjog.github.io" target=&ldquo;blank&rdquo;>(Website)</a>
 </p>
 <ul>
-<li><p>Office hours: Tuesday/Thursday 1:00 PM - 2:00 PM; 3:00 PM - 3:30 PM; or by appointment, Rice Hall 502
+<li><p>Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 502
 </p>
 </li>
 <li><p>Email: ajog@virginia.edu
@@ -33,13 +33,13 @@
 </li>
 </ul>
 <ul>
-<li><p>TA: <b>Korakit Seemakhupt</b> <a href="https://github.com/betaloha" target=&ldquo;blank&rdquo;>(Website)</a>
+<li><p>Teaching Assistant: <b>Yang Yang</b> <a href="https://elio-yang.github.io/" target=&ldquo;blank&rdquo;>(Website)</a>
 </p>
 <ul>
-<li><p>Office hours: Monday/Wednesday 1:00 PM - 2:00 PM; or by appointment, Rice Hall 442
+<li><p>Office hours: TBD
 </p>
 </li>
-<li><p>Email: korakit@virginia.edu
+<li><p>Email: yangyang AT virginia.edu
 </p>
 </li>
 </ul>
@@ -52,27 +52,50 @@
 </li>
 </ul>
 <h2>Course Description and Prerequisites</h2>
-<p>Description: This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on components such as paper presentations, reviews, semester-long projects, and class attendance (in-person), and class participation. More details can be found <a href="https://louslist.org/sectiontip.php?Semester=1242&amp;ClassNumber=19401" target=&ldquo;blank&rdquo;>here</a>.
+<p>SIS Description: Study of representative digital computer organization with an emphasis on control unit logic, 
+input/output processors and devices, asynchronous processing, concurrency, and parallelism. Memory hierarchies. 
+More details can be found <a href="https://louslist.org/sectiontip.php?Semester=1238&amp;ClassNumber=20351" target=&ldquo;blank&rdquo;>here</a>.
 </p>
-<p>Prerequisite(s): Background in computer organization and design is expected. Background on other mentioned topics (e.g., graphics, quantum, cryogenic, superconducting) is not expected.
+<p>Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and 
+Design is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet 
+these requirements or expectations, please talk to the instructor in the first week of classes.
 </p>
-<p>Breadth area coverage: Computer Systems
-</p>
-<h2>Grade Distribution</h2>
+<h2>Textbook and Resources</h2>
 <ul>
-<li><p>Class Attendance (In-person): 10%
+<li><p><b>Required Textbook:</b> Computer Architecture: A Quantitative Approach, Hennessy and Patterson, <i>Sixth Edition</i>.
 </p>
 </li>
-<li><p>Scribing: 10%
+<li><p><b>Recommended Textbook 1:</b> Computer Organization and Design, Patterson &amp; Hennessey, <i>2nd Edition (RISC-V Edition)</i>.
 </p>
 </li>
-<li><p>Paper critiques: 25%
+<li><p><b>Recommended Textbook 2:</b> Digital Design and Computer Architecture, Harris &amp; Harris, <i>RISC-V Edition</i>.
 </p>
 </li>
-<li><p>In-Class Presentations: 30%
+<li><p><b>Materials:</b> We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
 </p>
 </li>
-<li><p>Semester-long Research Project: 25%
+<li><p><b>Help:</b> It is important to start working early on homework assignments, project, and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+</p>
+</li>
+</ul>
+<h2>Grading </h2>
+<ul>
+<li><p>Class Attendance (In-person) (10%)
+</p>
+</li>
+<li><p>Activities (mostly In-class) (15%)
+</p>
+</li>
+<li><p>Homework Assignments (25%) 
+</p>
+</li>
+<li><p>Semester-long project (20%)
+</p>
+</li>
+<li><p>Two Mid-term exams (30<tt>, 15</tt> each)
+</p>
+</li>
+<li><p>Grades may be curved at the instructor's discretion. More details can be found <a href="https://uvacsadvising.org/policies.html" target=&ldquo;blank&rdquo;>here</a>.
 </p>
 </li>
 </ul>
@@ -84,72 +107,82 @@
 <li><p>You are expected to attend <b>all</b> lectures <b>in-person</b>. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick &ndash; please don't provide any specifics). 
 </p>
 </li>
-<li><p>Course staff will be taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person (exceptions listed below), no points will be deducted related to class attendance. 
-</p>
-</li>
-<li><p>If you miss the class on the day of your presentation without sufficient notice, zero points will be awarded. 
+<li><p>Course staff will be taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person, no points will be deducted related to class attendance. 
 </p>
 </li>
 </ul>
-<h2>Scribe</h2>
-<p>During the papers presentations, instructor will assign scribing duties to 1-2 students. Their job would be to summarize the class discussions and come up with a document that can be shared with the entire class. 
-</p>
-<h2>Paper Critiques</h2>
-<p><b>Deadline</b> for the review submission is just before the class when the paper is scheduled to be discussed. 
-</p>
-<p><b>Submission Format:</b> Each critique should not exceed one-page (in the PDF format) 
-and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
-(2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (2-3 paras). 
-</p>
-<h2>In-Class Presentations </h2>
-<p>Each student will present a few papers throughout the semester (actual number will depend on the number of 
-students enrolled in the class). When you present a paper, be prepared to answer a variety of questions asked 
-by the instructor or other fellow students. Paper assignment will be done by the instructor. 
-</p>
-<h2>Semester-long Research Project </h2>
+<h2>Activities (mostly In-class)</h2>
 <ul>
-<li><p>It will give you a taste of computer architecture research. Please 
-discuss with the instructor to decide on the project. Regular meetings 
-are expected with the instructor so that progress can be made. 
+<li><p>There will be periodic in-class problem-solving activities. You are expected to participate in them.
+</p>
+</li>
+<li><p>You may use your notes, lecture material, or textbook. You can also discuss with your classmates. However, please write answers on your own.
+</p>
+</li>
+<li><p>If you miss an in-class activity, <i>zero</i> points will be awarded for that activity.
+However, we do have the following policy:
+</p>
+<ul>
+<li><p>You can make up for a maximum of three (3) missed in-class activities. You can do that by submitting your answers to a TA within 72 hours of the missed activity.
+</p>
+</li>
+<li><p>The lowest score on the activities will not be counted.
 </p>
 </li>
 </ul>
+
+</li>
+</ul>
+<h2>Homework Assignments</h2>
 <ul>
-<li><p>You can do the semester-long course project in a group of two or individually. Always describe your individual contributions to the project in the presentations and final report. 
+<li><p>Homework assignments should be submitted electronically on Canvas (Gradescope) by <b>23:00</b> hrs on the due date in <b>PDF</b> format. You may use MS-word or Latex to typeset your answers, however, the final submission must be in the <b>PDF</b> format. Submission in any other format (including hand-written and then scanned PDFs) will not be graded and will receive <i>zero</i>. 
+</p>
+</li>
+<li><p>Homework submission deadlines are <b>hard</b>. However, we do have a late/miss policy for homework only:
+</p>
+<ul>
+<li><p>You can have up to a 48-hour extension for any two (2) homeworks of your choice. 
+</p>
+</li>
+<li><p>If you use up all your two (2) extensions, homeworks will not be accepted after the deadline 
+and <i>zero</i> points will be awarded.
+</p>
+</li></ul>
+</li>
+<li><p>You can collaborate on the homework problems with two more students currently enrolled in the class. However, you must write up each problem solution by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the course staff. 
 </p>
 </li>
 </ul>
+<h2>Semester-long Project</h2>
 <ul>
-<li><p>The final project report will be due in the finals week. Please
-use IEEE or ACM conference formats. The report length should not be more than
-10 pages (excluding references).
+<li><p>A semester-long project is an important part of this course. It can be survey-based. 
+</p>
+</li>
+<li><p>You may do the project in groups up to 3. Periodic communication with the course staff is expected. 
+</p>
+</li>
+<li><p>A final project report of six pages is required by the deadline (details conveyed via Piazza/Canvas). 
+</p>
+</li>
+<li><p>A list of potential project themes and papers will be provided. 
 </p>
 </li>
 </ul>
+<h2>Exams</h2>
 <ul>
-<li><p>Students will be also asked to do two project presentations during the entire semester: 
-mid-term presentation and final presentation.
+<li><p>We have two mid-term exams. Date of the exams are mentioned in the schedule. 
 </p>
 </li>
-</ul>
-<h2>Resources </h2>
-<ul>
-<li><p><b>Materials:</b> We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
+<li><p>Unless otherwise specified, exam will be conducted in the same classroom.
 </p>
 </li>
-<li><p><b>Help:</b> It is important to start working early on project and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+<li><p>The format of the exams will be discussed in class. 
 </p>
 </li>
-</ul>
-<h2>Optional Textbooks and Resources</h2>
-<ul>
-<li><p>Computer Architecture: A Quantitative Approach, Hennessy and Patterson, <i>Sixth Edition</i>.
+<li><p>No collaboration is allowed on exams.
 </p>
 </li>
-<li><p>Computer Organization and Design, Patterson &amp; Hennessey, <i>2nd Edition (RISC-V Edition)</i>.
-</p>
-</li>
-<li><p>Digital Design and Computer Architecture, Harris &amp; Harris, <i>RISC-V Edition</i>.
+<li><p>If you miss the exams, <i>zero</i> points will be awarded for that exam. 
 </p>
 </li>
 </ul>
@@ -195,7 +228,7 @@ If you or someone you know has been affected by power-based personal violence, m
 <p>The <a href="https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering" target=&ldquo;blank&rdquo;>Center for Diversity in Engineering (CDE)</a> is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 </p>
 <h2>Acknowledgments</h2>
-<p>The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Moin Qureshi (GaTech), Murali Annavaram (USC) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other companion materials available <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128119051" target=&ldquo;blank&rdquo;>here</a>, <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128122754" target=&ldquo;blank&rdquo;>here</a>, and <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128203316" target=&ldquo;blank&rdquo;>here</a>.
+<p>The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Ashish Venkat (UVA), Samira Khan (UVA) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other companion materials available <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128119051" target=&ldquo;blank&rdquo;>here</a>, <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128122754" target=&ldquo;blank&rdquo;>here</a>, and <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128203316" target=&ldquo;blank&rdquo;>here</a>.
 </p>
 <div id="footer">
 <div id="footer-text">

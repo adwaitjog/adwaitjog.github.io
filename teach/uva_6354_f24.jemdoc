@@ -1,0 +1,111 @@
+== CS 6354: Computer Architecture, Fall 2024
+
+== General Information
+- Time and Location: Tuesday/Thursday 12:30 PM - 1:45 PM, Rice Hall 032
+
+- Instructor: *Adwait Jog* [https://adwaitjog.github.io (Website)]
+-- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 502
+-- Email: ajog@virginia.edu
+
+- Teaching Assistant: *Yang Yang* [https://elio-yang.github.io/ (Website)]
+-- Office hours: TBD
+-- Email: yangyang AT virginia.edu
+
+- *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
+
+== Course Description and Prerequisites
+SIS Description: Study of representative digital computer organization with an emphasis on control unit logic, 
+input/output processors and devices, asynchronous processing, concurrency, and parallelism. Memory hierarchies. 
+More details can be found [https://louslist.org/sectiontip.php?Semester=1238&ClassNumber=20351 here].
+
+Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and 
+Design is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet 
+these requirements or expectations, please talk to the instructor in the first week of classes.
+
+== Textbook and Resources
+- *Required Textbook:* Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/.
+- *Recommended Textbook 1:* Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/.
+- *Recommended Textbook 2:* Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
+- *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
+- *Help:* It is important to start working early on homework assignments, project, and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+
+== Grading 
+- Class Attendance (In-person) (10%)
+- Activities (mostly In-class) (15%)
+- Homework Assignments (25%) 
+- Semester-long project (20%)
+- Two Mid-term exams (30%, 15% each)
+- Grades may be curved at the instructor's discretion. More details can be found [https://uvacsadvising.org/policies.html here].
+
+== Class Attendance (In-person)
+- The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
+- You are expected to attend *all* lectures *in-person*. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick -- please don't provide any specifics). 
+- Course staff will be taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person, no points will be deducted related to class attendance. 
+
+== Activities (mostly In-class)
+- There will be periodic in-class problem-solving activities. You are expected to participate in them.
+- You may use your notes, lecture material, or textbook. You can also discuss with your classmates. However, please write answers on your own.
+- If you miss an in-class activity, /zero/ points will be awarded for that activity.
+However, we do have the following policy:
+-- You can make up for a maximum of three (3) missed in-class activities. You can do that by submitting your answers to a TA within 72 hours of the missed activity.
+-- The lowest score on the activities will not be counted.
+
+== Homework Assignments
+- Homework assignments should be submitted electronically on Canvas (Gradescope) by *23:00* hrs on the due date in *PDF* format. You may use MS-word or Latex to typeset your answers, however, the final submission must be in the *PDF* format. Submission in any other format (including hand-written and then scanned PDFs) will not be graded and will receive /zero/. 
+- Homework submission deadlines are *hard*. However, we do have a late/miss policy for homework only:
+-- You can have up to a 48-hour extension for any two (2) homeworks of your choice. 
+-- If you use up all your two (2) extensions, homeworks will not be accepted after the deadline 
+and /zero/ points will be awarded.
+- You can collaborate on the homework problems with two more students currently enrolled in the class. However, you must write up each problem solution by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the course staff. 
+
+== Semester-long Project
+- A semester-long project is an important part of this course. It can be survey-based. 
+- You may do the project in groups up to 3. Periodic communication with the course staff is expected. 
+- A final project report of six pages is required by the deadline (details conveyed via Piazza/Canvas). 
+- A list of potential project themes and papers will be provided. 
+
+== Exams
+- We have two mid-term exams. Date of the exams are mentioned in the schedule. 
+- Unless otherwise specified, exam will be conducted in the same classroom.
+- The format of the exams will be discussed in class. 
+- No collaboration is allowed on exams.
+- If you miss the exams, /zero/ points will be awarded for that exam. 
+
+== Academic Integrity
+- The university, school, and department policies against academic dishonesty will be strictly enforced.
+- Students are required to follow the UVA Honor Code. More details can be found [https://honor.virginia.edu/ here].
+- The ethical use of artificial intelligence technologies is strictly at the discretion of the instructor and is otherwise prohibited without the instructor's explicit written or verbal permission. Artificial Intelligence tools may not be cited as authors, though the tools used must be fully disclosed as a source along with the capacity in which they were used. All outputs of artificial intelligence, both explicitly used and as inspiration in one’s submission, must be properly cited to its appropriate source.  
+
+== Students with disabilities or learning needs 
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may [cmacmasters@virginia.edu email] her at to schedule an appointment. For general questions please visit the [https://www.studenthealth.virginia.edu/SDAC SDAC website]. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+== Religious accommodations 
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [https://eocr.virginia.edu/religious-accommodations University’s Office for Equal Opportunity and Civil Rights (EOCR)] at UVAEOCR@virginia.edu or 434-924-3200.
+
+== Harassment, Discrimination, and Interpersonal Violence
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. 
+If you or someone you know has been affected by power-based personal violence, more information can be found on the [http://www.virginia.edu/sexualviolence UVA Sexual Violence website] that describes reporting options and resources available. 
+
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [https://uvapolicy.virginia.edu/policy/HRM-009 UVA prohibits discrimination and harassment] based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [https://uvapolicy.virginia.edu/policy/HRM-010 UVA policy] also prohibits retaliation for reporting such behavior. 
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [https://justreportit.virginia.edu/ Just Report It] or contact EOCR, the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to [https://www.studenthealth.virginia.edu/caps Counseling & Psychological Services (“CAPS”)] and [https://womenscenter.virginia.edu/counseling/our-counseling-services Women’s Center Counseling Staff and Confidential Advocates] (for students of all genders).  
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. 
+
+== Support for your career development
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
+
+== Student support team
+You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
+
+== Community and Identity
+The [https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering Center for Diversity in Engineering (CDE)] is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
+
+== Acknowledgments
+The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Ashish Venkat (UVA), Samira Khan (UVA) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other companion materials available [https://www.elsevier.com/books-and-journals/book-companion/9780128119051 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128122754 here], and [https://www.elsevier.com/books-and-journals/book-companion/9780128203316 here].
+
+
