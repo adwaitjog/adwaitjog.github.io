@@ -22,12 +22,41 @@
 
 === [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [https://dblp.org/pid/64/11467.html (DBLP with DOI Links)] [https://orcid.org/0000-0002-5525-7204 (ORCID)]
 
+=== 2024
+*\<span style=\"color: forestgreen\"\>(MICRO 2024)\<\/span\>*
+\[coming.html PDF] \n
+Rishabh Jain, Vivek M. Bhasi, *Adwait Jog*, Anand Sivasubramaniam, Mahmut T. Kandemir, Chita R. Das \n
+[coming.html /Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs/], \n
+In the Proceedings of International Symposium on Microarchitecture (MICRO), Austin, TX, November 2024 \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(ISSRE 2024)\<\/span\>* 
+\[coming.html PDF] \n
+Anna Schmedding, Lishan Yang, *Adwait Jog*, Evgenia Smirni \n
+[coming.html /Aspis: Lightweight Neural Network Protection Against Soft Errors/], \n
+In the Proceedings of IEEE International Conference on Cluster Computing (CLUSTER), Tsukuba, Japan, October 2024 \n 
+
+=== 
+*\<span style=\"color: forestgreen\"\>(CLUSTER 2024)\<\/span\>*
+\[coming.html PDF] \n
+Lishan Yang, George Papadimitriou, Dimitrios Sartzetakis, *Adwait Jog*, Evgenia Smirni, Dimitris Gizopoulos \n
+[coming.html /GPU Reliability Assessment: Insights Across the Abstraction Layers/], \n
+In the Proceedings of IEEE International Conference on Cluster Computing (CLUSTER), Kobe, Japan, September 2024 \n 
+
+=== 
+*\<span style=\"color: forestgreen\"\>(ISPASS 2024, Poster)\<\/span\>* 
+\[[https://ieeexplore.ieee.org/document/10590041 PDF]] \n
+Lishan Yang, George Papadimitriou, Dimitrios Sartzetakis, *Adwait Jog*, Evgenia Smirni, Dimitris Gizopoulos \n
+[https://ieeexplore.ieee.org/document/10590041 /Probing Weaknesses in GPU Reliability Assessment: A Cross-Layer Approach/], \n
+In the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Indianapolis, IN May 2024 \n 
+
+
 === 2023
 *\<span style=\"color: forestgreen\"\>(MICRO 2023)\<\/span\>* 
 \[[https://dl.acm.org/doi/10.1145/3613424.3614277 PDF]] \n
 Ying Li, Yifan Sun, *Adwait Jog* \n
 [https://dl.acm.org/doi/10.1145/3613424.3614277 /Path Forward Beyond Simulators: Fast and Accurate GPU Execution Time Prediction for DNN Workloads/], \n
-In the Proceedings of 56th International Symposium on Microarchitecture (MICRO), Toronto, Canada, October 2023 \n
+In the Proceedings of International Symposium on Microarchitecture (MICRO), Toronto, Canada, October 2023 \n
 (Acceptance rate: 101/424 ≈ 24%) \n
 
 === 
