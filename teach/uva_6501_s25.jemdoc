@@ -23,8 +23,8 @@ Breadth area coverage: Computer Systems
 - Class Attendance (In-person): 10%
 - Scribing: 10%
 - Paper reviews: 20%
-- In-Class Presentations: 30%
-- Semester-long Research Project: 30% (5 percent each for midterm and final project presentations; 20 percent for final report)
+- In-Class Presentations: 20%
+- Semester-long Research Project: 40% (5 percent each for midterm and final project presentations; 30 percent for final report)
 
 == Class Attendance (In-person)
 - The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
@@ -46,12 +46,9 @@ and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths
 Each student will present a few papers throughout the semester (actual number will depend on the number of students enrolled in the class). When you present a paper, be prepared to answer a variety of questions asked by the instructor or other fellow students. Paper assignment will be done by the instructor.  
 
 == Semester-long Research Project 
-- Please discuss with the instructor to decide on the project. Regular meetings 
-are expected with the instructor so that progress can be made. Your project should have CUDA programming and/or GPU profiling component. 
+- Please discuss with the instructor to decide on the project. Regular meetings are expected with the course staff so that progress can be made. Your project should have CUDA programming and/or hardware profiling component. 
 
-- You can do the semester-long course project in a group (max 3 students in a group) 
-Always describe your individual contributions to the project in the presentations 
-and final report. 
+- You can do the semester-long course project in a group (max 3 students in a group). Always describe your individual contributions to the project in the presentations and final report. 
 
 - The final project report will be due in the finals week. Please
 use IEEE or ACM conference formats. The report length should not be more than
