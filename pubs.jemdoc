@@ -23,32 +23,45 @@
 === [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [https://dblp.org/pid/64/11467.html (DBLP with DOI Links)] [https://orcid.org/0000-0002-5525-7204 (ORCID)]
 
 === 2025
-*\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>*
-\[[coming.html PDF]] \n
+*\<span style=\"color: forestgreen\"\>(ISCA 2025)\<\/span\>* \[[coming.html PDF]] \n
+Amel Fatima, Yang Yang, Yifan Sun, Rachata Ausavarungnirun, *Adwait Jog* \n
+[coming.html /NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems/], \n
+In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 2025 \n 
+(Acceptance rate: 127/570 ≈ 22%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(ISCA 2025)\<\/span\>* \[[coming.html PDF]] \n
+Ying Li, Yuhui Bao, Gongyu Wang, Xinxin Mei, Pranav Vaid, Anandaroop Ghosh, *Adwait Jog*, Darius Bunandar, Ajay Joshi, Yifan Sun \n
+[coming.html /TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems/], \n
+In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 2025 \n 
+(Acceptance rate: 127/570 ≈ 22%) \n
+
+=== 
+*\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>* \[[coming.html PDF]] \n
 Yang Yang, Mohammad Sonji, *Adwait Jog* \n
 [coming.html /Dissecting Performance Overheads of Confidential Computing on GPU-based Systems/], \n
 In the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Ghent, Belgium, May 2025 \n 
-
+(Acceptance rate: 28/99 ≈ 28%) \n
 
 === 2024
 *\<span style=\"color: forestgreen\"\>(MICRO 2024)\<\/span\>*
-\[[coming.html PDF]] \n
+\[[https://ieeexplore.ieee.org/document/10764622 PDF]] \n
 Rishabh Jain, Vivek M. Bhasi, *Adwait Jog*, Anand Sivasubramaniam, Mahmut T. Kandemir, Chita R. Das \n
-[coming.html /Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs/], \n
+[https://ieeexplore.ieee.org/document/10764622 /Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs/], \n
 In the Proceedings of International Symposium on Microarchitecture (MICRO), Austin, TX, November 2024 \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(ISSRE 2024)\<\/span\>* 
-\[[coming.html PDF]] \n
+\[[https://ieeexplore.ieee.org/document/10771492 PDF]] \n
 Anna Schmedding, Lishan Yang, *Adwait Jog*, Evgenia Smirni \n
-[coming.html /Aspis: Lightweight Neural Network Protection Against Soft Errors/], \n
+[https://ieeexplore.ieee.org/document/10771492 /Aspis: Lightweight Neural Network Protection Against Soft Errors/], \n
 In the Proceedings of International Symposium on Software Reliability Engineering (ISSRE), Tsukuba, Japan, October 2024 \n 
 
 === 
 *\<span style=\"color: forestgreen\"\>(CLUSTER 2024, Best Paper Nomination)\<\/span\>*
-\[[coming.html PDF]] \n
+\[[https://ieeexplore.ieee.org/document/10740838 PDF]] \n
 Lishan Yang, George Papadimitriou, Dimitrios Sartzetakis, *Adwait Jog*, Evgenia Smirni, Dimitris Gizopoulos \n
-[coming.html /GPU Reliability Assessment: Insights Across the Abstraction Layers/], \n
+[https://ieeexplore.ieee.org/document/10740838 /GPU Reliability Assessment: Insights Across the Abstraction Layers/], \n
 In the Proceedings of IEEE International Conference on Cluster Computing (CLUSTER), Kobe, Japan, September 2024 \n 
 
 === 
