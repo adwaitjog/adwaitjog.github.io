@@ -163,10 +163,10 @@ In the Proceedings of the ACM on Measurement and Analysis of Computing Systems (
 
 === 
 *\<span style=\"color: forestgreen\"\>(ICSE 2021)\<\/span\>* 
-\[[https://arxiv.org/abs/2103.02825 PDF]]  
+\[[https://dl.acm.org/doi/10.1109/icse43902.2021.00114 PDF]]  
 \[[https://www.youtube.com/watch?v=diuja8kH1dA YouTube Full Video]]  \n
 Lishan Yang, Bin Nie, *Adwait Jog*, Evgenia Smirni \n
-[https://arxiv.org/abs/2103.02825 /Enabling Software Resilience in GPGPU Applications via Partial Thread Protection/], \n
+[https://dl.acm.org/doi/10.1109/icse43902.2021.00114 /Enabling Software Resilience in GPGPU Applications via Partial Thread Protection/], \n
 In the Proceedings of 43rd International Conference on Software Engineering (ICSE), Virtual Event, May 2021  \n
 (Acceptance rate: 138/615 ≈ 22%) \n
 
@@ -531,13 +531,13 @@ In the Proceedings of 49th Design Automation Conference (DAC), San Francisco, CA
 === 
 *\<span style=\"color: forestgreen\"\>(Tech Report 2012)\<\/span\>* \n 
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das \n
-[http://www.cse.psu.edu/research/publications/tech-reports/2012/CSE_Tech_Report-12_006.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n 
+/Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/, \n 
 TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012 \n
 
 === 2011
 *\<span style=\"color: forestgreen\"\>(Tech Report 2011)\<\/span\>* \n
 *Adwait Jog*, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das \n
-[http://www.cse.psu.edu/research/publications/tech-reports/2011/CSE-11-010.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/], \n 
+/Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/, \n 
 TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011 \n
 
 ~~~
