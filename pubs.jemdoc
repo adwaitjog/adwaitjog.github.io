@@ -36,8 +36,10 @@ Ying Li, Yuhui Bao, Gongyu Wang, Xinxin Mei, Pranav Vaid, Anandaroop Ghosh, *Adw
 In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 2025 \n 
 (Acceptance rate: 127/570 ≈ 22%) \n
 
+
+
 === 
-*\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>* \[[docs/pdf/dissectcc-ispass25.pdf PDF]] \n
+*\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>* \[[docs/pdf/dissectcc-ispass25.pdf PDF]] \[[https://github.com/insight-cal-uva/hcc-ispass25-artifact Artifact]] \n
 Yang Yang, Mohammad Sonji, *Adwait Jog* \n
 [docs/pdf/dissectcc-ispass25.pdf /Dissecting Performance Overheads of Confidential Computing on GPU-based Systems/], \n
 In the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Ghent, Belgium, May 2025 \n 
