@@ -5,16 +5,16 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>CS 6354: Computer Architecture, Fall 2023</title>
+<title>CS 4444: Introduction to Parallel Computing, Fall 2025</title>
 </head>
 <body>
 <div id="layout-content">
 <div id="toptitle">
-<h1>CS 6354: Computer Architecture, Fall 2023</h1>
+<h1>CS 4444: Introduction to Parallel Computing, Fall 2025</h1>
 </div>
 <h2>General Information</h2>
 <ul>
-<li><p>Time and Location: Tuesday/Thursday 12:30 PM - 1:45 PM, Rice Hall 032
+<li><p>Time and Location: Tuesday/Thursday 11:00 PM - 12:15 PM, Olsson Hall 009
 </p>
 </li>
 </ul>
@@ -22,7 +22,7 @@
 <li><p>Instructor: <b>Adwait Jog</b> <a href="https://adwaitjog.github.io" target=&ldquo;blank&rdquo;>(Website)</a>
 </p>
 <ul>
-<li><p>Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 502
+<li><p>Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 501
 </p>
 </li>
 <li><p>Email: ajog@virginia.edu
@@ -33,13 +33,10 @@
 </li>
 </ul>
 <ul>
-<li><p>Teaching Assistant: <b>Alenkruth Krishnan Murali</b> <a href="https://alenkruth.com/" target=&ldquo;blank&rdquo;>(Website)</a>
+<li><p>TA: <b>TBD</b>
 </p>
 <ul>
-<li><p>Office hours: Monday/Wednesday 10AM-11AM, Rice Hall, Rice 442
-</p>
-</li>
-<li><p>Email: alenkruth@virginia.edu
+<li><p>Office hours: Wednesday/Friday TBD, Rice TBD
 </p>
 </li>
 </ul>
@@ -47,22 +44,14 @@
 </li>
 </ul>
 <ul>
-<li><p>Teaching Assistant: <b>Yilong Yang</b> 
+<li><p>TA: <b>TBD</b>
 </p>
 <ul>
-<li><p>Office hours: Wednesday 3:30PM-4:30PM/Friday 9:00AM-10:00AM, Rice Hall, Rice 442
-</p>
-</li>
-<li><p>Email: yyilong@virginia.edu
+<li><p>Office hours: Monday/Wednesday TBD, Rice TBD
 </p>
 </li>
 </ul>
 
-</li>
-</ul>
-<ul>
-<li><p>Exam Dates: In-class Midterm exam is on Oct 12, 2023. Final Exam is on Dec 8, 2023 (2 PM to 5 PM). Refer to the <a href="https://registrar.virginia.edu/exam-schedules/exam-schedule-fall-2023" target=&ldquo;blank&rdquo;>Fall 2023 Final Exam Schedule</a> and <a href="https://registrar.virginia.edu/calendar/academic/2023-2024" target=&ldquo;blank&rdquo;>Academic Calendar</a> for more details. Unless otherwise specified, exam will be conducted in the same classroom.
-</p>
 </li>
 </ul>
 <ul>
@@ -71,69 +60,52 @@
 </li>
 </ul>
 <h2>Course Description and Prerequisites</h2>
-<p>SIS Description: Study of representative digital computer organization with an emphasis on control unit logic, 
-input/output processors and devices, asynchronous processing, concurrency, and parallelism. Memory hierarchies. 
-More details can be found <a href="https://louslist.org/sectiontip.php?Semester=1238&amp;ClassNumber=20351" target=&ldquo;blank&rdquo;>here</a>.
+<p>Introduces the student to the basics of high-performance parallel computing and application development for massively parallel processors (e.g., GPUs). The course will also introduce the internal architecture of these parallel processors and its impact on performance. More information can be found <a href="https://louslist.org/sectiontip.php?Semester=1258&amp;ClassNumber=19602" target=&ldquo;blank&rdquo;>here</a>.
 </p>
-<p>Prerequisite(s): CS 3330 or proficiency in assembly language programming. Basic knowledge of Computer Organization and 
-Design is expected. Experience with Python programming (equivalent to CS 1110/1111) is also expected. If you do not meet 
-these requirements or expectations, please talk to the instructor in the first week of classes.
+<p>Prerequisite(s): CS 3100 and CS 3130 with a C- or better.
 </p>
-<h2>Textbook and Resources</h2>
+<p>Class Modality is In-person.
+</p>
+<h2>Required Textbook</h2>
 <ul>
-<li><p><b>Required Textbook:</b> Computer Architecture: A Quantitative Approach, Hennessy and Patterson, <i>Sixth Edition</i>.
-</p>
-</li>
-<li><p><b>Recommended Textbook 1:</b> Computer Organization and Design, Patterson &amp; Hennessey, <i>2nd Edition (RISC-V Edition)</i>.
-</p>
-</li>
-<li><p><b>Recommended Textbook 2:</b> Digital Design and Computer Architecture, Harris &amp; Harris, <i>RISC-V Edition</i>.
-</p>
-</li>
-<li><p><b>Materials:</b> We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
-</p>
-</li>
-<li><p><b>Help:</b> It is important to start working early on homework assignments, project, and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+<li><p>Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, <i>4th Edition</i> (<a href="https://www.elsevier.com/books-and-journals/book-companion/9780323912310" target=&ldquo;blank&rdquo;>link</a>). We have this book in the <a href="https://search.lib.virginia.edu/sources/uva_library/items/u11636412" target=&ldquo;blank&rdquo;>UVA Library</a>. 
 </p>
 </li>
 </ul>
-<h2>Grading </h2>
+<h2>Additional Textbooks and Resources</h2>
 <ul>
-<li><p>Class Attendance (In-person) (10%)
+<li><p>NVIDIA CUDA C Programming Guide (<a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/" target=&ldquo;blank&rdquo;>link</a>)
 </p>
 </li>
-<li><p>Activities (mostly In-class) (15%)
+<li><p>Accelerated Computing with HIP (<a href="https://community.amd.com/t5/instinct-accelerators/accelerated-computing-with-hip-textbook/ba-p/620840" target=&ldquo;blank&rdquo;>link</a>)
 </p>
 </li>
-<li><p>Homework Assignments (25%) 
+<li><p>General-Purpose Graphics Processing Architectures, Aamodt, Fung, Rogers. (<a href="https://link.springer.com/book/10.1007/978-3-031-01759-9" target=&ldquo;blank&rdquo;>link</a>)
 </p>
 </li>
-<li><p>Semester-long project (20%)
+<li><p>Computer Architecture: A Quantitative Approach, Hennessy and Patterson, <i>Sixth Edition</i>. (<a href="https://www.elsevier.com/books-and-journals/book-companion/9780128119051" target=&ldquo;blank&rdquo;>link</a>)
 </p>
 </li>
-<li><p>In-class Mid-term exam (15%)
+<li><p>Computer Organization and Design, Patterson &amp; Hennessey, <i>2nd Edition (RISC-V Edition)</i>. (<a href="https://www.elsevier.com/books-and-journals/book-companion/9780128203316" target=&ldquo;blank&rdquo;>link</a>)
 </p>
 </li>
-<li><p>Final exam (15%)
-</p>
-</li>
-<li><p>Grades may be curved at the instructor's discretion. More details can be found <a href="https://uvacsadvising.org/policies.html" target=&ldquo;blank&rdquo;>here</a>.
+<li><p>Digital Design and Computer Architecture, Harris &amp; Harris, <i>RISC-V Edition</i>.
 </p>
 </li>
 </ul>
-<h2>Class Attendance (In-person)</h2>
+<h2>Grade Distribution</h2>
 <ul>
-<li><p>The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
+<li><p>In-class Activities (In-person): 30% (around 5-10 activities)
 </p>
 </li>
-<li><p>You are expected to attend <b>all</b> lectures <b>in-person</b>. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick &ndash; please don't provide any specifics). 
+<li><p>Homework Assignments, including Programming Assignments: 50% (around 5)
 </p>
 </li>
-<li><p>Course staff will be taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person, no points will be deducted related to class attendance. 
+<li><p>Final Exam: 20% (Dec 15th, 2025: 9 am to noon)
 </p>
 </li>
 </ul>
-<h2>Activities (mostly In-class)</h2>
+<h2>In-class Activities</h2>
 <ul>
 <li><p>There will be periodic in-class problem-solving activities. You are expected to participate in them.
 </p>
@@ -157,16 +129,16 @@ However, we do have the following policy:
 </ul>
 <h2>Homework Assignments</h2>
 <ul>
-<li><p>Homework assignments should be submitted electronically on Canvas (Gradescope) by <b>23:00</b> hrs on the due date in <b>PDF</b> format. You may use MS-word or Latex to typeset your answers, however, the final submission must be in the <b>PDF</b> format. Submission in any other format (including hand-written and then scanned PDFs) will not be graded and will receive <i>zero</i>. 
+<li><p>Homework assignments should be submitted electronically on Canvas (Gradescope) by <b>23:59</b> hrs on the due date. 
 </p>
 </li>
 <li><p>Homework submission deadlines are <b>hard</b>. However, we do have a late/miss policy for homework only:
 </p>
 <ul>
-<li><p>You can have up to a 48-hour extension for any two (2) homeworks of your choice. 
+<li><p>You can have up to a 48-hour extension for any three (3) homeworks of your choice. 
 </p>
 </li>
-<li><p>If you use up all your two (2) extensions, homeworks will not be accepted after the deadline 
+<li><p>If you use up all your three (3) extensions, homeworks will not be accepted after the deadline 
 and <i>zero</i> points will be awarded.
 </p>
 </li></ul>
@@ -175,33 +147,30 @@ and <i>zero</i> points will be awarded.
 </p>
 </li>
 </ul>
-<h2>Semester-long Project</h2>
+<h2>Final Exam</h2>
 <ul>
-<li><p>A semester-long project is an important part of this course. It can be research- or survey-based. 
+<li><p>We have one final exam. It is on Dec 15th, 2025 (9am to noon). More information can be found <a href="https://registrar.virginia.edu/exam-schedule-fall-2025" target=&ldquo;blank&rdquo;>here</a>
 </p>
 </li>
-<li><p>You may do the project in groups up to 3. Periodic communication with the course staff is expected. 
+<li><p>Unless otherwise specified, exam will be conducted in the same classroom.
 </p>
 </li>
-<li><p>A final project report of six pages is required by the deadline (details conveyed via Piazza/Canvas). 
-</p>
-</li>
-<li><p>A list of potential project themes will be provided. 
-</p>
-</li>
-</ul>
-<h2>Exams</h2>
-<ul>
-<li><p>We have one mid-term and one final exam. Date of the exams are mentioned at the top of this page.
-</p>
-</li>
-<li><p>The format of the exams will be discussed in class.
+<li><p>The format of the exams will be discussed in class. 
 </p>
 </li>
 <li><p>No collaboration is allowed on exams.
 </p>
 </li>
-<li><p>If you miss the exams, <i>zero</i> points will be awarded for that exam. 
+<li><p>If you miss the exams, <i>zero</i> points will be awarded for that exam. Note that it is against the UVA policy to change the date/time of a scheduled final exam. If there is a conflict on your end, please contact the instructor ahead of time. 
+</p>
+</li>
+</ul>
+<h2>Resources </h2>
+<ul>
+<li><p><b>Materials:</b> We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
+</p>
+</li>
+<li><p><b>Help:</b> It is important to start working early on project and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
 </p>
 </li>
 </ul>
@@ -247,7 +216,7 @@ If you or someone you know has been affected by power-based personal violence, m
 <p>The <a href="https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering" target=&ldquo;blank&rdquo;>Center for Diversity in Engineering (CDE)</a> is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 </p>
 <h2>Acknowledgments</h2>
-<p>The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Mary. J. Irwin (Penn State), Chita Das (Penn State), Yuan Xie (Penn State), N. Vijaykrishnan (Penn State), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC), Ashish Venkat (UVA), Samira Khan (UVA) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other companion materials available <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128119051" target=&ldquo;blank&rdquo;>here</a>, <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128122754" target=&ldquo;blank&rdquo;>here</a>, and <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128203316" target=&ldquo;blank&rdquo;>here</a>.
+<p>The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Reetuparna Das (UMich), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other materials available <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128119051" target=&ldquo;blank&rdquo;>here</a>, <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128122754" target=&ldquo;blank&rdquo;>here</a>, <a href="https://www.elsevier.com/books-and-journals/book-companion/9780128203316" target=&ldquo;blank&rdquo;>here</a>, and <a href="https://www.elsevier.com/books-and-journals/book-companion/9780323912310" target=&ldquo;blank&rdquo;>here</a>.
 </p>
 <div id="footer">
 <div id="footer-text">
