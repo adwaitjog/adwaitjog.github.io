@@ -23,19 +23,18 @@
 === [https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ (Google Scholar)] [https://dblp.org/pid/64/11467.html (DBLP with DOI Links)] [https://orcid.org/0000-0002-5525-7204 (ORCID)]
 
 === 2025
-*\<span style=\"color: forestgreen\"\>(ISCA 2025)\<\/span\>* \[[coming.html PDF]] \n
+*\<span style=\"color: forestgreen\"\>(ISCA 2025, PDF coming soon!)\<\/span\>* \n
 Amel Fatima, Yang Yang, Yifan Sun, Rachata Ausavarungnirun, *Adwait Jog* \n
 [coming.html /NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems/], \n
 In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 2025 \n 
 (Acceptance rate: 127/570 ≈ 22%) \n
 
 === 
-*\<span style=\"color: forestgreen\"\>(ISCA 2025)\<\/span\>* \[[coming.html PDF]] \n
+*\<span style=\"color: forestgreen\"\>(ISCA 2025)\<\/span\>* \[[https://sarchlab.org/triosim_isca2025.pdf PDF]] \[[https://github.com/sarchlab/triosim Artifact]] \n
 Ying Li, Yuhui Bao, Gongyu Wang, Xinxin Mei, Pranav Vaid, Anandaroop Ghosh, *Adwait Jog*, Darius Bunandar, Ajay Joshi, Yifan Sun \n
-[coming.html /TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems/], \n
+[https://sarchlab.org/triosim_isca2025.pdf /TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems/], \n
 In the Proceedings of ACM International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 2025 \n 
 (Acceptance rate: 127/570 ≈ 22%) \n
-
 
 === 
 *\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>* \[[docs/pdf/dissectcc-ispass25.pdf PDF]] \[[https://github.com/insight-cal-uva/hcc-ispass25-artifact Artifact]] \n
