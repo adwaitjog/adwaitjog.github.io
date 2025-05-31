@@ -23,28 +23,28 @@ Prerequisite(s): CS 3100 and CS 3130 with a C- or better.
 Class Modality is In-person.
 
 == Required Textbook
-- Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, /4th Edition/ ([https://www.elsevier.com/books-and-journals/book-companion/9780323912310 link]). We have this book in the [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. 
+- Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, /4th Edition/ ([https://www.elsevier.com/books-and-journals/book-companion/9780323912310 link]). We have this book in the [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. Associated Youtube [https://www.youtube.com/@pmpp-book/ Lectures].
 
 == Additional Textbooks and Resources
 - NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-c-programming-guide/ link])
-- Accelerated Computing with HIP ([https://community.amd.com/t5/instinct-accelerators/accelerated-computing-with-hip-textbook/ba-p/620840 link])
 - General-Purpose Graphics Processing Architectures, Aamodt, Fung, Rogers. ([https://link.springer.com/book/10.1007/978-3-031-01759-9 link])
+- Accelerated Computing with HIP ([https://www.amd.com/en/blogs/2023/accelerated-computing-with-hip--textbook.html link])
 - Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/. ([https://www.elsevier.com/books-and-journals/book-companion/9780128119051 link])
 - Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/. ([https://www.elsevier.com/books-and-journals/book-companion/9780128203316 link])
 - Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
 
 == Grade Distribution
-- In-class Activities (In-person): 30% (around 5-10 activities)
-- Homework Assignments, including Programming Assignments: 50% (around 5)
+- In-class Activities: 10% (8-10 activities)
+- Homework Assignments, including Programming Assignments: 30% (5-6 assignments)
+- Mid-term Exam I: 10%
+- Mid-term Exam II: 10%
+- Final Project: 20%
 - Final Exam: 20% (Dec 15th, 2025: 9 am to noon)
 
 == In-class Activities
 - There will be periodic in-class problem-solving activities. You are expected to participate in them.
 - You may use your notes, lecture material, or textbook. You can also discuss with your classmates. However, please write answers on your own.
-- If you miss an in-class activity, /zero/ points will be awarded for that activity.
-However, we do have the following policy:
--- You can make up for a maximum of three (3) missed in-class activities. You can do that by submitting your answers to a TA within 72 hours of the missed activity.
--- The lowest score on the activities will not be counted.
+- If you miss an in-class activity, submitting your answers to TAs within 72 hours of the missed activity.
 
 == Homework Assignments
 - Homework assignments should be submitted electronically on Canvas (Gradescope) by *23:59* hrs on the due date. 
@@ -54,8 +54,8 @@ However, we do have the following policy:
 and /zero/ points will be awarded.
 - You can collaborate on the homework problems with two more students currently enrolled in the class. However, you must write up each problem solution by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the course staff. 
 
-== Final Exam
-- We have one final exam. It is on Dec 15th, 2025 (9am to noon). More information can be found [https://registrar.virginia.edu/exam-schedule-fall-2025 here]
+== Exams
+- We have two mid-term exams and one final exam. It is on Dec 15th, 2025 (9am to noon). More information can be found [https://registrar.virginia.edu/exam-schedule-fall-2025 here]
 - Unless otherwise specified, exam will be conducted in the same classroom.
 - The format of the exams will be discussed in class. 
 - No collaboration is allowed on exams.
@@ -100,5 +100,8 @@ You have many resources available to you when you experience academic or persona
 The [https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering Center for Diversity in Engineering (CDE)] is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 
 == Acknowledgments
-The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Reetuparna Das (UMich), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other materials available [https://www.elsevier.com/books-and-journals/book-companion/9780128119051 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128122754 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128203316 here], and [https://www.elsevier.com/books-and-journals/book-companion/9780323912310 here].
+The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Reetuparna Das (UMich), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC) for their contributions. Also, thanks to book authors and Elsevier for making the materials publicly available. 
+
+
+
 
