@@ -37,7 +37,7 @@ In the Proceedings of ACM International Symposium on Computer Architecture (ISCA
 (Acceptance rate: 127/570 ≈ 22%) \n
 
 === 
-*\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>* \[[docs/pdf/dissectcc-ispass25.pdf PDF]] \[[https://github.com/insight-cal-uva/hcc-ispass25-artifact Artifact]] \[[docs/pdf/CCSummit-June18.pdf CC-Summit-Slides]] \n
+*\<span style=\"color: forestgreen\"\>(ISPASS 2025)\<\/span\>* \[[docs/pdf/dissectcc-ispass25.pdf PDF]] \[[https://elio-yang.github.io/file/ispass-25-slides.pdf ISPASS-Slides]] \[[https://github.com/insight-cal-uva/hcc-ispass25-artifact Artifact]] \[[docs/pdf/CCSummit-June18.pdf CC-Summit-Slides]] \n
 Yang Yang, Mohammad Sonji, *Adwait Jog* \n
 [docs/pdf/dissectcc-ispass25.pdf /Dissecting Performance Overheads of Confidential Computing on GPU-based Systems/], \n
 In the Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Ghent, Belgium, May 2025 \n 
