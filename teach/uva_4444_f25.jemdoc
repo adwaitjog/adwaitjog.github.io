@@ -7,11 +7,13 @@
 -- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 501
 -- Email: ajog@virginia.edu
 
-- TA: *TBD*
+- TA: *Mohammad Sonji* [https://msonji.github.io/ (Website)]
 -- Office hours: Wednesday/Friday TBD, Rice TBD
+-- Email: npv2tk@virginia.edu
 
-- TA: *TBD*
+- TA: *Yang Yang* [https://elio-yang.github.io (Website)]
 -- Office hours: Monday/Wednesday TBD, Rice TBD
+-- Email: yangyang@virginia.edu
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
@@ -34,17 +36,11 @@ Class Modality is In-person.
 - Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/.
 
 == Grade Distribution
-- In-class Activities: 10% (8-10 activities)
 - Homework Assignments, including Programming Assignments: 30% (5-6 assignments)
-- Mid-term Exam I: 10%
-- Mid-term Exam II: 10%
+- Mid-term Exam I: 15%
+- Mid-term Exam II: 15%
 - Final Project: 20%
 - Final Exam: 20% (Dec 15th, 2025: 9 am to noon)
-
-== In-class Activities
-- There will be periodic in-class problem-solving activities. You are expected to participate in them.
-- You may use your notes, lecture material, or textbook. You can also discuss with your classmates. However, please write answers on your own.
-- If you miss an in-class activity, submit your answers to TAs within 72 hours of the missed activity.
 
 == Homework Assignments
 - Homework assignments should be submitted electronically on Canvas (Gradescope) by *23:59* hrs on the due date. 
@@ -55,7 +51,7 @@ and /zero/ points will be awarded.
 - You can collaborate on the homework problems with two more students currently enrolled in the class. However, you must write up each problem solution by yourself without assistance. You must also identify your collaborator. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the course staff. 
 
 == Exams
-- We have two mid-term exams and one final exam. It is on Dec 15th, 2025 (9am to noon). More information can be found [https://registrar.virginia.edu/exam-schedule-fall-2025 here]
+- We have two mid-term exams and one final exam. The final exam will be on Dec 15th, 2025 (9am to noon). More information can be found [https://registrar.virginia.edu/exam-schedule-fall-2025 here]
 - Unless otherwise specified, exam will be conducted in the same classroom.
 - The format of the exams will be discussed in class. 
 - No collaboration is allowed on exams.
@@ -68,7 +64,7 @@ and /zero/ points will be awarded.
 == Academic Integrity
 - The university, school, and department policies against academic dishonesty will be strictly enforced.
 - Students are required to follow the UVA Honor Code. More details can be found [https://honor.virginia.edu/ here].
-- The ethical use of artificial intelligence technologies is strictly at the discretion of the instructor and is otherwise prohibited without the instructor's explicit written permission. Artificial Intelligence tools may not be cited as authors, though the tools used must be fully disclosed as a source along with the capacity in which they were used. All outputs of artificial intelligence, both explicitly used and as inspiration in one’s submission, must be properly cited to its appropriate source.  
+- The ethical use of artificial intelligence technologies is strictly at the discretion of the instructor and is otherwise prohibited without the instructor's explicit written permission. Artificial Intelligence tools must be fully disclosed as a source along with the capacity in which they were used. All outputs of artificial intelligence, both explicitly used and as inspiration in one’s submission, must be properly cited to its appropriate source.  
 
 == Students with disabilities or learning needs 
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may [cmacmasters@virginia.edu email] her at to schedule an appointment. For general questions please visit the [https://www.studenthealth.virginia.edu/SDAC SDAC website]. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
