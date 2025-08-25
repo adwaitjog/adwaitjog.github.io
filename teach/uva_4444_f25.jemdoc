@@ -8,11 +8,10 @@
 -- Email: ajog@virginia.edu
 
 - TA: *Mohammad Sonji* [https://msonji.github.io/ (Website)]
--- Office hours: Wednesday/Friday TBD, Rice TBD
+-- Office hours: Monday/Wednesday TBD, Rice TBD
 -- Email: npv2tk@virginia.edu
 
 - TA: *Yang Yang* [https://elio-yang.github.io (Website)]
--- Office hours: Monday/Wednesday TBD, Rice TBD
 -- Email: yangyang@virginia.edu
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
@@ -42,6 +41,9 @@ Class Modality is In-person.
 - Final Project: 15% (Due date: see schedule on Canvas)
 - Final Exam: 25% (In classroom, Dec 15th, 2025: 9 am to noon)
 
+== Course Schedule
+- Please check Course Canvas Page for the link to the Course Schedule. 
+
 == Homework Assignments
 - Homework assignments should be submitted electronically on Canvas (Gradescope) by *23:59* hrs on the due date. 
 - Homework submission deadlines are *hard*. However, we do have a late/miss policy for homework only:
@@ -60,6 +62,7 @@ and /zero/ points will be awarded.
 == Final Project
 - The goal of the final project is apply the concepts learnt throughout the course to solve a GPU computing problem. More information will be provided. 
 
+
 == Resources 
 - *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
 - *Help:* It is important to start working early on project and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
@@ -67,7 +70,10 @@ and /zero/ points will be awarded.
 == Academic Integrity
 - The university, school, and department policies against academic dishonesty will be strictly enforced.
 - Students are required to follow the UVA Honor Code. More details can be found [https://honor.virginia.edu/ here].
-- The ethical use of artificial intelligence technologies is strictly at the discretion of the instructor and is otherwise prohibited without the instructor's explicit written permission. Artificial Intelligence tools must be fully disclosed as a source along with the capacity in which they were used. All outputs of artificial intelligence, both explicitly used and as inspiration in one’s submission, must be properly cited to its appropriate source.  
+
+
+== Generative AI policy
+- The ethical use of artificial intelligence technologies is strictly at the discretion of the instructor and is otherwise prohibited without the instructor's explicit written permission. Artificial Intelligence tools must be fully disclosed as a source along with the capacity in which they were used. All outputs of artificial intelligence, both explicitly used and as inspiration in one’s submission, must be properly cited to its appropriate source. For more details, please check Course Canvas Page. 
 
 == Students with disabilities or learning needs 
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may [cmacmasters@virginia.edu email] her at to schedule an appointment. For general questions please visit the [https://www.studenthealth.virginia.edu/SDAC SDAC website]. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
@@ -97,7 +103,6 @@ Engaging in your career development is an important part of your student experie
 The Center for Connection (The Connect) is a dedicated student space within UVA Engineering that fosters academic success and personal growth. Through its programs and initiatives, The Connect helps students strengthen their engineering identity while providing resources to help them thrive during their studies and beyond. Our work centers on three key areas: student belonging and development, academic support, and community programming grounded in intentional, data-driven strategies.
 
 The Connect features an open study area, a flexible event space, and on-site staff who provide direct support and advising to students. It is part of the [https://engineering.virginia.edu/offices-programs/office-community-opportunity-and-engagement Office of Community, Opportunity, and Engagement]. 
-
 
 == Acknowledgments
 The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We especially thank Reetuparna Das (UMich) and Izzat El Hajj (AUB) for providing resources and feedback. Also, thanks to book authors and Elsevier for making the materials publicly available. 
