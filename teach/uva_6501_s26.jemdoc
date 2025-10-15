@@ -1,0 +1,109 @@
+== CS 6501: GPU Architectures, Spring 2026
+
+== General Information
+- Time and Location: Tuesday/Thursday 11:00 AM - 12:15 PM
+
+- Instructor: *Adwait Jog* [https://adwaitjog.github.io (Website)]
+-- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 501
+-- Email: ajog@virginia.edu
+
+- *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
+
+== Course Description and Prerequisites
+This graduate-level course offers an in-depth study of general-purpose graphics processing units (GPUs) from both architectural and micro-architectural perspectives. It also explores the principles of high-performance parallel computing and GPU application development, with particular emphasis on how architectural design choices influence performance, scalability, and programmability. 
+
+Students will critically examine top-tier conference and journal papers addressing research challenges in the GPU space. Evaluation may include exams, scholarly paper reviews, research presentations, and a semester-long research project.
+
+Prerequisite(s): Background in computer organization and design is expected. This course is an advanced version of CS 4444. 
+
+Breadth area coverage: Computer Systems
+
+== Grade Distribution
+- Class Attendance (In-person): 10%
+- Scribing: 10%
+- Paper reviews: 20%
+- In-Class Presentations: 20%
+- Semester-long Research Project: 40% (5 percent for proposal, 5 percent each for midterm and final project presentations; 25 percent for final report)
+
+== Required Textbooks and Resources
+- Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, /4th Edition/ ([https://www.elsevier.com/books-and-journals/book-companion/9780323912310 link]). We have this book in the [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. Associated Youtube [https://www.youtube.com/channel/UC2Y6MNqiTwTrh-qPQHGIUyg lectures].
+- NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-c-programming-guide/ link])
+
+== Additional Textbooks and Resources
+- General-Purpose Graphics Processing Architectures, Aamodt, Fung, Rogers. ([https://link.springer.com/book/10.1007/978-3-031-01759-9 link]). Book available via UVA login. 
+- Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/. ([https://www.elsevier.com/books-and-journals/book-companion/9780128119051 link])
+- Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/. ([https://www.elsevier.com/books-and-journals/book-companion/9780128203316 link])
+- Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/
+- Accelerated Computing with HIP ([https://www.amd.com/en/blogs/2023/accelerated-computing-with-hip--textbook.html link])
+
+== Class Attendance (In-person)
+- The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
+- You are expected to attend *all* lectures *in-person*. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick -- please don't provide any specifics). 
+- Course staff will be periodically taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person (exceptions listed below), no points will be deducted related to class attendance. 
+- If you miss the class on the day of your presentation without sufficient notice, zero points will be awarded. 
+
+== Scribe
+During the papers presentations, instructor will assign scribing duties to 1-2 students. Their job would be to summarize the class discussions and come up with a document that can be shared with the entire class. 
+
+== Paper reviews
+*Deadline* for the review submission is just before the class when the paper is scheduled to be discussed. 
+
+*Submission Format:* Each review should not exceed one-page (in the PDF format) and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
+(2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (2-3 paras). 
+
+== In-Class Presentations 
+Each student will present 1-2 papers throughout the semester. When you present a paper, be prepared to answer a variety of questions asked by the instructor or other fellow students. Paper assignment will be done by the instructor.  
+
+== Semester-long Research Project 
+- Please discuss with the instructor to decide on the project and come up with a proposal. Regular meetings are expected with the course staff so that progress can be made. Your project should have CUDA programming and/or hardware profiling component. 
+
+- You can do the semester-long course project in a group (max 2 students in a group). Always describe your individual contributions to the project in the presentations and final report. 
+
+- The final project report will be due in the finals week. Please use IEEE or ACM conference formats. The report length should not be more than 10 pages (excluding references).
+
+- Students will be also asked to do two project presentations during the entire semester: 
+mid-term presentation and final presentation.
+
+== Resources 
+- *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
+- *Help:* It is important to start working early on project and other deliverables. If you need help, show up during office hours or ask questions in or after the class. You are also highly encouraged to use Piazza to ask questions. 
+
+== Academic Integrity
+- The university, school, and department policies against academic dishonesty will be strictly enforced.
+- Students are required to follow the UVA Honor Code. More details can be found [https://honor.virginia.edu/ here].
+
+== Generative AI policy
+- Please check Course Canvas Page.
+
+== Students with disabilities or learning needs 
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may [cmacmasters@virginia.edu email] her at to schedule an appointment. For general questions please visit the [https://www.studenthealth.virginia.edu/SDAC SDAC website]. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+== Religious accommodations 
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [https://eocr.virginia.edu/religious-accommodations University’s Office for Equal Opportunity and Civil Rights (EOCR)] at UVAEOCR@virginia.edu or 434-924-3200.
+
+== Harassment, Discrimination, and Interpersonal Violence
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. 
+If you or someone you know has been affected by power-based personal violence, more information can be found on the [http://www.virginia.edu/sexualviolence UVA Sexual Violence website] that describes reporting options and resources available. 
+
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [https://uvapolicy.virginia.edu/policy/HRM-009 UVA prohibits discrimination and harassment] based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [https://uvapolicy.virginia.edu/policy/HRM-010 UVA policy] also prohibits retaliation for reporting such behavior. 
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [https://justreportit.virginia.edu/ Just Report It] or contact EOCR, the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to [https://www.studenthealth.virginia.edu/caps Counseling & Psychological Services (“CAPS”)] and [https://womenscenter.virginia.edu/counseling/our-counseling-services Women’s Center Counseling Staff and Confidential Advocates] (for students of all genders).  
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. 
+
+== Support for your career development
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
+
+== Community and Identity
+The Center for Connection (The Connect) is a dedicated student space within UVA Engineering that fosters academic success and personal growth. Through its programs and initiatives, The Connect helps students strengthen their engineering identity while providing resources to help them thrive during their studies and beyond. Our work centers on three key areas: student belonging and development, academic support, and community programming grounded in intentional, data-driven strategies.
+
+The Connect features an open study area, a flexible event space, and on-site staff who provide direct support and advising to students. It is part of the [https://engineering.virginia.edu/offices-programs/office-community-opportunity-and-engagement Office of Community, Opportunity, and Engagement]. 
+
+== Acknowledgments
+The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We especially thank Reetuparna Das (UMich), Izzat El Hajj (AUB), Tor Aamodt (UBC), Onur Mutlu (ETH), for providing resources and feedback. Also, thanks to book authors and Elsevier for making the materials publicly available. 
+
+

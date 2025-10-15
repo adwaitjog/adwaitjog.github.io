@@ -5,16 +5,16 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>CS 4444: Introduction to Parallel Computing, Fall 2025</title>
+<title>CS 6501: GPU Architectures, Spring 2026</title>
 </head>
 <body>
 <div id="layout-content">
 <div id="toptitle">
-<h1>CS 4444: Introduction to Parallel Computing, Fall 2025</h1>
+<h1>CS 6501: GPU Architectures, Spring 2026</h1>
 </div>
 <h2>General Information</h2>
 <ul>
-<li><p>Time and Location: Tuesday/Thursday 11:00 AM - 12:15 PM, Olsson Hall 009
+<li><p>Time and Location: Tuesday/Thursday 11:00 AM - 12:15 PM
 </p>
 </li>
 </ul>
@@ -33,39 +33,37 @@
 </li>
 </ul>
 <ul>
-<li><p>TA: <b>Mohammad Sonji</b> <a href="https://msonji.github.io/" target=&ldquo;blank&rdquo;>(Website)</a>
-</p>
-<ul>
-<li><p>Office hours: Monday/Wednesday 2:00 PM - 3:00 PM, Rice 442
-</p>
-</li>
-</ul>
-
-</li>
-</ul>
-<ul>
-<li><p>TA: <b>Yang Yang</b> <a href="https://elio-yang.github.io" target=&ldquo;blank&rdquo;>(Website)</a>
-</p>
-<ul>
-<li><p>Office hours: Tuesday/Thursday 4:00 PM - 5:00 PM, Rice 442
-</p>
-</li>
-</ul>
-
-</li>
-</ul>
-<ul>
 <li><p><b><span style="color: red"> Please keep checking this website for the latest information regarding this course. </span></b> <br />
 </p>
 </li>
 </ul>
 <h2>Course Description and Prerequisites</h2>
-<p>Introduces the student to the basics of high-performance parallel computing and application development for massively parallel processors (e.g., GPUs). The course will also introduce the internal architecture of these parallel processors and its impact on performance. More information can be found <a href="https://louslist.org/sectiontip.php?Semester=1258&amp;ClassNumber=19602" target=&ldquo;blank&rdquo;>here</a>.
+<p>This graduate-level course offers an in-depth study of general-purpose graphics processing units (GPUs) from both architectural and micro-architectural perspectives. It also explores the principles of high-performance parallel computing and GPU application development, with particular emphasis on how architectural design choices influence performance, scalability, and programmability. 
 </p>
-<p>Prerequisite(s): CS 3100 and CS 3130 with a C- or better.
+<p>Students will critically examine top-tier conference and journal papers addressing research challenges in the GPU space. Evaluation may include exams, scholarly paper reviews, research presentations, and a semester-long research project.
 </p>
-<p>Class Modality is In-person.
+<p>Prerequisite(s): Background in computer organization and design is expected. This course is an advanced version of CS 4444. 
 </p>
+<p>Breadth area coverage: Computer Systems
+</p>
+<h2>Grade Distribution</h2>
+<ul>
+<li><p>Class Attendance (In-person): 10%
+</p>
+</li>
+<li><p>Scribing: 10%
+</p>
+</li>
+<li><p>Paper reviews: 20%
+</p>
+</li>
+<li><p>In-Class Presentations: 20%
+</p>
+</li>
+<li><p>Semester-long Research Project: 40% (5 percent for proposal, 5 percent each for midterm and final project presentations; 25 percent for final report)
+</p>
+</li>
+</ul>
 <h2>Required Textbooks and Resources</h2>
 <ul>
 <li><p>Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, <i>4th Edition</i> (<a href="https://www.elsevier.com/books-and-journals/book-companion/9780323912310" target=&ldquo;blank&rdquo;>link</a>). We have this book in the <a href="https://search.lib.virginia.edu/sources/uva_library/items/u11636412" target=&ldquo;blank&rdquo;>UVA Library</a>. Associated Youtube <a href="https://www.youtube.com/channel/UC2Y6MNqiTwTrh-qPQHGIUyg" target=&ldquo;blank&rdquo;>lectures</a>.
@@ -93,71 +91,52 @@
 </p>
 </li>
 </ul>
-<h2>Grade Distribution</h2>
+<h2>Class Attendance (In-person)</h2>
 <ul>
-<li><p>Homework Assignments, including Programming Assignments: 30% (around 5 assignments)
+<li><p>The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
 </p>
 </li>
-<li><p>Mid-term Exam I: 15% (In class, see schedule on Canvas)
+<li><p>You are expected to attend <b>all</b> lectures <b>in-person</b>. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick &ndash; please don't provide any specifics). 
 </p>
 </li>
-<li><p>Mid-term Exam II: 15% (In class, see schedule on Canvas)
+<li><p>Course staff will be periodically taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person (exceptions listed below), no points will be deducted related to class attendance. 
 </p>
 </li>
-<li><p>Final Project: 15% (Due date: see schedule on Canvas)
-</p>
-</li>
-<li><p>Final Exam: 25% (In classroom, Dec 15th, 2025: 9 am to noon)
+<li><p>If you miss the class on the day of your presentation without sufficient notice, zero points will be awarded. 
 </p>
 </li>
 </ul>
-<h2>Course Schedule</h2>
+<h2>Scribe</h2>
+<p>During the papers presentations, instructor will assign scribing duties to 1-2 students. Their job would be to summarize the class discussions and come up with a document that can be shared with the entire class. 
+</p>
+<h2>Paper reviews</h2>
+<p><b>Deadline</b> for the review submission is just before the class when the paper is scheduled to be discussed. 
+</p>
+<p><b>Submission Format:</b> Each review should not exceed one-page (in the PDF format) and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
+(2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (2-3 paras). 
+</p>
+<h2>In-Class Presentations </h2>
+<p>Each student will present 1-2 papers throughout the semester. When you present a paper, be prepared to answer a variety of questions asked by the instructor or other fellow students. Paper assignment will be done by the instructor.  
+</p>
+<h2>Semester-long Research Project </h2>
 <ul>
-<li><p>Please check Course Canvas Page. 
+<li><p>Please discuss with the instructor to decide on the project and come up with a proposal. Regular meetings are expected with the course staff so that progress can be made. Your project should have CUDA programming and/or hardware profiling component. 
 </p>
 </li>
 </ul>
-<h2>Homework Assignments</h2>
 <ul>
-<li><p>Homework assignments should be submitted electronically on Canvas (Gradescope) by <b>23:59</b> hrs on the due date. 
-</p>
-</li>
-<li><p>Homework submission deadlines are <b>hard</b>. However, we do have a late/miss policy for homework only:
-</p>
-<ul>
-<li><p>You can have up to a 48-hour extension for any three (3) homeworks of your choice. 
-</p>
-</li>
-<li><p>If you use up all your three (3) extensions, homeworks will not be accepted after the deadline 
-and <i>zero</i> points will be awarded.
-</p>
-</li></ul>
-</li>
-<li><p>You can collaborate on the homework problems with two more students currently enrolled in the class. However, you must write up/code each problem solution by yourself without assistance. You must also identify your collaborators. If you did not work with anyone, you should write ”Collaborator: none.” It is a violation of this policy to submit a problem solution that you cannot orally explain to the course staff. 
+<li><p>You can do the semester-long course project in a group (max 2 students in a group). Always describe your individual contributions to the project in the presentations and final report. 
 </p>
 </li>
 </ul>
-<h2>Exams</h2>
 <ul>
-<li><p>We have two mid-term exams and one final exam. The final exam will be on Dec 15th, 2025 (9am to noon). More information can be found <a href="https://registrar.virginia.edu/exam-schedule-fall-2025" target=&ldquo;blank&rdquo;>here</a>
-</p>
-</li>
-<li><p>Unless otherwise specified, exam will be conducted in the same classroom.
-</p>
-</li>
-<li><p>The format of the exams will be discussed in class. 
-</p>
-</li>
-<li><p>No collaboration is allowed on exams.
-</p>
-</li>
-<li><p>If you miss the exams, <i>zero</i> points will be awarded for that exam. Note that it is against the UVA policy to change the date/time of a scheduled final exam. If there is a conflict on your end, please contact the instructor ahead of time. 
+<li><p>The final project report will be due in the finals week. Please use IEEE or ACM conference formats. The report length should not be more than 10 pages (excluding references).
 </p>
 </li>
 </ul>
-<h2>Final Project</h2>
 <ul>
-<li><p>The goal of the final project is apply the concepts learnt throughout the course to solve a GPU computing problem. More information will be provided. 
+<li><p>Students will be also asked to do two project presentations during the entire semester: 
+mid-term presentation and final presentation.
 </p>
 </li>
 </ul>
@@ -214,7 +193,7 @@ If you or someone you know has been affected by power-based personal violence, m
 <p>The Connect features an open study area, a flexible event space, and on-site staff who provide direct support and advising to students. It is part of the <a href="https://engineering.virginia.edu/offices-programs/office-community-opportunity-and-engagement" target=&ldquo;blank&rdquo;>Office of Community, Opportunity, and Engagement</a>. 
 </p>
 <h2>Acknowledgments</h2>
-<p>The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We especially thank Reetuparna Das (UMich) and Izzat El Hajj (AUB) for providing resources and feedback. Also, thanks to book authors and Elsevier for making the materials publicly available. 
+<p>The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We especially thank Reetuparna Das (UMich), Izzat El Hajj (AUB), Tor Aamodt (UBC), Onur Mutlu (ETH), for providing resources and feedback. Also, thanks to book authors and Elsevier for making the materials publicly available. 
 </p>
 <div id="footer">
 <div id="footer-text">
