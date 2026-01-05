@@ -1,10 +1,10 @@
 == CS 6501: GPU Architectures, Spring 2026
 
 == General Information
-- Time and Location: Tuesday/Thursday 11:00 AM - 12:15 PM
+- Time: Tuesday/Thursday 11:00 AM - 12:15 PM
 
 - Instructor: *Adwait Jog* [https://adwaitjog.github.io (Website)]
--- Office hours: Tuesday/Thursday 2:00 PM - 3:30 PM, Rice 501
+-- Office hours: Tuesday/Thursday 12:30 PM - 2:00 PM, Rice 501
 -- Email: ajog@virginia.edu
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
@@ -19,11 +19,10 @@ Prerequisite(s): Background in computer organization and design is expected. Thi
 Breadth area coverage: Computer Systems
 
 == Grade Distribution
-- Class Attendance (In-person): 10%
-- Scribing: 10%
+- Class Attendance (In-person): 20%
 - Paper reviews: 20%
 - In-Class Presentations: 20%
-- Semester-long Research Project: 40% (5 percent for proposal, 5 percent each for midterm and final project presentations; 25 percent for final report)
+- Semester-long Research Project: 40% (5 percent for proposal, 10 percent each for midterm and final project presentations; 15 percent for final report)
 
 == Recommended Textbooks and Resources
 - Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, /4th Edition/ ([https://www.elsevier.com/books-and-journals/book-companion/9780323912310 link]). We have this book in the [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. Associated Youtube [https://www.youtube.com/channel/UC2Y6MNqiTwTrh-qPQHGIUyg lectures].
@@ -40,10 +39,7 @@ Breadth area coverage: Computer Systems
 - The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
 - You are expected to attend *all* lectures *in-person*. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick -- please don't provide any specifics). 
 - Course staff will be periodically taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person (exceptions listed below), no points will be deducted related to class attendance. 
-- If you miss the class on the day of your presentation without sufficient notice, zero points will be awarded. 
-
-== Scribe
-During the papers presentations, instructor will assign scribing duties to 1-2 students. Their job would be to summarize the class discussions and come up with a document that can be shared with the entire class. 
+- If you miss the class on the day of your presentation without one week notice, zero points will be awarded. If you anticipate a scheduling conflict, please let the instructor know as soon as possible. 
 
 == Paper reviews
 *Deadline* for the review submission is just before the class when the paper is scheduled to be discussed. 
@@ -55,14 +51,14 @@ During the papers presentations, instructor will assign scribing duties to 1-2 s
 Each student will present 1-2 papers throughout the semester. When you present a paper, be prepared to answer a variety of questions asked by the instructor or other fellow students. Paper assignment will be done by the instructor.  
 
 == Semester-long Research Project 
-- Please discuss with the instructor to decide on the project and come up with a proposal. Regular meetings are expected with the course staff so that progress can be made. Your project should have CUDA programming and/or hardware profiling component. 
+- Please discuss with the instructor to decide on the project and come up with a proposal. Regular meetings are expected with the course staff so that progress can be made. Please consider building on an established open-source project (e.g., TensorRT, TensorRT-LLM, nccl, nvshmem, NVFlare, cutlass, SPARK, ROCm, OpenCompute, vLLM, gsplat, and several other open-source projects from NVIDIA, AMD, and others). 
 
 - You can do the semester-long course project in a group (max 2 students in a group). Always describe your individual contributions to the project in the presentations and final report. 
 
 - The final project report will be due in the finals week. Please use IEEE or ACM conference formats. The report length should not be more than 10 pages (excluding references).
 
-- Students will be also asked to do two project presentations during the entire semester: 
-mid-term presentation and final presentation.
+- Students will be also asked to do multiple project-related presentations during the entire semester: 
+proposal, mid-term presentation, and final presentation.
 
 == Resources 
 - *Materials:* We will primarily use UVA Canvas for delivering and submitting materials. Piazza (link available on Canvas) will be used for course announcements and discussions. Gradescope (link available on Canvas) will be used for submissions. 
