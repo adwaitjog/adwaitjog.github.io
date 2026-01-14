@@ -7,6 +7,9 @@
 -- Office hours: Tuesday/Thursday 12:15 PM - 1:45 PM, Rice 501 (office)
 -- Email: ajog@virginia.edu
 
+- Instructor: *Mohammad Sonji* [https://msonji.github.io/ (Website)]
+-- Office hours: TBD
+
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
 == Course Description and Prerequisites
@@ -19,9 +22,9 @@ Prerequisite(s): Background in computer organization and design is expected. Thi
 Breadth area coverage: Computer Systems
 
 == Grade Distribution
-- Class Attendance (In-person) and Partcipation: 20%
-- Paper reviews: 20%
-- In-Class Paper Presentations: 20%
+- Class Attendance (In-person) and Participation: 20%
+- Programming Assignments and Paper reviews: 20%
+- In-Class Paper Presentations (In-person): 20%
 - Semester-long Research Project: 40% (5 percent for proposal, 10 percent each for midterm and final project presentations; 15 percent for final report)
 
 == Recommended Textbooks and Resources
@@ -35,7 +38,7 @@ Breadth area coverage: Computer Systems
 - Digital Design and Computer Architecture, Harris & Harris, /RISC-V Edition/
 - Accelerated Computing with HIP ([https://www.amd.com/en/blogs/2023/accelerated-computing-with-hip--textbook.html link])
 
-== Class Attendance (In-person) and Partcipation
+== Class Attendance (In-person) and Participation
 - The modality of this class is in-person. There is no plan to record lectures. There is also no plan to allow students to join the class virtually. 
 - You are expected to attend *all* lectures *in-person*. If you cannot attend in person, please e-mail the course staff (ahead of time, if possible) with a reason (e.g., university-related travel, sick -- please don't provide any specifics). 
 - You are expected to actively partcipate in the class (e.g., asking and responding to questions in-class and on Piazza, participating in discussions). 
@@ -43,13 +46,14 @@ Breadth area coverage: Computer Systems
 - Course staff will be periodically taking attendance to have a record of your in-person attendance. As long as you attend at least 80% of classes in-person (exceptions listed below), no points will be deducted related to class attendance. 
 - If you miss the class on the day of your presentation without one week notice, zero points will be awarded. If you anticipate a scheduling conflict, please let the instructor know as soon as possible. 
 
-== Paper reviews
-*Deadline* for the review submission is just before the class when the paper is scheduled to be discussed. 
+== Programming Assignments and Paper reviews
+- There will be some CUDA programming assignments assigned. 
+- *Deadline* for the review submission is just before the class when the paper is scheduled to be discussed. 
 
 *Submission Format:* Each review should not exceed one-page (in the PDF format) and must consists of four sections: 1) paper summary (2-3 lines), 2) strengths 
 (2-3 lines), 3) weaknesses (2-3 lines), and 4) comments (2-3 paras). 
 
-== In-Class Presentations 
+== In-Class Presentations (In-person)
 Each student will present 1-2 papers throughout the semester. When you present a paper, be prepared to answer a variety of questions asked by the instructor or other fellow students. Paper assignment will be done by the instructor.  
 
 == Semester-long Research Project 
