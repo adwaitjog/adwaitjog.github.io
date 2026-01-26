@@ -57,7 +57,7 @@ Breadth area coverage: Computer Systems
 Each student will present 1-2 papers throughout the semester. When you present a paper, be prepared to answer a variety of questions asked by the instructor or other fellow students. Paper assignment will be done by the instructor.  
 
 == Semester-long Research Project 
-- Please discuss with the instructor to decide on the project and come up with a proposal. Regular meetings are expected with the course staff so that progress can be made. Please consider basing your project on an established open-source project (e.g., TensorRT, TensorRT-LLM, nccl, nvshmem, NVFlare, cutlass, SPARK, ROCm, OpenCompute, vLLM, gsplat, GPGPU-Sim, MGPUSim, and several other open-source projects from NVIDIA, AMD, and others). You may also consider an artifact released as a part of the conference paper. 
+- Please discuss with the instructor to decide on the project and come up with a proposal. Regular meetings are expected with the course staff so that progress can be made. Please consider basing your project on an established open-source project (e.g., TensorRT, TensorRT-LLM, nccl, nvshmem, NVFlare, cutlass, SPARK, ROCm, OpenCompute, vLLM, gsplat, GPGPU-Sim, MGPUSim, and several other open-source projects from NVIDIA, AMD, and others). You may also consider an artifact released as a part of the conference paper. A more detailed document with guidelines can be found on Canvas. 
 
 - You can do the semester-long course project in a group (max 2 students in a group). Always describe your individual contributions to the project in the presentations and final report. Discuss with the instructor to select the project and finalize a feasible direction. Instructor approval of the proposal is required before proceeding. 
 
