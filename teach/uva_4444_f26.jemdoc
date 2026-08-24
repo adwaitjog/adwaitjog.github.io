@@ -2,16 +2,17 @@
 
 == General Information
 - Class hours: Tuesday/Thursday 12:30 PM - 1:45 PM
+-- Class Location: Check Canvas
 
 - Instructor: *Adwait Jog* [https://adwaitjog.github.io (Website)]
--- Office hours: Tuesday/Thursday 12:15 PM - 12:30 PM; 1:45 PM - 3:00 PM
 -- Email: ajog@virginia.edu
+-- Office hours and Location: Check Canvas
 
 - TA: *Yang Yang* [https://elio-yang.github.io (Website)]
--- Office hours: TBD
+-- Office hours and Location: Check Canvas
 
 - TA: *Tianle Zhong* [https://luosuu.github.io/ (Website)]
--- Office hours: TBD
+-- Office hours and Location: Check Canvas
 
 - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
@@ -22,7 +23,7 @@ Prerequisite(s): CS 3100 and CS 3130 with a C- or better.
 
 == Required Textbooks and Resources
 - Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj. The 
-/4th Edition/ of this book is available at our [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. The latest /5th Edition/ is now available on the Elsevier [https://shop.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-443-43900-1 website]. For this course, both versions are OK. Associated Youtube [https://www.youtube.com/channel/UC2Y6MNqiTwTrh-qPQHGIUyg lectures]. Associated [https://github.com/pmpp-book/pmpp5e-examples/ Code].
+/4th Edition/ of this book is available at our [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. The latest /5th Edition/ is now available on the Elsevier [https://shop.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-443-43900-1 website]. For this course, both editions are OK. Associated Youtube [https://www.youtube.com/channel/UC2Y6MNqiTwTrh-qPQHGIUyg lectures]. Associated [https://github.com/pmpp-book/pmpp5e-examples/ Code].
 - NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-c-programming-guide/ link])
 
 == Additional Textbooks and Resources
