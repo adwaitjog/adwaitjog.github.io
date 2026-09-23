@@ -219,16 +219,12 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 .group-section { margin-bottom: 44px; }
 .group-section > h2 { padding-bottom: 8px; border-bottom: 1px solid var(--border); }
 .group-section h3 { font-size: 1rem; margin: 20px 0 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; font-size: .8rem; }
-.member-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
 .member { background: var(--surface); border-radius: var(--radius); padding: 14px 16px; border-top: 3px solid var(--navy); }
 .member-name { display: block; font-weight: 650; font-size: 1.05rem; color: var(--text); }
 .member-role { display: block; font-size: .9rem; color: var(--muted); margin-top: 2px; }
 .member { position: relative; }
 .member-collab { background: transparent; border: 1px dashed var(--border); border-top: 3px solid var(--orange); }
 .member-co { display: block; font-size: .85rem; color: var(--muted); margin-top: 4px; font-style: italic; }
-.alumni-phd { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px 24px; }
-.alumni-phd a { font-weight: 600; }
-.placement { display: block; font-size: .9rem; color: var(--muted); }
 .alumni-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 40px; }
 .plain { list-style: none; padding: 0; margin: 0; }
 .plain li { padding: 3px 0; font-size: .95rem; }
@@ -255,3 +251,16 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
   .profile { position: static; }
 }
 .diss-link { font-size: .85rem; font-weight: 500; }
+
+/* People: current members and Ph.D. alumni side by side */
+.people-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 32px; align-items: start; }
+.people-col > h3:first-child { margin-top: 8px; }
+.member-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.member-alum { border-top-color: var(--muted); }
+.member-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.member-head .member-name { display: inline; }
+.member-year { font-size: .8rem; font-weight: 600; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+@media (max-width: 720px) {
+  .people-cols { grid-template-columns: 1fr; }
+  .people-col + .people-col { margin-top: 12px; }
+}

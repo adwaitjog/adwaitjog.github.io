@@ -22,45 +22,56 @@ description: The Insight Computer Architecture Lab at the University of Virginia
   <p id="funding">We gratefully acknowledge support from NSF, Google, DOE, and NVIDIA. Our members have interned at AMD, Intel, and PNNL.</p>
 </section>
 
-<section class="group-section" id="team">
-  <h2>Current Members</h2>
-  <ul class="member-grid">
-    <li class="member">
-      <a class="member-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
-      <span class="member-role">Director · {{ site.author.position }}</span>
-    </li>
-    {%- for m in g.members %}
-    <li class="member">
-      <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
-      <span class="member-role">{{ m.role }}</span>
-    </li>
-    {%- endfor %}
-  </ul>
-  {%- if g.collaborators %}
-  <h3>Collaborating Students</h3>
-  <ul class="member-grid">
-    {%- for m in g.collaborators %}
-    <li class="member member-collab">
-      <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
-      <span class="member-role">{{ m.role }}</span>
-      {%- if m.advisor %}<span class="member-co">Advised by {{ m.advisor }}</span>{% endif %}
-    </li>
-    {%- endfor %}
-  </ul>
-  {%- endif %}
+<section class="group-section" id="people">
+  <h2>People</h2>
+  <div class="people-cols">
+    <div class="people-col" id="team">
+      <h3>Current Members</h3>
+      <ul class="member-list">
+        <li class="member">
+          <a class="member-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+          <span class="member-role">Director · {{ site.author.position }}</span>
+        </li>
+        {%- for m in g.members %}
+        <li class="member">
+          <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
+          <span class="member-role">{{ m.role }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+      {%- if g.collaborators %}
+      <h3>Collaborating Students</h3>
+      <ul class="member-list">
+        {%- for m in g.collaborators %}
+        <li class="member member-collab">
+          <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
+          <span class="member-role">{{ m.role }}</span>
+          {%- if m.advisor %}<span class="member-co">Advised by {{ m.advisor }}</span>{% endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+      {%- endif %}
+    </div>
+
+    <div class="people-col" id="alumni">
+      <h3>Ph.D. Alumni</h3>
+      <ul class="member-list">
+        {%- for m in g.alumni_phd %}
+        <li class="member member-alum">
+          <span class="member-head">
+            <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
+            <span class="member-year">Ph.D. {{ m.year }}</span>
+          </span>
+          <span class="member-role">{{ m.placement }}{% if m.dissertation %} · <a class="diss-link" href="{{ m.dissertation }}">Dissertation</a>{% endif %}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
 </section>
 
-<section class="group-section" id="alumni">
-  <h2>Alumni</h2>
-  <h3>Ph.D. Graduates</h3>
-  <ul class="alumni-phd">
-    {%- for m in g.alumni_phd %}
-    <li>
-      <a href="{{ m.url }}">{{ m.name }}</a> <span class="muted">(Ph.D. {{ m.year }})</span>{% if m.dissertation %} · <a class="diss-link" href="{{ m.dissertation }}">Dissertation</a>{% endif %}
-      <span class="placement">{{ m.placement_label }}: {{ m.placement }}</span>
-    </li>
-    {%- endfor %}
-  </ul>
+<section class="group-section" id="other-alumni">
+  <h2>Other Alumni</h2>
   <div class="alumni-cols">
     <div>
       <h3>Master's Students</h3>

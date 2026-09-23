@@ -21,31 +21,26 @@ alumni_phd:
     year: 2026
     dissertation: https://doi.org/10.18130/thdj-xa61
     placement: Member of Technical Staff, AMD
-    placement_label: Current
   - name: Hongyuan Liu
     url: https://www.liuhongyuan.com/
     year: 2022
     dissertation: https://doi.org/10.21220/s2-dbkj-z447
     placement: Assistant Professor, Stevens Institute of Technology
-    placement_label: Current
   - name: Mohamed Ibrahim
     url: https://massemibrahim.github.io/
     year: 2021
     dissertation: https://doi.org/10.21220/s2-a01c-6214
     placement: Senior Member of Technical Staff, AMD
-    placement_label: Current
   - name: Gurunath Kadam
     url: https://gakadam.github.io/
     year: 2021
     dissertation: https://doi.org/10.21220/s2-jvrg-8s06
     placement: Senior Deep Learning Performance Architect, NVIDIA
-    placement_label: Current
   - name: Haonan Wang
     url: https://woodun.github.io/
     year: 2020
     dissertation: https://doi.org/10.21220/s2-e46y-k152
     placement: Assistant Professor, San Jose State University
-    placement_label: Current
 
 alumni_ms:
   - R. Xing (2019)
