@@ -14,12 +14,15 @@
   links:
     - {label: "PDF", url: "docs/pdf/yang_laegis_isca26.pdf"}
 
-- title: "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ,CMOS-Memory Compute Systems"
-  authors: "Ryan Marsala, Yerzhan Mustafa, Prabhath Tangella, Mohammad Sonji, George Michelogiannakis, Selcuk Kose, Adwait Jog, Mehmet Belviranli"
+- title: "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"
+  authors: "Ryan Marsala, Yerzhan Mustafa, Prabhath Tangella, Mohammad Sonji, George Michelogiannakis, Selcuk Kose, Adwait Jog, Mehmet E. Belviranli"
   venue: "ISPASS 2026"
   where: "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Seoul, South Korea, April 2026"
   year: 2026
   type: conference
+  url: "https://doi.org/10.1109/ispass69572.2026.00028"
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1109/ispass69572.2026.00028"}
 
 - title: "Characterizing and Mitigating Communication Overheads in Large-Scale Accelerator-Based Systems"
   authors: "Amel Fatima"
