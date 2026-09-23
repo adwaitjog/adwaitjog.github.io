@@ -1,0 +1,169 @@
+# Group and personal news, newest first. The home page shows the first 5; news.html shows all.
+
+- date: "May 2026"
+  text: "Amel successfully defended her <a href=\"https://doi.org/10.18130/thdj-xa61\">Ph.D. dissertation</a> and joined AMD as a Member of Technical Staff. Congrats Dr. Fatima!"
+
+- date: "March 2026"
+  text: "Yang's ISCA 2026 paper got accepted!"
+
+- date: "March 2025"
+  text: "Amel's ISCA 2025 paper got accepted!"
+
+- date: "March 2025"
+  text: "Ying's ISCA 2025 paper got accepted!"
+
+- date: "March 2025"
+  text: "Yang's ISPASS 2025 paper got accepted!"
+
+- date: "April 2024"
+  text: "Our NSF Medium project on GPU performance simulation and modeling got awarded! Collaborators: Yifan Sun (W&M) and Sreepathi Pai (Rochester). Thanks NSF! More details can be found <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=2402805\">here.</a>"
+
+- date: "Feb 2024"
+  text: "Adwait is recognized as an Outstanding Researcher at UVA."
+
+- date: "Dec 2023"
+  text: "DOE project on superconducting systems got awarded!"
+
+- date: "July 2023"
+  text: "Ying's MICRO 2023 paper got accepted!"
+
+- date: "July 2023"
+  text: "Adwait got elevated to a senior member of ACM and IEEE."
+
+- date: "March 2023"
+  text: "Our ISCA 2023 paper got accepted!"
+
+- date: "Jan 2023"
+  text: "Hongyuan's SIGMETRICS 2023 paper got accepted!"
+
+- date: "Jan 2023"
+  text: "Adwait moved to the University of Virginia."
+
+- date: "July 2022"
+  text: "ISVLSI paper got published."
+
+- date: "May 2022"
+  text: "Adwait received the Plumeri Award."
+
+- date: "Feb 2022"
+  text: "Adwait named as a recipient of <a href=\"https://www.wm.edu/offices/vpaia/opportunities/plumeri_award/2022-winners/index.php\">2022 Plumeri Award for Faculty Excellence</a>. Thanks William & Mary!"
+
+- date: "Jan 2022"
+  text: "Hongyuan successfully graduated. He will join as an Assistant Professor at Hong Kong University of Science and Technology (Guangzhou). Congrats Dr. Liu!"
+
+- date: "Nov 2021"
+  text: "Hongyuan successfully defended his Ph.D. Dissertation. Congrats Dr. Liu!"
+
+- date: "Sep 2021"
+  text: "Adwait is designated as Adina Allen Associate Professor of Computer Science at William & Mary."
+
+- date: "Sep 2021"
+  text: "Hongyuan presented our paper at CLUSTER 2021."
+
+- date: "Aug 2021"
+  text: "Adwait received tenure and promotion at William & Mary."
+
+- date: "July 2021"
+  text: "Paper accepted at Cluster 2021 (in collaboration with ANL). Congrats Hongyuan!"
+
+- date: "June 2021"
+  text: "Gurunath presented our paper at DSN 2021."
+
+- date: "May 2021"
+  text: "Mohamed received Distinguished Dissertation Award from Arts & Sciences. Congrats Mohamed!"
+
+- date: "May 2021"
+  text: "Gurunath and Mohamed successfully graduated and joined AMD. Congrats Dr. Ibrahim and Dr. Kadam!"
+
+- date: "April 2021"
+  text: "Adwait received <a href=\"https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html\">Google Research Scholar Award</a> ! Thanks Google!"
+
+- date: "March 2021"
+  text: "Gurunath successfully defended his Ph.D. Dissertation. Congrats Gurunath!"
+
+- date: "March 2021"
+  text: "Gurunath's paper got accepted at DSN 2021. Congrats Gurunath!"
+
+- date: "Jan 2021"
+  text: "We received research funding from DOE/ANL!"
+
+- date: "Jan 2021"
+  text: "Mohamed successfully defended his Ph.D. Dissertation. Congrats Mohamed!"
+
+- date: "Dec 2020"
+  text: "Two GPU reliability papers got accepted at SIGMETRICS and ICSE. Congrats Lishan!"
+
+- date: "Oct 2020"
+  text: "Mohamed's paper got accepted at HPCA 2021. Congrats Mohamed!"
+
+- date: "Oct 2020"
+  text: "Gurunath passed his Ph.D. Oral Exam. Congrats Gurunath!"
+
+- date: "Oct 2020"
+  text: "Mohamed presented our paper at PACT 2020. The video is available <a href=\"https://www.youtube.com/watch?v=CGIhOnt7F6s\">here.</a>"
+
+- date: "Sept 2020"
+  text: "Hongyuan passed his Ph.D. Oral Exam. Congrats Hongyuan!"
+
+- date: "Aug 2020"
+  text: "Haonan joined San Jose State University as a tenure-track assistant professor! Congrats Prof. Wang!"
+
+- date: "July 2020"
+  text: "Mohamed's paper got accepted at PACT 2020. Congrats Mohamed!"
+
+- date: "June 2020"
+  text: "Haonan successfully defended his Ph.D. Dissertation. Congrats Dr. Wang!"
+
+- date: "April 2020"
+  text: "Our group's research is on <a href=\"https://www.wm.edu/as/computerscience/news/computer-science-as-moores-law-slows-down.php\">W&M News</a> !"
+
+- date: "March 2020"
+  text: "Paper accepted in IEEE TC. Congrats Lishan and Bin!"
+
+- date: "Feb 2020"
+  text: "Paper accepted in CCGrid 2020. Congrats Bin!"
+
+- date: "Jan 2020"
+  text: "ASPLOS 2020 Artifact Accepted. Congrats Hongyuan!"
+
+- date: "Dec 2019"
+  text: "Mohamed passed his Ph.D. Oral Exam. Congrats Mohamed!"
+
+- date: "Nov 2019"
+  text: "Hongyuan's paper got accepted at ASPLOS 2020. Congrats Hongyuan!"
+
+- date: "Nov 2019"
+  text: "Gurunath's paper got accepted at HPCA 2020. Congrats Gurunath!"
+
+- date: "Sept 2019"
+  text: "Haonan passed his Ph.D. Oral Exam. Congrats Haonan!"
+
+- date: "Sept 2019"
+  text: "Mohamed presented our paper at PACT 2019."
+
+- date: "July 2019"
+  text: "Mohamed's paper got accepted at PACT 2019. Congrats Mohamed!"
+
+- date: "March 2019"
+  text: "One paper got accepted at ISCA 2019. Congrats Ashutosh!"
+
+- date: "March 2019"
+  text: "Haonan's paper got accepted at DSN 2019. Congrats Haonan!"
+
+- date: "July 2018"
+  text: "Two papers accepted at MICRO 2018. Congrats Hongyuan, Mohamed, Bin, and Lishan!"
+
+- date: "Jan 2018"
+  text: "NSF CAREER Awarded."
+
+- date: "Nov 2017"
+  text: "Paper accepted at ASPLOS 2018."
+
+- date: "Oct 2017"
+  text: "Two papers accepted at HPCA 2018. First top-tier conference papers from our lab. Congrats to Gurunath, Haonan, Fan, and Mohamed!"
+
+- date: "May 2017"
+  text: "NSF SHF Award (PI: Jog, co-PI: Smirni)."
+
+- date: "Jan 2017"
+  text: "NSF CRII Award (PI: Jog). First external funding to our lab."

@@ -1,0 +1,18 @@
+{%- assign p = include.pub -%}
+<li class="pub" data-type="{{ p.type }}">
+  <div class="pub-meta">
+    <span class="badge badge-{{ p.type }}">{{ p.venue }}</span>
+    {%- for n in p.notes %}<span class="badge badge-note">{{ n }}</span>{% endfor -%}
+  </div>
+  <div class="pub-body">
+    <div class="pub-title">{% if p.url %}<a href="{% include url.html u=p.url %}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</div>
+    <div class="pub-authors">{{ p.authors | replace: "Adwait Jog", "<strong>Adwait Jog</strong>" }}</div>
+    <div class="pub-venue">{{ p.where }}{% if p.acceptance %} <span class="pub-acc">· Acceptance rate {{ p.acceptance }}</span>{% endif %}</div>
+    {%- if p.awards %}
+    <div class="pub-awards">{% for a in p.awards %}<span class="award">★ {{ a }}</span>{% endfor %}</div>
+    {%- endif %}
+    {%- if p.links %}
+    <div class="pub-links">{% for l in p.links %}<a href="{% include url.html u=l.url %}">{{ l.label }}</a>{% endfor %}</div>
+    {%- endif %}
+  </div>
+</li>

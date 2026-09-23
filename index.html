@@ -1,74 +1,94 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<title>Adwait Jog's homepage</title>
-<META name="keywords" content="Adwait Jog, University of Virginia, UVA">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css" />
-<title></title>
-</head>
-<body>
-<div id="layout-content">
-    <div class="navbar navbar-inverse" role="navigation">
-      <div class="container">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="https://insight-cal.github.io/">Research Group</a></li>
-          </ul>
+---
+layout: default
+---
+{%- assign a = site.author -%}
+<div class="home">
+  <aside class="profile">
+    <img class="profile-photo" src="{{ a.photo | relative_url }}" alt="Portrait of {{ a.name }}" width="640" height="563">
+    <h1 class="profile-name">{{ a.name }}</h1>
+    <p class="profile-role">
+      <a href="{{ a.profile }}">{{ a.position }}</a><br>
+      <span class="muted">{{ a.fellowship }}</span>
+    </p>
+    <p class="profile-affil">
+      <a href="{{ a.department_url }}">{{ a.department }}</a><br>
+      <a href="{{ a.school_url }}">{{ a.school }}</a><br>
+      <a href="{{ a.profile }}">{{ a.university }}</a>
+    </p>
+    <p class="profile-email"><a href="mailto:{{ a.email }}">{{ a.email }}</a></p>
+    <ul class="profile-links">
+      <li><a href="{{ a.cv | relative_url }}">CV (PDF)</a></li>
+      <li><a href="{{ a.scholar }}">Google Scholar</a></li>
+      <li><a href="{{ a.dblp }}">DBLP</a></li>
+      <li><a href="{{ a.orcid }}">ORCID</a></li>
+      <li><a href="{{ a.group | relative_url }}">Research Group</a></li>
+    </ul>
+  </aside>
+
+  <div class="home-main">
+    <section>
+      <h2>About</h2>
+      <p>
+        I am an Associate Professor (with tenure) and Anita Jones Faculty Fellow in the
+        Department of Computer Science at the <a href="{{ a.profile }}">University of Virginia</a>.
+        My research lies in the broad area of computer architecture and systems, with a special
+        focus on GPUs and memory systems. I lead the <a href="{{ a.group | relative_url }}">Insight Computer Architecture Lab</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Highlights</h2>
+      <ul class="highlights">
+        <li>
+          <span class="hl-tag">Service</span>
+          I am Program Co-Chair for <a href="https://iiswc.org/iiswc2026/">IISWC 2026</a>, the premier conference
+          on workload characterization. Check out the <a href="https://iiswc.org/iiswc2026/program.html">program here</a>.
+        </li>
+        <li>
+          <span class="hl-tag">UVA</span>
+          I am leading the <a href="https://engineering.virginia.edu/labs-groups/gpu-accelerated-computing">GPU-Accelerated Computing</a>
+          Research Interest Group at UVA. If you are interested in learning more, please get in touch.
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>News</h2>
+        <a class="more" href="{{ '/news.html' | relative_url }}">All news →</a>
       </div>
-    </div>
-<h2>Welcome to Adwait's Homepage </h2>
-<table class="imgtable"><tr><td>
-<img src="docs/img/adwaituva.JPG" alt="Adwait Jog" width="225px" height="225px" />&nbsp;</td>
-<td align="left"><h4>&nbsp;&nbsp;&nbsp;Adwait Jog</h4>
-<h4>&nbsp;&nbsp;&nbsp;<a href="https://engineering.virginia.edu/faculty/adwait-jog" target=&ldquo;blank&rdquo;>Associate Professor of Computer Science</a></h4>
-<h4>&nbsp;&nbsp;&nbsp;<a href="https://engineering.virginia.edu/" target=&ldquo;blank&rdquo;>School of Engineering and Applied Science</a></h4>
-<h4>&nbsp;&nbsp;&nbsp;<a href="https://www.virginia.edu/" target=&ldquo;blank&rdquo;>University of Virginia</a></h4>
-<h4>&nbsp;&nbsp;&nbsp;<img src="docs/img/email_icon.jpg"/ ALIGN=TOP> ajog@virginia.edu</h4>
-<h4>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?hl=en&amp;user=9RgqL8gAAAAJ" target=&ldquo;blank&rdquo;>Google Scholar Profile</a> <br /> </h4>
-</td></tr></table>
-<h2>About</h2>
-<p>I am an Associate Professor (with Tenure) and Anita Jones Faculty Fellow in the Department of Computer Science at the <a href="https://engineering.virginia.edu/faculty/adwait-jog" target=&ldquo;blank&rdquo;>University of Virginia</a>. My research interests lie in the broad area of computer architecture/systems with a special focus on GPUs and memory systems. A high-level summary of my group's prior work can be found <a href="https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php" target=&ldquo;blank&rdquo;>here</a> and <a href="https://www.wm.edu/news/stories/2018/using-a-career-award-to-advance-the-insight-computer-architecture-lab.php" target=&ldquo;blank&rdquo;>here</a>. <br /> <br />
-</p>
-<p><b>I am the Program co-Chair for <a href="https://iiswc.org/iiswc2026/" target=&ldquo;blank&rdquo;>IISWC 2026</a>. Please consider submitting your best work for this premier conference on Workload Characterization.</b> <br /> <br /> 
-</p>
-<p><b>I am the co-Chair for <a href="https://engineering.virginia.edu/labs-groups/gpu-accelerated-computing" target=&ldquo;blank&rdquo;>GPU-Accelerated Computing</a> Research Interest Group at UVA. If you are interested in learning more, please contact me.</b>
-</p>
-<div id="footer">
-<div id="footer-text">
-Page generated 2026-08-24 14:23:35 EDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+      {% include news-list.html limit=5 %}
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>Recent Publications</h2>
+        <a class="more" href="{{ '/pubs.html' | relative_url }}">All publications →</a>
+      </div>
+      <ol class="pub-list compact">
+        {%- assign shown = 0 %}
+        {%- for p in site.data.publications %}
+          {%- if shown < 5 %}{% if p.type == "conference" or p.type == "journal" %}
+            {%- include pub.html pub=p %}{% assign shown = shown | plus: 1 %}
+          {%- endif %}{% endif %}
+        {%- endfor %}
+      </ol>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>Teaching</h2>
+        <a class="more" href="{{ '/teaching.html' | relative_url }}">All courses →</a>
+      </div>
+      <ul class="course-list">
+        {%- for c in site.data.teaching[0].courses limit: 2 %}
+        <li>
+          <span class="course-term">{{ c.term }}</span>
+          <a href="{% include url.html u=c.url %}"><span class="course-code">{{ c.code }}</span> {{ c.name }}</a>
+          <span class="muted">· {{ c.level }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </section>
+  </div>
 </div>
-</div>
-</div>
-<script type="text/javascript">
-var sc_project=8753633;
-var sc_invisible=1;
-var sc_security="7cd2232e";
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="free web stats"
-href="http://statcounter.com/free-web-stats/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/8753633/0/7cd2232e/1/"
-alt="free web stats"></a></div></noscript>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-16135085-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-</body>
-</html>

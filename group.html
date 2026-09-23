@@ -1,0 +1,82 @@
+---
+layout: default
+title: Research Group
+description: The Insight Computer Architecture Lab at the University of Virginia, led by Adwait Jog.
+---
+{%- assign g = site.data.group -%}
+<header class="page-header">
+  <h1>Insight Computer Architecture Lab</h1>
+  <p class="lede">
+    We are a research group working in computer architecture and systems. Our goal is to generate the
+    insights needed to architect future computers that are more energy-efficient, capable, reliable, and secure.
+  </p>
+</header>
+
+<section class="group-section" id="research">
+  <h2>Research</h2>
+  <p>
+    We are interested in all aspects of computer architecture, with a special focus on the performance,
+    reliability, and security of heterogeneous architectures and accelerators. See
+    <a href="{{ '/pubs.html' | relative_url }}">publications</a> for our work.
+  </p>
+  <p id="funding">We gratefully acknowledge support from NSF, Google, DOE, and NVIDIA. Our members have interned at AMD, Intel, and PNNL.</p>
+</section>
+
+<section class="group-section" id="team">
+  <h2>Current Members</h2>
+  <ul class="member-grid">
+    <li class="member">
+      <a class="member-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+      <span class="member-role">Director · {{ site.author.position }}</span>
+    </li>
+    {%- for m in g.members %}
+    <li class="member">
+      <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
+      <span class="member-role">{{ m.role }}</span>
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- if g.collaborators %}
+  <h3>Collaborating Students</h3>
+  <ul class="member-grid">
+    {%- for m in g.collaborators %}
+    <li class="member member-collab">
+      <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
+      <span class="member-role">{{ m.role }}</span>
+      {%- if m.advisor %}<span class="member-co">Advised by {{ m.advisor }}</span>{% endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+</section>
+
+<section class="group-section" id="alumni">
+  <h2>Alumni</h2>
+  <h3>Ph.D. Graduates</h3>
+  <ul class="alumni-phd">
+    {%- for m in g.alumni_phd %}
+    <li>
+      <a href="{{ m.url }}">{{ m.name }}</a> <span class="muted">(Ph.D. {{ m.year }})</span>{% if m.dissertation %} · <a class="diss-link" href="{{ m.dissertation }}">Dissertation</a>{% endif %}
+      <span class="placement">{{ m.placement_label }}: {{ m.placement }}</span>
+    </li>
+    {%- endfor %}
+  </ul>
+  <div class="alumni-cols">
+    <div>
+      <h3>Master's Students</h3>
+      <ul class="plain">{% for m in g.alumni_ms %}<li>{{ m }}</li>{% endfor %}</ul>
+    </div>
+    <div>
+      <h3>Undergraduate Researchers</h3>
+      <ul class="plain">{% for m in g.alumni_undergrad %}<li>{{ m }}</li>{% endfor %}</ul>
+    </div>
+  </div>
+</section>
+
+<section class="group-section" id="news">
+  <div class="section-head">
+    <h2>Recent News</h2>
+    <a class="more" href="{{ '/news.html' | relative_url }}">All news →</a>
+  </div>
+  {% include news-list.html limit=8 %}
+</section>

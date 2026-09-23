@@ -1,0 +1,41 @@
+title: Adwait Jog
+description: >-
+  Associate Professor of Computer Science at the University of Virginia.
+  Research in computer architecture and systems, with a focus on GPUs and memory systems.
+url: https://adwaitjog.github.io
+baseurl: ""
+
+author:
+  name: Adwait Jog
+  position: Associate Professor of Computer Science
+  fellowship: Anita Jones Faculty Fellow
+  department: Department of Computer Science
+  department_url: https://engineering.virginia.edu/department/computer-science
+  school: School of Engineering and Applied Science
+  school_url: https://engineering.virginia.edu/
+  university: University of Virginia
+  email: ajog@virginia.edu
+  photo: /assets/img/adwait-jog.jpg
+  cv: /docs/cv/2026_Adwait_Jog_CV_2page.pdf
+  scholar: https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ
+  dblp: https://dblp.org/pid/64/11467.html
+  orcid: https://orcid.org/0000-0002-5525-7204
+  github: https://github.com/adwaitjog
+  group: /group.html
+  profile: https://engineering.virginia.edu/faculty/adwait-jog
+
+nav:
+  - { title: Home, url: / }
+  - { title: Research Group, url: /group.html }
+  - { title: Publications, url: /pubs.html }
+  - { title: Teaching, url: /teaching.html }
+  - { title: CV, url: /docs/cv/2026_Adwait_Jog_CV_2page.pdf }
+
+markdown: kramdown
+exclude:
+  - README.md
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - teach/*.jemdoc
