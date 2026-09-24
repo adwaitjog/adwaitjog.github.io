@@ -21,18 +21,29 @@ layout: default
       <li><a href="{{ a.scholar }}">Google Scholar</a></li>
       <li><a href="{{ a.dblp }}">DBLP</a></li>
       <li><a href="{{ a.orcid }}">ORCID</a></li>
+      <li><a href="{{ a.linkedin }}">LinkedIn</a></li>
       <li><a href="{{ a.group | relative_url }}">Research Group</a></li>
     </ul>
   </aside>
 
   <div class="home-main">
-    <section>
+    <section id="about">
       <h2>About</h2>
       <p>
-        I am an Associate Professor (with tenure) and Anita Jones Faculty Fellow in the
-        Department of Computer Science at the <a href="{{ a.profile }}">University of Virginia</a>.
-        My research lies in the broad area of computer architecture and systems, with a special
-        focus on GPUs and memory systems. I lead the <a href="{{ a.group | relative_url }}">Insight Computer Architecture Lab</a>.
+        GPUs and accelerators are the engines of modern AI and scientific computing. My research asks how to make
+        them faster, more secure, and more reliable, and answers with new architectures, tools, and hard-won
+        insights: from multi-GPU interconnects and memory hierarchies, to confidential computing and resilience,
+        to simulators that predict how AI workloads will run on tomorrow&rsquo;s hardware.
+      </p>
+      <p>
+        I am an Associate Professor (with tenure) and Anita Jones Faculty Fellow in Computer Science at the
+        <a href="{{ a.profile }}">University of Virginia</a>, where I lead the
+        <a href="{{ a.group | relative_url }}">Insight Computer Architecture Lab</a>. Our work appears at ISCA,
+        MICRO, HPCA, and ASPLOS, and our Ph.D. graduates now shape the field as faculty and as engineers at AMD and
+        NVIDIA. I received the NSF CAREER Award, a Google Research Scholar Award, and William &amp; Mary&rsquo;s
+        Plumeri Award for Faculty Excellence, was named an Outstanding Researcher at UVA, and am a Senior Member of
+        ACM and IEEE. Before UVA, I was the Adina Allen Associate Professor of Computer Science at William &amp; Mary;
+        I received my Ph.D. from Penn State in 2015.
       </p>
     </section>
 
@@ -93,3 +104,4 @@ layout: default
     </section>
   </div>
 </div>
+
