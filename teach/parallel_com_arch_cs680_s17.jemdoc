@@ -7,7 +7,7 @@
 - Office hours: MW 5:00PM to 6:30PM or by appointment, McGL 111
 - Email: adwait@cs.wm.edu \n
 - Deadlines: Jan 27 (add/drop deadline) and Mar 17 (withdraw deadline)
-- Final exam: May 1, Monday, 9 AM to 12:00 noon, McGL 002 ([http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/spring17exam/index.php Final Exam Schedule])
+- Final exam: May 1, Monday, 9 AM to 12:00 noon, McGL 002 (Final Exam Schedule)
 
 # - *\<span style=\"color: blue\"\> Please keep checking this website for the latest information regarding the course. \<\/span\>* \n
 
@@ -75,7 +75,7 @@ students and the instructor. After your presentation is complete, send your
 final slides to the class on Piazza. \n
 
 During each student presentation, each student (except the presenter) needs to fill the student 
-feedback form. The form is available [http://adwaitjog.github.io/docs/misc/feedback_form.pdf here]. 
+feedback form. 
 Please make sure you have a hard copy of it for every student presentation. 
 
 ==  (III) Semester-Long Research Project
@@ -120,15 +120,15 @@ It will cover all the topics covered in the class, including the content covered
 \n
 \n
 *Useful Simulators/Tools* \n
-- [http://gem5.org/Main_Page GEM5], A Full System CPU Simulator
-- [http://marss86.org/~marss86/index.php/Home MARSSx86], A Full System CPU Simulator
-- [http://www.hpl.hp.com/research/mcpat/ McPAT], A power, area, and timing modeling framework
+- [https://www.gem5.org/ GEM5], A Full System CPU Simulator
+- [https://github.com/avadhpatel/marss MARSSx86], A Full System CPU Simulator
+- [https://github.com/HewlettPackard/mcpat McPAT], A power, area, and timing modeling framework
 - [http://snipersim.org/w/The_Sniper_Multi-Core_Simulator Sniper], A Parallel/Fast CPU Simulator
 - [https://github.com/s5z/zsim zsim], Another Fast CPU Simulator
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
-- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
-- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
-- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
+- [https://github.com/Multi2Sim/multi2sim Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+- CPU-GPU Simulator, A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
+- GemDroid, A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Semester Schedule (Will be updated regularly)
 
@@ -303,7 +303,7 @@ official letter of accommodation. For more information, please
 click [http://www.wm.edu/sas here].
 
 == Honor Code
-Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+Students are required to follow the Honor System of the College of William and Mary.
 
 
 

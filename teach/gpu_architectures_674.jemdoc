@@ -50,7 +50,7 @@ presentation and final report.
 == Final Exam
 It will be comprehensive and will cover all the material covered until the end 
 of the semester. The final exam is scheduled by W&M and is on April 30 (9:00-12:00 noon) 
-as per this [https://www.wm.edu/offices/registrar/calendarsandexams/examschedules/spring19exam/index.php website].
+as per this website.
 
 
 == Class Schedule 
@@ -221,7 +221,7 @@ There is no required book for this course, however, you might find the following
 - Patterson and Hennesy, Computer Organization and Design, 5th Edition, Appendix C-2 on GPUs
 - [https://www.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-415992-1 
 D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on Approach, Second Edition]
-- [https://docs.nvidia.com/cuda/cuda-c-programming-guide/ NVIDIA CUDA C Programming Guide]
+- [https://docs.nvidia.com/cuda/cuda-programming-guide/ NVIDIA CUDA C Programming Guide]
 - Aamodt, Fung, Rogers, “General-Purpose Graphics Processing Architectures” – Morgan and Claypool Publishers, 1st Edition
 
 == Useful Simulators and Tools
@@ -242,5 +242,5 @@ official letter of accommodation. For more information, please
 click [http://www.wm.edu/sas here].
 
 == Honor Code
-Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+Students are required to follow the Honor System of the College of William and Mary.
 

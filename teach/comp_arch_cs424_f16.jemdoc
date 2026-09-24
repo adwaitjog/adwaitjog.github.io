@@ -11,8 +11,8 @@
 - Teaching Assistant: *Mohamed Ibrahim*
 -- Office hours: By appointment, McGl 101B
 
-- Deadlines: Sept 2 (add/drop deadline) and Oct 21 (withdraw deadline). See the [https://www.wm.edu/offices/registrar/documents/calendars/2016_2017ugcal.pdf UG calender] for more details.
-- Exam Dates: Oct 13 (Midterm Exam, in-class) and Dec 14 (Final Exam, 2:00 to 5:00 PM in the regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php Fall 2016 Final Exam Schedule] for more details.)
+- Deadlines: Sept 2 (add/drop deadline) and Oct 21 (withdraw deadline). See the UG calender for more details.
+- Exam Dates: Oct 13 (Midterm Exam, in-class) and Dec 14 (Final Exam, 2:00 to 5:00 PM in the regular class-room, see Fall 2016 Final Exam Schedule for more details.)
 
 # - *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
@@ -76,13 +76,13 @@ Talk to the instructor early to discuss potential project topics.
 - If you have any grading-related questions, please contact the TA first. If issues are not resolved, then contact the instructor (cc TA). 
 
 == Simulators
-- [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
+- [https://dpetersanderson.github.io/ MARS: A MIPS Simulator]. Download and 
 Install [http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Aug. 2014] and 
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. As MARS is a
 Java program, it should run on any OS. Browse through the software and documentation to 
-familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
+familiarize yourself with the software. Here is a good [https://dpetersanderson.github.io/ 
 tutorial] with lots of screenshots. Read the tutorial first before starting MARS. More documentation 
-can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
+can be found [https://dpetersanderson.github.io/ here].
 
 - [http://www.simplescalar.com/ SimpleScalar]. It is an architecture-level simulator. Refer
 to these [http://adwaitjog.github.io/teach/simplescalar/SimpleScalar_Setup.pptx presentation slides] 
@@ -328,8 +328,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top> <font color="red">Comprehensive Final Exam, 2:00 to 5:00 PM, ISC 2280</font>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall16exam/index.php">
-  (Fall 2016 Exam Schedule)</a>. Final exam will include all material covered during the semester. &nbsp;</td>
+  <td valign=top> To be held in the Regular Classroom. 
+  (Fall 2016 Exam Schedule). Final exam will include all material covered during the semester. &nbsp;</td>
   </tr>
 </TABLE>
 
@@ -339,7 +339,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
 == Academic Integrity and Accommodations
 - The university and department policies against academic dishonesty will be strictly enforced.
 
-- Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+- Students are required to follow the Honor System of the College of William and Mary.
 
 - It is the policy of The College of William and Mary to accommodate 
 students with disabilities and qualifying diagnosed conditions in 

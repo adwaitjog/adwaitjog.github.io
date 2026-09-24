@@ -8,15 +8,15 @@
 -- Office hours: Monday/Wednesday 2:00PM-3:30 PM or by appointment, McGl 111
 -- Email: ajog@wm.edu
 
-- Teaching Assistant: *Hongyuan Liu* [http://www.cs.wm.edu/~hyliu/ (Personal Website)]
+- Teaching Assistant: *Hongyuan Liu* [https://www.liuhongyuan.com/ (Personal Website)]
 -- Office hours: by appointment
 
 - Deadlines: Sept 7 (add/drop deadline) and Oct 26 (withdraw deadline). See 
-the [https://www.wm.edu/offices/registrar/documents/calendars/2018_2019ugcal.pdf UG calender] 
+the UG calender 
 for more details.
 
 - Exam Dates: Oct 17th (Midterm Exam, in-class) and Dec 11 (Final Exam, 9:00 to noon 
-in our regular class-room, see [http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall18exam/index.php Fall 2018 Final Exam Schedule] for more details.)
+in our regular class-room, see Fall 2018 Final Exam Schedule for more details.)
 
 #- *\<span style=\"color: red\"\> Please keep checking this website for the latest information regarding this course. \<\/span\>* \n
 
@@ -89,13 +89,13 @@ If issues are not resolved, then you can escalate the matter to the instructor.
 The instructor will make the final decision.
 
 == Simulators
-- [http://courses.missouristate.edu/KenVollmar/mars/ MARS: A MIPS Simulator]. Download and 
+- [https://dpetersanderson.github.io/ MARS: A MIPS Simulator]. Download and 
 Install [http://courses.missouristate.edu/KenVollmar/MARS/download.htm V4.5,  Aug. 2014] and 
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html JAVA SDK]. As MARS is a
 Java program, it should run on any OS. Browse through the software and documentation to 
-familiarize yourself with the software. Here is a good [http://courses.missouristate.edu/KenVollmar/MARS/tutorial.htm 
+familiarize yourself with the software. Here is a good [https://dpetersanderson.github.io/ 
 tutorial] with lots of screenshots. Read the tutorial first before starting MARS. More documentation 
-can be found [http://courses.missouristate.edu/KenVollmar/MARS/Help/MarsHelpIntro.html here].
+can be found [https://dpetersanderson.github.io/ here].
 
 - [http://www.simplescalar.com/ SimpleScalar]. It is an architecture-level simulator. Refer
 to these [http://adwaitjog.github.io/teach/simplescalar/SimpleScalar_Setup.pptx presentation slides] 
@@ -377,8 +377,8 @@ Browse through the simulator-software and documentation to familiarize yourself 
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
   <td valign=top>  &nbsp;</td>
-  <td valign=top> To be held in the Regular Classroom. <a href="http://www.wm.edu/offices/registrar/calendarsandexams/examschedules/fall18exam/index.php">
-  (Exam Schedule)</a>. Final exam will include all material covered during the semester. &nbsp;</td>
+  <td valign=top> To be held in the Regular Classroom. 
+  (Exam Schedule). Final exam will include all material covered during the semester. &nbsp;</td>
   </tr>
 </TABLE>
 
@@ -388,7 +388,7 @@ Browse through the simulator-software and documentation to familiarize yourself 
 == Academic Integrity and Accommodations
 - The university and department policies against academic dishonesty will be strictly enforced.
 
-- Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+- Students are required to follow the Honor System of the College of William and Mary.
 
 - It is the policy of The College of William and Mary to accommodate 
 students with disabilities and qualifying diagnosed conditions in 
@@ -415,7 +415,7 @@ Organization and Design, 5th Edition, Patterson & Hennessy (P&H), Morgan Kaufman
 The course staff also acknowledges the contributions of Mary. J. Irwin, Chita Das, 
 Yuan Xie, N. Vijaykrishnan, and other instructors and TAs at Penn State, towards 
 developing the course material over a period of time. Some of the collaboration
-rules are inspired by [http://www.cse.psu.edu/~ads22/cse465/S07/ CSE 465] course 
+rules are inspired by CSE 465 course 
 at Penn State.
 
 

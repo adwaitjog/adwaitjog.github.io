@@ -107,9 +107,9 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - [https://github.com/macsimgt/macsim-public MacSim], A trace-driven CPU/GPU simulator
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
-- [https://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
-- [https://github.com/okayiran/cpugpusim CPU-GPU Simulator], A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
-- [http://huz123.github.io/gemdroid.htm GemDroid], A Mobile Architecture Simulator (GEM5 + Android Emulator)
+- [https://github.com/Multi2Sim/multi2sim Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+- CPU-GPU Simulator, A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
+- GemDroid, A Mobile Architecture Simulator (GEM5 + Android Emulator)
 
 == Semester Schedule
 
@@ -270,5 +270,5 @@ official letter of accommodation. For more information, please
 click [http://www.wm.edu/sas here].
 
 == Honor Code
-Students are required to follow the [https://www.wm.edu/offices/deanofstudents/services/studentconduct/studenthandbook/honor_system/index.php Honor System] of the College of William and Mary.
+Students are required to follow the Honor System of the College of William and Mary.
 

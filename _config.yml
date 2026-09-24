@@ -40,3 +40,4 @@ exclude:
   - Gemfile.lock
   - vendor
   - teach/*.jemdoc
+  - teach/mysite.conf

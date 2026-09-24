@@ -24,7 +24,7 @@ Prerequisite(s): CS 3100 and CS 3130 with a C- or better.
 == Required Textbooks and Resources
 - Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj. The 
 /4th Edition/ of this book is available at our [https://search.lib.virginia.edu/sources/uva_library/items/u11636412 UVA Library]. The latest /5th Edition/ is now available on the Elsevier [https://shop.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-443-43900-1 website]. For this course, both editions are OK. Associated Youtube [https://www.youtube.com/channel/UC2Y6MNqiTwTrh-qPQHGIUyg lectures]. Associated [https://github.com/pmpp-book/pmpp5e-examples/ Code].
-- NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-c-programming-guide/ link])
+- NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-programming-guide/ link])
 
 == Additional Textbooks and Resources
 - General-Purpose Graphics Processing Architectures, Aamodt, Fung, Rogers. ([https://link.springer.com/book/10.1007/978-3-031-01759-9 link]). Book available via UVA login. 

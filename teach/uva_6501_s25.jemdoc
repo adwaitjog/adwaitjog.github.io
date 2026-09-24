@@ -63,7 +63,7 @@ mid-term presentation and final presentation.
 
 == Optional Textbooks and Resources
 - Programming Massively Parallel Processors: A Hands-on Approach, Hwu, Kirk, and El Hajj, /4th Edition/ ([https://www.elsevier.com/books-and-journals/book-companion/9780323912310 link])
-- NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-c-programming-guide/ link])
+- NVIDIA CUDA C Programming Guide ([https://docs.nvidia.com/cuda/cuda-programming-guide/ link])
 - General-Purpose Graphics Processing Architectures, Aamodt, Fung, Rogers. ([https://link.springer.com/book/10.1007/978-3-031-01759-9 link])
 - Computer Architecture: A Quantitative Approach, Hennessy and Patterson, /Sixth Edition/. ([https://www.elsevier.com/books-and-journals/book-companion/9780128119051 link])
 - Computer Organization and Design, Patterson & Hennessey, /2nd Edition (RISC-V Edition)/. ([https://www.elsevier.com/books-and-journals/book-companion/9780128203316 link])
@@ -102,7 +102,7 @@ Engaging in your career development is an important part of your student experie
 You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
 
 == Community and Identity
-The [https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering Center for Diversity in Engineering (CDE)] is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
+The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 
 == Acknowledgments
 The majority of the course materials used in this course are adapted from the courses taught by several faculty members. We thank Reetuparna Das (UMich), Onur Mutlu (ETH/CMU), Tor Aamodt (UBC) for their contributions and or feedback. Also, thanks to Elsevier and book authors for making their slides and other materials available [https://www.elsevier.com/books-and-journals/book-companion/9780128119051 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128122754 here], [https://www.elsevier.com/books-and-journals/book-companion/9780128203316 here], and [https://www.elsevier.com/books-and-journals/book-companion/9780323912310 here].

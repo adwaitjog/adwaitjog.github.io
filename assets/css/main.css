@@ -392,3 +392,8 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 .member-alum { padding: 11px 16px; }
 .member-alum .member-joint { margin-top: 4px; }
 .member-alum .member-role { margin-top: 1px; }
+/* Narrow Android phones (e.g. 360px Galaxy S): keep the whole menu on one row */
+@media (max-width: 380px) {
+  .site-nav { gap: 10px; }
+  .site-nav a { font-size: .8rem; }
+}
