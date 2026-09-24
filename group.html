@@ -61,21 +61,19 @@ description: The Insight Computer Architecture Lab at the University of Virginia
         <li class="member">
           <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
           <span class="member-role">{{ m.role }}</span>
+          {%- if m.projects %}
+          <span class="member-joint">Joint Project:
+            {% for p in m.projects %}<a href="{% include url.html u=p.url %}">{{ p.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+          </span>
+          {%- endif %}
+          {%- if m.joint %}
+          <span class="member-joint">Selected Joint Work:
+            {% for p in m.joint %}<a href="{% include url.html u=p.url %}">{{ p.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+          </span>
+          {%- endif %}
         </li>
         {%- endfor %}
       </ul>
-      {%- if g.collaborators %}
-      <h3>Current Collaborators</h3>
-      <ul class="member-list">
-        {%- for m in g.collaborators %}
-        <li class="member member-collab">
-          <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
-          <span class="member-role">{{ m.role }}</span>
-          {%- if m.advisor %}<span class="member-co">Advised by {{ m.advisor }}</span>{% endif %}
-        </li>
-        {%- endfor %}
-      </ul>
-      {%- endif %}
     </div>
 
     <div class="people-col" id="alumni">
@@ -88,11 +86,44 @@ description: The Insight Computer Architecture Lab at the University of Virginia
             <span class="member-year">Ph.D. {{ m.year }}</span>
           </span>
           <span class="member-role">{{ m.placement }}{% if m.dissertation %} · <a class="diss-link" href="{{ m.dissertation }}">Dissertation</a>{% endif %}</span>
+          {%- if m.joint %}
+          <span class="member-joint">Selected Joint Work:
+            {% for p in m.joint %}<a href="{% include url.html u=p.url %}">{{ p.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+          </span>
+          {%- endif %}
         </li>
         {%- endfor %}
       </ul>
     </div>
   </div>
+
+  {%- if g.collaborators %}
+  <h3 class="collab-title" id="collaborators">Current Collaborators</h3>
+  <ul class="member-list collab-grid">
+    {%- for m in g.collaborators %}
+    <li class="member member-collab">
+      <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
+      <span class="member-role">{{ m.role }}</span>
+      {%- if m.advisor %}<span class="member-co">Advised by {{ m.advisor }}</span>{% endif %}
+      {%- if m.journey %}
+      <span class="member-journey">
+        {%- for j in m.journey %}<span class="mj-step">{{ j.label }} <span class="mj-years">{{ j.years }}</span></span>{% unless forloop.last %}<span class="mj-arrow" aria-hidden="true">→</span>{% endunless %}{% endfor -%}
+      </span>
+      {%- endif %}
+      {%- if m.projects %}
+          <span class="member-joint">Joint Project:
+            {% for p in m.projects %}<a href="{% include url.html u=p.url %}">{{ p.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+          </span>
+          {%- endif %}
+          {%- if m.joint %}
+          <span class="member-joint">Selected Joint Work:
+            {% for p in m.joint %}<a href="{% include url.html u=p.url %}">{{ p.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+          </span>
+          {%- endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
 </section>
 
 <section class="group-section" id="other-alumni">

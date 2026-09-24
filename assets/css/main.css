@@ -379,3 +379,16 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
   .profile-links::-webkit-scrollbar { display: none; }
   .profile-links li { flex: none; }
 }
+
+/* Collaborator history and joint work */
+.member-journey { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-top: 8px; font-size: .85rem; }
+.mj-step { padding: 2px 9px; border-radius: 999px; background: var(--bg); border: 1px solid var(--border); color: var(--text); }
+.mj-years { color: var(--muted); font-variant-numeric: tabular-nums; }
+.mj-arrow { color: var(--orange); font-weight: 700; }
+.member-joint { display: block; margin-top: 8px; font-size: .85rem; color: var(--muted); }
+.collab-title { margin-top: 28px !important; }
+.collab-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; align-items: stretch; }
+@media (max-width: 900px) { .collab-grid { grid-template-columns: 1fr; } }
+.member-alum { padding: 11px 16px; }
+.member-alum .member-joint { margin-top: 4px; }
+.member-alum .member-role { margin-top: 1px; }

@@ -1,52 +1,96 @@
 # Insight Computer Architecture Lab. Rendered by group.html.
 # collaborators: faculty and students outside the lab we currently work with.
+#   Optional: advisor, journey [{label, years}] (timeline), projects [{label, url}] (joint grants), joint [{label, url}] (joint papers).
 
 members:
   - name: Yang Yang
     url: https://elio-yang.github.io/
     role: Ph.D. Candidate, University of Virginia
+    joint:
+      - {label: "LÆGIS (ISCA '26)", url: "https://doi.org/10.1109/isca66397.2026.00046"}
+      - {label: "NetCrafter (ISCA '25)", url: "https://doi.org/10.1145/3695053.3731040"}
+      - {label: "CC Overheads (ISPASS '25)", url: "https://doi.org/10.1109/ispass64960.2025.00020"}
   - name: Mohammad Sonji
     url: https://msonji.github.io/
     role: Ph.D. Candidate, University of Virginia
+    joint:
+      - {label: "Hibiscus (ISPASS '26)", url: "https://doi.org/10.1109/ispass69572.2026.00028"}
+      - {label: "CC Overheads (ISPASS '25)", url: "https://doi.org/10.1109/ispass64960.2025.00020"}
 
 collaborators:
   - name: Ying Li
     url: https://yingliphd.com/
     role: Ph.D. Candidate, William & Mary
-    advisor: Prof. Yifan Sun
+    journey:
+      - {label: "Insight Lab", years: "2020–2022"}
+      - {label: "Prof. Yifan Sun's group", years: "2023–"}
+    joint:
+      - {label: "TrioSim (ISCA '25)", url: "https://doi.org/10.1145/3695053.3731082"}
+      - {label: "Path Forward (MICRO '23)", url: "https://doi.org/10.1145/3613424.3614277"}
   - name: Yifan Sun
     url: https://sarchlab.org/syifan
     role: Associate Professor, William & Mary
+    projects:
+      - {label: "NSF Medium: GPU performance simulation and modeling (2024–)", url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2402805"}
+    joint:
+      - {label: "NetCrafter (ISCA '25)", url: "https://doi.org/10.1145/3695053.3731040"}
+      - {label: "TrioSim (ISCA '25)", url: "https://doi.org/10.1145/3695053.3731082"}
+      - {label: "Path Forward (MICRO '23)", url: "https://doi.org/10.1145/3613424.3614277"}
   - name: Sreepathi Pai
     url: https://www.cs.rochester.edu/~sree/
     role: Associate Professor, University of Rochester
+    projects:
+      - {label: "NSF Medium: GPU performance simulation and modeling (2024–)", url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2402805"}
+    joint:
+      - {label: "Async Automata (SIGMETRICS '23)", url: "https://doi.org/10.1145/3579453"}
+      - {label: "NFAs on GPUs (ASPLOS '20)", url: "https://par.nsf.gov/servlets/purl/10206640"}
+      - {label: "Automata Processing (MICRO '18)", url: "docs/pdf/hotcoldap-micro18.pdf"}
 
+# alumni_phd joint: the graduate's first-author papers (no dissertations).
 alumni_phd:
   - name: Amel Fatima
     url: https://www.linkedin.com/in/amel-fatima-34ab5024a/
     year: 2026
     dissertation: https://doi.org/10.18130/thdj-xa61
     placement: Member of Technical Staff, AMD
+    joint:
+      - {label: "NetCrafter (ISCA '25)", url: "https://doi.org/10.1145/3695053.3731040"}
   - name: Hongyuan Liu
     url: https://www.liuhongyuan.com/
     year: 2022
     dissertation: https://doi.org/10.21220/s2-dbkj-z447
     placement: Assistant Professor, Stevens Institute of Technology
+    joint:
+      - {label: "Async Automata (SIGMETRICS '23)", url: "https://doi.org/10.1145/3579453"}
+      - {label: "NFAs on GPUs (ASPLOS '20)", url: "https://par.nsf.gov/servlets/purl/10206640"}
+      - {label: "Automata Processing (MICRO '18)", url: "docs/pdf/hotcoldap-micro18.pdf"}
   - name: Mohamed Ibrahim
     url: https://massemibrahim.github.io/
     year: 2021
     dissertation: https://doi.org/10.21220/s2-a01c-6214
     placement: Senior Member of Technical Staff, AMD
+    joint:
+      - {label: "Decoupled L1 (HPCA '21)", url: "docs/pdf/decoupledl1-hpca21.pdf"}
+      - {label: "Shared L1 (PACT '20)", url: "docs/pdf/sharedl1-pact20.pdf"}
+      - {label: "Remote-core Bandwidth (PACT '19)", url: "docs/pdf/remote-core-pact19.pdf"}
   - name: Gurunath Kadam
     url: https://gakadam.github.io/
     year: 2021
     dissertation: https://doi.org/10.21220/s2-jvrg-8s06
     placement: Senior Deep Learning Performance Architect, NVIDIA
+    joint:
+      - {label: "Data-centric Reliability (DSN '21)", url: "docs/pdf/kadam-gpu-reliability-dsn21.pdf"}
+      - {label: "BCoal (HPCA '20)", url: "docs/pdf/bcoal-hpca20.pdf"}
+      - {label: "RCoal (HPCA '18)", url: "docs/pdf/rcoal-hpca18.pdf"}
   - name: Haonan Wang
     url: https://woodun.github.io/
     year: 2020
     dissertation: https://doi.org/10.21220/s2-e46y-k152
     placement: Assistant Professor, San Jose State University
+    joint:
+      - {label: "Error Tolerance (DSN '19)", url: "docs/pdf/lmc-dsn19.pdf"}
+      - {label: "Value Prediction (ICS '19)", url: "docs/pdf/asap-ics19.pdf"}
+      - {label: "Fair Multiprogramming (HPCA '18)", url: "docs/pdf/pbs-hpca18.pdf"}
 
 alumni_ms:
   - {name: "B. Dacey", school: "UVA", year: "2025"}
