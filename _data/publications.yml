@@ -14,6 +14,7 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/isca66397.2026.00046"}
     - {label: "PDF", url: "docs/pdf/yang_laegis_isca26.pdf"}
+    - {label: "Artifact", url: "https://github.com/insight-cal-uva/laegis-isca26-artifact"}
 
 - title: "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"
   authors: "Ryan Marsala, Yerzhan Mustafa, Prabhath Tangella, Mohammad Sonji, George Michelogiannakis, Selcuk Kose, Adwait Jog, Mehmet E. Belviranli"
@@ -129,6 +130,7 @@
   acceptance: "101/424 ≈ 24%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3613424.3614277"}
+    - {label: "Artifact", url: "https://zenodo.org/records/8365078"}
 
 - title: "Optimizing CPU Performance for Recommendation Systems At-Scale"
   authors: "Rishabh Jain, Scott Cheng, Vishwas Kalagi, Vrushabh Sanghavi, Samvit Kaul, Meena Arunachalam, Kiwan Maeng, Adwait Jog, Anand Sivasubramaniam, Mahmut T. Kandemir, and Chita R. Das"
@@ -140,6 +142,7 @@
   acceptance: "79/372 ≈ 21%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3579371.3589112"}
+    - {label: "Artifact", url: "https://github.com/rishucoding/reproduce_isca23_cpu_DLRM_inference"}
 
 - title: "Asynchronous Automata Processing on GPUs"
   authors: "Hongyuan Liu, Sreepathi Pai, Adwait Jog"

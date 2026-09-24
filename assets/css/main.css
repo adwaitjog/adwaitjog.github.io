@@ -97,7 +97,7 @@ p { margin: 0 0 1em; }
   display: flex; align-items: center; justify-content: space-between;
   flex-wrap: wrap; gap: 8px 24px; padding-top: 14px; padding-bottom: 14px;
 }
-.site-title { color: var(--header-text); font-weight: 700; font-size: 1.15rem; letter-spacing: .01em; }
+.site-title { color: var(--header-text); font-weight: 700; font-size: 1.5rem; letter-spacing: .01em; line-height: 1.2; }
 .site-title:hover { color: var(--header-text); text-decoration: none; }
 .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 22px; }
 .site-nav a { color: rgba(255,255,255,.82); font-size: .95rem; padding: 2px 0; border-bottom: 2px solid transparent; }
@@ -304,4 +304,7 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 }
 @media (pointer: coarse) {
   .theme-toggle { width: 40px; height: 40px; }
+}
+@media (max-width: 560px) {
+  .site-title { font-size: 1.35rem; }
 }
