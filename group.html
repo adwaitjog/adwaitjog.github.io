@@ -7,19 +7,44 @@ description: The Insight Computer Architecture Lab at the University of Virginia
 <header class="page-header">
   <h1>Insight Computer Architecture Lab</h1>
   <p class="lede">
-    We are a research group working in computer architecture and systems. Our goal is to generate the
-    insights needed to architect future computers that are more energy-efficient, capable, reliable, and secure.
+    We study how to build faster, more efficient, and more trustworthy computer systems. Our goal is to generate the insights needed to architect future computers that are
+    more energy-efficient, capable, reliable, and secure.
   </p>
 </header>
 
 <section class="group-section" id="research">
   <h2>Research</h2>
   <p>
-    We are interested in all aspects of computer architecture, with a special focus on the performance,
-    reliability, and security of heterogeneous architectures and accelerators. See
-    <a href="{{ '/pubs.html' | relative_url }}">publications</a> for our work.
+    We work across computer architecture, with a special focus on the performance, reliability, and security
+    of GPUs, heterogeneous systems, and accelerators. Our approach pairs careful workload characterization with
+    new architectural mechanisms and fast, accurate modeling tools. Our work spans:
   </p>
-  <p id="funding">We gratefully acknowledge support from NSF, Google, DOE, and NVIDIA. Our members have interned at AMD, Intel, and PNNL.</p>
+  <div class="thrusts">
+    {%- for t in g.thrusts %}
+    <div class="thrust">
+      <h3 class="thrust-title">{% if t.icon %}<span class="thrust-icon">{% include icon.html name=t.icon %}</span>{% endif %}{{ t.title }}</h3>
+      <p>{{ t.text }}</p>
+      <ul class="thrust-papers">
+        {%- for p in t.papers %}
+        <li>
+          {%- if p.refs -%}
+            {% for r in p.refs %}<a href="{% include url.html u=r.url %}">{{ r.text }}</a>{% unless forloop.last %} and {% endunless %}{% endfor %}
+          {%- else -%}
+            <a href="{% include url.html u=p.url %}">{{ p.label }}</a>
+          {%- endif -%}
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+    {%- endfor %}
+  </div>
+  <p class="more-line">See all <a href="{{ '/pubs.html' | relative_url }}">publications</a>.</p>
+  <p id="funding" class="support">
+    Our research has been supported by the National Science Foundation (including an NSF CAREER award),
+    the Department of Energy, Google, and NVIDIA. Our students have interned at AMD, Intel, and Pacific
+    Northwest National Laboratory, and our Ph.D. alumni have gone on to faculty positions and to industry
+    roles at AMD and NVIDIA.
+  </p>
 </section>
 
 <section class="group-section" id="people">
