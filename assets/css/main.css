@@ -120,7 +120,12 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 .profile-role { font-weight: 550; margin-bottom: .8em; }
 .profile-role .muted { font-weight: 400; }
 .profile-affil { color: var(--muted); font-size: .95rem; }
-.profile-email a { font-weight: 550; }
+.profile-affil { margin-bottom: 10px; }
+.profile-email { margin: 0 0 16px; }
+.profile-email a { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; color: var(--text); }
+.profile-email a:hover { color: var(--link-hover); }
+.mail-icon { display: inline-flex; color: var(--orange); }
+.mail-icon .icon { width: 18px; height: 18px; }
 .profile-links { list-style: none; padding: 16px 0 0; margin: 0; border-top: 1px solid var(--border); display: flex; flex-wrap: wrap; gap: 8px; }
 .profile-links a {
   display: inline-block; font-size: .85rem; padding: 4px 10px; border: 1px solid var(--border);

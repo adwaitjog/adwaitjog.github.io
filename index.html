@@ -15,7 +15,9 @@ layout: default
       <a href="{{ a.school_url }}">{{ a.school }}</a><br>
       <a href="{{ a.profile }}">{{ a.university }}</a>
     </p>
-    <p class="profile-email"><a href="mailto:{{ a.email }}">{{ a.email }}</a></p>
+    <p class="profile-email">
+      <a href="mailto:{{ a.email }}"><span class="mail-icon">{% include icon.html name="mail" %}</span>{{ a.email }}</a>
+    </p>
     <ul class="profile-links">
       <li><a href="{{ a.cv | relative_url }}">CV (PDF)</a></li>
       <li><a href="{{ a.scholar }}">Google Scholar</a></li>
