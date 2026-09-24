@@ -1,5 +1,5 @@
 # Insight Computer Architecture Lab. Rendered by group.html.
-# collaborators: students outside the lab whom we mentor informally or collaborate with.
+# collaborators: faculty and students outside the lab we currently work with.
 
 members:
   - name: Yang Yang
@@ -14,6 +14,12 @@ collaborators:
     url: https://yingliphd.com/
     role: Ph.D. Candidate, William & Mary
     advisor: Prof. Yifan Sun
+  - name: Yifan Sun
+    url: https://sarchlab.org/syifan
+    role: Associate Professor, William & Mary
+  - name: Sreepathi Pai
+    url: https://www.cs.rochester.edu/~sree/
+    role: Associate Professor, University of Rochester
 
 alumni_phd:
   - name: Amel Fatima

@@ -30,7 +30,7 @@ description: The Insight Computer Architecture Lab at the University of Virginia
       <ul class="member-list">
         <li class="member">
           <a class="member-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
-          <span class="member-role">Director · {{ site.author.position }}</span>
+          <span class="member-role">Director · {{ site.author.position }}, {{ site.author.university }}</span>
         </li>
         {%- for m in g.members %}
         <li class="member">
@@ -40,7 +40,7 @@ description: The Insight Computer Architecture Lab at the University of Virginia
         {%- endfor %}
       </ul>
       {%- if g.collaborators %}
-      <h3>Collaborating Students</h3>
+      <h3>Current Collaborators</h3>
       <ul class="member-list">
         {%- for m in g.collaborators %}
         <li class="member member-collab">
@@ -71,7 +71,7 @@ description: The Insight Computer Architecture Lab at the University of Virginia
 </section>
 
 <section class="group-section" id="other-alumni">
-  <h2>Other Alumni</h2>
+  <h2>Master's and Undergraduate Alumni</h2>
   <div class="alumni-cols">
     <div>
       <h3>Master's Students</h3>

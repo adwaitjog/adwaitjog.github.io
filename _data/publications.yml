@@ -9,9 +9,10 @@
   where: "ACM International Symposium on Computer Architecture (ISCA), Raleigh, NC, June 2026"
   year: 2026
   type: conference
-  url: "docs/pdf/yang_laegis_isca26.pdf"
+  url: "https://doi.org/10.1109/isca66397.2026.00046"
   acceptance: "161/845 ≈ 19%"
   links:
+    - {label: "DOI", url: "https://doi.org/10.1109/isca66397.2026.00046"}
     - {label: "PDF", url: "docs/pdf/yang_laegis_isca26.pdf"}
 
 - title: "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"
@@ -23,6 +24,7 @@
   url: "https://doi.org/10.1109/ispass69572.2026.00028"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/ispass69572.2026.00028"}
+    - {label: "Artifact", url: "https://github.com/hpsslab/hibiscus"}
 
 - title: "Characterizing and Mitigating Communication Overheads in Large-Scale Accelerator-Based Systems"
   authors: "Amel Fatima"
@@ -33,7 +35,6 @@
   url: "https://doi.org/10.18130/thdj-xa61"
   links:
     - {label: "DOI", url: "https://doi.org/10.18130/thdj-xa61"}
-    - {label: "LibraETD", url: "https://libraetd.lib.virginia.edu/public_view/oid-d7g2lqomj2lc73j0pdlg"}
 
 - title: "NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems"
   authors: "Amel Fatima, Yang Yang, Yifan Sun, Rachata Ausavarungnirun, Adwait Jog"
@@ -52,10 +53,10 @@
   where: "ACM International Symposium on Computer Architecture (ISCA), Tokyo, Japan, June 2025"
   year: 2025
   type: conference
-  url: "https://sarchlab.org/triosim_isca2025.pdf"
+  url: "https://doi.org/10.1145/3695053.3731082"
   acceptance: "127/570 ≈ 22%"
   links:
-    - {label: "PDF", url: "https://sarchlab.org/triosim_isca2025.pdf"}
+    - {label: "DOI", url: "https://doi.org/10.1145/3695053.3731082"}
     - {label: "Artifact", url: "https://github.com/sarchlab/triosim"}
 
 - title: "Dissecting Performance Overheads of Confidential Computing on GPU-based Systems"
@@ -64,9 +65,10 @@
   where: "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Ghent, Belgium, May 2025"
   year: 2025
   type: conference
-  url: "docs/pdf/dissectcc-ispass25.pdf"
+  url: "https://doi.org/10.1109/ispass64960.2025.00020"
   acceptance: "28/99 ≈ 28%"
   links:
+    - {label: "DOI", url: "https://doi.org/10.1109/ispass64960.2025.00020"}
     - {label: "PDF", url: "docs/pdf/dissectcc-ispass25.pdf"}
     - {label: "Slides", url: "https://elio-yang.github.io/file/ispass-25-slides.pdf"}
     - {label: "Artifact", url: "https://github.com/insight-cal-uva/hcc-ispass25-artifact"}
@@ -81,6 +83,8 @@
   url: "https://doi.org/10.1109/micro61859.2024.00091"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/micro61859.2024.00091"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2410.22249"}
+    - {label: "Artifact", url: "https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference"}
 
 - title: "Aspis: Lightweight Neural Network Protection Against Soft Errors"
   authors: "Anna Schmedding, Lishan Yang, Adwait Jog, Evgenia Smirni"
@@ -91,6 +95,7 @@
   url: "https://doi.org/10.1109/issre62328.2024.00036"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/issre62328.2024.00036"}
+    - {label: "Artifact", url: "https://figshare.com/articles/code/Aspis/24757071?file=49112623"}
 
 - title: "GPU Reliability Assessment: Insights Across the Abstraction Layers"
   authors: "Lishan Yang, George Papadimitriou, Dimitrios Sartzetakis, Adwait Jog, Evgenia Smirni, Dimitris Gizopoulos"
@@ -587,7 +592,7 @@
   links:
     - {label: "PDF", url: "docs/pdf/Anatomy-Memsys-2015.pdf"}
     - {label: "Slides", url: "docs/pptx/Anatomy-Memsys-2015.pptx"}
-    - {label: "Code", url: "https://github.com/adwaitjog/mafia"}
+    - {label: "Artifact", url: "https://github.com/adwaitjog/mafia"}
 
 - title: "A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps"
   authors: "Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita R. Das Mahmut Kandemir, Todd Mowry, Onur Mutlu"
