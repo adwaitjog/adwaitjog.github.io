@@ -4,16 +4,16 @@
   text: "Amel successfully defended her <a href=\"https://doi.org/10.18130/thdj-xa61\">Ph.D. dissertation</a> and joined AMD as a Member of Technical Staff. Congrats Dr. Fatima!"
 
 - date: "March 2026"
-  text: "Yang's ISCA 2026 paper got accepted!"
+  text: "Yang's ISCA 2026 paper got accepted! Read the paper <a href=\"https://doi.org/10.1109/isca66397.2026.00046\">here</a>."
 
 - date: "March 2025"
-  text: "Amel's ISCA 2025 paper got accepted!"
+  text: "Amel's ISCA 2025 paper got accepted! Read the paper <a href=\"https://doi.org/10.1145/3695053.3731040\">here</a>."
 
 - date: "March 2025"
-  text: "Ying's ISCA 2025 paper got accepted!"
+  text: "Ying's ISCA 2025 paper got accepted! Read the paper <a href=\"https://doi.org/10.1145/3695053.3731082\">here</a>."
 
 - date: "March 2025"
-  text: "Yang's ISPASS 2025 paper got accepted!"
+  text: "Yang's ISPASS 2025 paper got accepted! Read the paper <a href=\"https://doi.org/10.1109/ispass64960.2025.00020\">here</a>."
 
 - date: "April 2024"
   text: "Our NSF Medium project on GPU performance simulation and modeling got awarded! Collaborators: Yifan Sun (W&M) and Sreepathi Pai (Rochester). Thanks NSF! More details can be found <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=2402805\">here.</a>"
@@ -25,22 +25,22 @@
   text: "DOE project on superconducting systems got awarded!"
 
 - date: "July 2023"
-  text: "Ying's MICRO 2023 paper got accepted!"
+  text: "Ying's MICRO 2023 paper got accepted! Read the paper <a href=\"https://doi.org/10.1145/3613424.3614277\">here</a>."
 
 - date: "July 2023"
   text: "Adwait got elevated to a senior member of ACM and IEEE."
 
 - date: "March 2023"
-  text: "Our ISCA 2023 paper got accepted!"
+  text: "Our ISCA 2023 paper got accepted! Read the paper <a href=\"https://doi.org/10.1145/3579371.3589112\">here</a>."
 
 - date: "Jan 2023"
-  text: "Hongyuan's SIGMETRICS 2023 paper got accepted!"
+  text: "Hongyuan's SIGMETRICS 2023 paper got accepted! Read the paper <a href=\"https://doi.org/10.1145/3579453\">here</a>."
 
 - date: "Jan 2023"
   text: "Adwait moved to the University of Virginia."
 
 - date: "July 2022"
-  text: "ISVLSI paper got published."
+  text: "ISVLSI paper got published. Read the paper <a href=\"https://doi.org/10.1109/isvlsi54635.2022.00051\">here</a>."
 
 - date: "May 2022"
   text: "Adwait received the Plumeri Award."
@@ -64,7 +64,7 @@
   text: "Adwait received tenure and promotion at William & Mary."
 
 - date: "July 2021"
-  text: "Paper accepted at Cluster 2021 (in collaboration with ANL). Congrats Hongyuan!"
+  text: "Paper accepted at Cluster 2021 (in collaboration with ANL). Congrats Hongyuan! Read the paper <a href=\"/docs/pdf/liu-cluster21.pdf\">here</a>."
 
 - date: "June 2021"
   text: "Gurunath presented our paper at DSN 2021."
@@ -82,7 +82,7 @@
   text: "Gurunath successfully defended his Ph.D. Dissertation. Congrats Gurunath!"
 
 - date: "March 2021"
-  text: "Gurunath's paper got accepted at DSN 2021. Congrats Gurunath!"
+  text: "Gurunath's paper got accepted at DSN 2021. Congrats Gurunath! Read the paper <a href=\"/docs/pdf/kadam-gpu-reliability-dsn21.pdf\">here</a>."
 
 - date: "Jan 2021"
   text: "We received research funding from DOE/ANL!"
@@ -91,10 +91,10 @@
   text: "Mohamed successfully defended his Ph.D. Dissertation. Congrats Mohamed!"
 
 - date: "Dec 2020"
-  text: "Two GPU reliability papers got accepted at SIGMETRICS and ICSE. Congrats Lishan!"
+  text: "Two GPU reliability papers got accepted at SIGMETRICS and ICSE. Congrats Lishan! Read the papers here: <a href=\"https://doi.org/10.1145/3447375\">SIGMETRICS</a> and <a href=\"https://doi.org/10.1109/icse43902.2021.00114\">ICSE</a>."
 
 - date: "Oct 2020"
-  text: "Mohamed's paper got accepted at HPCA 2021. Congrats Mohamed!"
+  text: "Mohamed's paper got accepted at HPCA 2021. Congrats Mohamed! Read the paper <a href=\"/docs/pdf/decoupledl1-hpca21.pdf\">here</a>."
 
 - date: "Oct 2020"
   text: "Gurunath passed his Ph.D. Oral Exam. Congrats Gurunath!"
@@ -109,7 +109,7 @@
   text: "Haonan joined San Jose State University as a tenure-track assistant professor! Congrats Prof. Wang!"
 
 - date: "July 2020"
-  text: "Mohamed's paper got accepted at PACT 2020. Congrats Mohamed!"
+  text: "Mohamed's paper got accepted at PACT 2020. Congrats Mohamed! Read the paper <a href=\"/docs/pdf/sharedl1-pact20.pdf\">here</a>."
 
 - date: "June 2020"
   text: "Haonan successfully defended his Ph.D. Dissertation. Congrats Dr. Wang!"
@@ -118,10 +118,10 @@
   text: "Our group's research is on <a href=\"https://www.wm.edu/news/stories/2020/computer-science-as-moores-law-slows-down,-the-insight-architecture-lab-accelerates.php\">W&M News</a> !"
 
 - date: "March 2020"
-  text: "Paper accepted in IEEE TC. Congrats Lishan and Bin!"
+  text: "Paper accepted in IEEE TC. Congrats Lishan and Bin! Read the paper <a href=\"/docs/pdf/tc-pruning.pdf\">here</a>."
 
 - date: "Feb 2020"
-  text: "Paper accepted in CCGrid 2020. Congrats Bin!"
+  text: "Paper accepted in CCGrid 2020. Congrats Bin! Read the paper <a href=\"/docs/pdf/accuracy-aware-reliablity-ccgrid.pdf\">here</a>."
 
 - date: "Jan 2020"
   text: "ASPLOS 2020 Artifact Accepted. Congrats Hongyuan!"
@@ -130,10 +130,10 @@
   text: "Mohamed passed his Ph.D. Oral Exam. Congrats Mohamed!"
 
 - date: "Nov 2019"
-  text: "Hongyuan's paper got accepted at ASPLOS 2020. Congrats Hongyuan!"
+  text: "Hongyuan's paper got accepted at ASPLOS 2020. Congrats Hongyuan! Read the paper <a href=\"https://par.nsf.gov/servlets/purl/10206640\">here</a>."
 
 - date: "Nov 2019"
-  text: "Gurunath's paper got accepted at HPCA 2020. Congrats Gurunath!"
+  text: "Gurunath's paper got accepted at HPCA 2020. Congrats Gurunath! Read the paper <a href=\"/docs/pdf/bcoal-hpca20.pdf\">here</a>."
 
 - date: "Sept 2019"
   text: "Haonan passed his Ph.D. Oral Exam. Congrats Haonan!"
@@ -142,25 +142,25 @@
   text: "Mohamed presented our paper at PACT 2019."
 
 - date: "July 2019"
-  text: "Mohamed's paper got accepted at PACT 2019. Congrats Mohamed!"
+  text: "Mohamed's paper got accepted at PACT 2019. Congrats Mohamed! Read the paper <a href=\"/docs/pdf/remote-core-pact19.pdf\">here</a>."
 
 - date: "March 2019"
-  text: "One paper got accepted at ISCA 2019. Congrats Ashutosh!"
+  text: "One paper got accepted at ISCA 2019. Congrats Ashutosh! Read the paper <a href=\"/docs/pdf/ndc-isca19.pdf\">here</a>."
 
 - date: "March 2019"
-  text: "Haonan's paper got accepted at DSN 2019. Congrats Haonan!"
+  text: "Haonan's paper got accepted at DSN 2019. Congrats Haonan! Read the paper <a href=\"/docs/pdf/lmc-dsn19.pdf\">here</a>."
 
 - date: "July 2018"
-  text: "Two papers accepted at MICRO 2018. Congrats Hongyuan, Mohamed, Bin, and Lishan!"
+  text: "Two papers accepted at MICRO 2018. Congrats Hongyuan, Mohamed, Bin, and Lishan! Read the papers here: <a href=\"/docs/pdf/hotcoldap-micro18.pdf\">automata processing</a> and <a href=\"/docs/pdf/pruning-micro18.pdf\">fault site pruning</a>."
 
 - date: "Jan 2018"
   text: "NSF CAREER Awarded."
 
 - date: "Nov 2017"
-  text: "Paper accepted at ASPLOS 2018."
+  text: "Paper accepted at ASPLOS 2018. Read the paper <a href=\"/docs/pdf/mask-asplos18.pdf\">here</a>."
 
 - date: "Oct 2017"
-  text: "Two papers accepted at HPCA 2018. First top-tier conference papers from our lab. Congrats to Gurunath, Haonan, Fan, and Mohamed!"
+  text: "Two papers accepted at HPCA 2018. First top-tier conference papers from our lab. Congrats to Gurunath, Haonan, Fan, and Mohamed! Read the papers here: <a href=\"/docs/pdf/pbs-hpca18.pdf\">multi-programming</a> and <a href=\"/docs/pdf/rcoal-hpca18.pdf\">timing attacks</a>."
 
 - date: "May 2017"
   text: "NSF SHF Award (PI: Jog, co-PI: Smirni)."
