@@ -245,7 +245,7 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 .news-date { color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; padding-top: 1px; }
 
 /* Research group */
-.lede { font-size: 1.1rem; color: var(--muted); max-width: 46em; }
+.lede { font-size: 1.1rem; color: var(--muted); }
 .group-section { margin-bottom: 44px; }
 .group-section > h2 { padding-bottom: 8px; border-bottom: 1px solid var(--border); }
 .group-section h3 { font-size: 1rem; margin: 20px 0 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; font-size: .8rem; }
