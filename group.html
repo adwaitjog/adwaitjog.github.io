@@ -97,14 +97,29 @@ description: The Insight Computer Architecture Lab at the University of Virginia
 
 <section class="group-section" id="other-alumni">
   <h2>Master's and Undergraduate Alumni</h2>
-  <div class="alumni-cols">
-    <div>
-      <h3>Master's Students</h3>
-      <ul class="plain">{% for m in g.alumni_ms %}<li>{{ m }}</li>{% endfor %}</ul>
+  <div class="alumni-cards">
+    <div class="alumni-card">
+      <h3 class="alumni-card-title"><span class="thrust-icon">{% include icon.html name="flask" %}</span>Undergraduate Researchers</h3>
+      <ul class="alumni-rows alumni-rows-ug">
+        {%- for m in g.alumni_undergrad %}
+        <li>
+          <span class="ar-main">
+            <span class="ar-name">{{ m.name }}</span>
+            {%- if m.school %}<span class="ar-school">{{ m.school }}</span>{% endif %}
+            <span class="ar-detail">{{ m.program }}{% if m.note %} · <span class="ar-note">{{ m.note }}</span>{% endif %}</span>
+          </span>
+          <span class="ar-year">{{ m.year }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
     </div>
-    <div>
-      <h3>Undergraduate Researchers</h3>
-      <ul class="plain">{% for m in g.alumni_undergrad %}<li>{{ m }}</li>{% endfor %}</ul>
+    <div class="alumni-card">
+      <h3 class="alumni-card-title"><span class="thrust-icon">{% include icon.html name="cap" %}</span>Master's Students</h3>
+      <ul class="alumni-rows alumni-rows-ms">
+        {%- for m in g.alumni_ms %}
+        <li><span class="ar-main"><span class="ar-name">{{ m.name }}</span>{% if m.school %}<span class="ar-school">{{ m.school }}</span>{% endif %}</span><span class="ar-year">{{ m.year }}</span></li>
+        {%- endfor %}
+      </ul>
     </div>
   </div>
 </section>

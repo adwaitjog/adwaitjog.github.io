@@ -250,13 +250,9 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 .member { position: relative; }
 .member-collab { background: transparent; border: 1px dashed var(--border); border-top: 3px solid var(--orange); }
 .member-co { display: block; font-size: .85rem; color: var(--muted); margin-top: 4px; font-style: italic; }
-.alumni-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 40px; }
-.plain { list-style: none; padding: 0; margin: 0; }
-.plain li { padding: 3px 0; font-size: .95rem; }
 @media (max-width: 560px) {
   .news-list li { grid-template-columns: 1fr; gap: 0; }
-  .alumni-cols { grid-template-columns: 1fr; }
-}
+  }
 
 /* Touch devices (phones, iPad): larger tap targets */
 @media (pointer: coarse) {
@@ -327,3 +323,27 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
   color: var(--orange); background: var(--bg); border: 1px solid var(--border);
 }
 .thrust-icon .icon { width: 20px; height: 20px; }
+
+/* Master's and undergraduate alumni */
+.alumni-cards { display: grid; gap: 16px; }
+.alumni-rows { display: grid; column-gap: 32px; }
+.alumni-rows-ms { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.alumni-rows-ug { grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
+.alumni-card { background: var(--surface); border-radius: var(--radius); padding: 16px 18px; border-top: 3px solid var(--member-top); }
+.group-section .alumni-card-title {
+  display: flex; align-items: center; gap: 10px; margin: 0 0 8px; font-size: 1.02rem;
+  text-transform: none; letter-spacing: 0; color: var(--text);
+}
+.alumni-rows { list-style: none; padding: 0; margin: 0; }
+.alumni-rows li { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--border); }
+.ar-main { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 8px; min-width: 0; }
+.ar-name { font-weight: 600; }
+.ar-school {
+  font-size: .68rem; font-weight: 700; letter-spacing: .04em; padding: 1px 6px; border-radius: 4px;
+  background: var(--badge-bg); color: var(--badge-text);
+}
+.ar-detail { flex-basis: 100%; font-size: .88rem; color: var(--muted); }
+.ar-note { color: var(--award); font-weight: 600; }
+.ar-year { flex: none; font-size: .82rem; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+@media (max-width: 820px) { .alumni-rows-ms { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .alumni-rows-ms, .alumni-rows-ug { grid-template-columns: 1fr; } }

@@ -49,22 +49,23 @@ alumni_phd:
     placement: Assistant Professor, San Jose State University
 
 alumni_ms:
-  - R. Xing (2019)
-  - C. Ames (2017)
-  - R. Chai (2017)
-  - F. Luo (2016)
-  - H. Wang (2016)
+  - {name: "B. Dacey", school: "UVA", year: "2025"}
+  - {name: "R. Xing", school: "W&M", year: "2019"}
+  - {name: "C. Ames", school: "W&M", year: "2017"}
+  - {name: "R. Chai", school: "W&M", year: "2017"}
+  - {name: "F. Luo", school: "W&M", year: "2016"}
+  - {name: "H. Wang", school: "W&M", year: "2016"}
 
 alumni_undergrad:
-  - B. Ruth (UVA, NSF REU Project, 2025)
-  - W. Kaiser (UVA, NSF REU Project, 2024–2025)
-  - P. Tangella (UVA, DOE Project, 2024–2025)
-  - S. Kapa (UVA, DOE Project, 2024)
-  - H. Nguyen (UVA, Dean's Fellowship, 2024)
-  - A. Chung (W&M, Charles Center Summer Research Scholar, 2020)
-  - S. Hong (W&M, Charles Center Summer Research Scholar, 2018)
-  - C. Weinshenker (W&M, Honors Thesis, 2017; winner of the Park Award)
-  - R. Risque (W&M, Senior Thesis, 2016)
+  - {name: "B. Ruth", school: "UVA", program: "NSF REU Project", year: "2025"}
+  - {name: "W. Kaiser", school: "UVA", program: "NSF REU Project", year: "2024–2025"}
+  - {name: "P. Tangella", school: "UVA", program: "DOE Project", year: "2024–2025"}
+  - {name: "S. Kapa", school: "UVA", program: "DOE Project", year: "2024"}
+  - {name: "H. Nguyen", school: "UVA", program: "Dean's Fellowship", year: "2024"}
+  - {name: "A. Chung", school: "W&M", program: "Charles Center Summer Research Scholar", year: "2020"}
+  - {name: "S. Hong", school: "W&M", program: "Charles Center Summer Research Scholar", year: "2018"}
+  - {name: "C. Weinshenker", school: "W&M", program: "Honors Thesis", note: "Park Award winner", year: "2017"}
+  - {name: "R. Risque", school: "W&M", program: "Senior Thesis", year: "2016"}
 
 # Research directions shown on group.html. icon: chip | shield | gauge | bolt (see _includes/icon.html).
 # A paper is {label, url}. To show related papers on one line, use refs: [{text, url}, ...] (joined with "and").

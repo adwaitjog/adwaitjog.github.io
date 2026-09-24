@@ -1,4 +1,4 @@
-{%- comment -%}Line icons for research directions. Usage: {% include icon.html name="chip" %}{%- endcomment -%}
+{%- comment -%}Line icons (chip, shield, gauge, bolt, cap, flask). Usage: {% include icon.html name="chip" %}{%- endcomment -%}
 <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
 {%- case include.name -%}
 {%- when "chip" -%}
@@ -10,5 +10,9 @@
   <path d="M4 17a8.5 8.5 0 1 1 16 0"/><path d="m12 13 4-4.5"/><circle cx="12" cy="13.5" r="1.3"/><path d="M6.5 17h11"/>
 {%- when "bolt" -%}
   <path d="M13.2 2.8 5.5 13.2h6l-1 8 7.8-10.6h-6z"/>
+{%- when "cap" -%}
+  <path d="M2.5 9.5 12 5l9.5 4.5L12 14z"/><path d="M6.5 11.5v4.2c0 1.3 2.5 2.8 5.5 2.8s5.5-1.5 5.5-2.8v-4.2"/><path d="M21.5 9.5v5"/>
+{%- when "flask" -%}
+  <path d="M9.5 3h5M10.5 3v6L5 18.5A1.7 1.7 0 0 0 6.5 21h11a1.7 1.7 0 0 0 1.5-2.5L13.5 9V3"/><path d="M7.5 15h9"/>
 {%- endcase -%}
 </svg>
