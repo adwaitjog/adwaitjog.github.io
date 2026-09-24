@@ -220,9 +220,12 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 @media (max-width: 560px) {
   .container { padding-left: 16px; padding-right: 16px; }
   main { padding-top: 28px; }
-  .profile { display: block; }
-  .profile-photo { width: 200px; max-width: 60%; margin: 0 0 16px; }
-  .profile-name { font-size: 1.5rem; }
+  .profile { grid-template-columns: 128px minmax(0, 1fr); column-gap: 16px; align-items: center; }
+  .profile-photo { grid-row: 1 / span 2; margin: 0; }
+  .profile-name { grid-column: 2; align-self: end; font-size: 1.45rem; margin-bottom: .2em; }
+  .profile-role { grid-column: 2; align-self: start; margin-bottom: 0; }
+  .profile-affil, .profile-email, .profile-links { grid-column: 1 / -1; }
+  .profile-affil { margin-top: 16px; }
   .pub, .pub-list.compact .pub { grid-template-columns: 1fr; gap: 6px; }
   .pub-meta { flex-direction: row; flex-wrap: wrap; }
   .course-table li { grid-template-columns: 1fr; gap: 0; }
