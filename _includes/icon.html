@@ -1,5 +1,5 @@
-{%- comment -%}Line icons (chip, shield, gauge, bolt, cap, flask, mail). Usage: {% include icon.html name="chip" %}{%- endcomment -%}
-<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+{%- comment -%}Line icons (chip, shield, gauge, bolt, cap, flask, mail). Usage: {% include icon.html name="chip" px=20 %}{%- endcomment -%}
+<svg class="icon" width="{{ include.px | default: 20 }}" height="{{ include.px | default: 20 }}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
 {%- case include.name -%}
 {%- when "chip" -%}
   <rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9.5" y="9.5" width="5" height="5" rx=".8"/>
