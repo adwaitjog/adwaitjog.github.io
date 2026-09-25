@@ -416,3 +416,19 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 }
 .cite-copy:hover { border-color: var(--orange); }
 @media (pointer: coarse) { .cite-btn { padding: 6px 12px; font-size: .82rem; } .cite-copy { padding: 8px 14px; } }
+
+/* Publications: profile badges (Google Scholar, DBLP, ORCID) */
+.profile-badges { list-style: none; padding: 0; margin: 4px 0 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.profile-badges a {
+  display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border-radius: 999px;
+  font-weight: 600; font-size: .95rem; color: var(--text); background: var(--surface);
+  border: 1px solid var(--border); transition: border-color .15s, color .15s, transform .15s;
+}
+.profile-badges a:hover { border-color: var(--orange); color: var(--link-hover); text-decoration: none; transform: translateY(-1px); }
+.pb-icon { display: inline-flex; color: var(--orange); }
+.pb-icon .icon { width: 18px; height: 18px; }
+@media (max-width: 560px) {
+  .profile-badges { gap: 8px; }
+  .profile-badges a { padding: 7px 11px; font-size: .88rem; gap: 6px; }
+  .pb-icon .icon { width: 16px; height: 16px; }
+}
