@@ -4,6 +4,7 @@ description: >-
   Research in computer architecture and systems, with a focus on GPUs and memory systems.
 url: https://adwaitjog.github.io
 baseurl: ""
+timezone: America/New_York
 
 author:
   name: Adwait Jog

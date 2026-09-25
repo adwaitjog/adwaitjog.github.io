@@ -979,24 +979,6 @@
       note   = {U.S. Patent 9,742,869 B2. Assigned to NVIDIA Corporation},
     }
 
-- title: "A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps"
-  authors: "Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, Onur Mutlu"
-  venue: "Book Chapter"
-  where: "Book chapter in Advances in GPU Research and Practice, Elsevier, 2017. <a href=\"https://www.elsevier.com/books/advances-in-gpu-research-and-practice/sarbazi-azad/978-0-12-803738-6\">Elsevier Book Link (Chapter 15)</a>"
-  year: 2017
-  type: book
-  url: "http://arxiv.org/abs/1602.01348"
-  bibtex: |
-    @incollection{vijaykumar2017framework,
-      author    = {Nandita Vijaykumar and Gennady Pekhimenko and Adwait Jog and Saugata Ghose and Abhishek Bhowmick and Rachata Ausavarungnirun and Chita Das and Mahmut Kandemir and Todd C. Mowry and Onur Mutlu},
-      title     = {{A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps}},
-      booktitle = {Advances in GPU Research and Practice},
-      publisher = {Morgan Kaufmann},
-      pages     = {373--415},
-      month     = {Sept},
-      year      = {2017},
-    }
-
 - title: "Zorua: A Holistic Approach to Resource Virtualization in GPUs"
   authors: "Nandita Vijaykumar, Kevin Hsieh, Gennady Pekhimenko, Samira Khan, Ashish Shrestha, Saugata Ghose, Adwait Jog, Phillip B. Gibbons, Onur Mutlu"
   venue: "MICRO 2016"
@@ -1104,6 +1086,26 @@
       address   = {Antibes Juan-Les-Pins, France},
       pages     = {351--363},
       month     = {June},
+      year      = {2016},
+    }
+
+- title: "A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps"
+  authors: "Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, Onur Mutlu"
+  venue: "Book Chapter"
+  where: "Book chapter in Advances in GPU Research and Practice, Elsevier, 2016. <a href=\"https://www.elsevier.com/books/advances-in-gpu-research-and-practice/sarbazi-azad/978-0-12-803738-6\">Elsevier Book Link (Chapter 15)</a>"
+  year: 2016
+  type: book
+  url: "https://arxiv.org/abs/1602.01348"
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/pdf/1602.01348"}
+  bibtex: |
+    @incollection{vijaykumar2016framework,
+      author    = {Nandita Vijaykumar and Gennady Pekhimenko and Adwait Jog and Saugata Ghose and Abhishek Bhowmick and Rachata Ausavarungnirun and Chita Das and Mahmut Kandemir and Todd C. Mowry and Onur Mutlu},
+      title     = {{A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps}},
+      booktitle = {Advances in GPU Research and Practice},
+      publisher = {Morgan Kaufmann},
+      pages     = {373--415},
+      month     = {Sept},
       year      = {2016},
     }
 
