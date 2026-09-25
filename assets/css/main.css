@@ -397,3 +397,22 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
   .site-nav { gap: 10px; }
   .site-nav a { font-size: .8rem; }
 }
+
+/* Cite (BibTeX) */
+.cite-btn {
+  font: inherit; font-size: .78rem; font-weight: 550; padding: 1px 8px; border: 1px solid var(--border);
+  border-radius: 4px; color: var(--link); background: transparent; cursor: pointer;
+}
+.cite-btn:hover, .cite-btn[aria-expanded="true"] { border-color: var(--orange); }
+.cite-box { margin-top: 8px; background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 10px 12px; }
+.cite-box[hidden] { display: none; }
+.cite-text {
+  margin: 0 0 8px; font: .78rem/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  white-space: pre-wrap; word-break: break-word; color: var(--text);
+}
+.cite-copy {
+  font: inherit; font-size: .8rem; padding: 3px 12px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--border); background: var(--bg); color: var(--link);
+}
+.cite-copy:hover { border-color: var(--orange); }
+@media (pointer: coarse) { .cite-btn { padding: 6px 12px; font-size: .82rem; } .cite-copy { padding: 8px 14px; } }

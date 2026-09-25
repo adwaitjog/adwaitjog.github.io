@@ -11,8 +11,17 @@
     {%- if p.awards %}
     <div class="pub-awards">{% for a in p.awards %}<span class="award">★ {{ a }}</span>{% endfor %}</div>
     {%- endif %}
-    {%- if p.links %}
-    <div class="pub-links">{% for l in p.links %}<a href="{% include url.html u=l.url %}">{{ l.label }}</a>{% endfor %}</div>
+    {%- if p.links or p.bibtex %}
+    <div class="pub-links">
+      {%- for l in p.links %}<a href="{% include url.html u=l.url %}">{{ l.label }}</a>{% endfor -%}
+      {%- if p.bibtex %}<button type="button" class="cite-btn" aria-expanded="false">Cite</button>{% endif -%}
+    </div>
+    {%- endif %}
+    {%- if p.bibtex %}
+    <div class="cite-box" hidden>
+      <pre class="cite-text">{{ p.bibtex | strip | xml_escape }}</pre>
+      <button type="button" class="cite-copy">Copy BibTeX</button>
+    </div>
     {%- endif %}
   </div>
 </li>

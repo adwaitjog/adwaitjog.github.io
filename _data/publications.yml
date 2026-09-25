@@ -1,6 +1,7 @@
 # Publications, newest first. Rendered by pubs.html and the home page.
 # Fields: title, authors, venue (short badge), where (full venue line), year, type,
-#   url (title link), acceptance, notes, awards, links [{label, url}].
+#   url (title link), acceptance, notes, awards, links [{label, url}],
+#   bibtex (literal block; shown by the Cite button).
 # type: conference | journal | workshop | book | patent | thesis | report
 
 - title: "LÆGIS: Pinpointing and Addressing Performance Overheads of GPU-based Confidential Computing"
@@ -15,6 +16,16 @@
     - {label: "DOI", url: "https://doi.org/10.1109/isca66397.2026.00046"}
     - {label: "PDF", url: "docs/pdf/yang_laegis_isca26.pdf"}
     - {label: "Artifact", url: "https://github.com/insight-cal-uva/laegis-isca26-artifact"}
+  bibtex: |
+    @inproceedings{yang-isca26,
+      author    = {Yang Yang and Adwait Jog},
+      title     = {{LÆGIS: Pinpointing and Addressing Performance Overheads of GPU-based Confidential Computing}},
+      booktitle = {Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)},
+      address   = {Raleigh, NC},
+      month     = {June},
+      year      = {2026},
+      doi       = {10.1109/isca66397.2026.00046},
+    }
 
 - title: "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"
   authors: "Ryan Marsala, Yerzhan Mustafa, Prabhath Tangella, Mohammad Sonji, George Michelogiannakis, Selcuk Kose, Adwait Jog, Mehmet E. Belviranli"
@@ -23,9 +34,20 @@
   year: 2026
   type: conference
   url: "https://doi.org/10.1109/ispass69572.2026.00028"
+  acceptance: "54/138 ≈ 39%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/ispass69572.2026.00028"}
     - {label: "Artifact", url: "https://github.com/hpsslab/hibiscus"}
+  bibtex: |
+    @inproceedings{marsala-ispass26,
+      author    = {Ryan Marsala and Yerzhan Mustafa and Prabhath Tangella and Mohammad Sonji and George Michelogiannakis and Selcuk Kose and Adwait Jog and Mehmet E. Belviranli},
+      title     = {{Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems}},
+      booktitle = {IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+      address   = {Seoul, South Korea},
+      month     = {April},
+      year      = {2026},
+      doi       = {10.1109/ispass69572.2026.00028},
+    }
 
 - title: "Characterizing and Mitigating Communication Overheads in Large-Scale Accelerator-Based Systems"
   authors: "Amel Fatima"
@@ -36,6 +58,14 @@
   url: "https://doi.org/10.18130/thdj-xa61"
   links:
     - {label: "DOI", url: "https://doi.org/10.18130/thdj-xa61"}
+  bibtex: |
+    @phdthesis{fatima2026characteri,
+      author = {Amel Fatima},
+      title  = {{Characterizing and Mitigating Communication Overheads in Large-Scale Accelerator-Based Systems}},
+      school = {University of Virginia},
+      year   = {2026},
+      doi    = {10.18130/thdj-xa61},
+    }
 
 - title: "NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems"
   authors: "Amel Fatima, Yang Yang, Yifan Sun, Rachata Ausavarungnirun, Adwait Jog"
@@ -47,6 +77,16 @@
   acceptance: "127/570 ≈ 22%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3695053.3731040"}
+  bibtex: |
+    @inproceedings{fatima-isca25,
+      author    = {Amel Fatima and Yang Yang and Yifan Sun and Rachata Ausavarungnirun and Adwait Jog},
+      title     = {{NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems}},
+      booktitle = {Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)},
+      address   = {Tokyo, Japan},
+      month     = {June},
+      year      = {2025},
+      doi       = {10.1145/3695053.3731040},
+    }
 
 - title: "TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems"
   authors: "Ying Li, Yuhui Bao, Gongyu Wang, Xinxin Mei, Pranav Vaid, Anandaroop Ghosh, Adwait Jog, Darius Bunandar, Ajay Joshi, Yifan Sun"
@@ -59,6 +99,16 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3695053.3731082"}
     - {label: "Artifact", url: "https://github.com/sarchlab/triosim"}
+  bibtex: |
+    @inproceedings{li-isca-2025,
+      author    = {Ying Li and Yuhui Bao and Gongyu Wang and Xinxin Mei and Pranav Vaid and Anandaroop Ghosh and Adwait Jog and Darius Bunandar and Ajay Joshi and Yifan Sun},
+      title     = {{TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems}},
+      booktitle = {Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)},
+      address   = {Tokyo, Japan},
+      month     = {June},
+      year      = {2025},
+      doi       = {10.1145/3695053.3731082},
+    }
 
 - title: "Dissecting Performance Overheads of Confidential Computing on GPU-based Systems"
   authors: "Yang Yang, Mohammad Sonji, Adwait Jog"
@@ -74,6 +124,16 @@
     - {label: "Slides", url: "https://elio-yang.github.io/file/ispass-25-slides.pdf"}
     - {label: "Artifact", url: "https://github.com/insight-cal-uva/hcc-ispass25-artifact"}
     - {label: "CC Summit slides", url: "docs/pdf/CCSummit-June18.pdf"}
+  bibtex: |
+    @inproceedings{yang-ispass25,
+      author    = {Yang Yang and Mohammad Sonji and Adwait Jog},
+      title     = {{Dissecting Performance Overheads of Confidential Computing on GPU-based Systems}},
+      booktitle = {IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+      address   = {Ghent, Belgium},
+      month     = {May},
+      year      = {2025},
+      doi       = {10.1109/ispass64960.2025.00020},
+    }
 
 - title: "Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs"
   authors: "Rishabh Jain, Vivek M. Bhasi, Adwait Jog, Anand Sivasubramaniam, Mahmut T. Kandemir, Chita R. Das"
@@ -82,10 +142,22 @@
   year: 2024
   type: conference
   url: "https://doi.org/10.1109/micro61859.2024.00091"
+  acceptance: "113/497 ≈ 23%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/micro61859.2024.00091"}
     - {label: "arXiv", url: "https://arxiv.org/abs/2410.22249"}
     - {label: "Artifact", url: "https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference"}
+  bibtex: |
+    @inproceedings{jain-micro24,
+      author    = {Rishabh Jain and Vivek M. Bhasi and Adwait Jog and Anand Sivasubramaniam and Mahmut T. Kandemir and Chita R. Das},
+      title     = {{Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs}},
+      booktitle = {Proceedings of the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)},
+      address   = {Austin, TX},
+      pages     = {1217--1232},
+      month     = {November},
+      year      = {2024},
+      doi       = {10.1109/micro61859.2024.00091},
+    }
 
 - title: "Aspis: Lightweight Neural Network Protection Against Soft Errors"
   authors: "Anna Schmedding, Lishan Yang, Adwait Jog, Evgenia Smirni"
@@ -94,9 +166,21 @@
   year: 2024
   type: conference
   url: "https://doi.org/10.1109/issre62328.2024.00036"
+  acceptance: "53/205 ≈ 26%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/issre62328.2024.00036"}
     - {label: "Artifact", url: "https://figshare.com/articles/code/Aspis/24757071?file=49112623"}
+  bibtex: |
+    @inproceedings{Schmedding-ISSRE,
+      author    = {Anna Schmedding and Lishan Yang and Adwait Jog and Evgenia Smirni},
+      title     = {{Aspis: Lightweight Neural Network Protection Against Soft Errors}},
+      booktitle = {IEEE International Symposium on Software Reliability Engineering (ISSRE)},
+      address   = {Tsukuba, Japan},
+      pages     = {248--259},
+      month     = {October},
+      year      = {2024},
+      doi       = {10.1109/issre62328.2024.00036},
+    }
 
 - title: "GPU Reliability Assessment: Insights Across the Abstraction Layers"
   authors: "Lishan Yang, George Papadimitriou, Dimitrios Sartzetakis, Adwait Jog, Evgenia Smirni, Dimitris Gizopoulos"
@@ -105,9 +189,21 @@
   year: 2024
   type: conference
   url: "https://doi.org/10.1109/cluster59578.2024.00008"
+  acceptance: "39/138 ≈ 28%"
   awards: ["Best Paper Nomination"]
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/cluster59578.2024.00008"}
+  bibtex: |
+    @inproceedings{yang-CLUSTER,
+      author    = {Lishan Yang and George Papadimitriou and Dimitrios Sartzetakis and Adwait Jog and Evgenia Smirni and Dimitris Gizopoulos},
+      title     = {{GPU Reliability Assessment: Insights Across the Abstraction Layers}},
+      booktitle = {IEEE International Conference on Cluster Computing (CLUSTER)},
+      address   = {Kobe, Japan},
+      pages     = {1--13},
+      month     = {September},
+      year      = {2024},
+      doi       = {10.1109/cluster59578.2024.00008},
+    }
 
 - title: "Probing Weaknesses in GPU Reliability Assessment: A Cross-Layer Approach"
   authors: "Lishan Yang, George Papadimitriou, Dimitrios Sartzetakis, Adwait Jog, Evgenia Smirni, Dimitris Gizopoulos"
@@ -119,6 +215,17 @@
   notes: ["Poster"]
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/ispass61541.2024.00048"}
+  bibtex: |
+    @inproceedings{lishan-yang-ispass,
+      author    = {Lishan Yang and George Papadimitriou and Dimitrios Sartzetakis and Adwait Jog and Evgenia Smirni and Dimitris Gizopoulos},
+      title     = {{Probing Weaknesses in GPU Reliability Assessment: A Cross-Layer Approach}},
+      booktitle = {IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+      address   = {Indianapolis, IN, USA},
+      pages     = {331--333},
+      month     = {May},
+      year      = {2024},
+      doi       = {10.1109/ispass61541.2024.00048},
+    }
 
 - title: "Path Forward Beyond Simulators: Fast and Accurate GPU Execution Time Prediction for DNN Workloads"
   authors: "Ying Li, Yifan Sun, Adwait Jog"
@@ -131,6 +238,33 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3613424.3614277"}
     - {label: "Artifact", url: "https://zenodo.org/records/8365078"}
+  bibtex: |
+    @inproceedings{li-micro-2023,
+      author    = {Ying Li and Yifan Sun and Adwait Jog},
+      title     = {{Path Forward Beyond Simulators: Fast and Accurate GPU Execution Time Prediction for DNN Workloads}},
+      booktitle = {Proceedings of the 56th International Symposium on Microarchitecture (MICRO)},
+      address   = {Toronto, Canada},
+      pages     = {380--394},
+      month     = {October},
+      year      = {2023},
+      doi       = {10.1145/3613424.3614277},
+    }
+
+- title: "TraceSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems"
+  authors: "Ying Li, Yuhui Bao, Pranav Vaid, Gongyu Wang, Adwait Jog, Darius Bunandar, Ajay Joshi, Yifan Sun"
+  venue: "CAMS@MICRO 2023"
+  where: "1st Workshop on Computer Architecture Modeling and Simulation (CAMS), held with the 56th International Symposium on Microarchitecture (MICRO), Toronto, Canada, October 2023"
+  year: 2023
+  type: workshop
+  bibtex: |
+    @inproceedings{li-cams-2023,
+      author    = {Ying Li and Yuhui Bao and Pranav Vaid and Gongyu Wang and Adwait Jog and Darius Bunandar and Ajay Joshi and Yifan Sun},
+      title     = {{TraceSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems}},
+      booktitle = {1st Workshop on Computer Architecture Modeling and Simulation (CAMS) held with 56th International Symposium on Microarchitecture (MICRO)},
+      address   = {Toronto, Canada},
+      month     = {October},
+      year      = {2023},
+    }
 
 - title: "Optimizing CPU Performance for Recommendation Systems At-Scale"
   authors: "Rishabh Jain, Scott Cheng, Vishwas Kalagi, Vrushabh Sanghavi, Samvit Kaul, Meena Arunachalam, Kiwan Maeng, Adwait Jog, Anand Sivasubramaniam, Mahmut T. Kandemir, and Chita R. Das"
@@ -143,6 +277,17 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3579371.3589112"}
     - {label: "Artifact", url: "https://github.com/rishucoding/reproduce_isca23_cpu_DLRM_inference"}
+  bibtex: |
+    @inproceedings{jain-isca23,
+      author    = {Rishabh Jain and Scott Cheng and Vishwas Kalagi and Vrushabh Sanghavi and Samvit Kaul and Meena Arunachalam and Kiwan Maeng and Adwait Jog and Anand Sivasubramaniam and Mahmut T. Kandemir and and Chita R. Das},
+      title     = {{Optimizing CPU Performance for Recommendation Systems At-Scale}},
+      booktitle = {Proceedings of the 50th International Symposium on Computer Architecture (ISCA)},
+      address   = {Orlando, Florida},
+      pages     = {77:1--77:15},
+      month     = {June},
+      year      = {2023},
+      doi       = {10.1145/3579371.3589112},
+    }
 
 - title: "Asynchronous Automata Processing on GPUs"
   authors: "Hongyuan Liu, Sreepathi Pai, Adwait Jog"
@@ -153,6 +298,17 @@
   url: "https://doi.org/10.1145/3579453"
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3579453"}
+  bibtex: |
+    @inproceedings{liu-sigmetrics23-journal,
+      author    = {Hongyuan Liu and Sreepathi Pai and Adwait Jog},
+      title     = {{Asynchronous Automata Processing on GPUs}},
+      booktitle = {Proceedings of the ACM on Measurement and Analysis of Computing Systems (SIGMETRICS)},
+      address   = {Orlando, Florida, USA},
+      pages     = {27:1--27:27},
+      month     = {June},
+      year      = {2023},
+      doi       = {10.1145/3579453},
+    }
 
 - title: "A Regression-based Model for End-to-End Latency Prediction for DNN Execution on GPUs"
   authors: "Ying Li, Yifan Sun, Adwait Jog"
@@ -164,6 +320,17 @@
   notes: ["Poster"]
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/ispass57527.2023.00047"}
+  bibtex: |
+    @inproceedings{li-iiswc-poster-2023,
+      author    = {Ying Li and Yifan Sun and Adwait Jog},
+      title     = {{A Regression-based Model for End-to-End Latency Prediction for DNN Execution on GPUs}},
+      booktitle = {Proceedings of the IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+      address   = {Raleigh, NC},
+      pages     = {343--345},
+      month     = {April},
+      year      = {2023},
+      doi       = {10.1109/ispass57527.2023.00047},
+    }
 
 - title: "Improving GPU Throughput through Parallel Execution Using Tensor Cores and CUDA Cores"
   authors: "Khoa Ho, Hui Zhao, Adwait Jog, Saraju Mohanty"
@@ -174,6 +341,17 @@
   url: "https://doi.org/10.1109/isvlsi54635.2022.00051"
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/isvlsi54635.2022.00051"}
+  bibtex: |
+    @inproceedings{ho-isvlsi22,
+      author    = {Khoa Ho and Hui Zhao and Adwait Jog and Saraju Mohanty},
+      title     = {{Improving GPU Throughput through Parallel Execution Using Tensor Cores and CUDA Cores}},
+      booktitle = {Proceedings of the 2022 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)},
+      address   = {Pafos, Cyprus},
+      pages     = {223--228},
+      month     = {July},
+      year      = {2022},
+      doi       = {10.1109/isvlsi54635.2022.00051},
+    }
 
 - title: "Techniques for Accelerating Large-Scale Automata Processing"
   authors: "Hongyuan Liu"
@@ -184,6 +362,14 @@
   url: "https://doi.org/10.21220/s2-dbkj-z447"
   links:
     - {label: "DOI", url: "https://doi.org/10.21220/s2-dbkj-z447"}
+  bibtex: |
+    @phdthesis{liu2022techniques,
+      author = {Hongyuan Liu},
+      title  = {{Techniques for Accelerating Large-Scale Automata Processing}},
+      school = {William \& Mary},
+      year   = {2022},
+      doi    = {10.21220/s2-dbkj-z447},
+    }
 
 - title: "Rethinking Cache Hierarchy and Interconnect Design for Next-generation GPUs"
   authors: "Mohamed Assem Ibrahim"
@@ -196,6 +382,14 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.21220/s2-a01c-6214"}
     - {label: "Award details", url: "https://www.wm.edu/as/graduate/studentresources/honors-awards/thesisaward/award-recipients/index.php"}
+  bibtex: |
+    @phdthesis{ibrahim2021rethinking,
+      author = {Mohamed Assem Ibrahim},
+      title  = {{Rethinking Cache Hierarchy and Interconnect Design for Next-generation GPUs}},
+      school = {William \& Mary},
+      year   = {2021},
+      doi    = {10.21220/s2-a01c-6214},
+    }
 
 - title: "Low-Overhead Techniques for Secure and Reliable GPU Computing"
   authors: "Gurunath Kadam"
@@ -206,6 +400,14 @@
   url: "https://doi.org/10.21220/s2-jvrg-8s06"
   links:
     - {label: "DOI", url: "https://doi.org/10.21220/s2-jvrg-8s06"}
+  bibtex: |
+    @phdthesis{kadam2021lowoverhea,
+      author = {Gurunath Kadam},
+      title  = {{Low-Overhead Techniques for Secure and Reliable GPU Computing}},
+      school = {William \& Mary},
+      year   = {2021},
+      doi    = {10.21220/s2-jvrg-8s06},
+    }
 
 - title: "Accelerating DNN Architecture Search at Scale using Selective Weight Transfer"
   authors: "Hongyuan Liu, Bogdan Nicolae, Sheng Di, Franck Cappello, Adwait Jog"
@@ -218,6 +420,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/liu-cluster21.pdf"}
     - {label: "Slides", url: "docs/pptx/cluster21-weighttransfer.pptx"}
+  bibtex: |
+    @inproceedings{liu-cluster21,
+      author    = {Hongyuan Liu and Bogdan Nicolae and Sheng Di and Franck Cappello and Adwait Jog},
+      title     = {{Accelerating DNN Architecture Search at Scale using Selective Weight Transfer}},
+      booktitle = {Proceedings of the 23rd IEEE Cluster 2021 International Conference (CLUSTER)},
+      address   = {Virtual Event},
+      pages     = {82--93},
+      month     = {Sept},
+      year      = {2021},
+    }
 
 - title: "Data-centric Reliability Management in GPUs"
   authors: "Gurunath Kadam, Evgenia Smirni, Adwait Jog"
@@ -230,6 +442,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/kadam-gpu-reliability-dsn21.pdf"}
     - {label: "Video", url: "https://www.youtube.com/watch?v=hlPSA2SFeRQ"}
+  bibtex: |
+    @inproceedings{kadam-dsn21,
+      author    = {Gurunath Kadam and Evgenia Smirni and Adwait Jog},
+      title     = {{Data-centric Reliability Management in GPUs}},
+      booktitle = {Proceedings of the 51st International Conference on Dependable Systems and Networks (DSN)},
+      address   = {Virtual Event},
+      pages     = {271--283},
+      month     = {June},
+      year      = {2021},
+    }
 
 - title: "SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing"
   authors: "Lishan Yang, Bin Nie, Adwait Jog, Evgenia Smirni"
@@ -242,6 +464,17 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3447375"}
     - {label: "Video", url: "https://www.youtube.com/watch?v=UedRUjFfU1U"}
+  bibtex: |
+    @inproceedings{yang-sigmetrics21,
+      author    = {Lishan Yang and Bin Nie and Adwait Jog and Evgenia Smirni},
+      title     = {{SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing}},
+      booktitle = {Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS Journal) at SIGMETRICS conference},
+      address   = {Virtual Event},
+      pages     = {1--29},
+      month     = {June},
+      year      = {2021},
+      doi       = {10.1145/3447375},
+    }
 
 - title: "Enabling Software Resilience in GPGPU Applications via Partial Thread Protection"
   authors: "Lishan Yang, Bin Nie, Adwait Jog, Evgenia Smirni"
@@ -254,6 +487,17 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1109/icse43902.2021.00114"}
     - {label: "Video", url: "https://www.youtube.com/watch?v=diuja8kH1dA"}
+  bibtex: |
+    @inproceedings{yang-icse21,
+      author    = {Lishan Yang and Bin Nie and Adwait Jog and Evgenia Smirni},
+      title     = {{Enabling Software Resilience in GPGPU Applications via Partial Thread Protection}},
+      booktitle = {Proceedings of the International Conference on Software Engineering (ICSE)},
+      address   = {Virtual Event},
+      pages     = {1248--1259},
+      month     = {May},
+      year      = {2021},
+      doi       = {10.1109/icse43902.2021.00114},
+    }
 
 - title: "Analyzing and Leveraging Decoupled L1 Caches in GPUs"
   authors: "Mohamed Assem Ibrahim, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, Adwait Jog"
@@ -266,6 +510,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/decoupledl1-hpca21.pdf"}
     - {label: "Video", url: "https://www.youtube.com/watch?v=3YbrS9UpTZ0"}
+  bibtex: |
+    @inproceedings{decoupledl1-hpca21,
+      author    = {Mohamed Assem Ibrahim and Onur Kayiran and Yasuko Eckert and Gabriel H. Loh and Adwait Jog},
+      title     = {{Analyzing and Leveraging Decoupled L1 Caches in GPUs}},
+      booktitle = {Proceedings of the 27th International Symposium on High Performance Computer Architecture (HPCA)},
+      address   = {Virtual Event},
+      pages     = {467--478},
+      month     = {Feb},
+      year      = {2021},
+    }
 
 - title: "Practical Resilience Analysis of GPGPU Applications in the Presence of Single-and Multi-bit Faults"
   authors: "Lishan Yang, Bin Nie, Adwait Jog, Evgenia Smirni"
@@ -276,6 +530,18 @@
   url: "docs/pdf/tc-pruning.pdf"
   links:
     - {label: "PDF", url: "docs/pdf/tc-pruning.pdf"}
+  bibtex: |
+    @article{pruning-tc20,
+      author  = {Lishan Yang and Bin Nie and Adwait Jog and Evgenia Smirni},
+      title   = {{Practical Resilience Analysis of GPGPU Applications in the Presence of Single-and Multi-bit Faults}},
+      journal = {IEEE Transactions on Computers},
+      volume  = {70},
+      number  = {1},
+      pages   = {30--44},
+      month   = {Jan},
+      year    = {2021},
+      doi     = {10.1109/TC.2020.2980541},
+    }
 
 - title: "Design And Analysis Of Memory Management Techniques For Next-Generation GPUs"
   authors: "Haonan Wang"
@@ -286,6 +552,14 @@
   url: "https://doi.org/10.21220/s2-e46y-k152"
   links:
     - {label: "DOI", url: "https://doi.org/10.21220/s2-e46y-k152"}
+  bibtex: |
+    @phdthesis{wang2020design,
+      author = {Haonan Wang},
+      title  = {{Design And Analysis Of Memory Management Techniques For Next-Generation GPUs}},
+      school = {William \& Mary},
+      year   = {2020},
+      doi    = {10.21220/s2-e46y-k152},
+    }
 
 - title: "Analyzing and Leveraging Shared L1 Caches in GPUs"
   authors: "Mohamed Assem Ibrahim, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, Adwait Jog"
@@ -299,6 +573,16 @@
     - {label: "PDF", url: "docs/pdf/sharedl1-pact20.pdf"}
     - {label: "Slides", url: "docs/pptx/sharedl1-pact20.pptx"}
     - {label: "Video", url: "https://www.youtube.com/watch?v=CGIhOnt7F6s"}
+  bibtex: |
+    @inproceedings{sharedl1-pact20,
+      author    = {Mohamed Assem Ibrahim and Onur Kayiran and Yasuko Eckert and Gabriel H. Loh and Adwait Jog},
+      title     = {{Analyzing and Leveraging Shared L1 Caches in GPUs}},
+      booktitle = {Proceedings of the 29th International Conference on Parallel Architectures and Compilation Techniques (PACT)},
+      address   = {Virtual Event},
+      pages     = {161--173},
+      month     = {Oct},
+      year      = {2020},
+    }
 
 - title: "Why GPUs are Slow at Executing NFAs and How to Make them Faster"
   authors: "Hongyuan Liu, Sreepathi Pai, Adwait Jog"
@@ -311,8 +595,18 @@
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3373376.3378471"}
     - {label: "Slides", url: "docs/pptx/nfagpu-asplos20.pptx"}
-    - {label: "Artifact", url: "https://github.com/insight-cal/gpunfa-artifact"}
+    - {label: "Artifact", url: "https://github.com/insight-cal-uva/gpunfa-artifact"}
     - {label: "Video", url: "https://www.youtube.com/watch?v=ShcjkBDs8TI"}
+  bibtex: |
+    @inproceedings{nfa-gpu,
+      author    = {Hongyuan Liu and Sreepathi Pai and Adwait Jog},
+      title     = {{Why GPUs are Slow at Executing NFAs and How to Make them Faster}},
+      booktitle = {Proceedings of the 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)},
+      address   = {Virtual Event},
+      pages     = {251--265},
+      month     = {March},
+      year      = {2020},
+    }
 
 - title: "BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs"
   authors: "Gurunath Kadam, Danfeng Zhang, Adwait Jog"
@@ -326,6 +620,16 @@
     - {label: "PDF", url: "docs/pdf/bcoal-hpca20.pdf"}
     - {label: "Slides", url: "docs/pptx/bcoal-hpca20.pptx"}
     - {label: "Trailer", url: "https://www.youtube.com/watch?v=Iyld3gsaUUs&amp=&feature=youtu.be"}
+  bibtex: |
+    @inproceedings{bcoal-hpca20,
+      author    = {Gurunath Kadam and Danfeng Zhang and Adwait Jog},
+      title     = {{BCoal: Bucketing-based Memory Coalescing for Efficient and Secure GPUs}},
+      booktitle = {Proceedings of the 26th International Symposium on High Performance Computer Architecture (HPCA)},
+      address   = {San Diego, CA},
+      pages     = {570--581},
+      month     = {Feb},
+      year      = {2020},
+    }
 
 - title: "Characterizing Accuracy-Aware Resilience of GPGPU Applications"
   authors: "Bin Nie, Adwait Jog, Evgenia Smirni"
@@ -337,6 +641,16 @@
   acceptance: "66/234 ≈ 28%"
   links:
     - {label: "PDF", url: "docs/pdf/accuracy-aware-reliablity-ccgrid.pdf"}
+  bibtex: |
+    @inproceedings{accuracy-ccgrid2020,
+      author    = {Bin Nie and Adwait Jog and Evgenia Smirni},
+      title     = {{Characterizing Accuracy-Aware Resilience of GPGPU Applications}},
+      booktitle = {Proceedings of the 20th International Symposium on Cluster, Cloud and Internet Computing (CCGgrid)},
+      address   = {Virtual Event},
+      pages     = {111--120},
+      month     = {May},
+      year      = {2020},
+    }
 
 - title: "Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs"
   authors: "Mohamed Assem Ibrahim, Hongyuan Liu, Onur Kayiran, Adwait Jog"
@@ -349,6 +663,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/remote-core-pact19.pdf"}
     - {label: "Slides", url: "docs/pptx/Remote_BW_PACT2019-Slides.pptx"}
+  bibtex: |
+    @inproceedings{remote-core-pact19,
+      author    = {Mohamed Assem Ibrahim and Hongyuan Liu and Onur Kayiran and Adwait Jog},
+      title     = {{Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs}},
+      booktitle = {Proceedings of the 28th International Conference on Parallel Architectures and Compilation Techniques (PACT)},
+      address   = {Seattle, WA},
+      pages     = {258--271},
+      month     = {Sept},
+      year      = {2019},
+    }
 
 - title: "Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM"
   authors: "Haonan Wang, Adwait Jog"
@@ -361,6 +685,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/lmc-dsn19.pdf"}
     - {label: "Slides", url: "docs/pptx/LMC_DSN2019-Slides.pptx"}
+  bibtex: |
+    @inproceedings{lmc-dsn19,
+      author    = {Haonan Wang and Adwait Jog},
+      title     = {{Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM}},
+      booktitle = {Proceedings of the 49th International Conference on Dependable Systems and Networks (DSN)},
+      address   = {Portland, OR},
+      pages     = {362--374},
+      month     = {June},
+      year      = {2019},
+    }
 
 - title: "Address-Stride Assisted Approximate Value Prediction in GPUs"
   authors: "Haonan Wang, Mohamed Assem Ibrahim, Sparsh Mittal, Adwait Jog"
@@ -373,6 +707,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/asap-ics19.pdf"}
     - {label: "Slides", url: "docs/pptx/ASAP_ICS2019-Slides.pptx"}
+  bibtex: |
+    @inproceedings{asap-ics19,
+      author    = {Haonan Wang and Mohamed Assem Ibrahim and Sparsh Mittal and Adwait Jog},
+      title     = {{Address-Stride Assisted Approximate Value Prediction in GPUs}},
+      booktitle = {Proceedings of the 33rd International Conference on Super Computing (ICS)},
+      address   = {Phoenix, Arizona},
+      pages     = {184--194},
+      month     = {June},
+      year      = {2019},
+    }
 
 - title: "Opportunistic Computing in GPU Architectures"
   authors: "Ashutosh Pattnaik, Xulong Tang, Onur Kayiran, Adwait Jog, Asit Mishra, Mahmut T. Kandemir, Anand Sivasubramaniam, Chita R. Das"
@@ -385,6 +729,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/ndc-isca19.pdf"}
     - {label: "Trailer", url: "https://www.youtube.com/watch?v=xckzft1Ckss"}
+  bibtex: |
+    @inproceedings{opp-isca19,
+      author    = {Ashutosh Pattnaik and Xulong Tang and Onur Kayiran and Adwait Jog and Asit Mishra and Mahmut T. Kandemir and Anand Sivasubramaniam and Chita R. Das},
+      title     = {{Opportunistic Computing in GPU Architectures}},
+      booktitle = {Proceedings of the 46th International Symposium on Computer Architecture (ISCA)},
+      address   = {Phoenix, Arizona},
+      pages     = {210--223},
+      month     = {June},
+      year      = {2019},
+    }
 
 - title: "Quantifying Data Locality in Dynamic Parallelism in GPUs"
   authors: "Xulong Tang, Ashutosh Pattnaik, Onur Kayiran, Adwait Jog, Mahmut Taylan Kandemir, Chita R. Das"
@@ -393,9 +747,20 @@
   year: 2019
   type: conference
   url: "https://doi.org/10.1145/3376930.3376947"
-  acceptance: "≈ 20%"
+  acceptance: "50/317 ≈ 15%"
   links:
     - {label: "DOI", url: "https://doi.org/10.1145/3376930.3376947"}
+  bibtex: |
+    @inproceedings{dp-sigmetrics19,
+      author    = {Xulong Tang and Ashutosh Pattnaik and Onur Kayiran and Adwait Jog and Mahmut Taylan Kandemir and Chita R. Das},
+      title     = {{Quantifying Data Locality in Dynamic Parallelism in GPUs}},
+      booktitle = {Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS) at SIGMETRICS conference},
+      address   = {Phoenix, Arizona},
+      pages     = {39:1--39:24},
+      month     = {June},
+      year      = {2019},
+      doi       = {10.1145/3376930.3376947},
+    }
 
 - title: "Architectural Support for Efficient Large-Scale Automata Processing"
   authors: "Hongyuan Liu, Mohamed Assem Ibrahim, Onur Kayiran, Sreepathi Pai, Adwait Jog"
@@ -411,6 +776,16 @@
     - {label: "Poster", url: "docs/pdf/hotcoldap-micro18-poster.pdf"}
     - {label: "Summary", url: "docs/pdf/summary-hotcold-ap-micro18.pdf"}
     - {label: "Trailer", url: "https://www.youtube.com/watch?v=-kXyyXxe82Y&feature=youtu.be"}
+  bibtex: |
+    @inproceedings{hotcoldap-micro18,
+      author    = {Hongyuan Liu and Mohamed Assem Ibrahim and Onur Kayiran and Sreepathi Pai and Adwait Jog},
+      title     = {{Architectural Support for Efficient Large-Scale Automata Processing}},
+      booktitle = {Proceedings of the 51st International Conference on Micro-Architecture (MICRO)},
+      address   = {Fukuoka, Japan},
+      pages     = {908--920},
+      month     = {Oct},
+      year      = {2018},
+    }
 
 - title: "Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications"
   authors: "Bin Nie, Lishan Yang, Adwait Jog, Evgenia Smirni"
@@ -425,6 +800,16 @@
     - {label: "Slides", url: "docs/pptx/pruning-micro18.pptx"}
     - {label: "Poster", url: "docs/pdf/pruning-micro18-poster.pdf"}
     - {label: "Trailer", url: "https://www.youtube.com/watch?v=_4kJyhz-uAw&feature=youtu.be"}
+  bibtex: |
+    @inproceedings{pruning-micro18,
+      author    = {Bin Nie and Lishan Yang and Adwait Jog and Evgenia Smirni},
+      title     = {{Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications}},
+      booktitle = {Proceedings of the 51st International Conference on Micro-Architecture (MICRO)},
+      address   = {Fukuoka, Japan},
+      pages     = {749--761},
+      month     = {Oct},
+      year      = {2018},
+    }
 
 - title: "MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency"
   authors: "Rachata Ausavarungnirun, Vance Miller, Joshua Landgraf, Saugata Ghose, Adwait Jog, Jayneel Gandhi, Christopher J. Rossbach, Onur Mutlu"
@@ -437,6 +822,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/mask-asplos18.pdf"}
     - {label: "Slides", url: "docs/pptx/MASK-ASPLOS-2018.pptx"}
+  bibtex: |
+    @inproceedings{mask-asplos18,
+      author    = {Rachata Ausavarungnirun and Vance Miller and Joshua Landgraf and Saugata Ghose and Adwait Jog and Jayneel Gandhi and Christopher J. Rossbach and Onur Mutlu},
+      title     = {{MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency}},
+      booktitle = {Proceedings of the 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)},
+      address   = {Williamsburg, VA},
+      pages     = {503--518},
+      month     = {March},
+      year      = {2018},
+    }
 
 - title: "Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management"
   authors: "Haonan Wang, Fan Luo, Mohamed Assem Ibrahim, Onur Kayiran, Adwait Jog"
@@ -450,6 +845,16 @@
     - {label: "PDF", url: "docs/pdf/pbs-hpca18.pdf"}
     - {label: "Slides", url: "docs/pptx/pbs-hpca18.pptx"}
     - {label: "Trailer", url: "https://youtu.be/lz6jioFjD6k"}
+  bibtex: |
+    @inproceedings{pbs-hpca18,
+      author    = {Haonan Wang and Fan Luo and Mohamed Assem Ibrahim and Onur Kayiran and Adwait Jog},
+      title     = {{Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management}},
+      booktitle = {Proceedings of the 24th International Symposium on High Performance Computer Architecture (HPCA)},
+      address   = {Vienna, Austria},
+      pages     = {247--258},
+      month     = {Feb},
+      year      = {2018},
+    }
 
 - title: "RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques"
   authors: "Gurunath Kadam, Danfeng Zhang, Adwait Jog"
@@ -463,6 +868,16 @@
     - {label: "PDF", url: "docs/pdf/rcoal-hpca18.pdf"}
     - {label: "Slides", url: "docs/pptx/rcoal-hpca18.pptx"}
     - {label: "Trailer", url: "https://www.youtube.com/watch?v=1jCVHxXeuig"}
+  bibtex: |
+    @inproceedings{rcoal-hpca18,
+      author    = {Gurunath Kadam and Danfeng Zhang and Adwait Jog},
+      title     = {{RCoal: Mitigating GPU Timing Attack via Subwarp-based Randomized Coalescing Techniques}},
+      booktitle = {Proceedings of the 24th International Symposium on High Performance Computer Architecture (HPCA)},
+      address   = {Vienna, Austria},
+      pages     = {156--167},
+      month     = {Feb},
+      year      = {2018},
+    }
 
 - title: "Architecting SOT-RAM Based GPU Register File"
   authors: "Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, Haonan Wang, Mehdi Tahoori, Adwait Jog, Jeffrey Vetter"
@@ -474,6 +889,16 @@
   acceptance: "67/212 ≈ 32%"
   links:
     - {label: "PDF", url: "docs/pdf/sotram-isvlsi17.pdf"}
+  bibtex: |
+    @inproceedings{mittal2017architecting,
+      author    = {Sparsh Mittal and Rajendra Bishnoi and Fabian Oboril and Haonan Wang and Mehdi Tahoori and Adwait Jog and Jeffrey Vetter},
+      title     = {{Architecting SOT-RAM Based GPU Register File}},
+      booktitle = {Proceedings of the IEEE Computer Society Annual Symposium on VLSI (ISVLSI)},
+      address   = {Bochum, Germany},
+      pages     = {38--44},
+      month     = {July},
+      year      = {2017},
+    }
 
 - title: "Layer-wise Performance Bottleneck Analysis of Deep Neural Networks"
   authors: "Hengyu Zhao, Colin Weinshenker, Mohamed Assem Ibrahim, Adwait Jog, Jishen Zhao"
@@ -483,6 +908,15 @@
   type: workshop
   links:
     - {label: "PDF", url: "docs/pdf/paper_hengyu_zhao_aim2017.pdf"}
+  bibtex: |
+    @inproceedings{aimpact17,
+      author    = {Hengyu Zhao and Colin Weinshenker and Mohamed Assem Ibrahim and Adwait Jog and Jishen Zhao},
+      title     = {{Layer-wise Performance Bottleneck Analysis of Deep Neural Networks}},
+      booktitle = {Architectures for Intelligent Machines (AIM) Workshop in conjunction with International Conference on Parallel Architectures and Compilation Techniques (PACT)},
+      address   = {Hillsboro, OR},
+      month     = {Sep},
+      year      = {2017},
+    }
 
 - title: "Controlled Kernel Launch for Dynamic Parallelism in GPUs"
   authors: "Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, Adwait Jog, Sreepathi Pai, Mohamed Assem Ibrahim, Mahmut Kandemir, Chita R. Das"
@@ -494,6 +928,16 @@
   acceptance: "50/224 ≈ 22%"
   links:
     - {label: "PDF", url: "docs/pdf/Controlled-DP-HPCA-2017.pdf"}
+  bibtex: |
+    @inproceedings{tang2017controlled,
+      author    = {Xulong Tang and Ashutosh Pattnaik and Huaipan Jiang and Onur Kayiran and Adwait Jog and Sreepathi Pai and Mohamed Assem Ibrahim and Mahmut Kandemir and Chita R. Das},
+      title     = {{Controlled Kernel Launch for Dynamic Parallelism in GPUs}},
+      booktitle = {Proceedings of the 23rd International Symposium on High Performance Computer Architecture (HPCA)},
+      address   = {Austin, TX},
+      pages     = {649--660},
+      month     = {Feb},
+      year      = {2017},
+    }
 
 - title: "Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File"
   authors: "Sparsh Mittal, Haonan Wang, Adwait Jog, Jeffrey Vetter"
@@ -506,6 +950,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/GPU-SE-VLSID-2017.pdf"}
     - {label: "Slides", url: "docs/pptx/GPU-SE-VLSID-2017.pptx"}
+  bibtex: |
+    @inproceedings{mittal2017design,
+      author    = {Sparsh Mittal and Haonan Wang and Adwait Jog and Jeffrey Vetter},
+      title     = {{Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File}},
+      booktitle = {Proceedings of the 30th International Conference on VLSI design and 16th International Conference on Embedded Systems (VLSID)},
+      address   = {Hyderabad, India},
+      pages     = {409--414},
+      month     = {Jan},
+      year      = {2017},
+    }
 
 - title: "Approach to Adaptive Allocation of Shared Resources in Computer Systems"
   authors: "Evgeny Bolotin, Zvi Guz, Adwait Jog, Stephen W. Keckler, Michael Allen Parker"
@@ -516,6 +970,32 @@
   url: "https://patents.google.com/patent/US9742869B2/en"
   links:
     - {label: "Google Patents", url: "https://patents.google.com/patent/US9742869B2/en"}
+  bibtex: |
+    @misc{bolotin2017approach,
+      author = {Evgeny Bolotin and Zvi Guz and Adwait Jog and Stephen W. Keckler and Michael Allen Parker},
+      title  = {{Approach to Adaptive Allocation of Shared Resources in Computer Systems}},
+      month  = {Aug},
+      year   = {2017},
+      note   = {U.S. Patent 9,742,869 B2. Assigned to NVIDIA Corporation},
+    }
+
+- title: "A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps"
+  authors: "Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, Onur Mutlu"
+  venue: "Book Chapter"
+  where: "Book chapter in Advances in GPU Research and Practice, Elsevier, 2017. <a href=\"https://www.elsevier.com/books/advances-in-gpu-research-and-practice/sarbazi-azad/978-0-12-803738-6\">Elsevier Book Link (Chapter 15)</a>"
+  year: 2017
+  type: book
+  url: "http://arxiv.org/abs/1602.01348"
+  bibtex: |
+    @incollection{vijaykumar2017framework,
+      author    = {Nandita Vijaykumar and Gennady Pekhimenko and Adwait Jog and Saugata Ghose and Abhishek Bhowmick and Rachata Ausavarungnirun and Chita Das and Mahmut Kandemir and Todd C. Mowry and Onur Mutlu},
+      title     = {{A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps}},
+      booktitle = {Advances in GPU Research and Practice},
+      publisher = {Morgan Kaufmann},
+      pages     = {373--415},
+      month     = {Sept},
+      year      = {2017},
+    }
 
 - title: "Zorua: A Holistic Approach to Resource Virtualization in GPUs"
   authors: "Nandita Vijaykumar, Kevin Hsieh, Gennady Pekhimenko, Samira Khan, Ashish Shrestha, Saugata Ghose, Adwait Jog, Phillip B. Gibbons, Onur Mutlu"
@@ -528,6 +1008,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/zorua-micro16.pdf"}
     - {label: "Slides", url: "docs/pptx/zorua-micro16.pptx"}
+  bibtex: |
+    @inproceedings{vijaykumar2016zorua,
+      author    = {Nandita Vijaykumar and Kevin Hsieh and Gennady Pekhimenko and Samira Khan and Ashish Shrestha and Saugata Ghose and Adwait Jog and Phillip B. Gibbons and Onur Mutlu},
+      title     = {{Zorua: A Holistic Approach to Resource Virtualization in GPUs}},
+      booktitle = {Proceedings of the 49th International Symposium on Micro Architecture (MICRO)},
+      address   = {Taipei, Taiwan},
+      pages     = {1--14},
+      month     = {Oct},
+      year      = {2016},
+    }
 
 - title: "Characterization of Quantum Workloads on SIMD Architectures"
   authors: "Robert Risque, Adwait Jog"
@@ -540,6 +1030,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/quantum-iiswc2016.pdf"}
     - {label: "Slides", url: "docs/pptx/quantum-iiswc2016.pptx"}
+  bibtex: |
+    @inproceedings{risque2016characterization,
+      author    = {Robert Risque and Adwait Jog},
+      title     = {{Characterization of Quantum Workloads on SIMD Architectures}},
+      booktitle = {Proceedings of the International Symposium on Workload Characterization (IISWC)},
+      address   = {Providence, RI},
+      pages     = {1--9},
+      month     = {Oct},
+      year      = {2016},
+    }
 
 - title: "Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities"
   authors: "Ashutosh Pattnaik, Xulong Tang, Adwait Jog, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Chita R. Das"
@@ -552,6 +1052,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/PIM-PACT2016.pdf"}
     - {label: "Slides", url: "docs/pptx/PIM-PACT2016.pptx"}
+  bibtex: |
+    @inproceedings{pattnaik2016scheduling,
+      author    = {Ashutosh Pattnaik and Xulong Tang and Adwait Jog and Onur Kayiran and Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Chita R. Das},
+      title     = {{Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities}},
+      booktitle = {Proceedings of the 25th International Conference on Parallel Architectures and Compilation Techniques (PACT)},
+      address   = {Haifa, Israel},
+      pages     = {31--44},
+      month     = {Sept},
+      year      = {2016},
+    }
 
 - title: "μC-States: Fine-grained GPU Datapath Power Management"
   authors: "Onur Kayiran, Adwait Jog, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, Chita R. Das"
@@ -564,6 +1074,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/uC-States-PACT2016.pdf"}
     - {label: "Slides", url: "docs/pptx/uC-States-PACT2016.pptx"}
+  bibtex: |
+    @inproceedings{kayiran2016muc,
+      author    = {Onur Kayiran and Adwait Jog and Ashutosh Pattnaik and Rachata Ausavarungnirun and Xulong Tang and Mahmut T. Kandemir and Gabriel H. Loh and Onur Mutlu and Chita R. Das},
+      title     = {{μC-States: Fine-grained GPU Datapath Power Management}},
+      booktitle = {Proceedings of the 25th International Conference on Parallel Architectures and Compilation Techniques (PACT)},
+      address   = {Haifa, Israel},
+      pages     = {17--30},
+      month     = {Sept},
+      year      = {2016},
+    }
 
 - title: "Exploiting Core Criticality for Enhanced GPU Performance"
   authors: "Adwait Jog, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das"
@@ -576,14 +1096,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/Clams-Sigmetrics-2016.pdf"}
     - {label: "Slides", url: "docs/pptx/Clams-Sigmetrics-2016.pptx"}
-
-- title: "A Framework for Accelerating Bottlenecks in GPU Execution with Assist Warps"
-  authors: "Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Saugata Ghose, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, Mahmut Kandemir, Todd C. Mowry, Onur Mutlu"
-  venue: "Book Chapter"
-  where: "Book Chapter in Advances in GPU Research and Practice, Elsevier, to be published in 2016. <a href=\"https://www.elsevier.com/books/advances-in-gpu-research-and-practice/sarbazi-azad/978-0-12-803738-6\">Elsevier Book Link (Chapter 15)</a>"
-  year: 2016
-  type: book
-  url: "http://arxiv.org/abs/1602.01348"
+  bibtex: |
+    @inproceedings{jog2016exploiting,
+      author    = {Adwait Jog and Onur Kayiran and Ashutosh Pattnaik and Mahmut T. Kandemir and Onur Mutlu and Ravishankar Iyer and Chita R. Das},
+      title     = {{Exploiting Core Criticality for Enhanced GPU Performance}},
+      booktitle = {Proceedings of the 42nd International International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)},
+      address   = {Antibes Juan-Les-Pins, France},
+      pages     = {351--363},
+      month     = {June},
+      year      = {2016},
+    }
 
 - title: "Anatomy of GPU Memory System for Multi-Application Execution"
   authors: "Adwait Jog, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das"
@@ -595,7 +1117,17 @@
   links:
     - {label: "PDF", url: "docs/pdf/Anatomy-Memsys-2015.pdf"}
     - {label: "Slides", url: "docs/pptx/Anatomy-Memsys-2015.pptx"}
-    - {label: "Artifact", url: "https://github.com/adwaitjog/mafia"}
+    - {label: "Artifact", url: "https://github.com/insight-cal-uva/mafia"}
+  bibtex: |
+    @inproceedings{jog2015anatomy,
+      author    = {Adwait Jog and Onur Kayiran and Tuba Kesten and Ashutosh Pattnaik and Evgeny Bolotin and Niladrish Chatterjee and Stephen W. Keckler and Mahmut T. Kandemir and Chita R. Das},
+      title     = {{Anatomy of GPU Memory System for Multi-Application Execution}},
+      booktitle = {Proceedings of the 1st International Symposium on Memory Systems (MEMSYS)},
+      address   = {Washington, DC},
+      pages     = {223--234},
+      month     = {Oct},
+      year      = {2015},
+    }
 
 - title: "A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps"
   authors: "Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita R. Das Mahmut Kandemir, Todd Mowry, Onur Mutlu"
@@ -609,6 +1141,16 @@
     - {label: "PDF", url: "docs/pdf/CABA-ISCA-2015.pdf"}
     - {label: "Slides", url: "docs/pptx/CABA-ISCA-2015.pptx"}
     - {label: "Lightning talk", url: "docs/pptx/CABA-ISCA-2015-trailer.pptx"}
+  bibtex: |
+    @inproceedings{vijaykumar2015case,
+      author    = {Nandita Vijaykumar and Gennady Pekhimenko and Adwait Jog and Abhishek Bhowmick and Rachata Ausavarungnirun and Chita R. Das Mahmut Kandemir and Todd Mowry and Onur Mutlu},
+      title     = {{A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps}},
+      booktitle = {Proceedings of the 42nd International Symposium on Computer Architecture (ISCA)},
+      address   = {Portland, OR},
+      pages     = {41--53},
+      month     = {June},
+      year      = {2015},
+    }
 
 - title: "Design and Analysis of Scheduling Techniques for Throughput Processors"
   authors: "Adwait Jog"
@@ -619,6 +1161,13 @@
   url: "https://etda.libraries.psu.edu/catalog/26480"
   links:
     - {label: "Penn State ETD", url: "https://etda.libraries.psu.edu/catalog/26480"}
+  bibtex: |
+    @phdthesis{jog2015design,
+      author = {Adwait Jog},
+      title  = {{Design and Analysis of Scheduling Techniques for Throughput Processors}},
+      school = {Pennsylvania State University},
+      year   = {2015},
+    }
 
 - title: "Managing GPU Concurrency in Heterogeneous Architectures"
   authors: "Onur Kayiran, Nachiappan CN, Adwait Jog, Rachata Ausavarungnirun, Mahmut Kandemir, Gabriel Loh, Onur Mutlu, Chita R. Das"
@@ -633,6 +1182,16 @@
     - {label: "Slides", url: "docs/pptx/CPUGPU-MICRO-2014.pptx"}
     - {label: "Poster", url: "docs/pdf/CPUGPU-MICRO-2014-poster.pdf"}
     - {label: "Lightning talk", url: "docs/pdf/CPUGPU-MICRO-2014-trailer.pdf"}
+  bibtex: |
+    @inproceedings{kayiran2014managing,
+      author    = {Onur Kayiran and Nachiappan CN and Adwait Jog and Rachata Ausavarungnirun and Mahmut Kandemir and Gabriel Loh and Onur Mutlu and Chita R. Das},
+      title     = {{Managing GPU Concurrency in Heterogeneous Architectures}},
+      booktitle = {Proceedings of the 47th International Symposium on Micro Architecture (MICRO)},
+      address   = {Cambridge, UK},
+      pages     = {114--126},
+      month     = {Dec},
+      year      = {2014},
+    }
 
 - title: "Trading Cache Hit Rate for Memory Performance"
   authors: "Wei Ding, Mahmut Kandemir, Diana Guttman, Adwait Jog, Chita Das, Praveen Yedlapalli"
@@ -644,6 +1203,16 @@
   acceptance: "37/144 ≈ 25%"
   links:
     - {label: "PDF", url: "docs/pdf/TradeCM-PACT-2014.pdf"}
+  bibtex: |
+    @inproceedings{ding2014trading,
+      author    = {Wei Ding and Mahmut Kandemir and Diana Guttman and Adwait Jog and Chita Das and Praveen Yedlapalli},
+      title     = {{Trading Cache Hit Rate for Memory Performance}},
+      booktitle = {Proceedings of the 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT)},
+      address   = {Edmonton, Alberta, Canada},
+      pages     = {357--368},
+      month     = {August},
+      year      = {2014},
+    }
 
 - title: "Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications"
   authors: "Adwait Jog, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita R. Das"
@@ -657,6 +1226,16 @@
     - {label: "PDF", url: "docs/pdf/app-aware-memory-GPGPU7-2014.pdf"}
     - {label: "Slides", url: "docs/pptx/app-aware-memory-GPGPU7-2014.pptx"}
     - {label: "DOI", url: "http://dl.acm.org/citation.cfm?doid=2576779.2576780"}
+  bibtex: |
+    @inproceedings{jog2014application,
+      author    = {Adwait Jog and Evgeny Bolotin and Zvika Guz and Mike Parker and Stephen W. Keckler and Mahmut Kandemir and Chita R. Das},
+      title     = {{Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications}},
+      booktitle = {Proceedings of the 7th Workshop on General Purpose Computing using GPUs (GPGPU), co-located with 19th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)},
+      address   = {Salt Lake City, UT},
+      pages     = {1--10},
+      month     = {March},
+      year      = {2014},
+    }
 
 - title: "Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs"
   authors: "Onur Kayiran, Adwait Jog, Mahmut T. Kandemir, Chita R. Das"
@@ -670,6 +1249,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/NMNL-PACT-2013.pdf"}
     - {label: "Slides", url: "docs/pptx/NMNL-PACT-2013-Slides.pptx"}
+  bibtex: |
+    @inproceedings{kayiran2013neither,
+      author    = {Onur Kayiran and Adwait Jog and Mahmut T. Kandemir and Chita R. Das},
+      title     = {{Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs}},
+      booktitle = {Proceedings of the 22nd International Conference on Parallel Architectures and Compilation (PACT)},
+      address   = {Edinburgh, Scotland},
+      pages     = {157--166},
+      month     = {Sept},
+      year      = {2013},
+    }
 
 - title: "Orchestrated Scheduling and Prefetching for GPGPUs"
   authors: "Adwait Jog, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, Chita R. Das"
@@ -682,6 +1271,16 @@
   links:
     - {label: "PDF", url: "docs/pdf/OSP-ISCA-2013.pdf"}
     - {label: "Slides", url: "docs/pptx/OSP-ISCA-2013-Slides.pptx"}
+  bibtex: |
+    @inproceedings{jog2013orchestrated,
+      author    = {Adwait Jog and Onur Kayiran and Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Ravi Iyer and Chita R. Das},
+      title     = {{Orchestrated Scheduling and Prefetching for GPGPUs}},
+      booktitle = {Proceedings of the 40th International Symposium on Computer Architecture (ISCA)},
+      address   = {Tel Aviv, Israel},
+      pages     = {332--343},
+      month     = {June},
+      year      = {2013},
+    }
 
 - title: "OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance"
   authors: "Adwait Jog, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das"
@@ -695,6 +1294,16 @@
     - {label: "PDF", url: "docs/pdf/OWL-ASPLOS-2013.pdf"}
     - {label: "Summary", url: "docs/pdf/OWL-ASPLOS-2013-Summary.pdf"}
     - {label: "Slides", url: "docs/pptx/OWL-ASPLOS-2013-Slides.pptx"}
+  bibtex: |
+    @inproceedings{jog2013owl,
+      author    = {Adwait Jog and Onur Kayiran and Nachiappan CN and Asit K. Mishra and Mahmut T. Kandemir and Onur Mutlu and Ravishankar Iyer and Chita R. Das},
+      title     = {{OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance}},
+      booktitle = {Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)},
+      address   = {Houston, TX},
+      pages     = {395--406},
+      month     = {March},
+      year      = {2013},
+    }
 
 - title: "Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs"
   authors: "Adwait Jog, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das"
@@ -708,6 +1317,16 @@
     - {label: "PDF", url: "docs/pdf/Revive-DAC-2012.pdf"}
     - {label: "Slides", url: "docs/pptx/Revive-DAC-2012-Slides.pptx"}
     - {label: "Poster", url: "docs/pdf/Revive-DAC-Poster-2012.pdf"}
+  bibtex: |
+    @inproceedings{jog2012cache,
+      author    = {Adwait Jog and Asit K. Mishra and Cong Xu and Yuan Xie and N. Vijaykrishnan and Ravishankar Iyer and Chita R. Das},
+      title     = {{Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs}},
+      booktitle = {Proceedings of the 49th Design Automation Conference (DAC)},
+      address   = {San Francisco, CA},
+      pages     = {243--252},
+      month     = {June},
+      year      = {2012},
+    }
 
 - title: "Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs"
   authors: "Onur Kayiran, Adwait Jog, Mahmut T. Kandemir, Chita R. Das"
@@ -715,6 +1334,14 @@
   where: "TR-CSE-2012-006, CSE-Penn State Tech Report, Sept 2012"
   year: 2012
   type: report
+  bibtex: |
+    @techreport{kayiran2012neither,
+      author      = {Onur Kayiran and Adwait Jog and Mahmut T. Kandemir and Chita R. Das},
+      title       = {{Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs}},
+      number      = {TR-CSE-2012-006},
+      institution = {Pennsylvania State University},
+      year        = {2012},
+    }
 
 - title: "Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs"
   authors: "Adwait Jog, Asit K. Mishra, Cong Xu, Yuan Xie, N. Vijaykrishnan, Ravishankar Iyer, Chita R. Das"
@@ -722,3 +1349,11 @@
   where: "TR-CSE-2011-010, CSE-Penn State Tech Report, June 2011"
   year: 2011
   type: report
+  bibtex: |
+    @techreport{jog2011cache,
+      author      = {Adwait Jog and Asit K. Mishra and Cong Xu and Yuan Xie and N. Vijaykrishnan and Ravishankar Iyer and Chita R. Das},
+      title       = {{Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs}},
+      number      = {TR-CSE-2011-010},
+      institution = {Pennsylvania State University},
+      year        = {2011},
+    }

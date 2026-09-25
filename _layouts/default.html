@@ -17,8 +17,18 @@
   <meta property="og:description" content="{{ page.description | default: site.description | strip }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
-  <meta property="og:image" content="{{ site.author.photo | absolute_url }}">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23232D4B'/><text x='16' y='22' font-family='Georgia,serif' font-size='16' font-weight='700' text-anchor='middle' fill='%23fff'>AJ</text></svg>">
+  <meta property="og:image" content="{{ '/assets/img/og-banner.png' | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Adwait Jog, Associate Professor of Computer Science, University of Virginia">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
+  <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+  <meta name="theme-color" content="#232d4b">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.author.name }} · News" href="{{ '/feed.xml' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   <script type="application/ld+json">
   {
@@ -82,6 +92,39 @@
       });
       if (mq && mq.addEventListener) mq.addEventListener("change", label);
       label();
+    })();
+  </script>
+  <script>
+    // Cite buttons: toggle the BibTeX box and copy it to the clipboard.
+    (function () {
+      function legacyCopy(text) {
+        var ta = document.createElement("textarea");
+        ta.value = text; ta.setAttribute("readonly", ""); ta.style.position = "absolute"; ta.style.left = "-9999px";
+        document.body.appendChild(ta); ta.select();
+        var ok = false; try { ok = document.execCommand("copy"); } catch (e) {}
+        document.body.removeChild(ta); return ok;
+      }
+      function copyText(text, done) {
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(text).then(function () { done(true); }, function () { done(legacyCopy(text)); });
+        } else {
+          done(legacyCopy(text));
+        }
+      }
+      document.addEventListener("click", function (ev) {
+        var t = ev.target;
+        if (t.classList && t.classList.contains("cite-btn")) {
+          var box = t.closest(".pub-body").querySelector(".cite-box");
+          box.hidden = !box.hidden;
+          t.setAttribute("aria-expanded", String(!box.hidden));
+        } else if (t.classList && t.classList.contains("cite-copy")) {
+          var pre = t.parentNode.querySelector(".cite-text");
+          copyText(pre.textContent, function (ok) {
+            t.textContent = ok ? "Copied!" : "Select the text to copy";
+            setTimeout(function () { t.textContent = "Copy BibTeX"; }, 2000);
+          });
+        }
+      });
     })();
   </script>
 </body>

@@ -106,7 +106,7 @@ Infrastructure Details, 7) Final Results, and 8) Conclusions.
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [https://github.com/macsimgt/macsim-public MacSim], A trace-driven CPU/GPU simulator
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
-- [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
+- [https://github.com/insight-cal-uva/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
 - [https://github.com/Multi2Sim/multi2sim Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
 - CPU-GPU Simulator, A Trace/Execution Driven CPU-GPU Heterogeneous Architecture Simulator
 - GemDroid, A Mobile Architecture Simulator (GEM5 + Android Emulator)

@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for p in site.pages %}
+  {%- if p.sitemap == false or p.url contains '404' or p.url contains '.xml' or p.url contains '.txt' %}{% continue %}{% endif %}
+  <url><loc>{{ p.url | replace: 'index.html', '' | absolute_url }}</loc><lastmod>{{ site.time | date_to_xmlschema }}</lastmod></url>
+{%- endfor %}
+{%- for f in site.static_files %}
+  {%- if f.extname == '.html' and f.path contains '/teach/' %}
+  <url><loc>{{ f.path | absolute_url }}</loc><lastmod>{{ f.modified_time | date_to_xmlschema }}</lastmod></url>
+  {%- endif %}
+{%- endfor %}
+</urlset>

@@ -221,7 +221,7 @@ D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on 
 == Useful Simulators and Tools
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
-- [https://github.com/adwaitjog/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
+- [https://github.com/insight-cal-uva/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
 - [http://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
 
 == Academic Accommodations

@@ -65,7 +65,9 @@ description: Publications by Adwait Jog on GPU architecture, memory systems, and
     pubs.forEach(function (el) {
       var t = el.dataset.type;
       var typeOk = filter === 'all' || t === filter || (filter === 'other' && main.indexOf(t) < 0);
-      var textOk = !q || el.textContent.toLowerCase().indexOf(q) >= 0;
+      var cite = el.querySelector('.cite-box');
+      var text = el.textContent.replace(cite ? cite.textContent : '', '');
+      var textOk = !q || text.toLowerCase().indexOf(q) >= 0;
       el.hidden = !(typeOk && textOk);
       if (!el.hidden) shown++;
     });

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#232d4b"/>
+  <text x="32" y="40" text-anchor="middle" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="#ffffff" letter-spacing="-0.5">AJ</text>
+  <rect x="18" y="47" width="28" height="4" rx="2" fill="#e57200"/>
+</svg>
