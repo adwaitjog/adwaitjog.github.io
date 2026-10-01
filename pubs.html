@@ -16,7 +16,6 @@ description: Publications by Adwait Jog on GPU architecture, memory systems, and
   <div class="filters" role="group" aria-label="Filter by type">
     <button type="button" data-filter="all" aria-pressed="true">All</button>
     <button type="button" data-filter="conference" aria-pressed="false">Conference</button>
-    <button type="button" data-filter="journal" aria-pressed="false">Journal</button>
     <button type="button" data-filter="workshop" aria-pressed="false">Workshop &amp; Poster</button>
     <button type="button" data-filter="thesis" aria-pressed="false">Dissertations</button>
     <button type="button" data-filter="other" aria-pressed="false">Other</button>
@@ -57,7 +56,7 @@ description: Publications by Adwait Jog on GPU architecture, memory systems, and
   var groups = document.querySelectorAll('.year-group');
   var empty = document.querySelector('.empty-note');
   var filter = 'all';
-  var main = ['conference', 'journal', 'workshop', 'thesis'];
+  var main = ['conference', 'workshop', 'thesis'];
 
   function apply() {
     var q = search.value.trim().toLowerCase();
