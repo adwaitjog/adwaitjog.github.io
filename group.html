@@ -104,7 +104,6 @@ description: The Insight Computer Architecture Lab at the University of Virginia
     <li class="member member-collab">
       <a class="member-name" href="{{ m.url }}">{{ m.name }}</a>
       <span class="member-role">{{ m.role }}</span>
-      {%- if m.advisor %}<span class="member-co">Advised by {{ m.advisor }}</span>{% endif %}
       {%- if m.journey %}
       <span class="member-journey">
         {%- for j in m.journey %}<span class="mj-step">{{ j.label }} <span class="mj-years">{{ j.years }}</span></span>{% unless forloop.last %}<span class="mj-arrow" aria-hidden="true">→</span>{% endunless %}{% endfor -%}

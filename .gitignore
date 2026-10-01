@@ -1,10 +1,6 @@
-
-**/.DS_Store
-.DS_Store
+_site/
 .jekyll-cache/
 .sass-cache/
 Gemfile.lock
-_site/
-docs/.DS_Store
-teach/.DS_Store
 vendor/
+**/.DS_Store
