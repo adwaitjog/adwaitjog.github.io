@@ -4,7 +4,10 @@ layout: default
 {%- assign a = site.author -%}
 <div class="home">
   <aside class="profile">
-    <img class="profile-photo" src="{{ a.photo | relative_url }}" alt="Portrait of {{ a.name }}" width="800" height="800">
+    <picture class="profile-picture">
+      <source media="(max-width: 820px)" srcset="{{ a.photo | relative_url }}" width="800" height="800">
+      <img class="profile-photo" src="{{ a.photo_portrait | default: a.photo | relative_url }}" alt="Portrait of {{ a.name }}" width="640" height="960">
+    </picture>
     <h1 class="profile-name">{{ a.name }}</h1>
     <p class="profile-role">
       <a href="{{ a.profile }}">{{ a.position }}</a><br>
