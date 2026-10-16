@@ -69,7 +69,7 @@
 
   <footer class="site-footer">
     <div class="container footer-inner">
-      <span>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }} · {{ site.author.department }}, {{ site.author.university }}</span>
+      <span>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }} · {{ site.author.department }}, {{ site.author.university }}{% if page.url == "/" or page.url == "/index.html" %} · Headshot: PuraPhoto{% endif %}</span>
       <span>Last updated <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%B %-d, %Y" }}</time> · <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></span>
     </div>
   </footer>
