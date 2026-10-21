@@ -122,7 +122,7 @@
     - term: "July 9-13, 2018"
       name: "GPU Architectures: From Basic to Advanced Concepts"
       url: "teach/acaces2018.html"
-      detail: "14th International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems (<a href=\"http://acaces.hipeac.net/2018/index.php?page=courseinfo&lecturer=jog\">ACACES 2018</a>), Fiuggi, Italy"
+      detail: "14th International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems (ACACES 2018), Fiuggi, Italy"
 
 - institution: "Penn State"
   courses:

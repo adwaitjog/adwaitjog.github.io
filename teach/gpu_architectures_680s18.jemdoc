@@ -316,7 +316,7 @@ D. Kirk and W. Hwu, “Programming Massively Parallel Processors – A Hands-on 
 - [http://www.gpgpu-sim.org/ GPGPU-Sim], A GPU Simulator (models NVIDIA-style GPUs). Also, look at [http://www.gpgpu-sim.org/gpuwattch/ GPU-Wattch], A GPU Power Model
 - [https://github.com/NVlabs/SASSI SASSI], A Flexible GPGPU Instrumentation Tool
 - [https://github.com/insight-cal-uva/mafia MAFIA], A Multiple Application/Context Framework for GPU architectures
-- [http://www.multi2sim.org/ Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
+- [https://github.com/Multi2Sim/multi2sim Multi2sim], A CPU/GPU Simulator (models AMD-style GPUs)
 
 == Academic Accommodations
 It is the policy of The College of William and Mary to accommodate 
