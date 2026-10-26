@@ -16,6 +16,10 @@ author:
   school_url: https://engineering.virginia.edu/
   university: University of Virginia
   email: ajog@virginia.edu
+  office_address:
+    - Rice Hall 501, 85 Engineer's Way
+    - Charlottesville, VA 22903
+  office_map: https://www.google.com/maps/search/?api=1&query=Rice+Hall+85+Engineer%27s+Way+Charlottesville+VA+22903
   photo: /assets/img/adwait-jog-2026.jpg
   photo_portrait: /assets/img/adwait-jog-2026-portrait.jpg   # tall version for the desktop sidebar
   cv: /docs/cv/2026_Adwait_Jog_CV_2page.pdf
@@ -28,10 +32,10 @@ author:
 
 nav:
   - { title: Home, url: / }
-  - { title: Research Group, url: /group.html }
+  - { title: Research Group, short: Group, url: /group.html }
   - { title: Publications, url: /pubs.html }
   - { title: Teaching, url: /teaching.html }
-  - { title: CV, url: /docs/cv/2026_Adwait_Jog_CV_2page.pdf }
+  - { title: Contact, url: /contact.html }
 
 markdown: kramdown
 exclude:

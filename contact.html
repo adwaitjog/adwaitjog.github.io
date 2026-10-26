@@ -1,0 +1,64 @@
+---
+layout: default
+title: Contact
+description: Contact Adwait Jog and the Insight Computer Architecture Lab at the University of Virginia, including information for prospective students and collaborators.
+---
+{%- assign a = site.author -%}
+<header class="page-header">
+  <h1>Contact</h1>
+</header>
+
+<section class="group-section" id="contact-info">
+  <h2>Contact Information</h2>
+  <div class="contact-grid">
+    <div class="contact-card">
+      <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="mail" %}</span>Email</h3>
+      <p><a href="mailto:{{ a.email }}">{{ a.email }}</a></p>
+    </div>
+    <div class="contact-card">
+      <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="pin" %}</span>Office</h3>
+      <p>
+        {{ a.department }}<br>
+        {{ a.office_address | join: "<br>" }}
+      </p>
+      <p class="contact-more"><a href="{{ a.office_map }}">View on Google Maps →</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="group-section" id="prospective-students">
+  <h2>Prospective Students</h2>
+  <p>
+    We are always looking for motivated students interested in computer architecture and systems,
+    especially GPUs, memory systems, and secure and reliable computing. If you are interested in joining
+    the <a href="{{ '/group.html' | relative_url }}">Insight Computer Architecture Lab</a>:
+  </p>
+  <div class="contact-grid">
+    <div class="contact-card">
+      <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="cap" %}</span>Ph.D. Applicants</h3>
+      <p>
+        Please apply through the <a href="https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science">UVA Computer Science Ph.D. program</a>
+        and mention your interest in the Insight Computer Architecture Lab led by Prof. Jog in your application.
+      </p>
+    </div>
+    <div class="contact-card">
+      <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="flask" %}</span>Current UVA Students</h3>
+      <p>
+        Send an <a href="mailto:{{ a.email }}">email</a> with your CV, transcript, and a brief description of your
+        research interests.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="group-section" id="collaborations">
+  <h2>Collaborations</h2>
+  <div class="contact-card contact-wide">
+    <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="handshake" %}</span>Academic and Industry Partners</h3>
+    <p>
+      We welcome collaborations with academic and industry partners. For research and technical collaborations or sponsored
+      projects, please reach out by <a href="mailto:{{ a.email }}">email</a> with details about your organization
+      and the proposed work.
+    </p>
+  </div>
+</section>
