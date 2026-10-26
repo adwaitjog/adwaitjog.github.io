@@ -12,8 +12,14 @@ description: Contact Adwait Jog and the Insight Computer Architecture Lab at the
   <h2>Contact Information</h2>
   <div class="contact-grid">
     <div class="contact-card">
-      <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="mail" %}</span>Email</h3>
+      <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="mail" %}</span>Email &amp; Profiles</h3>
       <p><a href="mailto:{{ a.email }}">{{ a.email }}</a></p>
+      <ul class="contact-links">
+        <li><a href="{{ a.scholar }}">Google Scholar</a></li>
+        <li><a href="{{ a.dblp }}">DBLP</a></li>
+        <li><a href="{{ a.orcid }}">ORCID</a></li>
+        <li><a href="{{ a.linkedin }}">LinkedIn</a></li>
+      </ul>
     </div>
     <div class="contact-card">
       <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="pin" %}</span>Office</h3>
@@ -30,9 +36,9 @@ description: Contact Adwait Jog and the Insight Computer Architecture Lab at the
   <h2>Prospective Students</h2>
   <p>
     We are always looking for motivated students interested in computer architecture and systems,
-    especially GPUs, memory systems, and secure and reliable computing. If you are interested in joining
-    the <a href="{{ '/group.html' | relative_url }}">Insight Computer Architecture Lab</a>:
+    especially GPUs, memory systems, and secure and reliable computing.
   </p>
+  <h3>How to Apply</h3>
   <div class="contact-grid">
     <div class="contact-card">
       <h3 class="contact-title"><span class="thrust-icon">{% include icon.html name="cap" %}</span>Ph.D. Applicants</h3>

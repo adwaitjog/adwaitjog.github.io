@@ -360,6 +360,12 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
   text-transform: none; letter-spacing: 0; color: var(--text);
 }
 .contact-more { font-size: .92rem; }
+.contact-links { list-style: none; padding: 12px 0 0; margin: 12px 0 0; border-top: 1px solid var(--border); display: flex; flex-wrap: wrap; gap: 8px; }
+.contact-links a {
+  display: inline-block; font-size: .85rem; padding: 4px 12px; border: 1px solid var(--border);
+  border-radius: 999px; background: var(--bg); color: var(--text);
+}
+.contact-links a:hover { border-color: var(--orange); color: var(--link-hover); text-decoration: none; }
 .contact-wide { margin-top: 14px; }
 .nav-short { display: none; }
 
@@ -445,7 +451,7 @@ main { flex: 1; padding-top: 40px; padding-bottom: 56px; }
 @media (pointer: coarse) {
   .site-nav a { padding: 8px 0; }
   .theme-toggle { width: 40px; height: 40px; }
-  .profile-links a { padding: 8px 14px; }
+  .profile-links a, .contact-links a { padding: 8px 14px; }
   .filters button { padding: 8px 14px; }
   .pub-search { padding: 10px 12px; font-size: 1rem; }
   .pub-links { gap: 8px; }
