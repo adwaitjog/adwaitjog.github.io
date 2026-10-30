@@ -27,6 +27,9 @@ description: Contact Adwait Jog and the Insight Computer Architecture Lab at the
         {{ a.department }}<br>
         {{ a.office_address | join: "<br>" }}
       </p>
+      {%- if a.office_phone %}
+      <p>Phone: <a href="tel:+1{{ a.office_phone | remove: '(' | remove: ')' | remove: ' ' | remove: '-' }}">{{ a.office_phone }}</a></p>
+      {%- endif %}
       <p class="contact-more"><a href="{{ a.office_map }}">View on Google Maps →</a></p>
     </div>
   </div>
