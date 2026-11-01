@@ -14,12 +14,13 @@ sitemap: false
   <author><name>{{ site.author.name }}</name></author>
   {%- for item in site.data.news limit: 30 %}
   {%- assign plain = item.text | strip_html | normalize_whitespace %}
+  {%- assign abs_href = 'href="' | append: site.url | append: '/' %}
   <entry>
     <title>{{ plain | truncatewords: 14 | xml_escape }}</title>
     <link href="{{ '/news.html' | absolute_url }}" rel="alternate" type="text/html"/>
     <id>{{ '/news.html' | absolute_url }}#{{ item.date | date: '%Y-%m' }}-{{ forloop.index }}-{{ plain | slugify | truncate: 40, '' }}</id>
     <updated>{{ item.date | date_to_xmlschema }}</updated>
-    <content type="html">{{ item.text | replace: 'href="/', 'href="https://adwaitjog.github.io/' | xml_escape }}</content>
+    <content type="html">{{ item.text | replace: 'href="/', abs_href | xml_escape }}</content>
   </entry>
   {%- endfor %}
 </feed>

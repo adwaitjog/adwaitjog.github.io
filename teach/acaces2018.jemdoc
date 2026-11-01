@@ -4,31 +4,31 @@
 == General Information
 - Dates: July 9th, 10th, 12th, 13th (four lectures). No class on July 11.
 - Time and Location: Slot 3, Class Starts at 14:30-15:45 hrs. Duration is 75 minutes. 
-- Instructor: Adwait Jog [http://adwaitjog.github.io/ (Personal Website)]
+- Instructor: Adwait Jog [https://adwaitjog.com/ (Personal Website)]
 
 == Lecture Material
-- Lecture 1 (July 9th): Intro to GPUs and Basics of CUDA programming ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-1.pdf slides])
-- Lecture 2 (July 10th): Basics of GPU architecture ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-2.pdf slides])
-- Lecture 3 (July 12th): GPU Performance/Energy Bottlenecks and some Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-3.pdf slides])
-- Lecture 4 (July 13th): Emerging GPU Security Concerns and some Mitigation Techniques ([http://adwaitjog.github.io/teach/acaces2018/acaces-2018-slides-lecture-4.pdf slides])
+- Lecture 1 (July 9th): Intro to GPUs and Basics of CUDA programming ([https://adwaitjog.com/teach/acaces2018/acaces-2018-slides-lecture-1.pdf slides])
+- Lecture 2 (July 10th): Basics of GPU architecture ([https://adwaitjog.com/teach/acaces2018/acaces-2018-slides-lecture-2.pdf slides])
+- Lecture 3 (July 12th): GPU Performance/Energy Bottlenecks and some Mitigation Techniques ([https://adwaitjog.com/teach/acaces2018/acaces-2018-slides-lecture-3.pdf slides])
+- Lecture 4 (July 13th): Emerging GPU Security Concerns and some Mitigation Techniques ([https://adwaitjog.com/teach/acaces2018/acaces-2018-slides-lecture-4.pdf slides])
 
 == Background and Additional Reading Material 
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
-\[[http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf PDF]]
-\[[http://adwaitjog.github.io/docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
+\[[https://adwaitjog.com/docs/pdf/pbs-hpca18.pdf PDF]]
+\[[https://adwaitjog.com/docs/pptx/pbs-hpca18.pptx Talk (PPTX)]] 
 \[[https://youtu.be/lz6jioFjD6k YouTube Trailer]] \n
 +Haonan Wang+, +Fan Luo+, +Mohamed Ibrahim+, Onur Kayiran, *Adwait Jog* \n
-[http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
+[https://adwaitjog.com/docs/pdf/pbs-hpca18.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
 (Acceptance rate: 54/260 ≈ 20%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(HPCA 2018)\<\/span\>*
-\[[http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf PDF]]
-\[[http://adwaitjog.github.io/docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
+\[[https://adwaitjog.com/docs/pdf/rcoal-hpca18.pdf PDF]]
+\[[https://adwaitjog.com/docs/pptx/rcoal-hpca18.pptx Talk (PPTX)]] 
 \[[https://www.youtube.com/watch?v=1jCVHxXeuig YouTube Trailer]] \n
 +Gurunath Kadam+, Danfeng Zhang, *Adwait Jog* \n
-[http://adwaitjog.github.io/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
+[https://adwaitjog.com/docs/pdf/rcoal-hpca18.pdf /RCoal: Mitigating GPU Timing Attack via 
 Subwarp-based Randomized Coalescing Techniques/], \n
 In the Proceedings of 24th IEEE Symposium on High Performance 
 Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n 
@@ -36,54 +36,54 @@ Computer Architecture (HPCA), Vienna, Austria, Feb 2018  \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(MEMSYS 2015)\<\/span\>* 
-\[[http://adwaitjog.github.io/docs/pdf/Anatomy-Memsys-2015.pdf PDF]] 
-\[[http://adwaitjog.github.io/docs/pptx/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
+\[[https://adwaitjog.com/docs/pdf/Anatomy-Memsys-2015.pdf PDF]] 
+\[[https://adwaitjog.com/docs/pptx/Anatomy-Memsys-2015.pptx Talk (PPTX)]]
 \[[https://github.com/insight-cal-uva/mafia Github]] \n 
 *Adwait Jog*, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, 
 Stephen W. Keckler, Mahmut T. Kandemir, Chita R. Das, \n
-[http://adwaitjog.github.io/docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
+[https://adwaitjog.com/docs/pdf/Anatomy-Memsys-2015.pdf /Anatomy of GPU Memory System for Multi-Application Execution/], \n
 In the Proceedings of 1st International Symposium on Memory Systems (MEMSYS), Washington, DC, Oct 2015 \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* 
-\[[http://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf PDF]] 
-\[[http://adwaitjog.github.io/docs/pptx/CABA-ISCA-2015.pptx Talk (PPTX)]]
-\[[http://adwaitjog.github.io/docs/pptx/CABA-ISCA-2015-trailer.pptx Lightning]] \n 
+\[[https://adwaitjog.com/docs/pdf/CABA-ISCA-2015.pdf PDF]] 
+\[[https://adwaitjog.com/docs/pptx/CABA-ISCA-2015.pptx Talk (PPTX)]]
+\[[https://adwaitjog.com/docs/pptx/CABA-ISCA-2015-trailer.pptx Lightning]] \n 
 Nandita Vijaykumar, Gennady Pekhimenko, *Adwait Jog*, Abhishek Bhowmick, Rachata Ausavarungnirun, Chita Das, 
 Mahmut Kandemir, Todd Mowry, Onur Mutlu, \n
-[http://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
+[https://adwaitjog.com/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/], \n
 In the Proceedings of 42nd International Symposium on Computer Architecture (ISCA), Portland, OR, June 2015 \n 
 (Acceptance rate: 58/305 ≈ 19%) \n
 
 
 === 
 *\<span style=\"color: forestgreen\"\>(GPGPU@ASPLOS 2014)\<\/span\>* 
-\[[http://adwaitjog.github.io/docs/pdf/app-aware-memory-GPGPU7-2014.pdf PDF]]
-\[[http://adwaitjog.github.io/docs/pptx/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]]
+\[[https://adwaitjog.com/docs/pdf/app-aware-memory-GPGPU7-2014.pdf PDF]]
+\[[https://adwaitjog.com/docs/pptx/app-aware-memory-GPGPU7-2014.pptx Talk (PPTX)]]
 \[[http://dl.acm.org/citation.cfm?doid=2576779.2576780 ACM DOI]] \n 
 *Adwait Jog*, Evgeny Bolotin, Zvika Guz, Mike Parker, Stephen W. Keckler, Mahmut Kandemir, Chita Das, \n
-[http://adwaitjog.github.io/docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
+[https://adwaitjog.com/docs/pdf/app-aware-memory-GPGPU7-2014.pdf /Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications/],\n
 In the Proceedings of 7th Workshop on General Purpose Computing using GPUs (GPGPU7), co-located with 19th International Conference on 
 Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014 \n
 (Acceptance rate: 12/27 ≈ 44%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>*
-\[[http://adwaitjog.github.io/docs/pdf/NMNL-PACT-2013.pdf PDF]]
-\[[http://adwaitjog.github.io/docs/pptx/NMNL-PACT-2013-Slides.pptx Talk (PPTX)]] \n
+\[[https://adwaitjog.com/docs/pdf/NMNL-PACT-2013.pdf PDF]]
+\[[https://adwaitjog.com/docs/pptx/NMNL-PACT-2013-Slides.pptx Talk (PPTX)]] \n
 *\<span style=\"color: red\"\>Best Paper Nomination:\<\/span\>* /One of the four papers nominated for the Best Paper Award./\n
 Onur Kayiran, *Adwait Jog*, Mahmut T. Kandemir, Chita R. Das, \n
-[http://adwaitjog.github.io/docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
+[https://adwaitjog.com/docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/], \n
 In the Proceedings of 22nd International Conference on Parallel Architectures and Compilation Techniques (PACT), Edinburgh, Scotland, September 2013 \n
 (Acceptance rate: 36/208 ≈ 17%) \n
 
 === 
 *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* 
-\[[http://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
-\[[http://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
-\[[http://adwaitjog.github.io/docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
+\[[https://adwaitjog.com/docs/pdf/OWL-ASPLOS-2013.pdf PDF]]  
+\[[https://adwaitjog.com/docs/pdf/OWL-ASPLOS-2013-Summary.pdf 2-page-summary (PDF)]]  
+\[[https://adwaitjog.com/docs/pptx/OWL-ASPLOS-2013-Slides.pptx Talk (PPTX)]] \n 
 *Adwait Jog*, Onur Kayiran, Nachiappan CN, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, Chita R. Das,  
-[http://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
+[https://adwaitjog.com/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/], 
 In the Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Houston, TX, March 2013 \n 
 (Acceptance rate: 44/191 ≈ 23%) 
 
