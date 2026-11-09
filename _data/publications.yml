@@ -812,7 +812,7 @@
     }
 
 - title: "MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency"
-  authors: "Rachata Ausavarungnirun, Vance Miller, Joshua Landgraf, Saugata Ghose, Adwait Jog, Jayneel Gandhi, Christopher J. Rossbach, Onur Mutlu"
+  authors: "Rachata Ausavarungnirun, Vance Miller, Joshua Landgraf, Saugata Ghose, Jayneel Gandhi, Adwait Jog, Christopher J. Rossbach, Onur Mutlu"
   venue: "ASPLOS 2018"
   where: "23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Williamsburg, VA, March, 2018"
   year: 2018
@@ -824,7 +824,7 @@
     - {label: "Slides", url: "docs/pptx/MASK-ASPLOS-2018.pptx"}
   bibtex: |
     @inproceedings{mask-asplos18,
-      author    = {Rachata Ausavarungnirun and Vance Miller and Joshua Landgraf and Saugata Ghose and Adwait Jog and Jayneel Gandhi and Christopher J. Rossbach and Onur Mutlu},
+      author    = {Rachata Ausavarungnirun and Vance Miller and Joshua Landgraf and Saugata Ghose and Jayneel Gandhi and Adwait Jog and Christopher J. Rossbach and Onur Mutlu},
       title     = {{MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency}},
       booktitle = {Proceedings of the 23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)},
       address   = {Williamsburg, VA},
